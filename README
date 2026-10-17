@@ -10,6 +10,7 @@ Det ersätter inte föreningens dokumentarkiv. Originaldokument som fakturor, ri
 - **Underhållsplanen** bedömer framtida åtgärder.
 - **Ekonomin** beskriver ekonomiska konsekvenser.
 - Server, nätverk, UniFi, UPS, backup och övervakning dokumenteras i det separata repot `Bogesholm-Server`.
+- Informationskioskens utrustning och driftkonfiguration dokumenteras här under [`gemensamma-anlaggningar/informationskiosk/`](gemensamma-anlaggningar/informationskiosk/README.md).
 
 ## Innehåll
 
