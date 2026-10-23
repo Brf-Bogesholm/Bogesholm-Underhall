@@ -1,0 +1,74 @@
+id: "IMPORT-2026-10-23-02"
+godkänd: "2026-10-23"
+källor:
+  -
+    id: "K-FAKTUROR-2026-10-23-02"
+    typ: "fakturor"
+    dokument:
+      -
+        faktura: "F-2026-2693"
+        filnamn: "christer-o-magnus-bygg-ab-faktura-2693.pdf"
+      -
+        faktura: "F-2026-5398"
+        filnamn: "Faktura_5398.pdf"
+      -
+        faktura: "F-2026-114"
+        filnamn: "Faktura 114.pdf"
+      -
+        faktura: "F-2026-2711"
+        filnamn: "christer-o-magnus-bygg-ab-faktura-2711.pdf"
+      -
+        faktura: "F-2026-2697"
+        filnamn: "christer-o-magnus-bygg-ab-faktura-2697.pdf"
+  -
+    id: "K-PROTOKOLL-2026-53"
+    typ: "besiktningsprotokoll"
+    besiktning: "B-2026-53"
+    dokument:
+      filnamn: "Bogesholm, Högalidsv 53, Kävlinge.pdf"
+      arkiv: "SharePoint"
+      arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsv 53, Kävlinge.pdf"
+      arkivlänk: null
+  -
+    id: "K-PROTOKOLL-2026-63"
+    typ: "besiktningsprotokoll"
+    besiktning: "B-2026-63"
+    dokument:
+      filnamn: "Bogesholm, Högalidsvägen 63, Kävlinge.pdf"
+      arkiv: "SharePoint"
+      arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsvägen 63, Kävlinge.pdf"
+      arkivlänk: null
+  -
+    id: "K-PROTOKOLL-2026-77"
+    typ: "besiktningsprotokoll"
+    besiktning: "B-2026-77"
+    dokument:
+      filnamn: "Bogesholm, Högalidsvägen 77, Kävlinge.pdf"
+      arkiv: "SharePoint"
+      arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsvägen 77, Kävlinge.pdf"
+      arkivlänk: null
+  -
+    id: "K-KOMPLETTERING-2026-10-23-02"
+    typ: "beställaruppgifter"
+    beskrivning: "Beställarens kompletteringar i chatten; därefter godkännande av övriga föreslagna kopplingar och datum."
+    uppgifter:
+      - "2693: använd fakturadatum som utförandedatum."
+      - "5398: samtliga lekplatser. Protokollens datum 2026-04-01 används efter godkännande; datumavvikelse dokumenteras."
+      - "114: garage 71 är föreningens garage 771. Undercentral och skyddsrum på Högalidsvägen 69. Uttaget på föreningslokalens utsida saknar teknisk koppling till luftvärmepumpen. Använd fakturadatum som utförandedatum och bevara fakturans faktiska arbetsdatum."
+      - "2711: 12 timmar avser enbart arbetskostnad trots fakturans originaltext. Dörrinköp kommer separat i batch. Använd fakturadatum som utförandedatum."
+      - "2697: byte av ena taksidan på rutschkanans klätterlek på 60-gården. Använd fakturadatum som utförandedatum. Felskrivningen 2679 har bekräftats avse 2697."
+      - "Vippgungan Hags 8049488-1 motsvarar tidigare registrerad gungbräda från faktura 10382; kopplingen godkänd."
+      - "Parkeringsplatserna 907 och 908 finns inte. Garage 771 tillhör BRF."
+kontroll:
+  antal_fakturor: 5
+  summa_exklusive_moms: 60412.04
+  summa_moms: 15103.01
+  summa_öresavrundning: 1.95
+  summa_att_betala: 75517
+  valuta: "SEK"
+öppna_uppgifter:
+  - "SharePoint-länkar till originalen saknas."
+  - "Dörrarnas inköpsfakturor, modell och garantiuppgifter saknas."
+  - "Ingen kostnadsfördelning mellan åtgärder eller platser på faktura 114 och 5398 finns."
+  - "Det är inte verifierat vilka enskilda besiktningsanmärkningar takbytet avhjälpte."
+  - "Övriga besiktningsanmärkningars avhjälpande är inte verifierat."

@@ -1,5 +1,7 @@
 version: "1.0"
-registreringsomgång: "2026-10-23-01"
+registreringsomgångar:
+  - "2026-10-23-01"
+  - "2026-10-23-02"
 fakturor:
   -
     id: "F-2026-7150"
@@ -288,3 +290,526 @@ fakturor:
       - "A-2026-7313-2"
       - "A-2026-7313-3"
     kommentar: "Utfallet enligt beställarens komplettering: en utkastare bytt, en reparerad, luft fyllt i expansionskärlet. Avgasaren kontrollerades inte. Materialkostnaderna har inte fördelats mellan objekten."
+  -
+    id: "F-2026-2693"
+    fakturanummer: "2693"
+    leverantör: "Christer o Magnus Bygg AB"
+    organisationsnummer: "556898-1756"
+    fakturadatum: "2026-08-03"
+    förfallodatum: "2026-09-02"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 6964.68
+    moms: 1741.17
+    öresavrundning: 0.15
+    att_betala: 8706
+    dokument:
+      filnamn: "christer-o-magnus-bygg-ab-faktura-2693.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-02"
+      - "K-KOMPLETTERING-2026-10-23-02"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-2693-R1"
+        benämning: "DREVISOLERING"
+        antal: 2
+        enhet: "rulle"
+        à_pris_exklusive_moms: 44
+        belopp_exklusive_moms: 88
+      -
+        id: "F-2026-2693-R2"
+        benämning: "SENTINEL LIMKIT VIT"
+        antal: 1
+        enhet: "tub"
+        à_pris_exklusive_moms: 140
+        belopp_exklusive_moms: 140
+      -
+        id: "F-2026-2693-R3"
+        benämning: "TIGERSÅGSBLAD"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 93
+        belopp_exklusive_moms: 93
+      -
+        id: "F-2026-2693-R4"
+        benämning: "FOGSKUM"
+        antal: 1
+        enhet: "tub"
+        à_pris_exklusive_moms: 108
+        belopp_exklusive_moms: 108
+      -
+        id: "F-2026-2693-R5"
+        benämning: "PALLNINGSBRICKOR"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 20
+        belopp_exklusive_moms: 20
+      -
+        id: "F-2026-2693-R6"
+        benämning: "PLÅTAR TILLVERKADE AV LÖDDE PLÅT"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 250
+        belopp_exklusive_moms: 250
+      -
+        id: "F-2026-2693-R7"
+        benämning: "DÖRRBROMS 1630 VIT"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 292
+        belopp_exklusive_moms: 292
+      -
+        id: "F-2026-2693-R8"
+        benämning: "KVARTSTAV EK 15X15"
+        antal: 2.48
+        enhet: "m"
+        à_pris_exklusive_moms: 41
+        belopp_exklusive_moms: 101.68
+      -
+        id: "F-2026-2693-R9"
+        benämning: "FODER FURU 12X56 2,2M"
+        antal: 3
+        enhet: "st"
+        à_pris_exklusive_moms: 74
+        belopp_exklusive_moms: 222
+      -
+        id: "F-2026-2693-R10"
+        benämning: "TIPPAVGIFT"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 100
+        belopp_exklusive_moms: 100
+      -
+        id: "F-2026-2693-R11"
+        benämning: "ZM + DM"
+        antal: 8
+        enhet: "tim"
+        à_pris_exklusive_moms: 520
+        belopp_exklusive_moms: 4160
+      -
+        id: "F-2026-2693-R12"
+        benämning: "CL"
+        antal: 2
+        enhet: "tim"
+        à_pris_exklusive_moms: 520
+        belopp_exklusive_moms: 1040
+      -
+        id: "F-2026-2693-R13"
+        benämning: "SERVICEBIL"
+        antal: 1
+        enhet: "dag"
+        à_pris_exklusive_moms: 350
+        belopp_exklusive_moms: 350
+    beskrivning: "Montering av ytterdörr, Högalidsvägen 73D"
+    åtgärder:
+      - "A-2026-2693-1"
+    kommentar: "Själva dörren köps in i batch och faktureras separat. Kostnad för dörrinköpet ingår inte i denna faktura."
+  -
+    id: "F-2026-5398"
+    fakturanummer: "5398"
+    leverantör: "Din Utemiljö i Skåne AB"
+    organisationsnummer: "556910-4648"
+    fakturadatum: "2026-06-09"
+    förfallodatum: "2026-07-09"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 2754
+    moms: 688.5
+    öresavrundning: 0.5
+    att_betala: 3443
+    dokument:
+      filnamn: "Faktura_5398.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-02"
+      - "K-KOMPLETTERING-2026-10-23-02"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-5398-R1"
+        benämning: "Lekplatsbesiktning"
+        antal: 3
+        enhet: "h"
+        à_pris_exklusive_moms: 918
+        belopp_exklusive_moms: 2754
+        artikelnummer: "114"
+    ordernummer: "SO 90037300"
+    utförandedatum_enligt_faktura: "2026-04-22"
+    åtgärder:
+      - "A-2026-5398-53"
+      - "A-2026-5398-63"
+      - "A-2026-5398-77"
+    kommentar: "Samtliga tre lekplatser enligt beställaren. Besiktningsdatum i protokollen är 2026-04-01; 2026-04-22 är protokollens utfärdandedatum. Avvikelsen mot fakturans uppgift bevaras. Ingen kostnadsfördelning mellan lekplatserna."
+  -
+    id: "F-2026-114"
+    fakturanummer: "114"
+    leverantör: "Dalby Strands Eltjänst AB"
+    organisationsnummer: "559136-2628"
+    fakturadatum: "2026-05-12"
+    förfallodatum: "2026-06-11"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 38297.36
+    moms: 9574.34
+    öresavrundning: 0.3
+    att_betala: 47872
+    dokument:
+      filnamn: "Faktura 114.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-02"
+      - "K-KOMPLETTERING-2026-10-23-02"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-114-R1"
+        benämning: "Resa/Servicebil"
+        antal: 6
+        enhet: "st"
+        à_pris_exklusive_moms: 350
+        belopp_exklusive_moms: 2100
+      -
+        id: "F-2026-114-R2"
+        benämning: "Arbete - 2026-03-19"
+        antal: 2
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        belopp_exklusive_moms: 1190
+      -
+        id: "F-2026-114-R3"
+        benämning: "Arbete - 2026-04-10"
+        antal: 6
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        belopp_exklusive_moms: 3570
+      -
+        id: "F-2026-114-R4"
+        benämning: "Arbete - 2026-04-20"
+        antal: 6
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        belopp_exklusive_moms: 3570
+      -
+        id: "F-2026-114-R5"
+        benämning: "Arbete - 2026-04-21"
+        antal: 8
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        belopp_exklusive_moms: 4760
+      -
+        id: "F-2026-114-R6"
+        benämning: "Arbete - 2026-04-22"
+        antal: 3
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        belopp_exklusive_moms: 1785
+      -
+        id: "F-2026-114-R7"
+        benämning: "Arbete - 2026-05-06"
+        antal: 7
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        belopp_exklusive_moms: 4165
+      -
+        id: "F-2026-114-R8"
+        benämning: "ANSLUTNINGSDOSA BP VIT WDE008270"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 122.83
+        belopp_exklusive_moms: 122.83
+      -
+        id: "F-2026-114-R9"
+        benämning: "BUNTBAND 4.6X280 NATUR (100) A-COLLECTION"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 170.07
+        belopp_exklusive_moms: 170.07
+      -
+        id: "F-2026-114-R10"
+        benämning: "EQLQ EASY 3G1,5 450/750V R50(*1)"
+        antal: 19
+        enhet: "m"
+        à_pris_exklusive_moms: 24.73
+        belopp_exklusive_moms: 469.87
+      -
+        id: "F-2026-114-R11"
+        benämning: "EXQ EASY 3G1,5 300/500V R100(*2)"
+        antal: 21
+        enhet: "m"
+        à_pris_exklusive_moms: 19.6
+        belopp_exklusive_moms: 411.6
+      -
+        id: "F-2026-114-R12"
+        benämning: "EXQ EASY 5G2,5 300/500V R50(*1)"
+        antal: 24
+        enhet: "m"
+        à_pris_exklusive_moms: 52.26
+        belopp_exklusive_moms: 1254.24
+      -
+        id: "F-2026-114-R13"
+        benämning: "FLEXRÖR 20 PM-FLEX (50)P"
+        antal: 1
+        enhet: "m"
+        à_pris_exklusive_moms: 6.91
+        belopp_exklusive_moms: 6.91
+      -
+        id: "F-2026-114-R14"
+        benämning: "FQ EASY 1,5 450/750V"
+        antal: 30
+        enhet: "m"
+        à_pris_exklusive_moms: 6.14
+        belopp_exklusive_moms: 184.2
+      -
+        id: "F-2026-114-R15"
+        benämning: "Fästmaterial"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 185
+        belopp_exklusive_moms: 185
+      -
+        id: "F-2026-114-R16"
+        benämning: "GÄNGAD STÅNG FZB M10x2M MP-927 E"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 68.87
+        belopp_exklusive_moms: 68.87
+      -
+        id: "F-2026-114-R17"
+        benämning: "LED T8 CORE 17.7(36)W 3K UO872016927858500"
+        antal: 12
+        enhet: "st"
+        à_pris_exklusive_moms: 79.22
+        belopp_exklusive_moms: 950.64
+      -
+        id: "F-2026-114-R18"
+        benämning: "PERSONSKYDDSBR C16A 30MA A 6KA 4-POL ADM466C"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1479.31
+        belopp_exklusive_moms: 1479.31
+      -
+        id: "F-2026-114-R19"
+        benämning: "RQ 6 450/750V"
+        antal: 5
+        enhet: "m"
+        à_pris_exklusive_moms: 25.01
+        belopp_exklusive_moms: 125.05
+      -
+        id: "F-2026-114-R20"
+        benämning: "TÄCKLOCK TED-TT"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 37.97
+        belopp_exklusive_moms: 37.97
+      -
+        id: "F-2026-114-R21"
+        benämning: "VEKTOR BAS XL 3/4/6,5K"
+        antal: 9
+        enhet: "st"
+        à_pris_exklusive_moms: 1171
+        belopp_exklusive_moms: 10539
+      -
+        id: "F-2026-114-R22"
+        benämning: "VP-RÖR 16 3M (FRP 3/153/4284M)750N FÖR INGJUTNING"
+        antal: 27
+        enhet: "m"
+        à_pris_exklusive_moms: 7.28
+        belopp_exklusive_moms: 196.56
+      -
+        id: "F-2026-114-R23"
+        benämning: "VRIDSTRÖMSTÄLLARE 2-P AQ-S PV"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 283.97
+        belopp_exklusive_moms: 283.97
+      -
+        id: "F-2026-114-R24"
+        benämning: "VÄGGUTTAG M SCHUKO 4P16AUI 416-6 S+ RU/UIF"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 290.12
+        belopp_exklusive_moms: 290.12
+      -
+        id: "F-2026-114-R25"
+        benämning: "VÄGGUTTAG UTV 2-VÄGS JORD VIT SKRUV ANSL EKO03600"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 381.15
+        belopp_exklusive_moms: 381.15
+    projekt: "1003-7 - Bogesholm"
+    arbetsdatum_enligt_faktura:
+      - "2026-03-19"
+      - "2026-04-10"
+      - "2026-04-20"
+      - "2026-04-21"
+      - "2026-04-22"
+      - "2026-05-06"
+    åtgärder:
+      - "A-2026-114-1"
+      - "A-2026-114-2"
+      - "A-2026-114-3"
+      - "A-2026-114-4"
+    kommentar: "Gemensamma arbets- och materialrader. Fördelning mellan arbetsdatum, platser och åtgärder är okänd. Modellbeteckningar på fakturaraderna kopplas inte till en specifik plats utan underlag."
+  -
+    id: "F-2026-2711"
+    fakturanummer: "2711"
+    leverantör: "Christer o Magnus Bygg AB"
+    organisationsnummer: "556898-1756"
+    fakturadatum: "2026-09-24"
+    förfallodatum: "2026-10-24"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 8314
+    moms: 2078.5
+    öresavrundning: 0.5
+    att_betala: 10393
+    dokument:
+      filnamn: "christer-o-magnus-bygg-ab-faktura-2711.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-02"
+      - "K-KOMPLETTERING-2026-10-23-02"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-2711-R1"
+        benämning: "CYLINDER 1209 MED 3 NY MATTKROM"
+        antal: 1
+        enhet: "sb"
+        à_pris_exklusive_moms: 938
+        belopp_exklusive_moms: 938
+      -
+        id: "F-2026-2711-R2"
+        benämning: "FÖNSTERDREV 30X60 5 SJÄLV HÄFT"
+        antal: 1
+        enhet: "rulle"
+        à_pris_exklusive_moms: 294
+        belopp_exklusive_moms: 294
+      -
+        id: "F-2026-2711-R3"
+        benämning: "KARMHYLSA 38MM"
+        antal: 10
+        enhet: "st"
+        à_pris_exklusive_moms: 7.5
+        belopp_exklusive_moms: 75
+      -
+        id: "F-2026-2711-R4"
+        benämning: "TIGERSÅGSBLAD"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 93
+        belopp_exklusive_moms: 93
+      -
+        id: "F-2026-2711-R5"
+        benämning: "SUPERCUTBLAD"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 138
+        belopp_exklusive_moms: 138
+      -
+        id: "F-2026-2711-R6"
+        benämning: "SENTINELL LIMKIT VIT"
+        antal: 1
+        enhet: "tub"
+        à_pris_exklusive_moms: 156
+        belopp_exklusive_moms: 156
+      -
+        id: "F-2026-2711-R7"
+        benämning: "PLÅT TILLVERKAD AV LÖDDE PLÅT"
+        antal: 12
+        enhet: "tim"
+        à_pris_exklusive_moms: 520
+        belopp_exklusive_moms: 6240
+        klassificering: "arbetskostnad"
+        rättelse: "12 timmar avser enbart arbete enligt beställaren; fakturans originalbenämning bevarad."
+        rättelsekälla: "K-KOMPLETTERING-2026-10-23-02"
+      -
+        id: "F-2026-2711-R8"
+        benämning: "SERVICEBIL"
+        antal: 1
+        enhet: "dag"
+        à_pris_exklusive_moms: 350
+        belopp_exklusive_moms: 350
+      -
+        id: "F-2026-2711-R9"
+        benämning: "VITA FÖNSTERBLECK"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 30
+        belopp_exklusive_moms: 30
+    beskrivning: "Montering av altandörr, Högalidsvägen 77A"
+    åtgärder:
+      - "A-2026-2711-1"
+    kommentar: "Själva dörren köps in i batch och faktureras separat."
+  -
+    id: "F-2026-2697"
+    fakturanummer: "2697"
+    leverantör: "Christer o Magnus Bygg AB"
+    organisationsnummer: "556898-1756"
+    fakturadatum: "2026-09-24"
+    förfallodatum: "2026-10-24"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 4082
+    moms: 1020.5
+    öresavrundning: 0.5
+    att_betala: 5103
+    dokument:
+      filnamn: "christer-o-magnus-bygg-ab-faktura-2697.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-02"
+      - "K-KOMPLETTERING-2026-10-23-02"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-2697-R1"
+        benämning: "FORMPLY PREMIUM 120GR MÖRK GJ"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 856
+        belopp_exklusive_moms: 856
+      -
+        id: "F-2026-2697-R2"
+        benämning: "TRÄOLJA BRUN"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 120
+        belopp_exklusive_moms: 120
+      -
+        id: "F-2026-2697-R3"
+        benämning: "ARBETSKOSTNAD"
+        antal: 5
+        enhet: "tim"
+        à_pris_exklusive_moms: 520
+        belopp_exklusive_moms: 2600
+      -
+        id: "F-2026-2697-R4"
+        benämning: "SENTILNEL LIMKITT TRANSP"
+        antal: 1
+        enhet: "tub"
+        à_pris_exklusive_moms: 156
+        belopp_exklusive_moms: 156
+      -
+        id: "F-2026-2697-R5"
+        benämning: "SERVICEBIL"
+        antal: 1
+        enhet: "dag"
+        à_pris_exklusive_moms: 350
+        belopp_exklusive_moms: 350
+    beskrivning_original: "LEKPLATS"
+    åtgärder:
+      - "A-2026-2697-1"
+    kommentar: "Byte av ena taksidan på klätterleken med rutschkana på 60-gården efter lekplatsbesiktning, enligt beställaren. Beställarens felskrivning 2679 har bekräftats avse 2697."

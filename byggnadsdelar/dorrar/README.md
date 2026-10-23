@@ -32,3 +32,7 @@ Inventeringsdatumet anger när dörren faktiskt observerades. Det är inte ett u
 Inventeringsfilen är ett arbetsunderlag. När inventeringen är genomförd och kvalitetssäkrad förs uppgifterna över till det permanenta dörrregistret.
 
 Originaldokument och eventuell kompletterande historik hör fortsatt hemma i föreningens dokumentarkiv. Historiska uppgifter ska inte skapas eller skärpas utan underlag.
+
+## Registrerade monteringar
+
+[register.yaml](register.yaml) innehåller de dörrar vars montering verifierats genom faktura och beställarens kompletteringar. Inventeringspunkt kopplar till lägenhetens dörrplats, inte till en tidigare fysisk dörr. Dörrinköp sker separat i batch; inköpskostnad och inköpsfaktura kompletteras först när underlaget finns. Inventeringsfilens observationsdatum och skick ändras inte utifrån fakturauppgifter.

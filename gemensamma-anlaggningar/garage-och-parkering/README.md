@@ -14,6 +14,8 @@ Registret omfattar 71 garage (701–771) och 8 parkeringsplatser med nummer som 
 
 Klassificeringen rättades 2026-10-23 enligt beställaren: samtliga nummer 701–771 är garage och nummer som börjar på 9 är parkeringsplatser. Befintliga objekt-ID:n behålls för att bevara historik och hänvisningar; `P-771` betecknar därför nu Garage 771. Typfält och platsnummer avgör klassificeringen.
 
-Endast de 8 parkeringsplatser som finns i underlaget registreras; saknade nummer i intervallet 904–913 skapas inte utan underlag.
+Parkeringsplatserna är 904, 905, 906, 909, 910, 911, 912 och 913. Beställaren har 2026-10-23 bekräftat att 907 och 908 inte finns. De utgör därför inga luckor att komplettera.
 
 Tilldelningen är kopplad till respektive lägenhets objekt-ID.
+
+Föreningens garage, tidigare benämnt garage 71, är Garage 771 (`P-771`). Det tillfälliga objekt-ID:t `G-FORENING-71` i utrustningsregistret behålls som historiskt alias och räknas inte som ytterligare garage. Släpvagnens förvaring hänvisar nu till `P-771`.

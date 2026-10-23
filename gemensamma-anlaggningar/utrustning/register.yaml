@@ -2,12 +2,12 @@ objekt:
   -
     id: "G-FORENING-71"
     typ: "garage"
-    namn: "Föreningens garage 71"
+    namn: "Historisk beteckning för föreningens garage 771"
     datastatus: "verifierad"
     placering: "Garage 71"
     egenskaper:
       ägare: "Brf Bogesholm"
-      kommentar: "Nummer enligt beställaren. Koppling till befintliga G-7xx-objekt och gatuadress är inte fastställd."
+      kommentar: "Tidigare tillfälligt objekt-ID, behålls som alias för P-771 (Garage 771), inte ett ytterligare garage. Koppling bekräftad av beställaren 2026-10-23."
     relationer:
       []
     underhållshistorik:
@@ -15,12 +15,14 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23-02"
+    kanoniskt_objekt: "P-771"
   -
     id: "UT-SLAP-NMS32K"
     typ: "släpvagn"
     namn: "Föreningens TIKI-släpvagn"
     datastatus: "verifierad"
-    placering: "Föreningens garage 71"
+    placering: "Föreningens garage 771"
     egenskaper:
       fabrikat: "TIKI"
       modell: "CS265-R"
@@ -44,30 +46,39 @@ objekt:
     relationer:
       -
         typ: "located_in"
-        objekt: "G-FORENING-71"
+        objekt: "P-771"
     underhållshistorik:
       - "A-2026-144035-1"
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23-02"
   -
     id: "UT-GUNGBRADA-50-001"
     typ: "gungbräda"
-    namn: "Gungbräda på 50-gården"
+    namn: "Vippgunga på 50-gården"
     datastatus: "verifierad"
     placering: "Lekplatsen på 50-gården"
     egenskaper:
-      modell: null
+      modell: "8049488-1"
       serienummer: null
       garanti: null
-      kommentar: "Ny gungbräda enligt beställaren. Fakturan avser montering och kringkostnader; separat inköpskostnad för själva gungbrädan saknas."
+      kommentar: "Tidigare registrerad som gungbräda. Beställaren har bekräftat koppling till protokollets vippgunga; separat inköpskostnad för redskapet saknas."
+      fabrikat: "Hags"
+      tillverkningsår: 2025
+      typ_enligt_besiktning: "Vippgunga typ 1"
     relationer:
-      []
+      -
+        typ: "located_in"
+        objekt: "LP-50"
     underhållshistorik:
       - "A-2026-10382-1"
+      - "A-2026-5398-53"
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+      - "K-PROTOKOLL-2026-53"
+      - "K-KOMPLETTERING-2026-10-23-02"
   -
     id: "UT-DISK-WT38-001"
     typ: "restaurangdiskmaskin"

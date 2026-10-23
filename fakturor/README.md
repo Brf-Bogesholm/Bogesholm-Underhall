@@ -8,6 +8,11 @@ Fakturan är det ekonomiska underlaget. Tillgången beskriver det fysiska objekt
 - [Tekniska installationer](../tekniska-installationer/register.yaml)
 - [Källor och godkända kompletteringar för första omgången](../inventering/importer/fakturor-2026-10-23.yaml)
 
+- [Besiktningsprotokoll och anmärkningar för lekplatser 2026](../besiktningar/2026/lekplatser.yaml)
+- [Lekplatser och lekredskap](../gemensamma-anlaggningar/lekplatser/register.yaml)
+- [Dörrar med verifierad montering](../byggnadsdelar/dorrar/register.yaml)
+- [Källor och godkända kompletteringar för andra omgången](../inventering/importer/fakturor-2026-10-23-02.yaml)
+
 ## Registreringsregler
 
 Fakturor har stabilt ID, leverantör, fakturanummer, fakturadatum, belopp och flera fakturarader. Dubbletter kontrolleras med leverantörens organisationsnummer och fakturanummer. Belopp anges i SEK om inget annat anges. Radbelopp och à-priser är exklusive moms; fakturasumman har separat moms och öresavrundning.
@@ -23,3 +28,9 @@ Fakturadatum, leveransdatum och utförandedatum hålls isär. Datum som beställ
 Originalfakturor lagras i föreningens dokumentarkiv, inte här. Filnamn identifierar underlagen tills beständiga SharePoint-länkar har kompletterats. Arkivering har inte verifierats. Betalningsstatus kan inte utläsas av fakturan och registreras därför inte.
 
 Inköp, kostnad, garanti och underhållshistorik för server- och nätverksutrustning hör också hemma i underhållsregistret. Teknisk konfiguration och drift dokumenteras i Bogesholm-Server med hänvisning till samma objekt där det är möjligt.
+
+## Besiktningar och identiteter
+
+Besiktningsprotokoll lagras som strukturerade observationer med ursprungligt besiktningsdatum, protokollets utfärdandedatum, lokal objektsnumrering och felklassning. Nummer i protokollen är inte globala objekt-ID:n. IFI betyder inga fel identifierade vid besiktningen. Felklassningen är protokollets bedömning, inte en ny riskbedömning. Datumavvikelser mellan faktura och protokoll dokumenteras. Historiska anmärkningar blir inte automatiskt avhjälpta när arbete faktureras; verifierad koppling till respektive anmärkning krävs.
+
+Fältet `kanoniskt_objekt` anger att en bevarad historisk beteckning är ett alias, inte ytterligare ett fysiskt objekt. `G-FORENING-71` hänvisar till Garage 771, vars befintliga ID `P-771` behålls trots rättad klassificering.

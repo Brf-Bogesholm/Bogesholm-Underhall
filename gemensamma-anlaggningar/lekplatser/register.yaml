@@ -1,0 +1,232 @@
+objekt:
+  -
+    id: "LP-50"
+    typ: "lekplats"
+    namn: "Lekplatsen på 50-gården"
+    datastatus: "verifierad"
+    placering: "Högalidsvägen 53"
+    egenskaper:
+
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-5398-53"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LP-60"
+    typ: "lekplats"
+    namn: "Lekplatsen på 60-gården"
+    datastatus: "verifierad"
+    placering: "Högalidsvägen 63"
+    egenskaper:
+
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-5398-63"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LP-70"
+    typ: "lekplats"
+    namn: "Lekplatsen på 70-gården"
+    datastatus: "verifierad"
+    placering: "Högalidsvägen 77"
+    egenskaper:
+
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-5398-77"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-50-HINDERBANA-001"
+    typ: "lekredskap"
+    namn: "Hinderbana"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 50-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-53"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-50"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-50-SANDLADA-001"
+    typ: "lekredskap"
+    namn: "Sandlåda"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 50-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-53"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-50"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-60-SANDLADA-001"
+    typ: "lekredskap"
+    namn: "Sandlåda med formbar sand"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 60-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-63"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-60"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-60-VIPPGUNGA-001"
+    typ: "lekredskap"
+    namn: "Vippgunga typ 2b"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 60-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-63"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-60"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-60-VIPPGUNGA-002"
+    typ: "lekredskap"
+    namn: "Vippgunga typ 2b"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 60-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-63"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-60"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-60-KLATTERLEK-001"
+    typ: "lekredskap"
+    namn: "Klätterlek med rutschkana"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 60-gården"
+    egenskaper:
+      fabrikat: "Hags"
+      modell: "408084"
+      tillverkningsår: 2008
+      serienummer: null
+      besiktningar:
+        - "B-2026-63"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-60"
+    underhållshistorik:
+      - "A-2026-2697-1"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-60-GUNGA-001"
+    typ: "lekredskap"
+    namn: "Gunga typ 1, 2+1 platser"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 60-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-63"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-60"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-70-KARUSELL-001"
+    typ: "lekredskap"
+    namn: "Karusell typ B"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 70-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-77"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-70"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "LEK-70-LEKHUS-001"
+    typ: "lekredskap"
+    namn: "Lekhus"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 70-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      tillverkningsår: null
+      serienummer: null
+      besiktningar:
+        - "B-2026-77"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-70"
+    underhållshistorik:
+      []
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"

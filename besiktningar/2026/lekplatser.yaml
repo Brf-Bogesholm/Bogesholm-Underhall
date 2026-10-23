@@ -1,0 +1,295 @@
+version: "1.0"
+besiktningar:
+  -
+    id: "B-2026-53"
+    typ: "säkerhetsbesiktning av lekplats"
+    lekplats: "LP-50"
+    placering: "Högalidsvägen 53"
+    besiktningsdatum: "2026-04-01"
+    protokoll_utfärdat: "2026-04-22"
+    utförare: "Din Utemiljö i Skåne AB"
+    besiktningsman: "Måns Jönsson"
+    certifikatnummer: "C004251"
+    faktura: "F-2026-5398"
+    datumavvikelse: "Fakturan anger utfört 2026-04-22; protokollet anger besiktning 2026-04-01 och utfärdande 2026-04-22. Protokollets datum används efter beställarens godkännande."
+    dokument:
+      filnamn: "Bogesholm, Högalidsv 53, Kävlinge.pdf"
+      arkiv: "SharePoint"
+      arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsv 53, Kävlinge.pdf"
+      arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        objekt: "UT-GUNGBRADA-50-001"
+        namn: "Vippgunga typ 1"
+        fabrikat: "Hags"
+        modell: "8049488-1"
+        tillverkningsår: 2025
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-50-HINDERBANA-001"
+        namn: "Hinderbana"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+      -
+        protokoll_objektsnummer: 3
+        objekt: "LEK-50-SANDLADA-001"
+        namn: "Sandlåda"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+    anmärkningar:
+      -
+        id: "B-2026-53-ANM-1"
+        objekt: "UT-GUNGBRADA-50-001"
+        anmärkning: "Inga fel identifierade"
+        felklassning: "IFI"
+        standardhänvisning: null
+        åtgärdsstatus: "Ej tillämpligt"
+      -
+        id: "B-2026-53-ANM-2"
+        objekt: "LEK-50-HINDERBANA-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: 0
+        standardhänvisning: "1176-1:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-53-ANM-3"
+        objekt: "LEK-50-HINDERBANA-001"
+        anmärkning: "Ståplatta på flera hoppkubbar skadade"
+        felklassning: 0
+        standardhänvisning: "1176-1:4.2.11"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-53-ANM-4"
+        objekt: "LEK-50-SANDLADA-001"
+        anmärkning: "Inga fel identifierade"
+        felklassning: "IFI"
+        standardhänvisning: null
+        åtgärdsstatus: "Ej tillämpligt"
+    övergripande:
+      -
+        kontroll: "Hänvisningsskylt"
+        resultat: "Finns"
+        felklassning: "IFI"
+      -
+        kontroll: "Brunnar i anslutning till lekplats"
+        resultat_original: "-"
+        felklassning: "IFI"
+    begränsningar:
+      - "Fallskydd med lösfyllnad kontrollerat visuellt och med grävning."
+      - "Nivåstabila underlag har inte verifierats med HIC-test."
+      - "Fundament och stolpar under marknivå kontrolleras inte där de står i nivåstabilt underlag."
+    källor:
+      - "K-PROTOKOLL-2026-53"
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "B-2026-63"
+    typ: "säkerhetsbesiktning av lekplats"
+    lekplats: "LP-60"
+    placering: "Högalidsvägen 63"
+    besiktningsdatum: "2026-04-01"
+    protokoll_utfärdat: "2026-04-22"
+    utförare: "Din Utemiljö i Skåne AB"
+    besiktningsman: "Måns Jönsson"
+    certifikatnummer: "C004251"
+    faktura: "F-2026-5398"
+    datumavvikelse: "Fakturan anger utfört 2026-04-22; protokollet anger besiktning 2026-04-01 och utfärdande 2026-04-22. Protokollets datum används efter beställarens godkännande."
+    dokument:
+      filnamn: "Bogesholm, Högalidsvägen 63, Kävlinge.pdf"
+      arkiv: "SharePoint"
+      arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsvägen 63, Kävlinge.pdf"
+      arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-60-SANDLADA-001"
+        namn: "Sandlåda med formbar sand"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-60-VIPPGUNGA-001"
+        namn: "Vippgunga typ 2b"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+      -
+        protokoll_objektsnummer: 3
+        objekt: "LEK-60-VIPPGUNGA-002"
+        namn: "Vippgunga typ 2b"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+      -
+        protokoll_objektsnummer: 4
+        objekt: "LEK-60-KLATTERLEK-001"
+        namn: "Klätterlek med rutschkana"
+        fabrikat: "Hags"
+        modell: "408084"
+        tillverkningsår: 2008
+      -
+        protokoll_objektsnummer: 5
+        objekt: "LEK-60-GUNGA-001"
+        namn: "Gunga typ 1, 2+1 platser"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+    anmärkningar:
+      -
+        id: "B-2026-63-ANM-1"
+        objekt: "LEK-60-SANDLADA-001"
+        anmärkning: "Sarg rötskadad"
+        felklassning: 0
+        standardhänvisning: "1176-7:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-63-ANM-2"
+        objekt: "LEK-60-VIPPGUNGA-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: 0
+        standardhänvisning: "1176-1:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-63-ANM-3"
+        objekt: "LEK-60-VIPPGUNGA-002"
+        anmärkning: "Typskylt saknas"
+        felklassning: 0
+        standardhänvisning: "1176-1:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-63-ANM-4"
+        objekt: "LEK-60-KLATTERLEK-001"
+        anmärkning: "Kvävningsmått på tak"
+        felklassning: 8
+        standardhänvisning: "1176-1:4.2.7.2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        relaterad_åtgärd: "A-2026-2697-1"
+        kommentar: "Byte av ena taksidan är dokumenterat. Vilka enskilda anmärkningar som avhjälpts är inte verifierat."
+      -
+        id: "B-2026-63-ANM-5"
+        objekt: "LEK-60-KLATTERLEK-001"
+        anmärkning: "Tak skadat, flisrisk"
+        felklassning: 2
+        standardhänvisning: "1176-1:4.2.5"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        relaterad_åtgärd: "A-2026-2697-1"
+        kommentar: "Byte av ena taksidan är dokumenterat. Vilka enskilda anmärkningar som avhjälpts är inte verifierat."
+      -
+        id: "B-2026-63-ANM-6"
+        objekt: "LEK-60-KLATTERLEK-001"
+        anmärkning: "Begynnande rötskador på tak"
+        felklassning: 0
+        standardhänvisning: "1176-7:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        relaterad_åtgärd: "A-2026-2697-1"
+        kommentar: "Byte av ena taksidan är dokumenterat. Vilka enskilda anmärkningar som avhjälpts är inte verifierat."
+      -
+        id: "B-2026-63-ANM-7"
+        objekt: "LEK-60-GUNGA-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: 0
+        standardhänvisning: "1176-1:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-63-ANM-8"
+        objekt: "LEK-60-GUNGA-001"
+        anmärkning: "Däckgungor för lågt monterade"
+        felklassning: 3
+        standardhänvisning: "1176-2:4.2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+    övergripande:
+      -
+        kontroll: "Hänvisningsskylt"
+        resultat: "Finns"
+        felklassning: "IFI"
+      -
+        kontroll: "Brunnar i anslutning till lekplats"
+        resultat_original: "-"
+        felklassning: "IFI"
+    begränsningar:
+      - "Fallskydd med lösfyllnad kontrollerat visuellt och med grävning."
+      - "Nivåstabila underlag har inte verifierats med HIC-test."
+      - "Fundament och stolpar under marknivå kontrolleras inte där de står i nivåstabilt underlag."
+    källor:
+      - "K-PROTOKOLL-2026-63"
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "B-2026-77"
+    typ: "säkerhetsbesiktning av lekplats"
+    lekplats: "LP-70"
+    placering: "Högalidsvägen 77"
+    besiktningsdatum: "2026-04-01"
+    protokoll_utfärdat: "2026-04-22"
+    utförare: "Din Utemiljö i Skåne AB"
+    besiktningsman: "Måns Jönsson"
+    certifikatnummer: "C004251"
+    faktura: "F-2026-5398"
+    datumavvikelse: "Fakturan anger utfört 2026-04-22; protokollet anger besiktning 2026-04-01 och utfärdande 2026-04-22. Protokollets datum används efter beställarens godkännande."
+    dokument:
+      filnamn: "Bogesholm, Högalidsvägen 77, Kävlinge.pdf"
+      arkiv: "SharePoint"
+      arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsvägen 77, Kävlinge.pdf"
+      arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-70-KARUSELL-001"
+        namn: "Karusell typ B"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-70-LEKHUS-001"
+        namn: "Lekhus"
+        fabrikat: null
+        modell: null
+        tillverkningsår: null
+    anmärkningar:
+      -
+        id: "B-2026-77-ANM-1"
+        objekt: "LEK-70-KARUSELL-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: 0
+        standardhänvisning: "1176-1:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-77-ANM-2"
+        objekt: "LEK-70-KARUSELL-001"
+        anmärkning: "Mittdel något lös, två skruvar saknas på bottenplattan"
+        felklassning: 0
+        standardhänvisning: "1176-7:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-77-ANM-3"
+        objekt: "LEK-70-LEKHUS-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: 0
+        standardhänvisning: "1176-1:7.1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+      -
+        id: "B-2026-77-ANM-4"
+        objekt: "LEK-70-LEKHUS-001"
+        anmärkning: "Skruvspets sticker ut på insidan av lekhus vid fönster"
+        felklassning: 2
+        standardhänvisning: "1176-1:4.2.5"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+    övergripande:
+      -
+        kontroll: "Hänvisningsskylt"
+        resultat: "Finns"
+        felklassning: "IFI"
+      -
+        kontroll: "Brunnar i anslutning till lekplats"
+        resultat_original: "-"
+        felklassning: "IFI"
+    begränsningar:
+      - "Fallskydd med lösfyllnad kontrollerat visuellt och med grävning."
+      - "Nivåstabila underlag har inte verifierats med HIC-test."
+      - "Fundament och stolpar under marknivå kontrolleras inte där de står i nivåstabilt underlag."
+    källor:
+      - "K-PROTOKOLL-2026-77"
+      - "K-KOMPLETTERING-2026-10-23-02"

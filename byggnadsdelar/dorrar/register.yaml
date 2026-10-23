@@ -1,0 +1,47 @@
+objekt:
+  -
+    id: "DORR-73D-20260803"
+    typ: "entrédörr"
+    namn: "Ytterdörr 73D"
+    datastatus: "verifierad"
+    placering: "Högalidsvägen 73D"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      garanti: null
+      monteringsdatum: "2026-08-03"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-02"
+      inventeringspunkt: "D73-27-ENT"
+      inköpsfaktura: null
+      kommentar: "Dörr köpt i batch på separat faktura; inköpskostnad okänd. Tidigare dörrs identitet inte fastställd."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "L-118-1-0027"
+    underhållshistorik:
+      - "A-2026-2693-1"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "DORR-77A-20260924"
+    typ: "altandörr"
+    namn: "Altandörr 77A"
+    datastatus: "verifierad"
+    placering: "Högalidsvägen 77A"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      garanti: null
+      monteringsdatum: "2026-09-24"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-02"
+      inventeringspunkt: "D77-11-BAL"
+      inköpsfaktura: null
+      kommentar: "Dörr köpt i batch på separat faktura; inköpskostnad okänd. Tidigare dörrs identitet inte fastställd."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "L-118-1-0011"
+    underhållshistorik:
+      - "A-2026-2711-1"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-02"

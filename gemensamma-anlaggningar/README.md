@@ -43,3 +43,9 @@ Objektets dokumentation kan innehålla:
 - Hänvisningar till originaldokument
 
 Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
+
+## Verifierade register från fakturor och besiktningar
+
+- [Utrustning](utrustning/register.yaml), med släpvagn, diskmaskin och vippgunga.
+- [Lekplatser och lekredskap](lekplatser/register.yaml).
+- [Lekplatsbesiktningar 2026](../besiktningar/2026/lekplatser.yaml), med protokollens observationer och felklassningar.

@@ -2,6 +2,8 @@ källa: Förråd_garagelista 2026-02-25.xlsx
 uppdaterad: '2026-10-23'
 beskrivning: Register över garage och parkeringsplatser.
 klassificeringskälla: Beställarens rättelse 2026-10-23; 701–771 är garage och nummer som börjar på 9 är parkeringsplatser.
+nummer_som_inte_finns: [907, 908]
+nummerbekräftelse: Beställaren 2026-10-23.
 platser:
   - id: G-701
     typ: garage
