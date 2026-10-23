@@ -1,6 +1,7 @@
 källa: Förråd_garagelista 2026-02-25.xlsx
-uppdaterad: '2026-02-25'
+uppdaterad: '2026-10-23'
 beskrivning: Register över garage och parkeringsplatser.
+klassificeringskälla: Beställarens rättelse 2026-10-23; 701–771 är garage och nummer som börjar på 9 är parkeringsplatser.
 platser:
   - id: G-701
     typ: garage
@@ -471,9 +472,9 @@ platser:
     tillhör_lägenhet: L-118-1-0078
     datastatus: verifierad
   - id: P-771
-    typ: parkeringsplats
-    namn: Parkeringsplats 771
+    typ: garage
+    namn: Garage 771
     platsnummer: 771
     tillhör: BRF
     datastatus: verifierad
-    kommentar: Markerad BRF i underlaget.
+    kommentar: Markerad BRF i underlaget. Klassad som garage enligt beställarens rättelse 2026-10-23. Befintligt objekt-ID P-771 behålls för historik och hänvisningar.

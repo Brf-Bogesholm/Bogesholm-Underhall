@@ -36,3 +36,8 @@ Parkeringsplats 771 är markerad som `BRF` i underlaget och har därför lagts i
 - `byggnader/register.yaml`
 - `gemensamma-anlaggningar/forrad/register.yaml`
 - `gemensamma-anlaggningar/garage-och-parkering/register.yaml`
+
+
+## Rättelse 2026-10-23
+
+Beställaren har förtydligat att samtliga nummer 701–771 avser garage och nummer som börjar på 9 avser parkeringsplatser. Den ursprungliga tolkningen ovan av plats 771 som parkeringsplats är därmed korrigerad. Registret innehåller efter rättelsen 71 garage och 8 parkeringsplatser. Objekt-ID P-771 behålls men typ och namn har ändrats till garage respektive Garage 771. Saknade parkeringsnummer skapas inte utan underlag.
