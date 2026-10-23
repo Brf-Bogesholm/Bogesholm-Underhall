@@ -1,0 +1,82 @@
+objekt:
+  -
+    id: "TI-UTKASTARE-71A-GAVEL-001"
+    typ: "vattenutkastare"
+    namn: "Vattenutkastare på gaveln till 71A"
+    datastatus: "verifierad"
+    placering: "Gaveln till Högalidsvägen 71A"
+    egenskaper:
+      modell: null
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-06-12"
+      föregående_objekt: null
+      kommentar: "Utbytt enligt beställaren. Den tidigare utkastarens identitet är okänd. Materialrader har inte entydigt kopplats till en viss utkastare."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-2026-7313-1"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "TI-UTKASTARE-69-PANNRUM-001"
+    typ: "vattenutkastare"
+    namn: "Vattenutkastare utanför pannrummet"
+    datastatus: "verifierad"
+    placering: "Utsidan av pannrummet, Högalidsvägen 69"
+    egenskaper:
+      modell: null
+      serienummer: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-7313-2"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "TI-AVGASARE-69-S400-001"
+    typ: "avgasare"
+    namn: "Spirotech S400"
+    datastatus: "verifierad"
+    placering: "Undercentralen i pannrummet, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Spirotech"
+      modell: "S400"
+      serienummer: null
+      kommentar: "Avgasaren kontrollerades inte vid arbetet 2026-06-12."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "TI-EXPANSIONSKARL-69-S400-001"
+    typ: "expansionskärl"
+    namn: "Lilla expansionskärlet till Spirotech S400"
+    datastatus: "verifierad"
+    placering: "Undercentralen i pannrummet, Högalidsvägen 69"
+    egenskaper:
+      modell: null
+      serienummer: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "serves"
+        objekt: "TI-AVGASARE-69-S400-001"
+    underhållshistorik:
+      - "A-2026-7313-3"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"

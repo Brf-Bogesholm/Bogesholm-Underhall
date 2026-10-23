@@ -1,0 +1,142 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-2026-7150-1"
+    datum: "2026-04-02"
+    åtgärd: "Proppning av kall- och varmvatten på styrelsens kontor."
+    objekt:
+      - "H-69"
+    placering: "Styrelsens kontor, Högalidsvägen 69"
+    faktura: "F-2026-7150"
+    fakturarader:
+      - "F-2026-7150-R1"
+      - "F-2026-7150-R2"
+      - "F-2026-7150-R3"
+      - "F-2026-7150-R4"
+    utförare: "Alex Rörtjänst AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumkälla: "K-FAKTUROR-2026-10-23"
+  -
+    id: "A-2026-144035-1"
+    datum: "2026-01-16"
+    åtgärd: "Inköp av föreningens släpvagn TIKI CS265-R med vinterhjul, tippdämpare och stödben."
+    objekt:
+      - "UT-SLAP-NMS32K"
+    placering: "Förvaring: föreningens garage 71"
+    faktura: "F-2026-144035"
+    fakturarader:
+      - "F-2026-144035-R1"
+      - "F-2026-144035-R2"
+      - "F-2026-144035-R3"
+      - "F-2026-144035-R4"
+    utförare: "Byggman i Skåne AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumtyp: "Fakturadatum för inköp; separat leveransdatum saknas"
+    datumkälla: "K-FAKTUROR-2026-10-23"
+  -
+    id: "A-2026-10382-1"
+    datum: "2026-01-14"
+    åtgärd: "Montering av ny gungbräda på lekplatsen på 50-gården."
+    objekt:
+      - "UT-GUNGBRADA-50-001"
+    placering: "Lekplatsen på 50-gården"
+    faktura: "F-2026-10382"
+    fakturarader:
+      - "F-2026-10382-R1"
+      - "F-2026-10382-R2"
+      - "F-2026-10382-R3"
+      - "F-2026-10382-R4"
+      - "F-2026-10382-R5"
+      - "F-2026-10382-R6"
+      - "F-2026-10382-R7"
+    utförare: "Selvers Trädgård och Bygg AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumkälla: "K-KOMPLETTERING-2026-10-23"
+    datumkommentar: "Utförandedatum satt lika med fakturadatum enligt beställarens uttryckliga anvisning; anges inte på fakturan."
+  -
+    id: "A-2026-7580-1"
+    datum: "2026-08-07"
+    åtgärd: "Leverans och installation av begagnad restaurangdiskmaskin Electrolux WT38."
+    objekt:
+      - "UT-DISK-WT38-001"
+    placering: "Föreningslokalens kök, Högalidsvägen 69"
+    faktura: "F-2026-7580"
+    fakturarader:
+      - "F-2026-7580-R1"
+    utförare: "Storköksservice Syd AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumkälla: "K-FAKTUROR-2026-10-23"
+    kommentar: "Utrustning, leverans och installation har ett gemensamt fakturabelopp."
+  -
+    id: "A-2026-7313-1"
+    datum: "2026-06-12"
+    åtgärd: "Byte av vattenutkastare på gaveln till 71A."
+    objekt:
+      - "TI-UTKASTARE-71A-GAVEL-001"
+    placering: "Gaveln till Högalidsvägen 71A"
+    faktura: "F-2026-7313"
+    fakturarader:
+      - "F-2026-7313-R1"
+      - "F-2026-7313-R2"
+      - "F-2026-7313-R3"
+      - "F-2026-7313-R4"
+    utförare: "Alex Rörtjänst AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumkälla: "K-FAKTUROR-2026-10-23"
+    kostnadsfördelning: null
+  -
+    id: "A-2026-7313-2"
+    datum: "2026-06-12"
+    åtgärd: "Reparation av vattenutkastare på utsidan av pannrummet."
+    objekt:
+      - "TI-UTKASTARE-69-PANNRUM-001"
+    placering: "Utsidan av pannrummet, Högalidsvägen 69"
+    faktura: "F-2026-7313"
+    fakturarader:
+      - "F-2026-7313-R1"
+      - "F-2026-7313-R2"
+      - "F-2026-7313-R3"
+      - "F-2026-7313-R4"
+    utförare: "Alex Rörtjänst AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumkälla: "K-FAKTUROR-2026-10-23"
+    kostnadsfördelning: null
+  -
+    id: "A-2026-7313-3"
+    datum: "2026-06-12"
+    åtgärd: "Påfyllning av luft i det lilla expansionskärlet till Spirotech S400-avgasaren."
+    objekt:
+      - "TI-EXPANSIONSKARL-69-S400-001"
+    placering: "Undercentralen i pannrummet, Högalidsvägen 69"
+    faktura: "F-2026-7313"
+    fakturarader:
+      - "F-2026-7313-R1"
+      - "F-2026-7313-R2"
+      - "F-2026-7313-R3"
+      - "F-2026-7313-R4"
+    utförare: "Alex Rörtjänst AB"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    kostnadsprincip: "Kostnaden lagras på fakturan. Åtgärden hänvisar till fakturan och är inte ett ytterligare belopp att summera."
+    datumkälla: "K-FAKTUROR-2026-10-23"
+    kostnadsfördelning: null
+    kommentar: "Avgasaren kontrollerades inte."

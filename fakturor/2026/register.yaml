@@ -1,0 +1,290 @@
+version: "1.0"
+registreringsomgång: "2026-10-23-01"
+fakturor:
+  -
+    id: "F-2026-7150"
+    fakturanummer: "7150"
+    leverantör: "Alex Rörtjänst AB"
+    organisationsnummer: "559114-5890"
+    fakturadatum: "2026-04-02"
+    förfallodatum: "2026-05-02"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 1667
+    moms: 416.75
+    öresavrundning: 0.25
+    att_betala: 2084
+    dokument:
+      filnamn: "Faktura_7150_20260402-193555.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; uppladdning till SharePoint ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-7150-R1"
+        benämning: "2026-04-02 - Proppat på kontoret"
+        antal: 1.5
+        enhet: "tim"
+        à_pris_exklusive_moms: 550
+        belopp_exklusive_moms: 825
+      -
+        id: "F-2026-7150-R2"
+        benämning: "LOCK MED PACKNING 10"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 19.5
+        belopp_exklusive_moms: 39
+      -
+        id: "F-2026-7150-R3"
+        benämning: "12/10 BALLOFIX KULVENT BR507"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 201.5
+        belopp_exklusive_moms: 403
+      -
+        id: "F-2026-7150-R4"
+        benämning: "Servicebil"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 400
+    projekt: "26246"
+    projektbeskrivning: "Proppa bort kv och vv"
+    åtgärder:
+      - "A-2026-7150-1"
+  -
+    id: "F-2026-144035"
+    fakturanummer: "144035"
+    leverantör: "Byggman i Skåne AB"
+    organisationsnummer: "556305-1845"
+    fakturadatum: "2026-01-16"
+    förfallodatum: "2026-01-26"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 16960
+    moms: 4240
+    öresavrundning: 0
+    att_betala: 21200
+    dokument:
+      filnamn: "Faktura_144035.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; uppladdning till SharePoint ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-144035-R1"
+        benämning: "TIKI CS265-R NMS32K"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 13520
+        belopp_exklusive_moms: 13520
+        artikelnummer: "DIVTIKI"
+      -
+        id: "F-2026-144035-R2"
+        benämning: "VINTERDÄCK M FÄLG 13 tum 4-bultade"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 800
+        belopp_exklusive_moms: 1600
+        artikelnummer: "BR4647310"
+      -
+        id: "F-2026-144035-R3"
+        benämning: "TIPPDÄMPARE"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 828
+        belopp_exklusive_moms: 828
+        artikelnummer: "DIVBJT3"
+      -
+        id: "F-2026-144035-R4"
+        benämning: "STÖDBEN"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 506
+        belopp_exklusive_moms: 1012
+        artikelnummer: "DIVBJT3"
+    avtalsnummer: "10475"
+    raddatum_original: "260116"
+    leveransdatum: null
+    tillgångar:
+      - "UT-SLAP-NMS32K"
+    åtgärder:
+      - "A-2026-144035-1"
+  -
+    id: "F-2026-10382"
+    fakturanummer: "10382"
+    leverantör: "Selvers Trädgård och Bygg AB"
+    organisationsnummer: "559207-0287"
+    fakturadatum: "2026-01-14"
+    förfallodatum: "2026-01-24"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 10489
+    moms: 2622.25
+    öresavrundning: -0.25
+    att_betala: 13111
+    dokument:
+      filnamn: "Faktura_10382.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; uppladdning till SharePoint ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-10382-R1"
+        benämning: "Minigrävare"
+        antal: 1
+        enhet: "dag"
+        à_pris_exklusive_moms: 3500
+        belopp_exklusive_moms: 3500
+      -
+        id: "F-2026-10382-R2"
+        benämning: "Frakt tur-retur"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 800
+        belopp_exklusive_moms: 800
+      -
+        id: "F-2026-10382-R3"
+        benämning: "Montering av gunga"
+        antal: 8
+        enhet: "tim"
+        à_pris_exklusive_moms: 580
+        belopp_exklusive_moms: 4640
+      -
+        id: "F-2026-10382-R4"
+        benämning: "Tippavgift"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 400
+      -
+        id: "F-2026-10382-R5"
+        benämning: "Bil/släp framkörning"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 600
+        belopp_exklusive_moms: 600
+      -
+        id: "F-2026-10382-R6"
+        benämning: "Lim"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 259
+        belopp_exklusive_moms: 259
+      -
+        id: "F-2026-10382-R7"
+        benämning: "Skruv (expanderskruv)"
+        antal: 10
+        enhet: "st"
+        à_pris_exklusive_moms: 29
+        belopp_exklusive_moms: 290
+    åtgärder:
+      - "A-2026-10382-1"
+  -
+    id: "F-2026-7580"
+    fakturanummer: "7580"
+    leverantör: "Storköksservice Syd AB"
+    organisationsnummer: "559407-8924"
+    fakturadatum: "2026-08-07"
+    förfallodatum: "2026-09-06"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 15000
+    moms: 3750
+    öresavrundning: 0
+    att_betala: 18750
+    dokument:
+      filnamn: "Faktura_7580.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; uppladdning till SharePoint ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-7580-R1"
+        benämning: "Beg Electrolux WT38 3 mån garanti"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 15000
+        belopp_exklusive_moms: 15000
+        artikelnummer: "22"
+    ordernummer: "17794"
+    leveransdatum: "2026-08-07"
+    servicedatum: "2026-08-07"
+    tillgångar:
+      - "UT-DISK-WT38-001"
+    åtgärder:
+      - "A-2026-7580-1"
+  -
+    id: "F-2026-7313"
+    fakturanummer: "7313"
+    leverantör: "Alex Rörtjänst AB"
+    organisationsnummer: "559114-5890"
+    fakturadatum: "2026-06-12"
+    förfallodatum: "2026-07-12"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 2071.3
+    moms: 517.83
+    öresavrundning: -0.13
+    att_betala: 2589
+    dokument:
+      filnamn: "Faktura_7313_20260612-175708.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; uppladdning till SharePoint ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-7313-R1"
+        benämning: "2026-06-12 - Bytat kran, lagat kran, fyllt på expansionskärl"
+        antal: 1.5
+        enhet: "tim"
+        à_pris_exklusive_moms: 550
+        belopp_exklusive_moms: 825
+      -
+        id: "F-2026-7313-R2"
+        benämning: "Servicebil"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 400
+      -
+        id: "F-2026-7313-R3"
+        benämning: "FMM 3505-1810 VENT.ÖVERD M"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 163.8
+        belopp_exklusive_moms: 163.8
+      -
+        id: "F-2026-7313-R4"
+        benämning: "FMM 2022-4500 TAPPVENTIL G 15"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 682.5
+        belopp_exklusive_moms: 682.5
+    projekt: "26437"
+    projektbeskrivning_original: "Byta 2 st kranar kolla avgasaren"
+    åtgärder:
+      - "A-2026-7313-1"
+      - "A-2026-7313-2"
+      - "A-2026-7313-3"
+    kommentar: "Utfallet enligt beställarens komplettering: en utkastare bytt, en reparerad, luft fyllt i expansionskärlet. Avgasaren kontrollerades inte. Materialkostnaderna har inte fördelats mellan objekten."

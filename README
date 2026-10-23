@@ -9,10 +9,12 @@ Det ersätter inte föreningens dokumentarkiv. Originaldokument som fakturor, ri
 - **Underhållsregistret** beskriver verklighet och historik.
 - **Underhållsplanen** bedömer framtida åtgärder.
 - **Ekonomin** beskriver ekonomiska konsekvenser.
-- Server, nätverk, UniFi, UPS, backup och övervakning dokumenteras i det separata repot `Bogesholm-Server`.
+- Inköp, fakturauppgifter, kostnader, garantier och underhållshistorik för server- och nätverksutrustning dokumenteras här. Teknisk konfiguration och drift för server, nätverk, UniFi, UPS, backup och övervakning dokumenteras i det separata repot `Bogesholm-Server`.
 - Informationskioskens utrustning och driftkonfiguration dokumenteras här under [`gemensamma-anlaggningar/informationskiosk/`](gemensamma-anlaggningar/informationskiosk/README.md).
 
 ## Innehåll
+
+- [`fakturor/`](fakturor/README.md) – fakturauppgifter, tillgångskopplingar och genomförda åtgärder.
 
 - [`modell/`](modell/README.md) – gemensam objektmodell, fältregler och relationer.
 - [`byggnader/`](byggnader/README.md) – 15 byggnadsobjekt, inklusive föreningslokalen i hus 69.

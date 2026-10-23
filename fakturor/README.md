@@ -1,0 +1,25 @@
+# Fakturor, tillgångar och genomförda åtgärder
+
+Fakturan är det ekonomiska underlaget. Tillgången beskriver det fysiska objektet och åtgärden beskriver en genomförd händelse. En faktura kan ha flera rader, tillgångar och åtgärder.
+
+- [Fakturor 2026](2026/register.yaml)
+- [Åtgärder 2026](../atgarder/2026/register.yaml)
+- [Gemensam utrustning och föreningens garage](../gemensamma-anlaggningar/utrustning/register.yaml)
+- [Tekniska installationer](../tekniska-installationer/register.yaml)
+- [Källor och godkända kompletteringar för första omgången](../inventering/importer/fakturor-2026-10-23.yaml)
+
+## Registreringsregler
+
+Fakturor har stabilt ID, leverantör, fakturanummer, fakturadatum, belopp och flera fakturarader. Dubbletter kontrolleras med leverantörens organisationsnummer och fakturanummer. Belopp anges i SEK om inget annat anges. Radbelopp och à-priser är exklusive moms; fakturasumman har separat moms och öresavrundning.
+
+Objekten följer [objektmodellen](../modell/objektmodell.yaml). I dessa register innehåller `underhållshistorik` åtgärds-ID:n som slås upp i det gemensamma åtgärdsregistret. Relationer skrivs med `typ` och `objekt`. Aktuell driftstatus sätts endast när den är känd; historisk installation innebär inte verifierad aktuell driftstatus.
+
+Åtgärder hänvisar till faktura, fakturarader, objekt och källor. En hänvisning till en fakturarad innebär inte att hela radkostnaden tillhör just den åtgärden. Kostnader summeras endast från unika fakturor, aldrig genom att lägga ihop faktura, tillgång och åtgärd. För faktura 7313 är radlistan gemensamt underlag för tre åtgärder; kostnadsfördelningen är okänd.
+
+Fakturadatum, leveransdatum och utförandedatum hålls isär. Datum som beställaren anvisat, såsom utförandedatum för 10382, har särskild källmarkering. Ursprunglig projekttext bevaras men ersätter inte verifierat faktiskt utfall.
+
+`null` betyder okänd uppgift, inte noll eller frånvaro av garanti. `datastatus: verifierad` avser de registrerade sakuppgifterna och betyder inte att alla uppgifter är kompletta. Modell-/artikelbeteckningar är inte serienummer. En tidigare komponent får inte markeras som ersatt utan identifiering.
+
+Originalfakturor lagras i föreningens dokumentarkiv, inte här. Filnamn identifierar underlagen tills beständiga SharePoint-länkar har kompletterats. Arkivering har inte verifierats. Betalningsstatus kan inte utläsas av fakturan och registreras därför inte.
+
+Inköp, kostnad, garanti och underhållshistorik för server- och nätverksutrustning hör också hemma i underhållsregistret. Teknisk konfiguration och drift dokumenteras i Bogesholm-Server med hänvisning till samma objekt där det är möjligt.

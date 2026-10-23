@@ -1,0 +1,99 @@
+objekt:
+  -
+    id: "G-FORENING-71"
+    typ: "garage"
+    namn: "Föreningens garage 71"
+    datastatus: "verifierad"
+    placering: "Garage 71"
+    egenskaper:
+      ägare: "Brf Bogesholm"
+      kommentar: "Nummer enligt beställaren. Koppling till befintliga G-7xx-objekt och gatuadress är inte fastställd."
+    relationer:
+      []
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "UT-SLAP-NMS32K"
+    typ: "släpvagn"
+    namn: "Föreningens TIKI-släpvagn"
+    datastatus: "verifierad"
+    placering: "Föreningens garage 71"
+    egenskaper:
+      fabrikat: "TIKI"
+      modell: "CS265-R"
+      registreringsnummer: "NMS32K"
+      chassinummer: null
+      garanti: null
+      inköp:
+        faktura: "F-2026-144035"
+        fakturadatum: "2026-01-16"
+        leveransdatum: null
+      tillbehör:
+        -
+          namn: "Vinterdäck med fälg, 13 tum, 4-bultade"
+          antal: 2
+        -
+          namn: "Tippdämpare"
+          antal: 1
+        -
+          namn: "Stödben"
+          antal: 2
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "G-FORENING-71"
+    underhållshistorik:
+      - "A-2026-144035-1"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "UT-GUNGBRADA-50-001"
+    typ: "gungbräda"
+    namn: "Gungbräda på 50-gården"
+    datastatus: "verifierad"
+    placering: "Lekplatsen på 50-gården"
+    egenskaper:
+      modell: null
+      serienummer: null
+      garanti: null
+      kommentar: "Ny gungbräda enligt beställaren. Fakturan avser montering och kringkostnader; separat inköpskostnad för själva gungbrädan saknas."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-10382-1"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "UT-DISK-WT38-001"
+    typ: "restaurangdiskmaskin"
+    namn: "Electrolux WT38 i föreningslokalens kök"
+    datastatus: "verifierad"
+    placering: "Föreningslokalens kök, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Electrolux"
+      modell: "WT38"
+      skick_vid_inköp: "Begagnad"
+      serienummer: null
+      leveransdatum: "2026-08-07"
+      installationsdatum: "2026-08-07"
+      garanti:
+        längd_månader: 3
+        källreferens: "F-2026-7580"
+        startdatum: null
+        slutdatum: null
+        kommentar: "Fakturan anger tre månaders garanti men inga uttryckliga start- eller slutdatum."
+      tidigare_maskin: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-7580-1"
+    källor:
+      - "K-FAKTUROR-2026-10-23"
+      - "K-KOMPLETTERING-2026-10-23"

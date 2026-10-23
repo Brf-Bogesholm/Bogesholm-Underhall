@@ -1,0 +1,46 @@
+id: "IMPORT-2026-10-23-01"
+godkänd: "2026-10-23"
+källa:
+  -
+    id: "K-FAKTUROR-2026-10-23"
+    typ: "fakturor"
+    dokument:
+      -
+        faktura: "F-2026-7150"
+        filnamn: "Faktura_7150_20260402-193555.pdf"
+      -
+        faktura: "F-2026-144035"
+        filnamn: "Faktura_144035.pdf"
+      -
+        faktura: "F-2026-10382"
+        filnamn: "Faktura_10382.pdf"
+      -
+        faktura: "F-2026-7580"
+        filnamn: "Faktura_7580.pdf"
+      -
+        faktura: "F-2026-7313"
+        filnamn: "Faktura_7313_20260612-175708.pdf"
+  -
+    id: "K-KOMPLETTERING-2026-10-23"
+    typ: "beställaruppgifter"
+    beskrivning: "Beställarens kompletteringar om platser, utrustning och faktiskt utförda arbeten; sammanställningen därefter uttryckligen godkänd i chatten."
+kompletteringar:
+  7150: "Styrelsens kontor, Högalidsvägen 69."
+  7313: "Bytt vattenutkastare på gaveln till 71A. Reparerat vattenutkastare utanför pannrummet. Fyllt luft i lilla expansionskärlet till Spirotech S400 i undercentralen i pannrummet, Högalidsvägen 69. Avgasaren kontrollerades inte."
+  7580: "Restaurangdiskmaskin i föreningslokalens kök."
+  10382: "Ny gungbräda på lekplatsen på 50-gården. Utförandedatum ska sättas lika med fakturadatum."
+  144035: "Föreningens släpvagn TIKI, registreringsnummer NMS32K. Förvaring i garage 71, föreningens garage. Chassinummer och garantiuppgifter saknas."
+kontroll:
+  antal_fakturor: 5
+  summa_exklusive_moms: 46187.3
+  summa_moms: 11546.83
+  summa_öresavrundning: -0.13
+  summa_att_betala: 57734
+  valuta: "SEK"
+öppna_uppgifter:
+  - "SharePoint-länkar till originalen saknas; arkivering har inte verifierats."
+  - "Släpvagnens chassinummer och garantiuppgifter saknas."
+  - "Diskmaskinens serienummer, uttryckliga garantidatum och eventuell föregångare saknas."
+  - "Ingen kostnadsfördelning mellan de tre åtgärderna på faktura 7313 finns."
+  - "Materialraderna på faktura 7313 har inte kopplats till en viss vattenutkastare."
+  - "Tidigare utkastarobjekt vid byte på 71A är inte identifierat."
