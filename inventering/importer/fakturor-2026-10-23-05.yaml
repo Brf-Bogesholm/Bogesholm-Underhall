@@ -1,0 +1,46 @@
+id: "IMPORT-2026-10-23-05"
+godkänd: "2026-10-23"
+källor:
+  -
+    id: "K-FAKTUROR-2026-10-23-05"
+    typ: "sex fakturor"
+    dokument:
+      -
+        filnamn: "247501_008703792.pdf"
+        sha256: "8b51b1e81d910a06df3c6a67466d130ca49bc82a5cb904380ea2b0aefd9bebcb"
+      -
+        filnamn: "9003662035.pdf"
+        sha256: "ff8dd72553b41c0016262a493b0d48e922289a86e6197c01384685a9083c9f2e"
+      -
+        filnamn: "008643886.pdf"
+        sha256: "c72136b11d4f55fc955fc60bd769e970cd39349cf28be10db394d007993d8a17"
+      -
+        filnamn: "1005437.pdf"
+        sha256: "a495537a58e3de91266a2e1e95c51440a7d1c7aeead95288cb0d64e4580074ec"
+      -
+        filnamn: "247501_008761863.pdf"
+        sha256: "be0990d24a36e88f0f3eaad80dd665c76faaffccf08112260648e0f56ab49a57"
+      -
+        filnamn: "247501_008715942.pdf"
+        sha256: "eda0d781ef89f3e55820d2809d666ba14d9019e50614c9058dc9b8e28d26f563"
+  -
+    id: "K-KOMPLETTERING-2026-10-23-05"
+    typ: "beställaruppgifter"
+    uppgifter:
+      - "Racket står i kontoret och panel, hylla och kablar tillhör racket."
+      - "En G5 Turret Ultra i cykelförrådet 60-gården och en i cykelförrådet 50-gården."
+      - "AI LPR vid garage nr 1, uttryckligen inte en garagelänga. USW Ultra och G5 Flex i cykelförrådet 50-gården."
+      - "Garageporten till garaget som hör till 79C reparerades genom byte till ny portmotor. Registret visar entydigt garage G-740."
+      - "Faktura 1005437: 0,25 kr är öresavrundning enligt beställaren. Både ursprungliga radbelopp och fakturatotaler bevaras utan dubbel addition av avrundning."
+      - "USW Aggregation i kontoret."
+      - "Två NanoStation och tre fästen är reservmateriel i kontoret. Ett fäste sitter på gaveln till 61D."
+      - "Fakturadatum används som installationsdatum för installerad utrustning enligt tidigare anvisning. Reservmateriel får inget installationsdatum."
+kontroll:
+  antal_fakturor: 6
+  summa_att_betala: 31976
+  valuta: "SEK"
+öppna_uppgifter:
+  - "Fakturans identifierare för USW Ultra, AI LPR och G5 Flex har inte klassats som serienummer eller MAC-adresser utan verifiering."
+  - "Garage nr 1 kan ännu inte entydigt matchas mot garage-ID i serien 701–771; platsbeteckningen bevaras ordagrant."
+  - "Ursprungliga pris- och momsuppgifter för portmotorfakturan bevaras. Radmomsgrund är okänd."
+  - "SharePoint-länkar, övriga serienummer och garantiuppgifter saknas."

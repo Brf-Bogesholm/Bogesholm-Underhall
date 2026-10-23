@@ -4,6 +4,7 @@ registreringsomgångar:
   - "2026-10-23-02"
   - "2026-10-23-03"
   - "2026-10-23-04"
+  - "2026-10-23-05"
 fakturor:
   -
     id: "F-2026-7150"
@@ -1197,3 +1198,332 @@ fakturor:
       - "K-KOMPLETTERING-2026-10-23-04"
     leveransadress: "Högalidsvägen 61D, Kävlinge"
     leveransadresskommentar: "Leveransadress är inte installationsplats."
+  -
+    id: "F-2026-008703792"
+    fakturanummer: "008703792"
+    leverantör: "Dustin Sverige AB"
+    organisationsnummer: "556666-1012"
+    fakturadatum: "2026-09-11"
+    förfallodatum: "2026-09-21"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 3697
+    moms: 924.25
+    öresavrundning: -0.25
+    att_betala: 4621
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-008703792-R1"
+        artikelnummer: "5011227144"
+        benämning: "Digitus Dynamic Basic 19 tum 9U 600x450 svart"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1495
+        belopp_exklusive_moms: 1495
+      -
+        id: "F-2026-008703792-R2"
+        artikelnummer: "5011227272"
+        benämning: "19 tum Powersocket 9X Outlets 2M"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 229
+        belopp_exklusive_moms: 229
+      -
+        id: "F-2026-008703792-R3"
+        artikelnummer: "5011085315"
+        benämning: "Digitus DN-19 TRAY-1-SW 1U rackhylla svart"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 179
+        belopp_exklusive_moms: 179
+      -
+        id: "F-2026-008703792-R4"
+        artikelnummer: "5011371695"
+        benämning: "Ubiquiti Etherlighting 15cm vit, 24-pack"
+        antal: 1
+        enhet: "24-pack"
+        à_pris_exklusive_moms: 1195
+        belopp_exklusive_moms: 1195
+      -
+        id: "F-2026-008703792-R5"
+        artikelnummer: null
+        benämning: "Frakt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 599
+        belopp_exklusive_moms: 599
+    tillgångar:
+      - "TI-RACK-KONTOR-001"
+      - "TI-RACK-ELPANEL-001"
+      - "TI-RACK-HYLLA-001"
+      - "TI-RACK-PATCHKABLAR-001"
+    åtgärder:
+      - "A-2026-INSTALLATION-TI-RACK-KONTOR-001"
+      - "A-2026-INSTALLATION-TI-RACK-ELPANEL-001"
+      - "A-2026-INSTALLATION-TI-RACK-HYLLA-001"
+      - "A-2026-INSTALLATION-TI-RACK-PATCHKABLAR-001"
+    dokument:
+      filnamn: "247501_008703792.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "F-2026-9003662035"
+    fakturanummer: "9003662035"
+    leverantör: "Komplett Services Sweden AB"
+    organisationsnummer: "556581-0644"
+    fakturadatum: "2026-03-24"
+    förfallodatum: "2026-04-13"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 2318.4
+    moms: 579.6
+    öresavrundning: 0
+    att_betala: 2898
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-9003662035-R1"
+        artikelnummer: "1316148"
+        benämning: "Ubiquiti G5 Turret Ultra"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 1159.2
+        belopp_exklusive_moms: 2318.4
+      -
+        id: "F-2026-9003662035-R2"
+        artikelnummer: "201030"
+        benämning: "Postnord MyPack Collect"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 0
+        belopp_exklusive_moms: 0
+    tillgångar:
+      - "TI-KAMERA-G5TURRET-001"
+      - "TI-KAMERA-G5TURRET-002"
+    åtgärder:
+      - "A-2026-INSTALLATION-TI-KAMERA-G5TURRET-001"
+      - "A-2026-INSTALLATION-TI-KAMERA-G5TURRET-002"
+    dokument:
+      filnamn: "9003662035.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+    leveransdatum: "2026-03-24"
+    leveransadress: "Högalidsvägen 61D; inte installationsadress"
+  -
+    id: "F-2026-008643886"
+    fakturanummer: "008643886"
+    leverantör: "Dustin Sverige AB"
+    organisationsnummer: "556666-1012"
+    fakturadatum: "2026-07-23"
+    förfallodatum: "2026-08-02"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 7858.2
+    moms: 1964.55
+    öresavrundning: 0.25
+    att_betala: 9823
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-008643886-R1"
+        artikelnummer: "5011372834"
+        benämning: "Ubiquiti UniFi USW Ultra PoE 60W"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1395
+        belopp_exklusive_moms: 1395
+      -
+        id: "F-2026-008643886-R2"
+        artikelnummer: "5020031648"
+        benämning: "Ubiquiti UniFi AI LPR Network Camera"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 4815.2
+        belopp_exklusive_moms: 4815.2
+      -
+        id: "F-2026-008643886-R3"
+        artikelnummer: "5011342223"
+        benämning: "Ubiquiti UniFi Protect G5 Flex"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1499
+        belopp_exklusive_moms: 1499
+      -
+        id: "F-2026-008643886-R4"
+        artikelnummer: null
+        benämning: "Frakt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 149
+        belopp_exklusive_moms: 149
+    tillgångar:
+      - "TI-SW-USW-ULTRA-001"
+      - "TI-KAMERA-AILPR-001"
+      - "TI-KAMERA-G5FLEX-001"
+    åtgärder:
+      - "A-2026-INSTALLATION-TI-SW-USW-ULTRA-001"
+      - "A-2026-INSTALLATION-TI-KAMERA-AILPR-001"
+      - "A-2026-INSTALLATION-TI-KAMERA-G5FLEX-001"
+    dokument:
+      filnamn: "008643886.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "F-2026-1005437"
+    fakturanummer: "1005437"
+    leverantör: "Malmöporten AB"
+    organisationsnummer: "556991-9987"
+    fakturadatum: "2026-08-19"
+    förfallodatum: "2026-08-29"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 5899.25
+    moms: 1474.75
+    öresavrundning: null
+    att_betala: 7374
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-1005437-R1"
+        artikelnummer: "10562"
+        benämning: "Aperto portöppnare A 550 L S3, inkl fjärr Pearl Twin"
+        antal: 1
+        enhet: "st"
+        pris_enligt_fakturarad: 4873.75
+        belopp_enligt_fakturarad: 4873.75
+        momsgrund_för_rad: "Ej uttryckligt angiven; raderna summerar nära total inklusive moms. Ej omräknade till exklusive moms."
+      -
+        id: "F-2026-1005437-R2"
+        artikelnummer: "11138"
+        benämning: "Montage portautomatik"
+        antal: 1
+        enhet: "st"
+        pris_enligt_fakturarad: 2500
+        belopp_enligt_fakturarad: 2500
+        momsgrund_för_rad: "Ej uttryckligt angiven; raderna summerar nära total inklusive moms. Ej omräknade till exklusive moms."
+    tillgångar:
+      - "TI-PORTMOTOR-G740-20260819"
+    åtgärder:
+      - "A-2026-BYTE-AV-PORTMOTOR-TI-PORTMOTOR-G740-20260819"
+    dokument:
+      filnamn: "1005437.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+    radbeloppssumma: 7373.75
+    öresavrundning_enligt_beställaren: 0.25
+    avrundningskommentar: "Beställaren bekräftar att 7373,75 kr i radbelopp plus 0,25 kr öresavrundning ger 7374 kr att betala. Fakturans angivna netto 5899,25 och moms 1474,75 summerar redan till 7374 och bevaras separat. Avrundningen adderas därför inte igen till dessa totalsummor. Radbeloppen har inte omräknats till exklusive moms."
+  -
+    id: "F-2026-008761863"
+    fakturanummer: "008761863"
+    leverantör: "Dustin Sverige AB"
+    organisationsnummer: "556666-1012"
+    fakturadatum: "2026-10-19"
+    förfallodatum: "2026-10-29"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 3381
+    moms: 845.25
+    öresavrundning: -0.25
+    att_betala: 4226
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-008761863-R1"
+        artikelnummer: "5011212763"
+        benämning: "UniFi USW Aggregation 8xSFP+ 1U 19 tum"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 3232
+        belopp_exklusive_moms: 3232
+      -
+        id: "F-2026-008761863-R2"
+        artikelnummer: null
+        benämning: "Frakt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 149
+        belopp_exklusive_moms: 149
+    tillgångar:
+      - "TI-SW-AGGREGATION-001"
+    åtgärder:
+      - "A-2026-INSTALLATION-TI-SW-AGGREGATION-001"
+    dokument:
+      filnamn: "247501_008761863.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "F-2026-008715942"
+    fakturanummer: "008715942"
+    leverantör: "Dustin Sverige AB"
+    organisationsnummer: "556666-1012"
+    fakturadatum: "2026-09-21"
+    förfallodatum: "2026-10-01"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 2427
+    moms: 606.75
+    öresavrundning: 0.25
+    att_betala: 3034
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-008715942-R1"
+        artikelnummer: "5011178628"
+        benämning: "Ubiquiti NanoStation 5AC Loco 10KM 13DBI AirMax PoE"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 649
+        belopp_exklusive_moms: 1298
+      -
+        id: "F-2026-008715942-R2"
+        artikelnummer: "5011268564"
+        benämning: "Ubiquiti Toolless Quick Mount CPE"
+        antal: 4
+        enhet: "st"
+        à_pris_exklusive_moms: 245
+        belopp_exklusive_moms: 980
+      -
+        id: "F-2026-008715942-R3"
+        artikelnummer: null
+        benämning: "Frakt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 149
+        belopp_exklusive_moms: 149
+    tillgångar:
+      - "TI-NANOSTATION-5AC-RESERV-1"
+      - "TI-NANOSTATION-5AC-RESERV-2"
+      - "TI-CPE-FASTE-61D-001"
+      - "TI-CPE-FASTE-RESERV-1"
+      - "TI-CPE-FASTE-RESERV-2"
+      - "TI-CPE-FASTE-RESERV-3"
+    åtgärder:
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-NANOSTATION-5AC-RESERV-1"
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-NANOSTATION-5AC-RESERV-2"
+      - "A-2026-INSTALLATION-TI-CPE-FASTE-61D-001"
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-1"
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-2"
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-3"
+    dokument:
+      filnamn: "247501_008715942.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"

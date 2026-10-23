@@ -210,3 +210,373 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-04"
       - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-RACK-KONTOR-001"
+    typ: "rackskåp"
+    namn: "Digitus Dynamic Basic 9U"
+    datastatus: "verifierad"
+    placering: "Kontoret, Högalidsvägen 69"
+    egenskaper:
+      modell: "Dynamic Basic 19 tum 9U 600x450 svart"
+      inköpsfaktura: "F-2026-008703792"
+      fakturarad: "F-2026-008703792-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-09-11"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-RACK-KONTOR-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-RACK-ELPANEL-001"
+    typ: "racktillbehör"
+    namn: "Eluttagspanel 9 uttag"
+    datastatus: "verifierad"
+    placering: "Racket i kontoret, Högalidsvägen 69"
+    egenskaper:
+      kabellängd_m: 2
+      inköpsfaktura: "F-2026-008703792"
+      fakturarad: "F-2026-008703792-R2"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-09-11"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-RACK-KONTOR-001"
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-RACK-ELPANEL-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-RACK-HYLLA-001"
+    typ: "racktillbehör"
+    namn: "Digitus DN-19 TRAY-1-SW"
+    datastatus: "verifierad"
+    placering: "Racket i kontoret, Högalidsvägen 69"
+    egenskaper:
+      inköpsfaktura: "F-2026-008703792"
+      fakturarad: "F-2026-008703792-R3"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-09-11"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-RACK-KONTOR-001"
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-RACK-HYLLA-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-RACK-PATCHKABLAR-001"
+    typ: "racktillbehör"
+    namn: "Etherlighting patchkablar 15 cm, 24-pack"
+    datastatus: "verifierad"
+    placering: "Racket i kontoret, Högalidsvägen 69"
+    egenskaper:
+      antal_kablar: 24
+      inköpsfaktura: "F-2026-008703792"
+      fakturarad: "F-2026-008703792-R4"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-09-11"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-RACK-KONTOR-001"
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-RACK-PATCHKABLAR-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-KAMERA-G5TURRET-001"
+    typ: "övervakningskamera"
+    namn: "Ubiquiti G5 Turret Ultra, 60-gården"
+    datastatus: "verifierad"
+    placering: "Cykelförrådet på 60-gården"
+    egenskaper:
+      modell: "G5 Turret Ultra"
+      inköpsfaktura: "F-2026-9003662035"
+      fakturarad: "F-2026-9003662035-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-03-24"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-KAMERA-G5TURRET-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-KAMERA-G5TURRET-002"
+    typ: "övervakningskamera"
+    namn: "Ubiquiti G5 Turret Ultra, 50-gården"
+    datastatus: "verifierad"
+    placering: "Cykelförrådet på 50-gården"
+    egenskaper:
+      modell: "G5 Turret Ultra"
+      inköpsfaktura: "F-2026-9003662035"
+      fakturarad: "F-2026-9003662035-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-03-24"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-KAMERA-G5TURRET-002"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-SW-USW-ULTRA-001"
+    typ: "nätverksswitch"
+    namn: "Ubiquiti USW Ultra PoE 60W"
+    datastatus: "verifierad"
+    placering: "Cykelförrådet på 50-gården"
+    egenskaper:
+      modell: "Ubiquiti USW Ultra PoE 60W"
+      identifierare_enligt_faktura: "74FA293E2112"
+      identifierartyp: "Ej uttryckligt angiven på fakturan; MAC-liknande format"
+      inköpsfaktura: "F-2026-008643886"
+      fakturarad: "F-2026-008643886-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-07-23"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-SW-USW-ULTRA-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-KAMERA-AILPR-001"
+    typ: "övervakningskamera"
+    namn: "Ubiquiti AI LPR"
+    datastatus: "verifierad"
+    placering: "Vid garage nr 1, inte garagelänga 1"
+    egenskaper:
+      modell: "Ubiquiti AI LPR"
+      identifierare_enligt_faktura: "1C0B8BC871E7"
+      identifierartyp: "Ej uttryckligt angiven på fakturan; MAC-liknande format"
+      inköpsfaktura: "F-2026-008643886"
+      fakturarad: "F-2026-008643886-R2"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-07-23"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-KAMERA-AILPR-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-KAMERA-G5FLEX-001"
+    typ: "övervakningskamera"
+    namn: "Ubiquiti G5 Flex"
+    datastatus: "verifierad"
+    placering: "Cykelförrådet på 50-gården"
+    egenskaper:
+      modell: "Ubiquiti G5 Flex"
+      identifierare_enligt_faktura: "1C6A1B8DBE3F"
+      identifierartyp: "Ej uttryckligt angiven på fakturan; MAC-liknande format"
+      inköpsfaktura: "F-2026-008643886"
+      fakturarad: "F-2026-008643886-R3"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-07-23"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-KAMERA-G5FLEX-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-SW-AGGREGATION-001"
+    typ: "nätverksswitch"
+    namn: "Ubiquiti USW Aggregation"
+    datastatus: "verifierad"
+    placering: "Kontoret, Högalidsvägen 69"
+    egenskaper:
+      modell: "USW Aggregation 8xSFP+ 1U 19 tum"
+      inköpsfaktura: "F-2026-008761863"
+      fakturarad: "F-2026-008761863-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-10-19"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-SW-AGGREGATION-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-NANOSTATION-5AC-RESERV-1"
+    typ: "radioenhet"
+    namn: "NanoStation 5AC Loco, reserv 1"
+    datastatus: "verifierad"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    egenskaper:
+      modell: "NanoStation 5AC Loco"
+      inköpsfaktura: "F-2026-008715942"
+      fakturarad: "F-2026-008715942-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: null
+      lagringsstatus: "Reservmateriel"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-NANOSTATION-5AC-RESERV-1"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-NANOSTATION-5AC-RESERV-2"
+    typ: "radioenhet"
+    namn: "NanoStation 5AC Loco, reserv 2"
+    datastatus: "verifierad"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    egenskaper:
+      modell: "NanoStation 5AC Loco"
+      inköpsfaktura: "F-2026-008715942"
+      fakturarad: "F-2026-008715942-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: null
+      lagringsstatus: "Reservmateriel"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-NANOSTATION-5AC-RESERV-2"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-CPE-FASTE-61D-001"
+    typ: "antennfäste"
+    namn: "Ubiquiti Toolless Quick Mount CPE"
+    datastatus: "verifierad"
+    placering: "Gaveln till Högalidsvägen 61D"
+    egenskaper:
+      inköpsfaktura: "F-2026-008715942"
+      fakturarad: "F-2026-008715942-R2"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-09-21"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-61"
+    underhållshistorik:
+      - "A-2026-INSTALLATION-TI-CPE-FASTE-61D-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-CPE-FASTE-RESERV-1"
+    typ: "antennfäste"
+    namn: "Toolless Quick Mount CPE, reserv 1"
+    datastatus: "verifierad"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    egenskaper:
+      inköpsfaktura: "F-2026-008715942"
+      fakturarad: "F-2026-008715942-R2"
+      serienummer: null
+      garanti: null
+      installationsdatum: null
+      lagringsstatus: "Reservmateriel"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-1"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-CPE-FASTE-RESERV-2"
+    typ: "antennfäste"
+    namn: "Toolless Quick Mount CPE, reserv 2"
+    datastatus: "verifierad"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    egenskaper:
+      inköpsfaktura: "F-2026-008715942"
+      fakturarad: "F-2026-008715942-R2"
+      serienummer: null
+      garanti: null
+      installationsdatum: null
+      lagringsstatus: "Reservmateriel"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-2"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-CPE-FASTE-RESERV-3"
+    typ: "antennfäste"
+    namn: "Toolless Quick Mount CPE, reserv 3"
+    datastatus: "verifierad"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    egenskaper:
+      inköpsfaktura: "F-2026-008715942"
+      fakturarad: "F-2026-008715942-R2"
+      serienummer: null
+      garanti: null
+      installationsdatum: null
+      lagringsstatus: "Reservmateriel"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-3"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"

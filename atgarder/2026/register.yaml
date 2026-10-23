@@ -565,3 +565,293 @@ version: "1.0"
     källor:
       - "K-FAKTUROR-2026-10-23-04"
       - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALLATION-TI-RACK-KONTOR-001"
+    datum: "2026-09-11"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Digitus Dynamic Basic 9U"
+    objekt:
+      - "TI-RACK-KONTOR-001"
+    placering: "Kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008703792"
+    fakturarader:
+      - "F-2026-008703792-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-RACK-ELPANEL-001"
+    datum: "2026-09-11"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Eluttagspanel 9 uttag"
+    objekt:
+      - "TI-RACK-ELPANEL-001"
+    placering: "Racket i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008703792"
+    fakturarader:
+      - "F-2026-008703792-R2"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-RACK-HYLLA-001"
+    datum: "2026-09-11"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Digitus DN-19 TRAY-1-SW"
+    objekt:
+      - "TI-RACK-HYLLA-001"
+    placering: "Racket i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008703792"
+    fakturarader:
+      - "F-2026-008703792-R3"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-RACK-PATCHKABLAR-001"
+    datum: "2026-09-11"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Etherlighting patchkablar 15 cm, 24-pack"
+    objekt:
+      - "TI-RACK-PATCHKABLAR-001"
+    placering: "Racket i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008703792"
+    fakturarader:
+      - "F-2026-008703792-R4"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-KAMERA-G5TURRET-001"
+    datum: "2026-03-24"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti G5 Turret Ultra, 60-gården"
+    objekt:
+      - "TI-KAMERA-G5TURRET-001"
+    placering: "Cykelförrådet på 60-gården"
+    faktura: "F-2026-9003662035"
+    fakturarader:
+      - "F-2026-9003662035-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-KAMERA-G5TURRET-002"
+    datum: "2026-03-24"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti G5 Turret Ultra, 50-gården"
+    objekt:
+      - "TI-KAMERA-G5TURRET-002"
+    placering: "Cykelförrådet på 50-gården"
+    faktura: "F-2026-9003662035"
+    fakturarader:
+      - "F-2026-9003662035-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-SW-USW-ULTRA-001"
+    datum: "2026-07-23"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti USW Ultra PoE 60W"
+    objekt:
+      - "TI-SW-USW-ULTRA-001"
+    placering: "Cykelförrådet på 50-gården"
+    faktura: "F-2026-008643886"
+    fakturarader:
+      - "F-2026-008643886-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-KAMERA-AILPR-001"
+    datum: "2026-07-23"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti AI LPR"
+    objekt:
+      - "TI-KAMERA-AILPR-001"
+    placering: "Vid garage nr 1, inte garagelänga 1"
+    faktura: "F-2026-008643886"
+    fakturarader:
+      - "F-2026-008643886-R2"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-KAMERA-G5FLEX-001"
+    datum: "2026-07-23"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti G5 Flex"
+    objekt:
+      - "TI-KAMERA-G5FLEX-001"
+    placering: "Cykelförrådet på 50-gården"
+    faktura: "F-2026-008643886"
+    fakturarader:
+      - "F-2026-008643886-R3"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-BYTE-AV-PORTMOTOR-TI-PORTMOTOR-G740-20260819"
+    datum: "2026-08-19"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Byte av portmotor av Aperto A 550 L S3, garage 740"
+    objekt:
+      - "TI-PORTMOTOR-G740-20260819"
+    placering: "Garage 740, tillhör Högalidsvägen 79C"
+    faktura: "F-2026-1005437"
+    fakturarader:
+      - "F-2026-1005437-R1"
+      - "F-2026-1005437-R2"
+    utförare: "Malmöporten AB"
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-SW-AGGREGATION-001"
+    datum: "2026-10-19"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti USW Aggregation"
+    objekt:
+      - "TI-SW-AGGREGATION-001"
+    placering: "Kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008761863"
+    fakturarader:
+      - "F-2026-008761863-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INKÖP-TILL-RESERVLAGER-TI-NANOSTATION-5AC-RESERV-1"
+    datum: "2026-09-21"
+    datumkälla: "K-FAKTUROR-2026-10-23-05"
+    datumtyp: "Fakturadatum för inköp till reservlager"
+    åtgärd: "Inköp till reservlager av NanoStation 5AC Loco, reserv 1"
+    objekt:
+      - "TI-NANOSTATION-5AC-RESERV-1"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008715942"
+    fakturarader:
+      - "F-2026-008715942-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INKÖP-TILL-RESERVLAGER-TI-NANOSTATION-5AC-RESERV-2"
+    datum: "2026-09-21"
+    datumkälla: "K-FAKTUROR-2026-10-23-05"
+    datumtyp: "Fakturadatum för inköp till reservlager"
+    åtgärd: "Inköp till reservlager av NanoStation 5AC Loco, reserv 2"
+    objekt:
+      - "TI-NANOSTATION-5AC-RESERV-2"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008715942"
+    fakturarader:
+      - "F-2026-008715942-R1"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INSTALLATION-TI-CPE-FASTE-61D-001"
+    datum: "2026-09-21"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    datumtyp: "Installationsdatum enligt beställarens anvisning"
+    åtgärd: "Installation av Ubiquiti Toolless Quick Mount CPE"
+    objekt:
+      - "TI-CPE-FASTE-61D-001"
+    placering: "Gaveln till Högalidsvägen 61D"
+    faktura: "F-2026-008715942"
+    fakturarader:
+      - "F-2026-008715942-R2"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-1"
+    datum: "2026-09-21"
+    datumkälla: "K-FAKTUROR-2026-10-23-05"
+    datumtyp: "Fakturadatum för inköp till reservlager"
+    åtgärd: "Inköp till reservlager av Toolless Quick Mount CPE, reserv 1"
+    objekt:
+      - "TI-CPE-FASTE-RESERV-1"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008715942"
+    fakturarader:
+      - "F-2026-008715942-R2"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-2"
+    datum: "2026-09-21"
+    datumkälla: "K-FAKTUROR-2026-10-23-05"
+    datumtyp: "Fakturadatum för inköp till reservlager"
+    åtgärd: "Inköp till reservlager av Toolless Quick Mount CPE, reserv 2"
+    objekt:
+      - "TI-CPE-FASTE-RESERV-2"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008715942"
+    fakturarader:
+      - "F-2026-008715942-R2"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "A-2026-INKÖP-TILL-RESERVLAGER-TI-CPE-FASTE-RESERV-3"
+    datum: "2026-09-21"
+    datumkälla: "K-FAKTUROR-2026-10-23-05"
+    datumtyp: "Fakturadatum för inköp till reservlager"
+    åtgärd: "Inköp till reservlager av Toolless Quick Mount CPE, reserv 3"
+    objekt:
+      - "TI-CPE-FASTE-RESERV-3"
+    placering: "Reservlager i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-008715942"
+    fakturarader:
+      - "F-2026-008715942-R2"
+    utförare: null
+    kostnadsprincip: "Belopp summeras endast från unika fakturor. Delade rader får inte räknas en gång per objekt."
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"

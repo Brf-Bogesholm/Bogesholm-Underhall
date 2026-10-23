@@ -155,3 +155,59 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
+  -
+    id: "TI-PORTMOTOR-G740-FORE-20260819"
+    typ: "portmotor"
+    namn: "Tidigare trasig portmotor, garage 740"
+    datastatus: "verifierad"
+    placering: "Garage 740"
+    egenskaper:
+      modell: null
+      kommentar: "Identitet i historiken avser motorn som beställaren uppger ersattes. Fabrikat och serienummer är okända."
+      ersatt_datum: "2026-08-19"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "G-740"
+      -
+        typ: "replaced_by"
+        objekt: "TI-PORTMOTOR-G740-20260819"
+    underhållshistorik:
+      - "A-2026-BYTE-AV-PORTMOTOR-TI-PORTMOTOR-G740-20260819"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"
+    status: "Ersatt"
+  -
+    id: "TI-PORTMOTOR-G740-20260819"
+    typ: "portmotor"
+    namn: "Aperto A 550 L S3, garage 740"
+    datastatus: "verifierad"
+    placering: "Garage 740, tillhör Högalidsvägen 79C"
+    egenskaper:
+      modell: "A 550 L S3"
+      fjärrkontroll: "Pearl Twin"
+      kommentar: "Reparation av garageport genom byte av trasig motor till en ny."
+      inköpsfaktura: "F-2026-1005437"
+      fakturarad: "F-2026-1005437-R1"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-08-19"
+      datumkälla: "K-KOMPLETTERING-2026-10-23-05"
+      datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "G-740"
+      -
+        typ: "serves"
+        objekt: "L-118-1-0004"
+      -
+        typ: "replaces"
+        objekt: "TI-PORTMOTOR-G740-FORE-20260819"
+    underhållshistorik:
+      - "A-2026-BYTE-AV-PORTMOTOR-TI-PORTMOTOR-G740-20260819"
+    källor:
+      - "K-FAKTUROR-2026-10-23-05"
+      - "K-KOMPLETTERING-2026-10-23-05"

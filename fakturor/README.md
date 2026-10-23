@@ -49,3 +49,9 @@ När fakturan anger en gemensam lista med arbetsdatum utan fördelning mellan de
 - [Källor och godkända kompletteringar](../inventering/importer/fakturor-2026-10-23-04.yaml).
 
 Installationsdatum för denna omgång är fakturadatum enligt beställarens uttryckliga anvisning. Det är inte ett verifierat observationsdatum. Befintliga föräldraobjekt (UNVR och UPS) får inte automatiskt tillbehörens installationsdatum eller inköpskostnad. Två diskar delar en fakturarad, som bara summeras en gång. Värdeskåpet finns i utrustningsregistret.
+
+## Femte registreringsomgången
+
+[Källor och kompletteringar](../inventering/importer/fakturor-2026-10-23-05.yaml) dokumenterar sex fakturor för rackutrustning, kameror, switchar, reservmateriel och byte av portmotor i garage 740. Reservmateriel har inköpsdatum men inget installationsdatum. Enskilda enheter kan dela fakturarad utan att radkostnaden räknas flera gånger.
+
+På faktura 1005437 summerar ursprungliga radbelopp till 7373,75 kr och beställaren bekräftar 0,25 kr öresavrundning till 7374 kr. Fakturans angivna netto och moms summerar samtidigt redan till 7374 kr. Båda representationerna bevaras; avrundningen enligt beställaren adderas inte igen till fakturans totalsummor och radbeloppen normaliseras inte till exklusive moms.
