@@ -108,3 +108,27 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "UT-VARDESKAP-001"
+    typ: "värdeskåp"
+    namn: "Värdeskåp, 16 liter"
+    datastatus: "verifierad"
+    placering: "Mellangången"
+    egenskaper:
+      volym_liter: 16
+      lås: "Kodlås"
+      modell: null
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-09-28"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-82088672710"
+      fakturarad: "F-2026-82088672710-R1"
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALL-UT-VARDESKAP-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"

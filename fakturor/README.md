@@ -42,3 +42,10 @@ Fältet `kanoniskt_objekt` anger att en bevarad historisk beteckning är ett ali
 - [Källor, kompletteringar och dubblettkontroll](../inventering/importer/fakturor-2026-10-23-03.yaml).
 
 När fakturan anger en gemensam lista med arbetsdatum utan fördelning mellan delåtgärderna lämnas respektive åtgärds datum okänt och de angivna arbetsdatumen bevaras separat. Rabatter lagras per rad; à-priset är före rabatt och radbeloppet efter rabatt.
+
+## Fjärde registreringsomgången
+
+- [Nätverks- och lagringsutrustning](../tekniska-installationer/natverk/register.yaml), med individuella diskobjekt och relationer till UNVR respektive UPS.
+- [Källor och godkända kompletteringar](../inventering/importer/fakturor-2026-10-23-04.yaml).
+
+Installationsdatum för denna omgång är fakturadatum enligt beställarens uttryckliga anvisning. Det är inte ett verifierat observationsdatum. Befintliga föräldraobjekt (UNVR och UPS) får inte automatiskt tillbehörens installationsdatum eller inköpskostnad. Två diskar delar en fakturarad, som bara summeras en gång. Värdeskåpet finns i utrustningsregistret.

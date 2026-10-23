@@ -1,0 +1,48 @@
+id: "IMPORT-2026-10-23-04"
+godkänd: "2026-10-23"
+källor:
+  -
+    id: "K-FAKTUROR-2026-10-23-04"
+    typ: "fem fakturor"
+    dokument:
+      -
+        filnamn: "82088672710.pdf"
+        sha256: "9b61bdf08615cd94a4065ba570048a212350016310a8e4f02e89b6842e250e56"
+      -
+        filnamn: "9004352646.pdf"
+        sha256: "52cf862d38265bdf879fcb0e07d9ebf449acec32c03e4f7a3da8d8f70e333898"
+      -
+        filnamn: "9003905371.pdf"
+        sha256: "627695992a1296648f21354b7c142b4e9a113de35ae216cd9e7ed7d81afb6e23"
+      -
+        filnamn: "9003806383.pdf"
+        sha256: "e6c2c05273161c1e1fe4d81c2fd7b2831837ff3fd5797aaf385aee258240e4b4"
+      -
+        filnamn: "9003754192.pdf"
+        sha256: "81f32afe809775495e4ee81ee9e8b3fed394b429d78e5e53a87e0dd7070b3a65"
+  -
+    id: "K-KOMPLETTERING-2026-10-23-04"
+    typ: "beställaruppgifter"
+    uppgifter:
+      - "Värdeskåpet står i Mellangången."
+      - "Två diskar sitter i en nyinstallerad UNVR G2 i kontoret, Högalidsvägen 69. De ersätter inte gamla diskar."
+      - "USW-Pro-8-PoE sitter i kontoret, Högalidsvägen 69."
+      - "5G Max Outdoor är ett 5G-modem för reservinternet. Det sitter för närvarande på föreningslokalens yttervägg, Högalidsvägen 69."
+      - "U7 Outdoor är accesspunkt på parkeringsplatsen."
+      - "Det fakturerade SNMP-kortet hör till UPS i switchrummet i miljöhuset på 60-gården. Det finns även kort i kontorets UPS, men det kopplas inte till denna faktura."
+      - "Fakturadatum får anses vara installationsdatum."
+kontroll:
+  antal_fakturor: 5
+  summa_exklusive_moms: 26754.72
+  summa_moms: 6688.68
+  summa_att_betala: 33443.4
+  valuta: "SEK"
+  inköpta_tillgångar: 7
+  installationer: 7
+öppna_uppgifter:
+  - "Serienummer och garantiuppgifter saknas."
+  - "Exakt placering för Mellangången och inom parkeringsområdet är inte specificerad."
+  - "UNVR-enhetens och UPS:ens egna inköpsunderlag, kostnader och installationsdatum saknas. Dessa härleds inte från tillbehörens fakturor."
+  - "Installationsdatum är enligt beställarens anvisning, inte verifierade observationsdatum."
+  - "Värdeskåpets à-pris och radbelopp skiljer sig utan uttrycklig rabattangivelse; båda originaluppgifterna bevaras."
+  - "SharePoint-länkar saknas."

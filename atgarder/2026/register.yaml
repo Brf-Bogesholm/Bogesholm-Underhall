@@ -446,3 +446,122 @@ version: "1.0"
     datumkommentar: "Fakturadatum används som utförandedatum enligt beställaren."
     besiktningsprotokoll: "B-2026-63"
     kommentar: "Utbyte bekräftat; avhjälpande av varje enskild besiktningsanmärkning är inte verifierat."
+  -
+    id: "A-2026-INSTALL-UT-VARDESKAP-001"
+    datum: "2026-09-28"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av Värdeskåp, 16 liter."
+    objekt:
+      - "UT-VARDESKAP-001"
+    placering: "Mellangången"
+    faktura: "F-2026-82088672710"
+    fakturarader:
+      - "F-2026-82088672710-R1"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALL-TI-HDD-UNVR-G2-001"
+    datum: "2026-10-16"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av WD Purple PRO 12 TB, disk 1 i UNVR G2."
+    objekt:
+      - "TI-HDD-UNVR-G2-001"
+    placering: "I UNVR G2 i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-9004352646"
+    fakturarader:
+      - "F-2026-9004352646-R1"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALL-TI-HDD-UNVR-G2-002"
+    datum: "2026-10-16"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av WD Purple PRO 12 TB, disk 2 i UNVR G2."
+    objekt:
+      - "TI-HDD-UNVR-G2-002"
+    placering: "I UNVR G2 i kontoret, Högalidsvägen 69"
+    faktura: "F-2026-9004352646"
+    fakturarader:
+      - "F-2026-9004352646-R1"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALL-TI-SW-USW-PRO8POE-001"
+    datum: "2026-06-11"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av Ubiquiti USW-Pro-8-PoE."
+    objekt:
+      - "TI-SW-USW-PRO8POE-001"
+    placering: "Kontoret, Högalidsvägen 69"
+    faktura: "F-2026-9003905371"
+    fakturarader:
+      - "F-2026-9003905371-R1"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALL-TI-MODEM-5G-MAX-001"
+    datum: "2026-05-12"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av Ubiquiti UniFi 5G Max Outdoor."
+    objekt:
+      - "TI-MODEM-5G-MAX-001"
+    placering: "För närvarande på föreningslokalens yttervägg, Högalidsvägen 69"
+    faktura: "F-2026-9003806383"
+    fakturarader:
+      - "F-2026-9003806383-R1"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALL-TI-AP-U7-OUTDOOR-001"
+    datum: "2026-04-26"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av Ubiquiti U7 Outdoor."
+    objekt:
+      - "TI-AP-U7-OUTDOOR-001"
+    placering: "Parkeringsplatsen"
+    faktura: "F-2026-9003754192"
+    fakturarader:
+      - "F-2026-9003754192-R1"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "A-2026-INSTALL-TI-SNMP-UPS-MILJOHUS-60-001"
+    datum: "2026-04-26"
+    datumkälla: "K-KOMPLETTERING-2026-10-23-04"
+    datumkommentar: "Fakturadatum används som installationsdatum enligt beställaren."
+    åtgärd: "Installation av BlueWalker PowerWalker SNMP Card 2."
+    objekt:
+      - "TI-SNMP-UPS-MILJOHUS-60-001"
+    placering: "I UPS:en i switchrummet i miljöhuset på 60-gården"
+    faktura: "F-2026-9003754192"
+    fakturarader:
+      - "F-2026-9003754192-R2"
+    utförare: null
+    kostnadsprincip: "Kostnad summeras bara från fakturan. Tillgången och installationen tillför inte ytterligare belopp. Diskarna delar fakturarad; den raden ska inte räknas två gånger."
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"

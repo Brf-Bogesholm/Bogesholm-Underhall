@@ -1,0 +1,212 @@
+objekt:
+  -
+    id: "TI-UNVR-G2-001"
+    typ: "videoinspelare"
+    namn: "UNVR G2"
+    datastatus: "verifierad"
+    placering: "Kontoret, Högalidsvägen 69"
+    egenskaper:
+      modell: "UNVR G2"
+      serienummer: null
+      inköpsfaktura: null
+      inköpskostnad: null
+      installationsdatum: null
+      kommentar: "Ny installation enligt beställaren. Denna faktura avser endast de två diskarna, inte UNVR-enheten."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-UPS-MILJOHUS-60-001"
+    typ: "UPS"
+    namn: "UPS i miljöhusets switchrum på 60-gården"
+    datastatus: "verifierad"
+    placering: "Switchrummet i miljöhuset på 60-gården"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      serienummer: null
+      inköpsfaktura: null
+      inköpskostnad: null
+      installationsdatum: null
+    relationer:
+      []
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-HDD-UNVR-G2-001"
+    typ: "hårddisk"
+    namn: "WD Purple PRO 12 TB, disk 1 i UNVR G2"
+    datastatus: "verifierad"
+    placering: "I UNVR G2 i kontoret, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Western Digital"
+      produktserie: "WD Purple PRO Surveillance"
+      kapacitet_tb: 12
+      gränssnitt: "SATA 6 Gb/s"
+      varvtal_rpm: 7200
+      cache_mb: 256
+      modell: null
+      serienummer: null
+      garanti: null
+      nyinstallation: true
+      installationsdatum: "2026-10-16"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-9004352646"
+      fakturarad: "F-2026-9004352646-R1"
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-UNVR-G2-001"
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INSTALL-TI-HDD-UNVR-G2-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-HDD-UNVR-G2-002"
+    typ: "hårddisk"
+    namn: "WD Purple PRO 12 TB, disk 2 i UNVR G2"
+    datastatus: "verifierad"
+    placering: "I UNVR G2 i kontoret, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Western Digital"
+      produktserie: "WD Purple PRO Surveillance"
+      kapacitet_tb: 12
+      gränssnitt: "SATA 6 Gb/s"
+      varvtal_rpm: 7200
+      cache_mb: 256
+      modell: null
+      serienummer: null
+      garanti: null
+      nyinstallation: true
+      installationsdatum: "2026-10-16"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-9004352646"
+      fakturarad: "F-2026-9004352646-R1"
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-UNVR-G2-001"
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INSTALL-TI-HDD-UNVR-G2-002"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-SW-USW-PRO8POE-001"
+    typ: "nätverksswitch"
+    namn: "Ubiquiti USW-Pro-8-PoE"
+    datastatus: "verifierad"
+    placering: "Kontoret, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Ubiquiti"
+      modell: "USW-Pro-8-PoE"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-06-11"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-9003905371"
+      fakturarad: "F-2026-9003905371-R1"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INSTALL-TI-SW-USW-PRO8POE-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-MODEM-5G-MAX-001"
+    typ: "5G-modem"
+    namn: "Ubiquiti UniFi 5G Max Outdoor"
+    datastatus: "verifierad"
+    placering: "För närvarande på föreningslokalens yttervägg, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Ubiquiti"
+      modell: "UniFi 5G Max Outdoor"
+      användning: "Reservanslutning till internet"
+      serienummer: null
+      garanti: null
+      installationsdatum: "2026-05-12"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-9003806383"
+      fakturarad: "F-2026-9003806383-R1"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-INSTALL-TI-MODEM-5G-MAX-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-AP-U7-OUTDOOR-001"
+    typ: "accesspunkt"
+    namn: "Ubiquiti U7 Outdoor"
+    datastatus: "verifierad"
+    placering: "Parkeringsplatsen"
+    egenskaper:
+      fabrikat: "Ubiquiti"
+      modell: "U7 Outdoor"
+      serienummer: null
+      garanti: null
+      kommentar: "Exakt placering inom parkeringsområdet ej angiven."
+      installationsdatum: "2026-04-26"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-9003754192"
+      fakturarad: "F-2026-9003754192-R1"
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2026-INSTALL-TI-AP-U7-OUTDOOR-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "TI-SNMP-UPS-MILJOHUS-60-001"
+    typ: "SNMP-kort"
+    namn: "BlueWalker PowerWalker SNMP Card 2"
+    datastatus: "verifierad"
+    placering: "I UPS:en i switchrummet i miljöhuset på 60-gården"
+    egenskaper:
+      fabrikat: "BlueWalker PowerWalker"
+      modell: "SNMP Card 2"
+      serienummer: null
+      garanti: null
+      kommentar: "Fakturan avser ett kort. Kortet i kontorets UPS hör inte till denna fakturarad."
+      installationsdatum: "2026-04-26"
+      installationsdatumkälla: "K-KOMPLETTERING-2026-10-23-04"
+      datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
+      inköpsfaktura: "F-2026-9003754192"
+      fakturarad: "F-2026-9003754192-R2"
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-UPS-MILJOHUS-60-001"
+    underhållshistorik:
+      - "A-2026-INSTALL-TI-SNMP-UPS-MILJOHUS-60-001"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"

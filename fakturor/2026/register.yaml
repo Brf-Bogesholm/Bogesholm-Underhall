@@ -3,6 +3,7 @@ registreringsomgångar:
   - "2026-10-23-01"
   - "2026-10-23-02"
   - "2026-10-23-03"
+  - "2026-10-23-04"
 fakturor:
   -
     id: "F-2026-7150"
@@ -938,3 +939,261 @@ fakturor:
       - "A-2025-757025140596-2"
       - "A-2025-757025140596-3"
     kommentar: "Arbetena utfördes 2025 och fakturerades 2026. Datum och material kan inte fördelas mellan delåtgärderna. Priser före rabatt och faktiskt radbelopp efter rabatt bevaras."
+  -
+    id: "F-2026-82088672710"
+    fakturanummer: "82088672710"
+    leverantör: "Clas Ohlson AB"
+    organisationsnummer: "556035-8672"
+    fakturadatum: "2026-09-28"
+    förfallodatum: "2026-10-28"
+    leveransdatum: null
+    ordernummer: "403316550"
+    orderdatum: null
+    ocr: "82088672710"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 891.32
+    moms: 222.83
+    öresavrundning: 0
+    att_betala: 1114.15
+    rader:
+      -
+        id: "F-2026-82088672710-R1"
+        artikelnummer: "414210000"
+        benämning: "Kassaskåp, säkerhetsskåp med kodlås, 16 liter"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 796
+        belopp_exklusive_moms: 772.12
+        prisskillnad_mot_antal_gånger_à_pris: -23.88
+        kommentar: "Angivet à-pris 796 kr och radbelopp 772,12 kr bevaras. Skillnaden motsvarar 3 procent; rabatt anges inte uttryckligen."
+      -
+        id: "F-2026-82088672710-R2"
+        artikelnummer: "105"
+        benämning: "Företagspaket"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 119.2
+        belopp_exklusive_moms: 119.2
+    tillgångar:
+      - "UT-VARDESKAP-001"
+    åtgärder:
+      - "A-2026-INSTALL-UT-VARDESKAP-001"
+    datastatus: "verifierad"
+    dokument:
+      filnamn: "82088672710.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+    betalningsmottagare: "Billie GmbH"
+  -
+    id: "F-2026-9004352646"
+    fakturanummer: "9004352646"
+    leverantör: "Komplett Services Sweden AB"
+    organisationsnummer: "556581-0644"
+    fakturadatum: "2026-10-16"
+    förfallodatum: "2026-11-05"
+    leveransdatum: "2026-10-16"
+    ordernummer: "2004404772"
+    orderdatum: "2026-10-16"
+    ocr: "90043526467"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 12937.4
+    moms: 3234.35
+    öresavrundning: 0
+    att_betala: 16171.75
+    rader:
+      -
+        id: "F-2026-9004352646-R1"
+        artikelnummer: "1333568"
+        benämning: "WD Purple PRO Surveillance 12TB, SATA 6Gb/s, 7200 RPM, 256 MB cache"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 6399.2
+        belopp_exklusive_moms: 12798.4
+      -
+        id: "F-2026-9004352646-R2"
+        artikelnummer: "201033"
+        benämning: "Postnord Parcel Företagspaket"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 139
+        belopp_exklusive_moms: 139
+    tillgångar:
+      - "TI-HDD-UNVR-G2-001"
+      - "TI-HDD-UNVR-G2-002"
+    åtgärder:
+      - "A-2026-INSTALL-TI-HDD-UNVR-G2-001"
+      - "A-2026-INSTALL-TI-HDD-UNVR-G2-002"
+    datastatus: "verifierad"
+    dokument:
+      filnamn: "9004352646.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+    leveransadress: "Högalidsvägen 61D, Kävlinge"
+    leveransadresskommentar: "Leveransadress är inte installationsplats."
+  -
+    id: "F-2026-9003905371"
+    fakturanummer: "9003905371"
+    leverantör: "Komplett Services Sweden AB"
+    organisationsnummer: "556581-0644"
+    fakturadatum: "2026-06-11"
+    förfallodatum: "2026-07-01"
+    leveransdatum: "2026-06-11"
+    ordernummer: "2003952432"
+    orderdatum: "2026-06-08"
+    ocr: "90039053716"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 3577
+    moms: 894.25
+    öresavrundning: 0
+    att_betala: 4471.25
+    rader:
+      -
+        id: "F-2026-9003905371-R1"
+        artikelnummer: "1331822"
+        benämning: "Ubiquiti USW-Pro-8-PoE switch"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 3512
+        belopp_exklusive_moms: 3512
+      -
+        id: "F-2026-9003905371-R2"
+        artikelnummer: "201030"
+        benämning: "Postnord MyPack Collect"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 65
+        belopp_exklusive_moms: 65
+    tillgångar:
+      - "TI-SW-USW-PRO8POE-001"
+    åtgärder:
+      - "A-2026-INSTALL-TI-SW-USW-PRO8POE-001"
+    datastatus: "verifierad"
+    dokument:
+      filnamn: "9003905371.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+    leveransadress: "Högalidsvägen 61D, Kävlinge"
+    leveransadresskommentar: "Leveransadress är inte installationsplats."
+  -
+    id: "F-2026-9003806383"
+    fakturanummer: "9003806383"
+    leverantör: "Komplett Services Sweden AB"
+    organisationsnummer: "556581-0644"
+    fakturadatum: "2026-05-12"
+    förfallodatum: "2026-06-01"
+    leveransdatum: "2026-05-12"
+    ordernummer: "2003848441"
+    orderdatum: "2026-05-07"
+    ocr: "90038063831"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 4857
+    moms: 1214.25
+    öresavrundning: 0
+    att_betala: 6071.25
+    rader:
+      -
+        id: "F-2026-9003806383-R1"
+        artikelnummer: "1335903"
+        benämning: "Ubiquiti UniFi 5G Max outdoor gateway"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 4792
+        belopp_exklusive_moms: 4792
+      -
+        id: "F-2026-9003806383-R2"
+        artikelnummer: "201030"
+        benämning: "Postnord MyPack Collect"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 65
+        belopp_exklusive_moms: 65
+    tillgångar:
+      - "TI-MODEM-5G-MAX-001"
+    åtgärder:
+      - "A-2026-INSTALL-TI-MODEM-5G-MAX-001"
+    datastatus: "verifierad"
+    dokument:
+      filnamn: "9003806383.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+    leveransadress: "Högalidsvägen 61D, Kävlinge"
+    leveransadresskommentar: "Leveransadress är inte installationsplats."
+  -
+    id: "F-2026-9003754192"
+    fakturanummer: "9003754192"
+    leverantör: "Komplett Services Sweden AB"
+    organisationsnummer: "556581-0644"
+    fakturadatum: "2026-04-26"
+    förfallodatum: "2026-05-16"
+    leveransdatum: "2026-04-26"
+    ordernummer: "2003726287"
+    orderdatum: "2026-03-27"
+    ocr: "90037541928"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 4492
+    moms: 1123
+    öresavrundning: 0
+    att_betala: 5615
+    rader:
+      -
+        id: "F-2026-9003754192-R1"
+        artikelnummer: "1316146"
+        benämning: "Ubiquiti U7 Outdoor Accesspunkt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 2632
+        belopp_exklusive_moms: 2632
+      -
+        id: "F-2026-9003754192-R2"
+        artikelnummer: "1128585"
+        benämning: "BlueWalker PowerWalker SNMP Card 2"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1795
+        belopp_exklusive_moms: 1795
+      -
+        id: "F-2026-9003754192-R3"
+        artikelnummer: "201030"
+        benämning: "Postnord MyPack Collect"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 65
+        belopp_exklusive_moms: 65
+    tillgångar:
+      - "TI-AP-U7-OUTDOOR-001"
+      - "TI-SNMP-UPS-MILJOHUS-60-001"
+    åtgärder:
+      - "A-2026-INSTALL-TI-AP-U7-OUTDOOR-001"
+      - "A-2026-INSTALL-TI-SNMP-UPS-MILJOHUS-60-001"
+    datastatus: "verifierad"
+    dokument:
+      filnamn: "9003754192.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-04"
+      - "K-KOMPLETTERING-2026-10-23-04"
+    leveransadress: "Högalidsvägen 61D, Kävlinge"
+    leveransadresskommentar: "Leveransadress är inte installationsplats."

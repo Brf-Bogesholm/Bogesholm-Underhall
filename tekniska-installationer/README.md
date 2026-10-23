@@ -38,3 +38,5 @@ Objektets dokumentation kan innehålla:
 Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 
 Tre Nibe F2120-20-värmepumpar har individuella objekt-ID:n baserade på serienummer och koppling till [försäkringar 2026](../forsakringar/2026/register.yaml). Samtliga står utomhus vid undercentralen på Högalidsvägen 69 enligt beställaren.
+
+[Nätverk och lagring](natverk/README.md) innehåller kompletterande objektregister för switch, 5G-modem, accesspunkt, UNVR, diskar och UPS-tillbehör.
