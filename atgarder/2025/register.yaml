@@ -1,0 +1,95 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-2025-757025140596-1"
+    datum: null
+    arbetsdatum_enligt_faktura:
+      - "2025-11-11"
+      - "2025-12-10"
+      - "2025-12-18"
+    datumkommentar: "Gemensamma arbetsdatum är kända men kan inte fördelas mellan delåtgärderna."
+    åtgärd: "Bortkoppling av markarmaturer."
+    objekt:
+      - "H-75"
+    placering: "Gaveln till Högalidsvägen 75"
+    utförare: "Dalby Strands Eltjänst AB"
+    faktura: "F-2026-757025140596"
+    fakturarader:
+      - "F-2026-757025140596-R1"
+      - "F-2026-757025140596-R2"
+      - "F-2026-757025140596-R3"
+      - "F-2026-757025140596-R4"
+      - "F-2026-757025140596-R5"
+      - "F-2026-757025140596-R6"
+      - "F-2026-757025140596-R7"
+      - "F-2026-757025140596-R8"
+      - "F-2026-757025140596-R9"
+      - "F-2026-757025140596-R10"
+      - "F-2026-757025140596-R11"
+    kostnadsfördelning: null
+    kostnadsprincip: "Kostnaden summeras endast från den unika fakturan. Gemensamma rader innebär inte att hela beloppet tillhör varje åtgärd."
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+  -
+    id: "A-2025-757025140596-2"
+    datum: null
+    arbetsdatum_enligt_faktura:
+      - "2025-11-11"
+      - "2025-12-10"
+      - "2025-12-18"
+    datumkommentar: "Gemensamma arbetsdatum är kända men kan inte fördelas mellan delåtgärderna."
+    åtgärd: "Genomgång och byte av armaturer runt föreningslokalen."
+    objekt:
+      - "H-69"
+    placering: "Runt föreningslokalen, Högalidsvägen 69"
+    utförare: "Dalby Strands Eltjänst AB"
+    faktura: "F-2026-757025140596"
+    fakturarader:
+      - "F-2026-757025140596-R1"
+      - "F-2026-757025140596-R2"
+      - "F-2026-757025140596-R3"
+      - "F-2026-757025140596-R4"
+      - "F-2026-757025140596-R5"
+      - "F-2026-757025140596-R6"
+      - "F-2026-757025140596-R7"
+      - "F-2026-757025140596-R8"
+      - "F-2026-757025140596-R9"
+      - "F-2026-757025140596-R10"
+      - "F-2026-757025140596-R11"
+    kostnadsfördelning: null
+    kostnadsprincip: "Kostnaden summeras endast från den unika fakturan. Gemensamma rader innebär inte att hela beloppet tillhör varje åtgärd."
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+  -
+    id: "A-2025-757025140596-3"
+    datum: null
+    arbetsdatum_enligt_faktura:
+      - "2025-11-11"
+      - "2025-12-10"
+      - "2025-12-18"
+    datumkommentar: "Gemensamma arbetsdatum är kända men kan inte fördelas mellan delåtgärderna."
+    åtgärd: "Montering av belysning på områdesskylten."
+    objekt:
+      - "GL-4"
+    placering: "Områdesskylten på gaveln till garagelänga 4"
+    utförare: "Dalby Strands Eltjänst AB"
+    faktura: "F-2026-757025140596"
+    fakturarader:
+      - "F-2026-757025140596-R1"
+      - "F-2026-757025140596-R2"
+      - "F-2026-757025140596-R3"
+      - "F-2026-757025140596-R4"
+      - "F-2026-757025140596-R5"
+      - "F-2026-757025140596-R6"
+      - "F-2026-757025140596-R7"
+      - "F-2026-757025140596-R8"
+      - "F-2026-757025140596-R9"
+      - "F-2026-757025140596-R10"
+      - "F-2026-757025140596-R11"
+    kostnadsfördelning: null
+    kostnadsprincip: "Kostnaden summeras endast från den unika fakturan. Gemensamma rader innebär inte att hela beloppet tillhör varje åtgärd."
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"

@@ -1,0 +1,46 @@
+id: "IMPORT-2026-10-23-03"
+godkänd: "2026-10-23"
+källor:
+  -
+    id: "K-FAKTUROR-2026-10-23-03"
+    typ: "en elfaktura och tre unika försäkringserbjudanden"
+    filer:
+      -
+        filnamn: "4661125846611258.PDF"
+        sha256: "b6d9fff5cdd1e48d0b6624447623391ba6d5e5151c2860784591f2158c984406"
+      -
+        filnamn: "17806414119101020-2(1).pdf"
+        sha256: "357f606ecd5e1ccb75ca919f3d9ca6b1575e4459792a20ee25fe5d20eef85044"
+      -
+        filnamn: "17806414119101018-2(1).pdf"
+        sha256: "5b5e656d5f388c960eea2855b3a02e2333e1e0e9258830e64bdc6909db66dfc4"
+      -
+        filnamn: "17806414119101011-2(1).pdf"
+        sha256: "9b2c87c4b79770d5c30efc5be1ff2d8c61583c9d8c142dfedca6a65c9571bedc"
+      -
+        filnamn: "17806414119101011-2(1) (1).pdf"
+        sha256: "9b2c87c4b79770d5c30efc5be1ff2d8c61583c9d8c142dfedca6a65c9571bedc"
+  -
+    id: "K-KOMPLETTERING-2026-10-23-03"
+    typ: "beställaruppgifter"
+    uppgifter:
+      - "OCR får användas som fakturanummer."
+      - "Föreningslokalen har adress Högalidsvägen 69. Områdesskylten sitter på gaveln till garagelänga 4. Markarmaturerna satt på gaveln till Högalidsvägen 75."
+      - "Samtliga tre försäkringar förnyades. Betalning har inte bekräftats."
+      - "Samtliga tre värmepumpar står utomhus vid undercentralen på Högalidsvägen 69."
+dubbletter:
+  -
+    filnamn: "17806414119101011-2(1) (1).pdf"
+    dubblett_av: "17806414119101011-2(1).pdf"
+    åtgärd: "Ingen extra registrering; filerna är byte-identiska."
+kontroll:
+  unika_fakturor: 1
+  fakturatotal_inklusive_moms: 22068
+  unika_försäkringar: 3
+  summa_premier: 9540
+  valuta: "SEK"
+öppna_uppgifter:
+  - "Betalningsstatus för försäkringarna är okänd."
+  - "Material och arbetsdatum på elfakturan har inte fördelats mellan åtgärderna."
+  - "SharePoint-länkar till originalen saknas."
+  - "Garagelänga 4 har inte kopplats till ingående garage eller exakt gatuadress."

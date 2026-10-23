@@ -80,3 +80,78 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+  -
+    id: "TI-VP-06414119101020"
+    typ: "värmepump"
+    namn: "Nibe F2120-20, serienummer 06414119101020"
+    datastatus: "verifierad"
+    placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Nibe"
+      modell: "F2120-20 3X400V"
+      serienummer: "06414119101020"
+      installationsdatum: "2019-06-11"
+      installationsdatumkälla: "FORS-17806414119101020-2026"
+      inköpskostnad: null
+      garanti: null
+      försäkringar:
+        - "FORS-17806414119101020-2026"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+  -
+    id: "TI-VP-06414119101018"
+    typ: "värmepump"
+    namn: "Nibe F2120-20, serienummer 06414119101018"
+    datastatus: "verifierad"
+    placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Nibe"
+      modell: "F2120-20 3X400V"
+      serienummer: "06414119101018"
+      installationsdatum: "2019-06-11"
+      installationsdatumkälla: "FORS-17806414119101018-2026"
+      inköpskostnad: null
+      garanti: null
+      försäkringar:
+        - "FORS-17806414119101018-2026"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+  -
+    id: "TI-VP-06414119101011"
+    typ: "värmepump"
+    namn: "Nibe F2120-20, serienummer 06414119101011"
+    datastatus: "verifierad"
+    placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Nibe"
+      modell: "F2120-20 3X400V"
+      serienummer: "06414119101011"
+      installationsdatum: "2019-06-11"
+      installationsdatumkälla: "FORS-17806414119101011-2026"
+      inköpskostnad: null
+      garanti: null
+      försäkringar:
+        - "FORS-17806414119101011-2026"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"

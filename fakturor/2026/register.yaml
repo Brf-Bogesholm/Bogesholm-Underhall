@@ -2,6 +2,7 @@ version: "1.0"
 registreringsomgångar:
   - "2026-10-23-01"
   - "2026-10-23-02"
+  - "2026-10-23-03"
 fakturor:
   -
     id: "F-2026-7150"
@@ -813,3 +814,127 @@ fakturor:
     åtgärder:
       - "A-2026-2697-1"
     kommentar: "Byte av ena taksidan på klätterleken med rutschkana på 60-gården efter lekplatsbesiktning, enligt beställaren. Beställarens felskrivning 2679 har bekräftats avse 2697."
+  -
+    id: "F-2026-757025140596"
+    fakturanummer: "757025140596"
+    fakturanummerkälla: "OCR-numret används som fakturanummer enligt beställarens uttryckliga anvisning; separat fakturanummer framgår inte tydligt av dokumentet."
+    ocr: "757025140596"
+    leverantör: "Dalby Strands Eltjänst AB"
+    organisationsnummer: "559136-2628"
+    fakturadatum: "2026-01-26"
+    förfallodatum: "2026-02-25"
+    ordernummer: "17588"
+    projekt: "1000083 - IB 2025"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 17654.03
+    moms: 4413.51
+    öresavrundning: 0.46
+    att_betala: 22068
+    arbetsdatum_enligt_faktura:
+      - "2025-11-11"
+      - "2025-12-10"
+      - "2025-12-18"
+    dokument:
+      filnamn: "4661125846611258.PDF"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-757025140596-R1"
+        benämning: "RESA/SERVICEBIL"
+        antal: 3
+        enhet: null
+        à_pris_exklusive_moms: 400
+        rabatt_procent: 0
+        belopp_exklusive_moms: 1200
+      -
+        id: "F-2026-757025140596-R2"
+        benämning: "2025-11-11 ARBETSKOSTNAD ELMONTÖR"
+        antal: 1.5
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        rabatt_procent: 0
+        belopp_exklusive_moms: 892.5
+      -
+        id: "F-2026-757025140596-R3"
+        benämning: "2025-12-10 ARBETSKOSTNAD ELMONTÖR"
+        antal: 4
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        rabatt_procent: 0
+        belopp_exklusive_moms: 2380
+      -
+        id: "F-2026-757025140596-R4"
+        benämning: "2025-12-18 ARBETSKOSTNAD ELMONTÖR"
+        antal: 7.5
+        enhet: "tim"
+        à_pris_exklusive_moms: 595
+        rabatt_procent: 0
+        belopp_exklusive_moms: 4462.5
+      -
+        id: "F-2026-757025140596-R5"
+        benämning: "DOWNL LED 4W 3K 180LM IP65 CALLISTO MATT-VIT 3000K"
+        antal: 11
+        enhet: "st"
+        à_pris_exklusive_moms: 610
+        rabatt_procent: 0
+        belopp_exklusive_moms: 6710
+      -
+        id: "F-2026-757025140596-R6"
+        benämning: "VP-rör 16,0 LF PVC beige 3m 75"
+        antal: 6
+        enhet: "m"
+        à_pris_exklusive_moms: 9.33
+        rabatt_procent: 20
+        belopp_exklusive_moms: 44.78
+      -
+        id: "F-2026-757025140596-R7"
+        benämning: "Koppl dosa U56 vit tom"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 42.4
+        rabatt_procent: 20
+        belopp_exklusive_moms: 67.84
+      -
+        id: "F-2026-757025140596-R8"
+        benämning: "Dragavlastning p-vit"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 28.49
+        rabatt_procent: 20
+        belopp_exklusive_moms: 22.79
+      -
+        id: "F-2026-757025140596-R9"
+        benämning: "LEDstrip 230 IP65 H.Lum 3000K"
+        antal: 2
+        enhet: "m"
+        à_pris_exklusive_moms: 765.29
+        rabatt_procent: 20
+        belopp_exklusive_moms: 1224.46
+      -
+        id: "F-2026-757025140596-R10"
+        benämning: "Anslutnings.kit LEDstrip 230V"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 327.6
+        rabatt_procent: 20
+        belopp_exklusive_moms: 524.16
+      -
+        id: "F-2026-757025140596-R11"
+        benämning: "FÄSTMATERIAL"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 125
+        rabatt_procent: 0
+        belopp_exklusive_moms: 125
+    åtgärder:
+      - "A-2025-757025140596-1"
+      - "A-2025-757025140596-2"
+      - "A-2025-757025140596-3"
+    kommentar: "Arbetena utfördes 2025 och fakturerades 2026. Datum och material kan inte fördelas mellan delåtgärderna. Priser före rabatt och faktiskt radbelopp efter rabatt bevaras."

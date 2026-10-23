@@ -34,3 +34,11 @@ Inköp, kostnad, garanti och underhållshistorik för server- och nätverksutrus
 Besiktningsprotokoll lagras som strukturerade observationer med ursprungligt besiktningsdatum, protokollets utfärdandedatum, lokal objektsnumrering och felklassning. Nummer i protokollen är inte globala objekt-ID:n. IFI betyder inga fel identifierade vid besiktningen. Felklassningen är protokollets bedömning, inte en ny riskbedömning. Datumavvikelser mellan faktura och protokoll dokumenteras. Historiska anmärkningar blir inte automatiskt avhjälpta när arbete faktureras; verifierad koppling till respektive anmärkning krävs.
 
 Fältet `kanoniskt_objekt` anger att en bevarad historisk beteckning är ett alias, inte ytterligare ett fysiskt objekt. `G-FORENING-71` hänvisar till Garage 771, vars befintliga ID `P-771` behålls trots rättad klassificering.
+
+## Tredje registreringsomgången
+
+- [Elarbeten utförda 2025](../atgarder/2025/register.yaml), fakturerade 2026.
+- [Förnyade värmepumpsförsäkringar](../forsakringar/2026/register.yaml), separat från fakturor.
+- [Källor, kompletteringar och dubblettkontroll](../inventering/importer/fakturor-2026-10-23-03.yaml).
+
+När fakturan anger en gemensam lista med arbetsdatum utan fördelning mellan delåtgärderna lämnas respektive åtgärds datum okänt och de angivna arbetsdatumen bevaras separat. Rabatter lagras per rad; à-priset är före rabatt och radbeloppet efter rabatt.

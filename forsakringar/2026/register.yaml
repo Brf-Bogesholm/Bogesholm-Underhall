@@ -1,0 +1,98 @@
+version: "1.0"
+försäkringar:
+  -
+    id: "FORS-17806414119101020-2026"
+    typ: "förnyad värmepumpsförsäkring"
+    försäkringsnummer: "17806414119101020"
+    objekt: "TI-VP-06414119101020"
+    dokumenttyp: "Förnyelseerbjudande med försäkringsbevis"
+    dokumentdatum: "2026-07-17"
+    försäkringsgivare: "Protector Försäkring"
+    försäkringsgivare_organisationsnummer: "516408-7339"
+    förmedlare_administratör: "Arctic Seals AB"
+    förmedlare_organisationsnummer: "556594-5234"
+    period_från: "2026-06-11"
+    period_till: "2027-06-10"
+    premie: 3180
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Moms anges inte i dokumentet; ingen moms har antagits."
+    status: "Förnyad"
+    statuskälla: "K-KOMPLETTERING-2026-10-23-03"
+    betalningsstatus: "Okänd"
+    förnyelsedatum: null
+    ocr: "41186065219"
+    erbjudande_giltigt_till: "2026-07-31"
+    dokument:
+      filnamn: "17806414119101020-2(1).pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+    kommentar: "Förnyelse bekräftad av beställaren. Detta är inte en vanlig leverantörsfaktura; premien läggs inte till fakturaregistrets totalsumma."
+  -
+    id: "FORS-17806414119101018-2026"
+    typ: "förnyad värmepumpsförsäkring"
+    försäkringsnummer: "17806414119101018"
+    objekt: "TI-VP-06414119101018"
+    dokumenttyp: "Förnyelseerbjudande med försäkringsbevis"
+    dokumentdatum: "2026-07-17"
+    försäkringsgivare: "Protector Försäkring"
+    försäkringsgivare_organisationsnummer: "516408-7339"
+    förmedlare_administratör: "Arctic Seals AB"
+    förmedlare_organisationsnummer: "556594-5234"
+    period_från: "2026-06-11"
+    period_till: "2027-06-10"
+    premie: 3180
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Moms anges inte i dokumentet; ingen moms har antagits."
+    status: "Förnyad"
+    statuskälla: "K-KOMPLETTERING-2026-10-23-03"
+    betalningsstatus: "Okänd"
+    förnyelsedatum: null
+    ocr: "41186065110"
+    erbjudande_giltigt_till: "2026-07-31"
+    dokument:
+      filnamn: "17806414119101018-2(1).pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+    kommentar: "Förnyelse bekräftad av beställaren. Detta är inte en vanlig leverantörsfaktura; premien läggs inte till fakturaregistrets totalsumma."
+  -
+    id: "FORS-17806414119101011-2026"
+    typ: "förnyad värmepumpsförsäkring"
+    försäkringsnummer: "17806414119101011"
+    objekt: "TI-VP-06414119101011"
+    dokumenttyp: "Förnyelseerbjudande med försäkringsbevis"
+    dokumentdatum: "2026-07-17"
+    försäkringsgivare: "Protector Försäkring"
+    försäkringsgivare_organisationsnummer: "516408-7339"
+    förmedlare_administratör: "Arctic Seals AB"
+    förmedlare_organisationsnummer: "556594-5234"
+    period_från: "2026-06-11"
+    period_till: "2027-06-10"
+    premie: 3180
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Moms anges inte i dokumentet; ingen moms har antagits."
+    status: "Förnyad"
+    statuskälla: "K-KOMPLETTERING-2026-10-23-03"
+    betalningsstatus: "Okänd"
+    förnyelsedatum: null
+    ocr: "41186065011"
+    erbjudande_giltigt_till: "2026-07-31"
+    dokument:
+      filnamn: "17806414119101011-2(1).pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-10-23-03"
+      - "K-KOMPLETTERING-2026-10-23-03"
+    kommentar: "Förnyelse bekräftad av beställaren. Detta är inte en vanlig leverantörsfaktura; premien läggs inte till fakturaregistrets totalsumma."

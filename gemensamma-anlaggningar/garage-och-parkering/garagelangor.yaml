@@ -1,0 +1,15 @@
+objekt:
+  -
+    id: "GL-4"
+    typ: "garagelänga"
+    namn: "Garagelänga 4"
+    datastatus: "verifierad"
+    placering: "Brf Bogesholm, exakt gatuadress ej fastställd"
+    egenskaper:
+      kommentar: "Skild från enskilda garage 701–771. Vilka garage som ingår är ännu inte verifierat."
+    relationer:
+      []
+    underhållshistorik:
+      - "A-2025-757025140596-3"
+    källor:
+      - "K-KOMPLETTERING-2026-10-23-03"

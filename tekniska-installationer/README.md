@@ -2,7 +2,7 @@
 
 Detta avsnitt innehåller dokumentation av föreningens tekniska installationer och system.
 
-Det finns ännu inget inventerat objektsregister i denna kategori. Nya objekt registreras först när de är inventerade eller har verifierat underlag, enligt [`../modell/objektmodell.yaml`](../modell/objektmodell.yaml).
+[register.yaml](register.yaml) innehåller installationer registrerade från verifierade underlag och beställarens kompletteringar, enligt [objektmodellen](../modell/objektmodell.yaml). Registret är inte en fullständig inventering av samtliga installationer.
 
 ## Objektkategorier
 
@@ -36,3 +36,5 @@ Objektets dokumentation kan innehålla:
 - Hänvisningar till originaldokument
 
 Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
+
+Tre Nibe F2120-20-värmepumpar har individuella objekt-ID:n baserade på serienummer och koppling till [försäkringar 2026](../forsakringar/2026/register.yaml). Samtliga står utomhus vid undercentralen på Högalidsvägen 69 enligt beställaren.
