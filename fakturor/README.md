@@ -55,3 +55,7 @@ Installationsdatum för denna omgång är fakturadatum enligt beställarens uttr
 [Källor och kompletteringar](../inventering/importer/fakturor-2026-10-23-05.yaml) dokumenterar sex fakturor för rackutrustning, kameror, switchar, reservmateriel och byte av portmotor i garage 740. Reservmateriel har inköpsdatum men inget installationsdatum. Enskilda enheter kan dela fakturarad utan att radkostnaden räknas flera gånger.
 
 På faktura 1005437 summerar ursprungliga radbelopp till 7373,75 kr och beställaren bekräftar 0,25 kr öresavrundning till 7374 kr. Fakturans angivna netto och moms summerar samtidigt redan till 7374 kr. Båda representationerna bevaras; avrundningen enligt beställaren adderas inte igen till fakturans totalsummor och radbeloppen normaliseras inte till exklusive moms.
+
+## Vattenledningsbesiktning, faktura 7594
+
+[Besiktning](../besiktningar/2026/vattenledningar.yaml), [78 lägenhetskopplingar](../lagenheter/besiktningskopplingar-2026.yaml) och [källor](../inventering/importer/faktura-7594-2026-10-27.yaml). En gemensam händelse omfattar samtliga lägenheter, utan antagen kostnadsfördelning. Rapport inväntas. Fakturans arbetsdatum 15, 16 och 19 oktober bevaras; registrerat utförandedatum 22 oktober 2026 är enligt beställarens uttryckliga anvisning.

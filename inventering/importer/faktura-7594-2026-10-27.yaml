@@ -1,0 +1,25 @@
+id: "IMPORT-2026-10-27-06"
+godkänd: "2026-10-27"
+källor:
+  -
+    id: "K-FAKTURA-7594"
+    typ: "faktura"
+    filnamn: "Faktura_7594_20261022-202938.pdf"
+    sha256: "5f0b3bf1a38a1f75cc1a6a26a5c34432d3817fd31c7dcb74eaca79c7b212c05f"
+  -
+    id: "K-KOMPLETTERING-7594-20261027"
+    typ: "beställaruppgifter"
+    uppgifter:
+      - "Fakturan gäller besiktning av vattenledningarnas status i samtliga 78 lägenheter."
+      - "Använd fakturadatum som utförandedatum på samtliga 78 lägenheter."
+      - "Besiktningsrapport kommer senare och kopplas till faktura och respektive lägenhet."
+      - "Extraktionen och registreringsförslaget godkändes 2026-10-27."
+kontroll:
+  antal_fakturor: 1
+  antal_gemensamma_besiktningshändelser: 1
+  antal_lägenhetskopplingar: 78
+  att_betala: 6688
+  valuta: "SEK"
+öppna_uppgifter:
+  - "Besiktningsrapport och individuella resultat inväntas."
+  - "Beständiga SharePoint-länkar saknas."

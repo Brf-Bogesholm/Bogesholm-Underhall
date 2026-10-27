@@ -5,6 +5,7 @@ registreringsomgångar:
   - "2026-10-23-03"
   - "2026-10-23-04"
   - "2026-10-23-05"
+  - "2026-10-27-06"
 fakturor:
   -
     id: "F-2026-7150"
@@ -1527,3 +1528,147 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "F-2026-7594"
+    fakturanummer: "7594"
+    leverantör: "Alex Rörtjänst AB"
+    organisationsnummer: "559114-5890"
+    fakturadatum: "2026-10-22"
+    förfallodatum: "2026-11-21"
+    projekt: "26611"
+    projektbeskrivning_original: "Kolla brunnarna i lägenheterna"
+    beskrivning_enligt_beställare: "Besiktning av vattenledningarnas status i samtliga 78 lägenheter"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 5350
+    moms: 1337.5
+    öresavrundning: 0.5
+    att_betala: 6688
+    datastatus: "verifierad"
+    arbetsdatum_enligt_faktura:
+      - "2026-10-15"
+      - "2026-10-16"
+      - "2026-10-19"
+    rader:
+      -
+        id: "F-2026-7594-R1"
+        benämning: "2026-10-19 - Kollat 3st brunnar"
+        antal: 1
+        enhet: "tim"
+        à_pris_exklusive_moms: 550
+        belopp_exklusive_moms: 550
+        arbetsdatum_enligt_faktura: "2026-10-19"
+      -
+        id: "F-2026-7594-R2"
+        benämning: "2026-10-16 - Kollat brunnar"
+        antal: 4
+        enhet: "tim"
+        à_pris_exklusive_moms: 550
+        belopp_exklusive_moms: 2200
+        arbetsdatum_enligt_faktura: "2026-10-16"
+      -
+        id: "F-2026-7594-R3"
+        benämning: "2026-10-15 - Kollat brunnarna"
+        antal: 4
+        enhet: "tim"
+        à_pris_exklusive_moms: 550
+        belopp_exklusive_moms: 2200
+        arbetsdatum_enligt_faktura: "2026-10-15"
+      -
+        id: "F-2026-7594-R4"
+        benämning: "Servicebil"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 400
+        arbetsdatum_enligt_faktura: null
+    åtgärder:
+      - "A-2026-7594-1"
+    besiktningar:
+      - "B-2026-VATTENLEDNINGAR-7594"
+    lägenheter:
+      - "L-118-1-0001"
+      - "L-118-1-0002"
+      - "L-118-1-0003"
+      - "L-118-1-0004"
+      - "L-118-1-0005"
+      - "L-118-1-0006"
+      - "L-118-1-0007"
+      - "L-118-1-0008"
+      - "L-118-1-0009"
+      - "L-118-1-0010"
+      - "L-118-1-0011"
+      - "L-118-1-0012"
+      - "L-118-1-0013"
+      - "L-118-1-0014"
+      - "L-118-1-0015"
+      - "L-118-1-0016"
+      - "L-118-1-0017"
+      - "L-118-1-0018"
+      - "L-118-1-0019"
+      - "L-118-1-0020"
+      - "L-118-1-0021"
+      - "L-118-1-0022"
+      - "L-118-1-0023"
+      - "L-118-1-0024"
+      - "L-118-1-0025"
+      - "L-118-1-0026"
+      - "L-118-1-0027"
+      - "L-118-1-0028"
+      - "L-118-1-0029"
+      - "L-118-1-0030"
+      - "L-118-1-0031"
+      - "L-118-1-0032"
+      - "L-118-1-0033"
+      - "L-118-1-0034"
+      - "L-118-1-0035"
+      - "L-118-1-0036"
+      - "L-118-1-0037"
+      - "L-118-1-0038"
+      - "L-118-1-0039"
+      - "L-118-1-0040"
+      - "L-118-1-0041"
+      - "L-118-1-0042"
+      - "L-118-1-0043"
+      - "L-118-1-0044"
+      - "L-118-1-0045"
+      - "L-118-1-0046"
+      - "L-118-1-0047"
+      - "L-118-1-0048"
+      - "L-118-1-0049"
+      - "L-118-1-0050"
+      - "L-118-1-0051"
+      - "L-118-1-0052"
+      - "L-118-1-0053"
+      - "L-118-1-0054"
+      - "L-118-1-0055"
+      - "L-118-1-0056"
+      - "L-118-1-0057"
+      - "L-118-1-0058"
+      - "L-118-1-0059"
+      - "L-118-1-0060"
+      - "L-118-1-0061"
+      - "L-118-1-0062"
+      - "L-118-1-0063"
+      - "L-118-1-0064"
+      - "L-118-1-0065"
+      - "L-118-1-0066"
+      - "L-118-1-0067"
+      - "L-118-1-0068"
+      - "L-118-1-0069"
+      - "L-118-1-0070"
+      - "L-118-1-0071"
+      - "L-118-1-0072"
+      - "L-118-1-0073"
+      - "L-118-1-0074"
+      - "L-118-1-0075"
+      - "L-118-1-0076"
+      - "L-118-1-0077"
+      - "L-118-1-0078"
+    dokument:
+      filnamn: "Faktura_7594_20261022-202938.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+    källor:
+      - "K-FAKTURA-7594"
+      - "K-KOMPLETTERING-7594-20261027"
