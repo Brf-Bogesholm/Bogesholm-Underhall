@@ -23,3 +23,7 @@ Beställaren har 2026-10-30 bekräftat att ansökan i mapp 67C avser 67E, att fl
 Personnamn och kontaktuppgifter ingår inte i dessa ärenderegister. Personanknutna tillsynsanteckningar ingår endast i det privata granskningsunderlaget. Fyra dörrhandlingar har kvar kontrollpunkter om typ eller lägenhetskoppling. Ett äldre Word-dokument utan läsbar löptext återstår för visuell kontroll.
 
 Inga fakturakostnader har lagts till vid denna dokumentregistrering. Redan registrerade fakturor 2711 och 1005437 länkas till sina befintliga poster. Underleverantörsbilagor, dokumentversioner och kopior får inte räknas som nya kostnader eller separata händelser.
+
+## Bekräftat ej genomförd renovering
+
+För 61A har beställaren 2026-10-30 bekräftat att ingen ansökan har inkommit och ingen renovering genomförts. Besiktningen från 2024 finns kvar som historik. 61A ska inte ingå bland mottagare av påminnelse om slutdokumentation.

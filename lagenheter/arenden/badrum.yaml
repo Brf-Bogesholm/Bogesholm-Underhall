@@ -122,21 +122,24 @@ uppdaterad: "2026-10-30"
     dokument:
       - "DOK-ZIP-20261030-D032"
       - "DOK-ZIP-20261030-D034"
-    beslutsstatus: "Renoveringstillstånd inte återfunnet"
-    utförandestatus: "Renovering föreslagen, inte verifierad"
-    slutdokumentation: "Inte återfunnet"
-    kommentar: "Besiktning med förslag om rivning och nytt badrum. Ska inte listas som bekräftat renoverat."
+    beslutsstatus: "Ej aktuellt; ingen ansökan inkommit"
+    utförandestatus: "Ingen renovering genomförd, bekräftat av beställaren"
+    slutdokumentation: "Ej aktuell för denna uppföljning; ingen renovering genomförd"
+    kommentar: "Besiktning 2024-02-09 föreslog renovering. Beställaren bekräftar 2026-10-30 att ingen ansökan har inkommit och ingen renovering genomförts. Besiktningen behålls som historik; förslaget får inte presenteras som genomförd renovering."
     underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
-    uppföljningsstatus: "Behöver kompletteras"
+    uppföljningsstatus: "Undantas från påminnelse om slutdokumentation"
     personuppgifter: "Ärendet knyts till lägenhet, inte person."
     källor:
       - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-61A-20261030"
     dokumentation_per_område:
       tätskikt: "Inte verifierat"
       VVS: "Inte verifierat"
       el: "Inte verifierat"
-    färdig_renovering_verifierad: null
-    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+    färdig_renovering_verifierad: false
+    avgränsning_färdigställande: "Ingen renovering har genomförts enligt beställarens bekräftelse 2026-10-30."
+    ansökningsstatus: "Ingen ansökan har inkommit, bekräftat av beställaren"
+    påminnelse_om_slutdokumentation: false
   -
     id: "ARENDE-BAD-61B"
     typ: "badrumsärende"
