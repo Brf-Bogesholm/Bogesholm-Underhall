@@ -1,0 +1,28 @@
+id: "IMPORT-LAGENHETSARENDEN-20261030"
+granskningsdatum: "2026-10-30"
+källor:
+  -
+    id: "K-ZIP-LAGENHETSARENDEN-20261030"
+    typ: "arkivleverans"
+    filnamn: "71-79.zip"
+    beskrivning: "57 dokument i områdena 51–59, 61–69 och 71–79. Original ligger kvar i dokumentarkivet. 24 fristående fotografier har lämnats utan åtgärd."
+  -
+    id: "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    typ: "beställarbekräftelse"
+    datum: "2026-10-30"
+    uppgifter:
+      - "Ansökan under mapp 67C ska kopplas till 67E."
+      - "Fläktfaktura 5612528 i mapp 59A avser 79A."
+      - "75F:s ansökan är godkänd."
+      - "79B:s ansökan är godkänd. Word-filen är original som skrivits ut och signerats; signerad kopia är inte skannad."
+kontroll:
+  antal_inventerade_dokument: 57
+  antal_tekniska_dokumentreferenser_registrerade: 52
+  antal_badrumsärenden: 16
+  fristående_fotografier_lämnade_orörda: 24
+avgränsning:
+  - "Fyra personanknutna tillsyns- och skadehandlingar ingår bara i privat granskningsunderlag."
+  - "Ett äldre Word-dokument utan läsbar löptext kvarstår för visuell kontroll."
+  - "Dörrhandlingarnas typ- och adresskonflikter kvarstår som kontrollpunkter."
+  - "Nya fakturor från arkivet är dokumentreferenser; inga nya kostnader har lagts i fakturaregistret."
+  - "Ingen generell slutsats att intyg aldrig har skickats in eller att alla beviljade renoveringar är genomförda."

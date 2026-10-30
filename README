@@ -18,7 +18,7 @@ Det ersätter inte föreningens dokumentarkiv. Originaldokument som fakturor, ri
 
 - [`modell/`](modell/README.md) – gemensam objektmodell, fältregler och relationer.
 - [`byggnader/`](byggnader/README.md) – 15 byggnadsobjekt, inklusive föreningslokalen i hus 69.
-- [`lagenheter/`](lagenheter/README.md) – verifierat register över 78 lägenheter, utan personuppgifter.
+- [`lagenheter/`](lagenheter/README.md) – verifierat register över 78 lägenheter, utan personuppgifter, samt [ärenden och dokumentuppföljning](lagenheter/arenden/README.md).
 - [`byggnadsdelar/`](byggnadsdelar/README.md) – bland annat dörrinventeringen med 234 inventeringspunkter.
 - [`tekniska-installationer/`](tekniska-installationer/README.md) – tekniska system och individuella installationer när de är inventerade.
 - [`gemensamma-anlaggningar/`](gemensamma-anlaggningar/README.md) – bland annat förråd samt garage och parkering.

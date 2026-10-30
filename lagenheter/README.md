@@ -44,3 +44,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 [Besiktningskopplingar 2026](besiktningskopplingar-2026.yaml) knyter varje lägenhet till gemensam besiktningshändelse, faktura och rapportreferens. [Vattenledningsbesiktningen](../besiktningar/2026/vattenledningar.yaml) på faktura 7594 omfattar samtliga 78 lägenheter enligt beställaren. Utförandedatum 2026-10-22 används enligt beställarens anvisning. Rapporten inväntas och inga individuella resultat har registrerats.
 
 Kostnaden för en gemensam besiktning summeras en gång från fakturan, inte per lägenhetskoppling. När rapporten kommer kompletteras samma rapportreferens och resultat kopplas till respektive lägenhet.
+
+## Ansökningar och dokumentuppföljning
+
+[Lägenhetsärenden](arenden/README.md) skiljer på ansökan, beslut, utförande och slutdokumentation, med källreferenser och uttrycklig markering av saknade uppgifter.

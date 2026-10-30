@@ -1,0 +1,906 @@
+version: "1.0"
+dokument:
+  -
+    id: "DOK-ZIP-20261030-D001"
+    arkivsökväg: "71-79/71G Badrumsrenovering/2021-06-14 Ansökan.pdf"
+    sha256: "22f198c9f2364f6b218709bf2051486ba88ef454b9eb983f807d5f5b89a9c659"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2021-06-10"
+    adressbedömning: "71G"
+    sammanfattning: "Riva gammalt kakel och plastmatta och kakla om badrummet. Godkänd och signerad 2021-06-12. Krav på kvalitetsintyg efter färdig renovering."
+    avgränsning: "Utförande och slutintyg inte verifierade. Filnamnet anger 2021-06-14, vilket skiljer från handlingens datum."
+    lägenhetskandidater:
+      -
+        adress: "71G"
+        objekt: "L-118-1-0018"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D002"
+    arkivsökväg: "71-79/71H Köksfläkten/F561274.pdf"
+    sha256: "d19892fd5a3dd8247b90c0c6ee91d9707fd7d40f48f13f8e39a4cbe424b769f8"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2026-02-17"
+    adressbedömning: "71H"
+    sammanfattning: "Ömangruppen 5612742. Kontroll av aggregat 2026-02-11: allt såg bra ut, tilluftstemperatur höjd från 18 till 20 grader."
+    avgränsning: "Mappens köksfläkt är förenklad benämning; arbetet gäller ventilationsaggregatet."
+    lägenhetskandidater:
+      -
+        adress: "71H"
+        objekt: "L-118-1-0019"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D003"
+    arkivsökväg: "71-79/73D Köksfläkten/F560687.pdf"
+    sha256: "b491bf0d4cf9961a3adcada282c0ff71b14b8d423abcec43e16ac6940788fd84"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2026-01-31"
+    adressbedömning: "73D"
+    sammanfattning: "Ömangruppen 5606876. Felsökning och filterbyte 2026-01-19, ny VVX-motor inkopplad och provkörd 2026-01-26."
+    avgränsning: "Utfört enligt servicerapport på fakturan."
+    lägenhetskandidater:
+      -
+        adress: "73D"
+        objekt: "L-118-1-0027"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D004"
+    arkivsökväg: "71-79/73D Ytterdörr/faktura-200002251 Ytterdörr 73D.pdf"
+    sha256: "5fbdf7405e54f10abaf0b5f37bffd4435bd67837f7035820ab04f367a818ee36"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2025-10-03"
+    adressbedömning: "73D"
+    sammanfattning: "Christer o Magnus 2526: montering av altandörr på 73D samt material och arbete."
+    avgränsning: "Mappen och filnamnet säger ytterdörr; fakturan säger altandörr. Inte samma dokument som tidigare registrerad ytterdörrsfaktura 2693 från 2026."
+    lägenhetskandidater:
+      -
+        adress: "73D"
+        objekt: "L-118-1-0027"
+    kopplingsstatus: "Dokumenterat men dörrtyp eller lägenhetskoppling behöver kontroll"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D005"
+    arkivsökväg: "71-79/75C Badrumsrenovering/Ansökan.pdf"
+    sha256: "9054b09781607e1655d341dc1a8272b49914fa0673a8fa374f48b20efb464760"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2023-02-22"
+    adressbedömning: "75C"
+    sammanfattning: "Ersätta element med handdukstork; övrig handskrift delvis svårläst. Godkänd 2023-03-01."
+    avgränsning: "Omfattning utöver handdukstork behöver kontrolleras. Utförande och kvalitetsintyg inte verifierade."
+    lägenhetskandidater:
+      -
+        adress: "75C"
+        objekt: "L-118-1-0023"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D007"
+    arkivsökväg: "71-79/75E-F Vattenskada/Besiktningsrapport_Högalidsvägen75F_KÄVLINGE_2024-08-14.pdf"
+    sha256: "a77d448024e45513a2b3f1c2ecbbae556554929064db3454eb0df737ae15f347"
+    dokumenttyp: "Besiktningsrapport med åtgärdsförslag"
+    datum_enligt_handling: "2024-08-09"
+    adressbedömning: "75F och underliggande lägenhet; mapp 75E-F"
+    sammanfattning: "Polygon 7763964. Läckande avloppsslang till diskmaskin, fuktskadat köksgolv i övre lägenhet och badrumstak i underliggande. Mätning även 2024-08-14. Förslag rivning, torkning och återställning."
+    avgränsning: "75F uttrycklig adress. Kopplingen till 75E kommer från mappnamnet. Förslag är inte bevis för utförd återställning."
+    lägenhetskandidater:
+      -
+        adress: "75F"
+        objekt: "L-118-1-0020"
+      -
+        adress: "75E"
+        objekt: "L-118-1-0021"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D008"
+    arkivsökväg: "71-79/75F Badrumsrenovering/Ansökan 2026-10-11.pdf"
+    sha256: "58067599a5591b145a3ec25d27016a4b4722d46356dd43f063d5cba19643098c"
+    dokumenttyp: "Ansökan med korrespondens och ritning"
+    datum_enligt_handling: "2026-09-15"
+    adressbedömning: "75F"
+    sammanfattning: "Badrum övervåning: ändrade avlopp, byte duschbrunn, dolda vattenrör, radiator/handdukstork, sänkt tak och spotlights. E-post innehåller krav på rör-i-rör, åtkomliga kopplingar, tätning och bevarad EB-ventil. Ordförandes signatur daterad 2026-10-11."
+    avgränsning: "Ansökan är godkänd enligt beställarens bekräftelse 2026-10-30. Ordförandes signatur finns i filen, men beslutsrutorna är tomma. Inget slutintyg återfunnet i leveransen."
+    lägenhetskandidater:
+      -
+        adress: "75F"
+        objekt: "L-118-1-0020"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D009"
+    arkivsökväg: "71-79/77A/Altandörr.pdf"
+    sha256: "c087a53e89459b135061edb49c2eadab67f2cf4e35064138ae7aa5f2eba91a3d"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2026-09-24"
+    adressbedömning: "77A"
+    sammanfattning: "Christer o Magnus 2711, montering av altandörr 77A."
+    avgränsning: "Fakturan finns redan registrerad. Ska länkas, inte räknas igen. Tidigare rättelse om 12 timmars arbetskostnad ska behållas."
+    lägenhetskandidater:
+      -
+        adress: "77A"
+        objekt: "L-118-1-0011"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+    befintlig_faktura: "F-2026-2711"
+    kostnadsprincip: "Redan registrerad, ingen ny kostnad"
+  -
+    id: "DOK-ZIP-20261030-D011"
+    arkivsökväg: "71-79/77C Fukt/Högalidsvägen 77c Kävlinge skiss"
+    sha256: "c8512e0c285eac36ccfc32fac9dec879fc24705167bc08ac5ca1e1f61fc5525e"
+    dokumenttyp: "Besiktningsrapport i Word utan filändelse"
+    datum_enligt_handling: "2009-07-30"
+    adressbedömning: "77C"
+    sammanfattning: "Villaklimat OBM, rapport daterad 2009-08-05. Långvarigt läckage från värmeåtervinningsaggregat, mögel och fukt i köksvägg, golv och inredning. Förslag service, rivning, torkning, eventuell sanering och återställning."
+    avgränsning: "Filnamnet säger skiss men innehållet är rapport. Inga avslutande åtgärdsintyg återfunna."
+    lägenhetskandidater:
+      -
+        adress: "77C"
+        objekt: "L-118-1-0009"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D012"
+    arkivsökväg: "71-79/77E Vattenskada/Besiktningsrapport_HÖGALIDSVÄGEN77E_KÄVLINGE_2024-08-29.pdf"
+    sha256: "71c927c2bfd5a92454f327287a40649ee4fe8564f29866e22da522a46ee7f8b0"
+    dokumenttyp: "Besiktningsrapport"
+    datum_enligt_handling: "2024-08-19"
+    adressbedömning: "77E"
+    sammanfattning: "PL Parkettrenoveringar. Skadedatum 2024-06-22. Äldre kylskåp läckt, golv och täcksida skadade; förslag golvbyte i kök och kontakt med BRF om rivning/torkning."
+    avgränsning: "Kylskåpet anges redan utbytt. Återställning av golv inte verifierad."
+    lägenhetskandidater:
+      -
+        adress: "77E"
+        objekt: "L-118-1-0007"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D013"
+    arkivsökväg: "71-79/79B Badrumsrenovering/Ansökan Badrum 79B v2.pdf"
+    sha256: "dc3a28b082fb51aef03aa183f69e82d124768cb9d7dbec197c05419f348a8b9e"
+    dokumenttyp: "Reviderad ansökan"
+    datum_enligt_handling: "2026-10-29"
+    adressbedömning: "79B"
+    sammanfattning: "Version 2: renovering av badrum både uppe och nere, flytt av tvättmaskin/torktumlare, dusch i nedre badrum, nytt kakel/tätskikt och ändrade avlopp och vatten-/värmerör. Reviderad omfattning i förhållande till första ansökan."
+    avgränsning: "Godkännanderutor och ordförandes signatur är tomma på ansökan. Separat beslutstext finns i D015. Inte en separat renovering från D014."
+    lägenhetskandidater:
+      -
+        adress: "79B"
+        objekt: "L-118-1-0005"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D014"
+    arkivsökväg: "71-79/79B Badrumsrenovering/Ansökan Badrum 79B.pdf"
+    sha256: "4e396900fac625a744e0c5adc4062dd6aedd28a4b7f1cfa7e6d3533ef53c179c"
+    dokumenttyp: "Ansökan, tidigare version"
+    datum_enligt_handling: "2026-10-26"
+    adressbedömning: "79B"
+    sammanfattning: "Renovering båda badrum, flytt av tvättmaskin och torktumlare, dusch nere, ändrad rördragning och el. Sökandens signatur daterad 2026-10-27."
+    avgränsning: "Tidigare version till D013. Får inte skapa dubbla ärenden eller bevisa att arbetet är genomfört."
+    lägenhetskandidater:
+      -
+        adress: "79B"
+        objekt: "L-118-1-0005"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+    tidigare_version_av: "DOK-ZIP-20261030-D013"
+  -
+    id: "DOK-ZIP-20261030-D015"
+    arkivsökväg: "71-79/79B Badrumsrenovering/Beslut om badrumsrenovering.docx"
+    sha256: "6f3079b0316aa99989a09ebe1aa2819e4c105fd10b6b1b2cd37b22e61ade8f27"
+    dokumenttyp: "Beslutstext med villkor"
+    datum_enligt_handling: "2026-10-30"
+    adressbedömning: "79B"
+    sammanfattning: "Styrelsen godkänner ansökan daterad 2026-10-29. Villkor: inga ingrepp i bärande delar, befintliga avloppsgrenar i första hand, separat tillstånd för huvudledning, bevarade EB-ventiler, information före ingrepp i värmesystem samt nytt godkännande vid väsentliga ändringar."
+    avgränsning: "Fattat godkännande enligt beställarens bekräftelse 2026-10-30. Word-filen är originalet som skrivits ut och signerats; det signerade exemplaret har ännu inte skannats in."
+    lägenhetskandidater:
+      -
+        adress: "79B"
+        objekt: "L-118-1-0005"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D016"
+    arkivsökväg: "71-79/79C Garageporten/1005437.pdf"
+    sha256: "a495537a58e3de91266a2e1e95c51440a7d1c7aeead95288cb0d64e4580074ec"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2026-08-19"
+    adressbedömning: "79C"
+    sammanfattning: "Malmöporten 1005437, Aperto A550 L S3 med montage."
+    avgränsning: "Redan registrerad för motorbyte i garage 740. Länkas till befintligt ärende; kostnad och tidigare bekräftad avrundning ändras inte."
+    lägenhetskandidater:
+      -
+        adress: "79C"
+        objekt: "L-118-1-0004"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+    befintlig_faktura: "F-2026-1005437"
+    kostnadsprincip: "Redan registrerad, ingen ny kostnad"
+  -
+    id: "DOK-ZIP-20261030-D017"
+    arkivsökväg: "71-79/Byte av tak 73-huset 2024-11-05.pdf"
+    sha256: "e3c2b57a09579df752cc0d605b665111d85db7c2297d05bfe51651cb9f6ef547"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2024-10-16"
+    adressbedömning: "Hus 73"
+    sammanfattning: "Christer o Magnus 2352: byte av uppruttnade brädor vid takfot och rötskadat tak, arbete 12 och 13 september. 46237 kr att betala."
+    avgränsning: "Filnamnets 2024-11-05 är förfallodatum, inte utförandedatum. Inte belägg för komplett omläggning av hela taket."
+    lägenhetskandidater:
+      []
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D018"
+    arkivsökväg: "71-79/Tätning skadedjur 73-huset 2025-04-21.pdf"
+    sha256: "3dd9efe321090fe06d4754ebeec0be143f202ecf6aa9ddc4ca86aec9a44d1e2b"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2025-04-21"
+    adressbedömning: "Hus 73 enligt filnamn"
+    sammanfattning: "Christer o Magnus 2495: tätning mot skadedjur, lift- och ställningsarbete 2 och 3 april, 30419 kr."
+    avgränsning: "Husnummer kommer från filnamnet; fakturatexten anger inte tydligt husnummer."
+    lägenhetskandidater:
+      []
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D019"
+    arkivsökväg: "51-59/53C Badrumsrenovering/2021-09-30 Ansökan toalett nere.pdf"
+    sha256: "8fcfdef3fb14860872dd7eab9303c20f1c6ef8b10b2f87a239940dfa1ed17a53"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2021-09-29"
+    adressbedömning: "53C"
+    sammanfattning: "Toalett nere enligt filnamnet. Flytt av golvbrunn, rör i vägg och byte radiator till handdukstork. Godkänd 2021-09-30, med EB-ventil överflyttad från radiatorn."
+    avgränsning: "Separat omfattning från ansökan i augusti; ska kunna följas som eget delärende. Utförande och slutintyg inte verifierade."
+    lägenhetskandidater:
+      -
+        adress: "53C"
+        objekt: "L-118-1-0072"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D020"
+    arkivsökväg: "51-59/53C Badrumsrenovering/Ansökan.pdf"
+    sha256: "af19cd9ae08f88d5282dcc139f7678f61a0242570d163e183e8e04d45ba0345c"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2021-08-08"
+    adressbedömning: "53C"
+    sammanfattning: "Rör i vägg, radiator ersätts med handdukstork, badkarsblandare till annan vägg. Godkänd 2021-08-09 med villkor om återmontering av EB-ventil."
+    avgränsning: "Utförande och slutintyg inte verifierade. Blanda inte ihop med nedre toaletten utan bekräftad koppling."
+    lägenhetskandidater:
+      -
+        adress: "53C"
+        objekt: "L-118-1-0072"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D021"
+    arkivsökväg: "51-59/53E Badrumsrenovering/Slutdokument.pdf"
+    sha256: "9c45ed0bdfa2cf3192da2c6d829d89c09af55a96252a9594e1bcc3318aedb344"
+    dokumenttyp: "Entreprenörsintyg"
+    datum_enligt_handling: "2024-06-05"
+    adressbedömning: "53E"
+    sammanfattning: "Mickes Golv, referens faktura 334194. Intygar att arbete vid badrumsrenovering utförts enligt gällande branschregler."
+    avgränsning: "Intyg finns i leveransen. Det är ett generellt entreprenörsintyg, inte automatiskt komplett dokumentation för alla VVS-, el- och tätskiktsdelar. Lägenhetskopplingen kommer från mappen."
+    lägenhetskandidater:
+      -
+        adress: "53E"
+        objekt: "L-118-1-0070"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D022"
+    arkivsökväg: "51-59/55F Badrumsrenovering/Ansökan.pdf"
+    sha256: "7ac6b7a0a9241a7cf4b00be96174dda012c0b8e9398981937600aef5c079742b"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2025-10-06"
+    adressbedömning: "55F"
+    sammanfattning: "Totalrenovering badrum bottenvåning: avlopp flyttas, helkakling, byte golvbrunn och nytt tätskikt. Godkänd 2025-10-09. Planerad start måndag vecka 44."
+    avgränsning: "Planerad start är inte bevis för utförande. Slutintyg inte återfunnet."
+    lägenhetskandidater:
+      -
+        adress: "55F"
+        objekt: "L-118-1-0064"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D023"
+    arkivsökväg: "51-59/55F Badrumsrenovering/Avvikelse från BBR.docx"
+    sha256: "45d551cdf59526f953583702767d69691de022e6714387986aee26ad421708f9"
+    dokumenttyp: "Beslut om specifik avvikelse"
+    datum_enligt_handling: "2025-11-14"
+    adressbedömning: "55F"
+    sammanfattning: "Tillåtelse i denna renovering att tappvattenrör bryter golvets tätskikt, med angivna tekniska och dokumentationsvillkor."
+    avgränsning: "Word-version till samma beslut som signerad PDF D024. Inte två olika beslut. Beslutets rättsliga eller tekniska riktighet bedöms inte här."
+    lägenhetskandidater:
+      -
+        adress: "55F"
+        objekt: "L-118-1-0064"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+    samma_beslut_som: "DOK-ZIP-20261030-D024"
+  -
+    id: "DOK-ZIP-20261030-D024"
+    arkivsökväg: "51-59/55F Badrumsrenovering/Beslut.pdf"
+    sha256: "acd9b88642b4bf65f71e2c7b8e211878e73ab6204e423b0d586171d6c18b2603"
+    dokumenttyp: "Signerat beslut om specifik avvikelse"
+    datum_enligt_handling: "2025-11-14"
+    adressbedömning: "55F"
+    sammanfattning: "Signerad PDF: godkänner specifik rörgenomföring genom golvets tätskikt för novemberrenoveringen, med hänvisade villkor och krav på dokumentation."
+    avgränsning: "Samma innehåll som D023. Visar avvikelsebeslut, inte slutintyg eller verifierad färdig renovering."
+    lägenhetskandidater:
+      -
+        adress: "55F"
+        objekt: "L-118-1-0064"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D025"
+    arkivsökväg: "51-59/59A Fläktproblem/F561252.pdf"
+    sha256: "5ff847f1c4f7055a44eda1febce0689f86b18cb60aada4ad5635f04aa79a0774"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2026-02-17"
+    adressbedömning: "79A"
+    sammanfattning: "Ömangruppen 5612528. Styrkort konstaterat trasigt 2026-02-03 och bytt 2026-02-11, aggregat inställt. 12895 kr."
+    avgränsning: "Mappen anger 59A, men fakturan avser 79A. Beställaren har bekräftat kopplingen till 79A 2026-10-30."
+    lägenhetskandidater:
+      -
+        adress: "79A"
+        objekt: "L-118-1-0006"
+    kopplingsstatus: "Bekräftad av beställaren"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D026"
+    arkivsökväg: "51-59/59A Fläktproblem/faktura-200002302.pdf"
+    sha256: "d77cc67791e7246a1ece327caa9e347d6f8400ffada673b1dc8ae996cd3e8595"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2025-11-30"
+    adressbedömning: "59A"
+    sammanfattning: "Ömangruppen 5582390. Kontroll av aggregat 2025-11-24; går som det bör, kretskort misstänks kunna vara på väg att gå sönder. 2915 kr."
+    avgränsning: "Misstanke om kretskort, inte bekräftat byte. Servicebilsrad daterad 2025-11-25 bevaras."
+    lägenhetskandidater:
+      -
+        adress: "59A"
+        objekt: "L-118-1-0059"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D027"
+    arkivsökväg: "51-59/59A Fläktproblem/faktura-200002303.pdf"
+    sha256: "fc2797c389e8a58b1fefaa82dc4fc577600cf0dfe45b1ea73f1458086f891787"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2025-11-30"
+    adressbedömning: "59A"
+    sammanfattning: "Ömangruppen 5581582. Felsökning 2025-11-06, filterbyte och injustering; grundflöde höjt till 10 l/s och forcering till 35 l/s. 5525 kr."
+    avgränsning: "Dokumenterat utförd service, inte renoveringsansökan."
+    lägenhetskandidater:
+      -
+        adress: "59A"
+        objekt: "L-118-1-0059"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D028"
+    arkivsökväg: "51-59/59B Badrumsrenovering/2020-09-28 Ansökan.pdf"
+    sha256: "d75d5f44d405a1937eb99301bb16ec373e792b1a0de80e22a5b4dd5ee2c52832"
+    dokumenttyp: "Ansökan med godkännande och kalkylbilagor"
+    datum_enligt_handling: "2020-09-28"
+    adressbedömning: "59B"
+    sammanfattning: "Flytta golvbrunn, nytt tvättmaskinsavlopp, slits för elementrör och handdukstork. Godkänd 2020-10-09 med krav att befintlig EB-styrning monteras i handdukstork. Bilagor är arbetskostnadskalkyler från Badrumsproffsen."
+    avgränsning: "Kalkylerna är inte slutfakturor eller slutintyg. Utförande och avslut inte verifierade."
+    lägenhetskandidater:
+      -
+        adress: "59B"
+        objekt: "L-118-1-0058"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D029"
+    arkivsökväg: "51-59/Byte altandörr 53D 2025-01-08.pdf"
+    sha256: "1352636f9527aa20177616677594521cfbfb82815b173b8de5bfc8367e8a928f"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2024-12-19"
+    adressbedömning: "53D"
+    sammanfattning: "Christer o Magnus 2411. Altandörr monterad, arbetsrad 19 december, 8880 kr."
+    avgränsning: "Filnamnets 2025-01-08 är förfallodatum. Ska inte användas som installationsdatum."
+    lägenhetskandidater:
+      -
+        adress: "53D"
+        objekt: "L-118-1-0071"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D030"
+    arkivsökväg: "51-59/CoM Byte av tak 51-huset 2024-09-05.pdf"
+    sha256: "884e305961f94abca8ad09a67ecfbe9d3fdcb93946bdc03c830d127a13f077f4"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2024-09-05"
+    adressbedömning: "Hus 51"
+    sammanfattning: "Christer o Magnus 2323. Montering av hålade plåtar mot skadedjur, byte takpannor och rötskadade brädor på tak. Arbeten 22, 27, 28 och 29 augusti. 51594 kr."
+    avgränsning: "Ingen automatisk slutsats att hela taket bytts. Fördelning mellan lägenheter inte angiven."
+    lägenhetskandidater:
+      []
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D031"
+    arkivsökväg: "51-59/Entrédörr 55A 2025-05-30.pdf"
+    sha256: "a0d36b3229f7d4743472dfee4da309e3325ab9a190ce426f2b67b7cd2ac15174"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2025-05-30"
+    adressbedömning: "55A"
+    sammanfattning: "Christer o Magnus 2369. Montering ytterdörr 55A, 8058 kr."
+    avgränsning: "Arbetsraden säger 11/9 utan år och stämmer inte direkt med fakturadatum. Utförandedatum behöver hållas osäkert."
+    lägenhetskandidater:
+      -
+        adress: "55A"
+        objekt: "L-118-1-0069"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D032"
+    arkivsökväg: "61-69/61A Badrummet/Högalidsvägen 61A, Kävlinge Besiktningsrapport Belfor skåne AB..pdf"
+    sha256: "9cae2c16a3496edc28ed5da9c07c0edda32848d72657eadffd90ae4168b6db7d"
+    dokumenttyp: "Besiktningsrapport"
+    datum_enligt_handling: "2024-02-09"
+    adressbedömning: "61A"
+    sammanfattning: "Belfor, uppdrag 69110. Inga förhöjda fuktindikationer. Otillräckligt golvfall, förhöjning vid brunn, lös klämring och påväxt noterades. Rekommenderar rivning och nytt badrum."
+    avgränsning: "Samma textinnehåll som D034. Rekommendation är inte bevis för utförd renovering."
+    lägenhetskandidater:
+      -
+        adress: "61A"
+        objekt: "L-118-1-0050"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D033"
+    arkivsökväg: "61-69/61A Fläkten/F559873.pdf"
+    sha256: "bd63ac1a3103f1879758c8e640a31f1188769d7bc908f93aeb4e5467b9f5bc95"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2026-01-19"
+    adressbedömning: "61A"
+    sammanfattning: "Ömangruppen 5598735. 2026-01-07: ingen kontakt med styrkort; omstart fick aggregatet att starta. 2915 kr."
+    avgränsning: "Omstart dokumenterad. Inte belägg för bytt styrkort eller ersatt lampglas."
+    lägenhetskandidater:
+      -
+        adress: "61A"
+        objekt: "L-118-1-0050"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D034"
+    arkivsökväg: "61-69/61A Fuktproblem/Högalidsvägen 61A Kävlinge Besiktningsrapport Belfor skåne AB_.pdf"
+    sha256: "a1aa220f20518e51b04394483402d65a1d0355e745e2d6bccb45ea8ecf01191c"
+    dokumenttyp: "Besiktningsrapport, annan kopia"
+    datum_enligt_handling: "2024-02-09"
+    adressbedömning: "61A"
+    sammanfattning: "Samma Belfor-rapporttext och uppdrag 69110 som D032, under annan mapp och annat filnamn."
+    avgränsning: "Filerna är inte byte-identiska men textinnehållet är identiskt. En besiktningshändelse med två källkopior."
+    lägenhetskandidater:
+      -
+        adress: "61A"
+        objekt: "L-118-1-0050"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+    samma_händelse_som: "DOK-ZIP-20261030-D032"
+  -
+    id: "DOK-ZIP-20261030-D035"
+    arkivsökväg: "61-69/61B Fläktservice/Ömans Fläkt 61B.pdf"
+    sha256: "3eeb1428bf07efa6c7f9019bec7d6c65ed696d63bc8a89bdeb8ebb3a5f49dced"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2026-01-29"
+    adressbedömning: "61B"
+    sammanfattning: "Ömangruppen 5604384. Service 2026-01-15: igensatta filter, rensat frånluftsdon/kanal och felsökning. 6330 kr."
+    avgränsning: "Fakturan skriver Högalidsgatan; mapp och lägenhetsregister används som koppling till Högalidsvägen 61B med originaltext bevarad."
+    lägenhetskandidater:
+      -
+        adress: "61B"
+        objekt: "L-118-1-0051"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D036"
+    arkivsökväg: "61-69/61B Fuktskada/Ansökan om renovering.pdf"
+    sha256: "f32da3784a769bd8df574232378ba7c0b03fe9169feb4803f1e4741af6b781d0"
+    dokumenttyp: "Ansökan med godkännande, offert och skiss"
+    datum_enligt_handling: "2022-10-02"
+    adressbedömning: "61B"
+    sammanfattning: "Renovering efter vattenskada: badkar till dusch, kakel och klinker, ny golvbrunn, nytt/förstärkt undergolv, dubbla våtrumsgips och sänkt tak. Godkänd 2022-11-22. Offert från Mickes Golv avser badrum på andra våningen."
+    avgränsning: "Offert bevisar inte färdigställande. Slutintyg inte återfunnet."
+    lägenhetskandidater:
+      -
+        adress: "61B"
+        objekt: "L-118-1-0051"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D037"
+    arkivsökväg: "61-69/61B Fuktskada/Högalidsvägen 61 B Kävlinge 2022-09-27 15.00.32.pdf"
+    sha256: "54186194a87e8a0de76b27174d045151eefd5d093bd273d86c26f37e4962e92e"
+    dokumenttyp: "Besiktningsrapport"
+    datum_enligt_handling: "2022-09-23"
+    adressbedömning: "61B"
+    sammanfattning: "BM Fuktteknik 22-0728. Rest klinkerplatta vid golvbrunn och förhöjda fuktindikationer mellan brunn och vask och på vägg; orsak osäker. Förslag lokal rivning, ny mätning och torkning/utbyte."
+    avgränsning: "Skadeutredning före renoveringsansökan, inte slutkontroll."
+    lägenhetskandidater:
+      -
+        adress: "61B"
+        objekt: "L-118-1-0051"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D038"
+    arkivsökväg: "61-69/61D Fläktaggregat/faktura-200002205.pdf"
+    sha256: "16c7d0608aa3422cde703dfb71b159bf8b568bc6cb95bdd2633a3bc37e087e56"
+    dokumenttyp: "Faktura med servicerapport"
+    datum_enligt_handling: "2025-08-14"
+    adressbedömning: "61D"
+    sammanfattning: "Ömangruppen 5526371. Kretskort bytt och luftflöden inställda 2025-07-07. 14671 kr."
+    avgränsning: "Utfört enligt servicerapport."
+    lägenhetskandidater:
+      -
+        adress: "61D"
+        objekt: "L-118-1-0053"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D039"
+    arkivsökväg: "61-69/63E Badrumsrenovering/KOntrollrapport.pdf"
+    sha256: "616f2d3bf295d1a75fe34ad57798b9fa3ceddb342c73cc6314059ac3ccb5191f"
+    dokumenttyp: "Kontrollrapport för tätskikt"
+    datum_enligt_handling: "2021-02-17 till 2021-02-21"
+    adressbedömning: "63E"
+    sammanfattning: "Kerakoll kontrollsäkring, renovering av badrum. Anger produkter och åtgång, vägg/golv, golvbrunn Purus Freja samt entreprenör ER-HO Bygg och signatur."
+    avgränsning: "Teknisk kontrollrapport finns. Den är inte automatiskt samma sak som komplett slutdokumentation för VVS och el."
+    lägenhetskandidater:
+      -
+        adress: "63E"
+        objekt: "L-118-1-0045"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D040"
+    arkivsökväg: "61-69/63E Badrumsrenovering/Tillstånd.pdf"
+    sha256: "90721a849503a1c47f14525f56129d5c65b073af1b485e2669f5fd5dc40ab6dd"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2021-02-03"
+    adressbedömning: "63E"
+    sammanfattning: "Nytt kakel/klinker, badkar ersätts med dusch, handfat flyttas, värmeslingor i golv och handdukstork. Godkänd 2021-02-05."
+    avgränsning: "Kontrollrapport D039 knyts till samma badrumsärende."
+    lägenhetskandidater:
+      -
+        adress: "63E"
+        objekt: "L-118-1-0045"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D041"
+    arkivsökväg: "61-69/65A Badrumsrenovering/Ansökan 2020-10-14.pdf"
+    sha256: "94988bdddbe9ec69c5210f5d59b677f57d3a5871868ed026476627ef369f3f70"
+    dokumenttyp: "Ansökan med godkännande"
+    datum_enligt_handling: "2020-10-14"
+    adressbedömning: "65A"
+    sammanfattning: "Totalrenovering badrum uppe med våtrumsmatta; flytta avlopp och vask till motsatt vägg. Godkänd 2020-10-19, EB-styrventil flyttas till ny handdukstork."
+    avgränsning: "Inget slutintyg återfunnet, utförande inte verifierat."
+    lägenhetskandidater:
+      -
+        adress: "65A"
+        objekt: "L-118-1-0035"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D042"
+    arkivsökväg: "61-69/65C Fuktskada/Badrumsrenovering.pdf"
+    sha256: "783fa582f6713db80e5706fda5a46c6a699e7a35b2beda92675970ffa848140c"
+    dokumenttyp: "Ansökan utan dokumenterat beslut"
+    datum_enligt_handling: "2025-10-09"
+    adressbedömning: "65C"
+    sammanfattning: "Renovering badrum våning 2 med ny våtrumsmatta, vägg och våtrumsgips."
+    avgränsning: "Ordförandes signatur och beslutsrutor tomma. Inget slutintyg i leveransen."
+    lägenhetskandidater:
+      -
+        adress: "65C"
+        objekt: "L-118-1-0033"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D043"
+    arkivsökväg: "61-69/65C Fuktskada/Besiktningsrapport_Högalidsvägen65C_KÄVLINGE_2025-05-22.pdf"
+    sha256: "a9ea056362f2b8622600f3ae3bb48db85811a5fbd27a7c95dc0e24a23d2cee86"
+    dokumenttyp: "Besiktningsrapport"
+    datum_enligt_handling: "2025-05-05"
+    adressbedömning: "65C"
+    sammanfattning: "Polygon 7973013. Spricka i plastmatta under badkar, normala/låga fuktindikationer. Lös klämring spändes fast. Förslag lagning/svetsning av spricka i väntan på renovering."
+    avgränsning: "Åtgärdsförslag inte likställt med utförd lagning. Den spända klämringen är uttryckligt utförd åtgärd."
+    lägenhetskandidater:
+      -
+        adress: "65C"
+        objekt: "L-118-1-0033"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D044"
+    arkivsökväg: "61-69/65C Fuktskada/faktura-200002184.pdf"
+    sha256: "eb0844746e9d3280d082ea46494187eb7ddd1ee22c6b1d52fe44734fd092b622"
+    dokumenttyp: "Samlingsfaktura med underleverantörsfaktura"
+    datum_enligt_handling: "2025-07-10"
+    adressbedömning: "65C"
+    sammanfattning: "Riksbyggen 311257245, 4321 kr, arbetsorder 14881480. Polygon faktura CD220288556 är bilagd och gäller skadebesiktning."
+    avgränsning: "Underleverantörens faktura får inte summeras en gång till som föreningens kostnad. Underlagen skiljer på 3142 och 3142,50 kr; originaluppgifter bevaras."
+    lägenhetskandidater:
+      -
+        adress: "65C"
+        objekt: "L-118-1-0033"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D048"
+    arkivsökväg: "61-69/67A+B Fuktskada/Högalidsvägen 67 A+ B Kävlinge 2022-09-27 16.08.26.pdf"
+    sha256: "e28c7194161fd34f43d067808f3948fa068db1e86a96793996a3ce055fef5d7b"
+    dokumenttyp: "Besiktningsrapport och fuktprotokoll"
+    datum_enligt_handling: "2022-09-23"
+    adressbedömning: "67A och 67B"
+    sammanfattning: "BM Fuktteknik 22-0705. Blött gipstak/trästomme i 67B och läckande varmvattenrör vid duschblandare i 67A. Rapporten beskriver redan lagat rör och inget nytt vatten vid återbesök. Föreslår rivning, torkning och återställning av tak."
+    avgränsning: "Utförd rörlagning skiljs från ännu föreslagna återställningsåtgärder. Ingen total badrumsrenovering styrkt."
+    lägenhetskandidater:
+      -
+        adress: "67A"
+        objekt: "L-118-1-0036"
+      -
+        adress: "67B"
+        objekt: "L-118-1-0037"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D049"
+    arkivsökväg: "61-69/67C Badrumsrenovering/Ansökan.pdf"
+    sha256: "a52652de20e74018b397cbf72e117fdaa7c98a33be99f3896a627e0f9ceae216"
+    dokumenttyp: "Ansökan med godkännande, adresskonflikt"
+    datum_enligt_handling: "2023-01-11"
+    adressbedömning: "67E"
+    sammanfattning: "Ansökan anger lägenhet 0040 och adress 67E. Byte/flytt golvbrunn, ny plastmatta och väggkakel, nytt sanitetsporslin och sänkt tak för LED. Godkänd 2023-01-17."
+    avgränsning: "Mappen anger 67C, men handlingen avser 67E. Beställaren har bekräftat kopplingen till 67E 2026-10-30. Originalarkivet lämnas oförändrat."
+    lägenhetskandidater:
+      -
+        adress: "67E"
+        objekt: "L-118-1-0040"
+    kopplingsstatus: "Bekräftad av beställaren"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D050"
+    arkivsökväg: "61-69/67D Badrumsrenovering/Faktura Lödde kakel.pdf"
+    sha256: "c10fcefcebdde632fed8959595ca61e7783d6f4690e6b737264928c3e739ac06"
+    dokumenttyp: "Faktura om golvbrunnsbyte"
+    datum_enligt_handling: "2024-07-03"
+    adressbedömning: "67D"
+    sammanfattning: "Lödde Kakel & Bygg 823: golvbrunnsbyte i samband med badrumsrenovering på 67D. 4000 kr inklusive moms."
+    avgränsning: "Bevis för utfört delarbete, inte faktura för hela renoveringen."
+    lägenhetskandidater:
+      -
+        adress: "67D"
+        objekt: "L-118-1-0039"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D051"
+    arkivsökväg: "61-69/67D Badrumsrenovering/intyg_139345_Högalidsvägen 67D.pdf"
+    sha256: "ab0c739393e666918f496641de1b1c7b64a0deb1d19bb5cacb2aae72f72fe005"
+    dokumenttyp: "Säker Vatten-intyg för VVS"
+    datum_enligt_handling: "2024-07-02"
+    adressbedömning: "67D"
+    sammanfattning: "Idala Rörtjänst, dokument-ID 139345, BankID-signerat. Färdigställande 2024-06-18. Omfattar badrumsrör, golvbrunn, sanitetsinstallationer samt tryck- och täthetskontroller."
+    avgränsning: "VVS-intyg finns. Tätskiktsintyg och elintyg har inte återfunnits; kalla inte ärendet helt slutdokumenterat enbart utifrån detta."
+    lägenhetskandidater:
+      -
+        adress: "67D"
+        objekt: "L-118-1-0039"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D052"
+    arkivsökväg: "61-69/67E Yttderdörr/faktura-200002250.pdf"
+    sha256: "153830d20b596bb64a745a43c0cdfaa8f5d6b82084d7ab128631e3259fbf544b"
+    dokumenttyp: "Faktura"
+    datum_enligt_handling: "2025-10-03"
+    adressbedömning: "67E enligt mapp"
+    sammanfattning: "Christer o Magnus 2577: montering av ytterdörr, material, arbete 8/9 och tröskelbleck 3/10. 9033 kr."
+    avgränsning: "Fakturan anger Högalidsvägen 67 utan bokstav och annat personnamn än 2024-underlagen. Kopplingen till 67E bygger på mappen; kan avse ett separat senare dörrbyte och bör bekräftas."
+    lägenhetskandidater:
+      -
+        adress: "67E"
+        objekt: "L-118-1-0040"
+    kopplingsstatus: "Dokumenterat men dörrtyp eller lägenhetskoppling behöver kontroll"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D053"
+    arkivsökväg: "61-69/67G-H Diskmaskinsläckage/Besiktningsrapport_Högalidsvägen67G,H_KÄVLINGE_2025-08-14.pdf"
+    sha256: "5fa51e9649ff0b3f54b85c00d44f1a3d3cee98613968287be878ee0c4e536949"
+    dokumenttyp: "Besiktningsrapport"
+    datum_enligt_handling: "2025-08-08"
+    adressbedömning: "67G och 67H"
+    sammanfattning: "Polygon 8032052. Diskmaskin läckt i 67H, vatten droppat till 67G. Skadat laminatgolv i 67H; inga förhöjda fuktindikationer eller synliga skador i 67G. Förslag rivning/avfuktning i 67H, ingen torkåtgärd i 67G."
+    avgränsning: "Besiktningsförslag skiljs från fakturerat utförande i D054."
+    lägenhetskandidater:
+      -
+        adress: "67G"
+        objekt: "L-118-1-0042"
+      -
+        adress: "67H"
+        objekt: "L-118-1-0043"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D054"
+    arkivsökväg: "61-69/67G-H Diskmaskinsläckage/faktura-200002288.pdf"
+    sha256: "4db6a063f57d715c77e77a777e4e3b05a461666ec1c12108d858bb79be902314"
+    dokumenttyp: "Samlingsfaktura med underleverantörsbilagor"
+    datum_enligt_handling: "2025-11-18"
+    adressbedömning: "67G och 67H"
+    sammanfattning: "Riksbyggen 311302006, 32433 kr, arbetsorder 14948145. Underlag från Nimab för golvrivning och Polygon för skadebesiktning/torkning samt förvaltararbete."
+    avgränsning: "Bilagorna är underlag till samlingsfakturan och får inte dubbelräknas. Slutfaktura för administration är inte kvalitetsintyg eller bevis för fullständig återställning."
+    lägenhetskandidater:
+      -
+        adress: "67G"
+        objekt: "L-118-1-0042"
+      -
+        adress: "67H"
+        objekt: "L-118-1-0043"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D055"
+    arkivsökväg: "61-69/67G-H Diskmaskinsläckage/FF093781037S-20250818.pdf"
+    sha256: "b1ceeeb0dc66c1dff14d828b979340af09094c078a4f6f972e23af143797b16d"
+    dokumenttyp: "Försäkringsbeslut och ansvarsfördelning"
+    datum_enligt_handling: "2025-08-18"
+    adressbedömning: "67H, relaterat skadeärende 67G-H"
+    sammanfattning: "Folksam FF093781037S. Anger omfattning av försäkringsskydd, ansvarsfördelning och krav på kalkyler och underlag för vattenskadan."
+    avgränsning: "Försäkringsbeslut är inte styrelsens renoveringstillstånd, genomförandebevis eller utbetalningsbekräftelse."
+    lägenhetskandidater:
+      -
+        adress: "67H"
+        objekt: "L-118-1-0043"
+      -
+        adress: "67G"
+        objekt: "L-118-1-0042"
+    kopplingsstatus: "Granskningsförslag"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D056"
+    arkivsökväg: "61-69/Byte balkongdörr 67E 2024-11-17.pdf"
+    sha256: "ae8adaf450af4c9c5fe573dc087d66374194d3a8e5ba329cf9a59409c029fca8"
+    dokumenttyp: "Faktura med missvisande filnamn"
+    datum_enligt_handling: "2024-10-28"
+    adressbedömning: "67E"
+    sammanfattning: "Christer o Magnus 2368: montering ytterdörr 67E, arbete 11/9, 7319 kr."
+    avgränsning: "Filnamnet säger balkongdörr och 2024-11-17, medan handlingen säger ytterdörr och det datumet är förfallodatum. Ingen automatisk typändring utan kontroll."
+    lägenhetskandidater:
+      -
+        adress: "67E"
+        objekt: "L-118-1-0040"
+    kopplingsstatus: "Dokumenterat men dörrtyp eller lägenhetskoppling behöver kontroll"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null
+  -
+    id: "DOK-ZIP-20261030-D057"
+    arkivsökväg: "61-69/Byte entrédörr 67E 2024-10-15.pdf"
+    sha256: "ff61c5a55abad0ec10fe95ef7f1d024ff76bbfe36c320d2f6338b6cf0576c5f8"
+    dokumenttyp: "Faktura med missvisande filnamn"
+    datum_enligt_handling: "2024-09-25"
+    adressbedömning: "67E"
+    sammanfattning: "Christer o Magnus 2342: montering altandörr 67E, arbete 11/9, 8880 kr."
+    avgränsning: "Filnamnet säger entrédörr och 2024-10-15, medan handlingen säger altandörr och det datumet är förfallodatum. D056 och D057 verkar omkastat namngivna."
+    lägenhetskandidater:
+      -
+        adress: "67E"
+        objekt: "L-118-1-0040"
+    kopplingsstatus: "Dokumenterat men dörrtyp eller lägenhetskoppling behöver kontroll"
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    arkivlänk: null

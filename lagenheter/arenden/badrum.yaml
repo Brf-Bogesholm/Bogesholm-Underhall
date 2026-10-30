@@ -1,0 +1,369 @@
+version: "1.0"
+uppdaterad: "2026-10-30"
+ärenden:
+  -
+    id: "ARENDE-BAD-53C-OVRE"
+    typ: "badrumsärende"
+    adress: "53C"
+    lägenhet: "L-118-1-0072"
+    dokument:
+      - "DOK-ZIP-20261030-D020"
+    beslutsstatus: "Godkänd 2021-08-09"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Rör i vägg, handdukstork och flytt av badkarsblandare. Hålls separat från toalett nere."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-53C-NEDRE"
+    typ: "badrumsärende"
+    adress: "53C"
+    lägenhet: "L-118-1-0072"
+    dokument:
+      - "DOK-ZIP-20261030-D019"
+    beslutsstatus: "Godkänd 2021-09-30"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Nedre toalett enligt filnamn; flytt av brunn, rör och handdukstork."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-53E"
+    typ: "badrumsärende"
+    adress: "53E"
+    lägenhet: "L-118-1-0070"
+    dokument:
+      - "DOK-ZIP-20261030-D021"
+    beslutsstatus: "Inte återfunnet"
+    utförandestatus: "Entreprenörsintyg finns"
+    slutdokumentation: "Generellt entreprenörsintyg finns"
+    kommentar: "Intyg 2024-06-05. Fullständighet för alla teknikområden inte fastställd."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+      generellt_entreprenörsintyg: "Återfunnet, Mickes Golv 2024-06-05, referens faktura 334194"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Entreprenörsintyg visar utfört arbete; full omfattning och samtliga intyg är inte verifierade."
+  -
+    id: "ARENDE-BAD-55F"
+    typ: "badrumsärende"
+    adress: "55F"
+    lägenhet: "L-118-1-0064"
+    dokument:
+      - "DOK-ZIP-20261030-D022"
+      - "DOK-ZIP-20261030-D023"
+      - "DOK-ZIP-20261030-D024"
+    beslutsstatus: "Godkänd; separat avvikelsebeslut"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Planerad start vecka 44 2025, avvikelsebeslut 2025-11-14. Ingen slutkontroll i leveransen."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-59B"
+    typ: "badrumsärende"
+    adress: "59B"
+    lägenhet: "L-118-1-0058"
+    dokument:
+      - "DOK-ZIP-20261030-D028"
+    beslutsstatus: "Godkänd 2020-10-09"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Ansökan och kalkyler bevisar inte färdigställande."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-61A"
+    typ: "badrumsärende"
+    adress: "61A"
+    lägenhet: "L-118-1-0050"
+    dokument:
+      - "DOK-ZIP-20261030-D032"
+      - "DOK-ZIP-20261030-D034"
+    beslutsstatus: "Renoveringstillstånd inte återfunnet"
+    utförandestatus: "Renovering föreslagen, inte verifierad"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Besiktning med förslag om rivning och nytt badrum. Ska inte listas som bekräftat renoverat."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-61B"
+    typ: "badrumsärende"
+    adress: "61B"
+    lägenhet: "L-118-1-0051"
+    dokument:
+      - "DOK-ZIP-20261030-D036"
+      - "DOK-ZIP-20261030-D037"
+    beslutsstatus: "Godkänd 2022-11-22"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Vattenskada och renoveringsansökan, offert och skiss."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-63E"
+    typ: "badrumsärende"
+    adress: "63E"
+    lägenhet: "L-118-1-0045"
+    dokument:
+      - "DOK-ZIP-20261030-D039"
+      - "DOK-ZIP-20261030-D040"
+    beslutsstatus: "Godkänd 2021-02-05"
+    utförandestatus: "Tätskiktskontrollrapport finns"
+    slutdokumentation: "Delvis dokumenterat"
+    kommentar: "Kontrollrapport för tätskikt, inte verifierad komplett VVS-/eldokumentation."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Kontrollrapport återfunnen; täckning av övriga områden inte verifierad"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-65A"
+    typ: "badrumsärende"
+    adress: "65A"
+    lägenhet: "L-118-1-0035"
+    dokument:
+      - "DOK-ZIP-20261030-D041"
+    beslutsstatus: "Godkänd 2020-10-19"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Totalrenovering uppe. EB-ventil ska överflyttas."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-65C"
+    typ: "badrumsärende"
+    adress: "65C"
+    lägenhet: "L-118-1-0033"
+    dokument:
+      - "DOK-ZIP-20261030-D042"
+      - "DOK-ZIP-20261030-D043"
+      - "DOK-ZIP-20261030-D044"
+    beslutsstatus: "Beslut inte återfunnet"
+    utförandestatus: "Renovering inte verifierad"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Ansökan 2025-10-09, tomma beslutsrutor. Skadebesiktning separat."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-67E"
+    typ: "badrumsärende"
+    adress: "67E"
+    lägenhet: "L-118-1-0040"
+    dokument:
+      - "DOK-ZIP-20261030-D049"
+    beslutsstatus: "Godkänd 2023-01-17 enligt dokument"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Godkänd 2023-01-17 enligt handlingen. Felmärkta mappen 67C har bekräftats avse 67E. Utförande och slutintyg inte verifierade."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-67D"
+    typ: "badrumsärende"
+    adress: "67D"
+    lägenhet: "L-118-1-0039"
+    dokument:
+      - "DOK-ZIP-20261030-D050"
+      - "DOK-ZIP-20261030-D051"
+    beslutsstatus: "Ansökan/beslut inte återfunnet"
+    utförandestatus: "VVS färdigställt 2024-06-18 enligt intyg"
+    slutdokumentation: "VVS-intyg finns; övriga ej återfunna"
+    kommentar: "Säker Vatten 139345 daterat 2024-07-02. Intyget avser VVS, inte tätskikt."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Säker Vatten-intyg 139345 återfunnet, färdigställande 2024-06-18, intyg 2024-07-02"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-71G"
+    typ: "badrumsärende"
+    adress: "71G"
+    lägenhet: "L-118-1-0018"
+    dokument:
+      - "DOK-ZIP-20261030-D001"
+    beslutsstatus: "Godkänd 2021-06-12"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Kakel och plastmatta byts. Kvalitetsintyg krävs enligt blanketten."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-75C"
+    typ: "badrumsärende"
+    adress: "75C"
+    lägenhet: "L-118-1-0023"
+    dokument:
+      - "DOK-ZIP-20261030-D005"
+    beslutsstatus: "Godkänd 2023-03-01"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Omfattning delvis svårläst, tydligt byte till handdukstork."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-75F"
+    typ: "badrumsärende"
+    adress: "75F"
+    lägenhet: "L-118-1-0020"
+    dokument:
+      - "DOK-ZIP-20261030-D008"
+    beslutsstatus: "Godkänd, bekräftat av beställaren"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Godkännandet bekräftat 2026-10-30 trots tom beslutsruta. Signatur daterad 2026-10-11 finns på ansökan. Färdigställande ej verifierat."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
+  -
+    id: "ARENDE-BAD-79B"
+    typ: "badrumsärende"
+    adress: "79B"
+    lägenhet: "L-118-1-0005"
+    dokument:
+      - "DOK-ZIP-20261030-D013"
+      - "DOK-ZIP-20261030-D014"
+      - "DOK-ZIP-20261030-D015"
+    beslutsstatus: "Godkänd, bekräftat av beställaren"
+    utförandestatus: "Inte verifierat"
+    slutdokumentation: "Inte återfunnet"
+    kommentar: "Beslutstext daterad 2026-10-30, baserad på reviderad ansökan 2026-10-29. Beställaren bekräftar att originalet har skrivits ut och signerats; signerad skannad kopia saknas."
+    underlag: "Leverans 71-79.zip granskad 2026-10-30; saknas i leveransen betyder inte att handlingen aldrig lämnats."
+    uppföljningsstatus: "Behöver kompletteras"
+    personuppgifter: "Ärendet knyts till lägenhet, inte person."
+    källor:
+      - "K-ZIP-LAGENHETSARENDEN-20261030"
+      - "K-BEKRAFTELSE-LAGENHETSARENDEN-2026-10-30"
+    dokumentation_per_område:
+      tätskikt: "Inte verifierat"
+      VVS: "Inte verifierat"
+      el: "Inte verifierat"
+    färdig_renovering_verifierad: null
+    avgränsning_färdigställande: "Ingen generell slutsats om komplett färdig renovering. Delarbete kan vara dokumenterat."
