@@ -1,6 +1,9 @@
 källa: Förråd_garagelista 2026-02-25.xlsx
-uppdaterad: '2026-02-25'
+uppdaterad: '2026-11-13'
 beskrivning: Register över föreningens lägenheter. Personuppgifter om boende ingår inte.
+kompletteringskällor:
+  - "K-LAGENHETSUTDRAG-20251212"
+  - "K-LAGENHETSKOMPLETTERING-20261113"
 lägenheter:
 - id: L-118-1-0001
   typ: lägenhet
@@ -13,6 +16,24 @@ lägenheter:
   förråd: F-687
   parkering: G-701
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 71
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0002
   typ: lägenhet
   namn: lgh 02
@@ -24,6 +45,24 @@ lägenheter:
   förråd: F-686
   parkering: G-702
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 73
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0003
   typ: lägenhet
   namn: lgh 03
@@ -35,6 +74,24 @@ lägenheter:
   förråd: F-685
   parkering: G-741
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 75
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0004
   typ: lägenhet
   namn: lgh 04
@@ -46,6 +103,24 @@ lägenheter:
   förråd: F-684
   parkering: G-740
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 77
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0005
   typ: lägenhet
   namn: lgh 05
@@ -57,6 +132,24 @@ lägenheter:
   förråd: F-683
   parkering: G-705
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 79
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0006
   typ: lägenhet
   namn: lgh 06
@@ -68,6 +161,24 @@ lägenheter:
   förråd: F-682
   parkering: G-733
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 81
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0007
   typ: lägenhet
   namn: lgh 07
@@ -79,6 +190,24 @@ lägenheter:
   förråd: F-681
   parkering: G-707
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 83
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0008
   typ: lägenhet
   namn: lgh 08
@@ -90,6 +219,24 @@ lägenheter:
   förråd: F-680
   parkering: G-716
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 85
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0009
   typ: lägenhet
   namn: lgh 09
@@ -101,6 +248,24 @@ lägenheter:
   förråd: F-679
   parkering: G-717
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 87
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0010
   typ: lägenhet
   namn: lgh 10
@@ -112,6 +277,24 @@ lägenheter:
   förråd: F-678
   parkering: G-719
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 89
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0011
   typ: lägenhet
   namn: lgh 11
@@ -123,6 +306,24 @@ lägenheter:
   förråd: F-677
   parkering: G-720
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 91
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0012
   typ: lägenhet
   namn: lgh 12
@@ -134,6 +335,24 @@ lägenheter:
   förråd: F-613
   parkering: G-715
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 93
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10545
+    andelstal_procent:
+      andelstal_k: "1.15001"
+      andelsvärde: "1.15001"
+      insats: "1.14999"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0013
   typ: lägenhet
   namn: lgh 13
@@ -145,6 +364,24 @@ lägenheter:
   förråd: F-615
   parkering: G-708
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 95
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10725
+    andelstal_procent:
+      andelstal_k: "1.16961"
+      andelsvärde: "1.16961"
+      insats: "1.16962"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0014
   typ: lägenhet
   namn: lgh 14
@@ -156,6 +393,24 @@ lägenheter:
   förråd: F-612
   parkering: G-709
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 97
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10617
+    andelstal_procent:
+      andelstal_k: "1.15781"
+      andelsvärde: "1.15781"
+      insats: "1.15784"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0015
   typ: lägenhet
   namn: lgh 15
@@ -167,6 +422,24 @@ lägenheter:
   förråd: F-605
   parkering: G-710
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 99
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10507
+    andelstal_procent:
+      andelstal_k: "1.14581"
+      andelsvärde: "1.14581"
+      insats: "1.14585"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0016
   typ: lägenhet
   namn: lgh 16
@@ -178,6 +451,24 @@ lägenheter:
   förråd: F-634
   parkering: G-765
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 101
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10435
+    andelstal_procent:
+      andelstal_k: "1.13801"
+      andelsvärde: "1.13801"
+      insats: "1.13799"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0017
   typ: lägenhet
   namn: lgh 17
@@ -189,6 +480,24 @@ lägenheter:
   förråd: F-614
   parkering: G-712
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 103
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10655
+    andelstal_procent:
+      andelstal_k: "1.16201"
+      andelsvärde: "1.16201"
+      insats: "1.16199"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0018
   typ: lägenhet
   namn: lgh 18
@@ -200,6 +509,24 @@ lägenheter:
   förråd: F-606
   parkering: G-713
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 105
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10796
+    andelstal_procent:
+      andelstal_k: "1.17741"
+      andelsvärde: "1.17741"
+      insats: "1.17736"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0019
   typ: lägenhet
   namn: lgh 19
@@ -211,6 +538,24 @@ lägenheter:
   förråd: F-630
   parkering: G-714
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 107
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10615
+    andelstal_procent:
+      andelstal_k: "1.15761"
+      andelsvärde: "1.15761"
+      insats: "1.15762"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0020
   typ: lägenhet
   namn: lgh 20
@@ -222,6 +567,24 @@ lägenheter:
   förråd: F-636
   parkering: G-721
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 109
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10615
+    andelstal_procent:
+      andelstal_k: "1.15761"
+      andelsvärde: "1.15761"
+      insats: "1.15762"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0021
   typ: lägenhet
   namn: lgh 21
@@ -233,6 +596,24 @@ lägenheter:
   förråd: F-643
   parkering: G-722
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 111
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10796
+    andelstal_procent:
+      andelstal_k: "1.17741"
+      andelsvärde: "1.17741"
+      insats: "1.17736"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0022
   typ: lägenhet
   namn: lgh 22
@@ -244,6 +625,24 @@ lägenheter:
   förråd: F-639
   parkering: G-723
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 113
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10655
+    andelstal_procent:
+      andelstal_k: "1.16201"
+      andelsvärde: "1.16201"
+      insats: "1.16199"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0023
   typ: lägenhet
   namn: lgh 23
@@ -255,6 +654,24 @@ lägenheter:
   förråd: F-641
   parkering: G-724
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 115
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10435
+    andelstal_procent:
+      andelstal_k: "1.13801"
+      andelsvärde: "1.13801"
+      insats: "1.13799"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0024
   typ: lägenhet
   namn: lgh 24
@@ -266,6 +683,24 @@ lägenheter:
   förråd: F-621
   parkering: P-910
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 117
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9372
+    andelstal_procent:
+      andelstal_k: "1.02211"
+      andelsvärde: "1.02211"
+      insats: "1.02207"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0025
   typ: lägenhet
   namn: lgh 25
@@ -277,6 +712,24 @@ lägenheter:
   förråd: F-622
   parkering: P-913
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 119
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9706
+    andelstal_procent:
+      andelstal_k: "1.05851"
+      andelsvärde: "1.05851"
+      insats: "1.05849"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0026
   typ: lägenhet
   namn: lgh 26
@@ -288,6 +741,24 @@ lägenheter:
   förråd: F-676
   parkering: G-725
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 121
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0027
   typ: lägenhet
   namn: lgh 27
@@ -299,6 +770,24 @@ lägenheter:
   förråd: F-675
   parkering: G-749
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 123
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0028
   typ: lägenhet
   namn: lgh 28
@@ -310,6 +799,24 @@ lägenheter:
   förråd: F-674
   parkering: G-727
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 125
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0029
   typ: lägenhet
   namn: lgh 29
@@ -321,6 +828,24 @@ lägenheter:
   förråd: F-673
   parkering: G-728
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 127
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0030
   typ: lägenhet
   namn: lgh 30
@@ -332,6 +857,24 @@ lägenheter:
   förråd: F-672
   parkering: G-729
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 129
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0031
   typ: lägenhet
   namn: lgh 31
@@ -343,6 +886,24 @@ lägenheter:
   förråd: F-671
   parkering: G-734
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 131
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0032
   typ: lägenhet
   namn: lgh 32
@@ -354,6 +915,24 @@ lägenheter:
   förråd: F-670
   parkering: G-735
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 133
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0033
   typ: lägenhet
   namn: lgh 33
@@ -365,6 +944,24 @@ lägenheter:
   förråd: F-669
   parkering: G-770
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 135
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0034
   typ: lägenhet
   namn: lgh 34
@@ -376,6 +973,24 @@ lägenheter:
   förråd: F-668
   parkering: G-737
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 137
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0035
   typ: lägenhet
   namn: lgh 35
@@ -387,6 +1002,24 @@ lägenheter:
   förråd: F-667
   parkering: G-738
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 139
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0036
   typ: lägenhet
   namn: lgh 36
@@ -398,6 +1031,24 @@ lägenheter:
   förråd: F-608
   parkering: G-730
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 141
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10545
+    andelstal_procent:
+      andelstal_k: "1.15001"
+      andelsvärde: "1.15001"
+      insats: "1.14999"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0037
   typ: lägenhet
   namn: lgh 37
@@ -409,6 +1060,24 @@ lägenheter:
   förråd: F-607
   parkering: G-718
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 143
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10725
+    andelstal_procent:
+      andelstal_k: "1.16961"
+      andelsvärde: "1.16961"
+      insats: "1.16962"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0038
   typ: lägenhet
   namn: lgh 38
@@ -420,6 +1089,24 @@ lägenheter:
   förråd: F-638
   parkering: G-762
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 145
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10617
+    andelstal_procent:
+      andelstal_k: "1.15781"
+      andelsvärde: "1.15781"
+      insats: "1.15784"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0039
   typ: lägenhet
   namn: lgh 39
@@ -431,6 +1118,24 @@ lägenheter:
   förråd: F-616
   parkering: G-731
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 147
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10507
+    andelstal_procent:
+      andelstal_k: "1.14581"
+      andelsvärde: "1.14581"
+      insats: "1.14585"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0040
   typ: lägenhet
   namn: lgh 40
@@ -442,6 +1147,24 @@ lägenheter:
   förråd: F-604
   parkering: G-761
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 149
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10435
+    andelstal_procent:
+      andelstal_k: "1.13801"
+      andelsvärde: "1.13801"
+      insats: "1.13799"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0041
   typ: lägenhet
   namn: lgh 41
@@ -453,6 +1176,24 @@ lägenheter:
   förråd: F-602
   parkering: G-763
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 151
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10655
+    andelstal_procent:
+      andelstal_k: "1.16201"
+      andelsvärde: "1.16201"
+      insats: "1.16199"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0042
   typ: lägenhet
   namn: lgh 42
@@ -464,6 +1205,24 @@ lägenheter:
   förråd: F-632
   parkering: G-764
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 153
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10796
+    andelstal_procent:
+      andelstal_k: "1.17741"
+      andelsvärde: "1.17741"
+      insats: "1.17736"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0043
   typ: lägenhet
   namn: lgh 43
@@ -475,6 +1234,24 @@ lägenheter:
   förråd: F-642
   parkering: G-706
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 2"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 155
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10615
+    andelstal_procent:
+      andelstal_k: "1.15761"
+      andelsvärde: "1.15761"
+      insats: "1.15762"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0044
   typ: lägenhet
   namn: lgh 44
@@ -486,6 +1263,24 @@ lägenheter:
   förråd: F-623
   parkering: P-912
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 1
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9706
+    andelstal_procent:
+      andelstal_k: "1.05851"
+      andelsvärde: "1.05851"
+      insats: "1.05849"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0045
   typ: lägenhet
   namn: lgh 45
@@ -497,6 +1292,24 @@ lägenheter:
   förråd: F-624
   parkering: P-909
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 3
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9372
+    andelstal_procent:
+      andelstal_k: "1.02211"
+      andelsvärde: "1.02211"
+      insats: "1.02207"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0046
   typ: lägenhet
   namn: lgh 46
@@ -508,6 +1321,24 @@ lägenheter:
   förråd: F-633
   parkering: G-739
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 5
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10507
+    andelstal_procent:
+      andelstal_k: "1.14581"
+      andelsvärde: "1.14581"
+      insats: "1.14585"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0047
   typ: lägenhet
   namn: lgh 47
@@ -519,6 +1350,24 @@ lägenheter:
   förråd: F-617
   parkering: G-704
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 7
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10617
+    andelstal_procent:
+      andelstal_k: "1.15781"
+      andelsvärde: "1.15781"
+      insats: "1.15784"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0048
   typ: lägenhet
   namn: lgh 48
@@ -530,6 +1379,24 @@ lägenheter:
   förråd: F-644
   parkering: G-703
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 9
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10725
+    andelstal_procent:
+      andelstal_k: "1.16961"
+      andelsvärde: "1.16961"
+      insats: "1.16962"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0049
   typ: lägenhet
   namn: lgh 49
@@ -541,6 +1408,24 @@ lägenheter:
   förråd: F-645
   parkering: G-742
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 11
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10545
+    andelstal_procent:
+      andelstal_k: "1.15001"
+      andelsvärde: "1.15001"
+      insats: "1.14999"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0050
   typ: lägenhet
   namn: lgh 50
@@ -552,6 +1437,24 @@ lägenheter:
   förråd: F-666
   parkering: G-743
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 13
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0051
   typ: lägenhet
   namn: lgh 51
@@ -563,6 +1466,24 @@ lägenheter:
   förråd: F-665
   parkering: G-744
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 15
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0052
   typ: lägenhet
   namn: lgh 52
@@ -574,6 +1495,24 @@ lägenheter:
   förråd: F-664
   parkering: G-745
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 17
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0053
   typ: lägenhet
   namn: lgh 53
@@ -585,6 +1524,24 @@ lägenheter:
   förråd: F-663
   parkering: G-746
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 19
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0054
   typ: lägenhet
   namn: lgh 54
@@ -596,6 +1553,24 @@ lägenheter:
   förråd: F-625
   parkering: P-905
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 21
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9706
+    andelstal_procent:
+      andelstal_k: "1.05851"
+      andelsvärde: "1.05851"
+      insats: "1.05849"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0055
   typ: lägenhet
   namn: lgh 55
@@ -607,6 +1582,24 @@ lägenheter:
   förråd: F-626
   parkering: P-906
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 23
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9372
+    andelstal_procent:
+      andelstal_k: "1.02211"
+      andelsvärde: "1.02211"
+      insats: "1.02207"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0056
   typ: lägenhet
   namn: lgh 56
@@ -618,6 +1611,24 @@ lägenheter:
   förråd: F-631
   parkering: G-747
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 25
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10507
+    andelstal_procent:
+      andelstal_k: "1.14581"
+      andelsvärde: "1.14581"
+      insats: "1.14585"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0057
   typ: lägenhet
   namn: lgh 57
@@ -629,6 +1640,24 @@ lägenheter:
   förråd: F-640
   parkering: G-736
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 27
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10617
+    andelstal_procent:
+      andelstal_k: "1.15781"
+      andelsvärde: "1.15781"
+      insats: "1.15784"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0058
   typ: lägenhet
   namn: lgh 58
@@ -640,6 +1669,24 @@ lägenheter:
   förråd: F-647
   parkering: G-769
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 29
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10725
+    andelstal_procent:
+      andelstal_k: "1.16961"
+      andelsvärde: "1.16961"
+      insats: "1.16962"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0059
   typ: lägenhet
   namn: lgh 59
@@ -651,6 +1698,24 @@ lägenheter:
   förråd: F-646
   parkering: G-768
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 31
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10545
+    andelstal_procent:
+      andelstal_k: "1.15001"
+      andelsvärde: "1.15001"
+      insats: "1.14999"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0060
   typ: lägenhet
   namn: lgh 60
@@ -662,6 +1727,24 @@ lägenheter:
   förråd: F-662
   parkering: G-767
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 33
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0061
   typ: lägenhet
   namn: lgh 61
@@ -673,6 +1756,24 @@ lägenheter:
   förråd: F-661
   parkering: G-766
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 35
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0062
   typ: lägenhet
   namn: lgh 62
@@ -684,6 +1785,24 @@ lägenheter:
   förråd: F-660
   parkering: G-711
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 37
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0063
   typ: lägenhet
   namn: lgh 63
@@ -695,6 +1814,24 @@ lägenheter:
   förråd: F-659
   parkering: G-748
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 39
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0064
   typ: lägenhet
   namn: lgh 64
@@ -706,6 +1843,24 @@ lägenheter:
   förråd: F-627
   parkering: P-911
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 41
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9706
+    andelstal_procent:
+      andelstal_k: "1.05851"
+      andelsvärde: "1.05851"
+      insats: "1.05849"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0065
   typ: lägenhet
   namn: lgh 65
@@ -717,6 +1872,24 @@ lägenheter:
   förråd: F-628
   parkering: P-904
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 43
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 9372
+    andelstal_procent:
+      andelstal_k: "1.02211"
+      andelsvärde: "1.02211"
+      insats: "1.02207"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0066
   typ: lägenhet
   namn: lgh 66
@@ -728,6 +1901,24 @@ lägenheter:
   förråd: F-601
   parkering: G-726
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 45
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10507
+    andelstal_procent:
+      andelstal_k: "1.14581"
+      andelsvärde: "1.14581"
+      insats: "1.14585"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0067
   typ: lägenhet
   namn: lgh 67
@@ -739,6 +1930,24 @@ lägenheter:
   förråd: F-603
   parkering: G-750
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 47
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10617
+    andelstal_procent:
+      andelstal_k: "1.15781"
+      andelsvärde: "1.15781"
+      insats: "1.15784"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0068
   typ: lägenhet
   namn: lgh 68
@@ -750,6 +1959,24 @@ lägenheter:
   förråd: F-637
   parkering: G-751
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 49
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10725
+    andelstal_procent:
+      andelstal_k: "1.16961"
+      andelsvärde: "1.16961"
+      insats: "1.16962"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0069
   typ: lägenhet
   namn: lgh 69
@@ -761,6 +1988,24 @@ lägenheter:
   förråd: F-635
   parkering: G-752
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "2 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 51
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 10545
+    andelstal_procent:
+      andelstal_k: "1.15001"
+      andelsvärde: "1.15001"
+      insats: "1.14999"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0070
   typ: lägenhet
   namn: lgh 70
@@ -772,6 +2017,24 @@ lägenheter:
   förråd: F-658
   parkering: G-753
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 53
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0071
   typ: lägenhet
   namn: lgh 71
@@ -783,6 +2046,24 @@ lägenheter:
   förråd: F-657
   parkering: G-754
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 55
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0072
   typ: lägenhet
   namn: lgh 72
@@ -794,6 +2075,24 @@ lägenheter:
   förråd: F-656
   parkering: G-755
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 57
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0073
   typ: lägenhet
   namn: lgh 73
@@ -805,6 +2104,24 @@ lägenheter:
   förråd: F-655
   parkering: G-756
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 59
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0074
   typ: lägenhet
   namn: lgh 74
@@ -816,6 +2133,24 @@ lägenheter:
   förråd: F-654
   parkering: G-757
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 61
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0075
   typ: lägenhet
   namn: lgh 75
@@ -827,6 +2162,24 @@ lägenheter:
   förråd: F-653
   parkering: G-758
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 63
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13275
+    andelstal_procent:
+      andelstal_k: "1.44771"
+      andelsvärde: "1.44771"
+      insats: "1.44771"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0076
   typ: lägenhet
   namn: lgh 76
@@ -838,6 +2191,24 @@ lägenheter:
   förråd: F-652
   parkering: G-759
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 65
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0077
   typ: lägenhet
   namn: lgh 77
@@ -849,6 +2220,24 @@ lägenheter:
   förråd: F-651
   parkering: G-760
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 67
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"
 - id: L-118-1-0078
   typ: lägenhet
   namn: lgh 78
@@ -860,3 +2249,21 @@ lägenheter:
   förråd: F-650
   parkering: G-732
   datastatus: verifierad
+  fastighetsbeteckning: "Kävlinge Bågen 1"
+  våningsuppgift: "1 TR"
+  skatteverkets_lägenhetsnummer: "1001"
+  skatteverkets_lägenhetsnummer_källa: "K-LAGENHETSKOMPLETTERING-20261113"
+  registerkomplettering:
+    underlagsdatum: "2025-12-12"
+    registrerad: "2026-11-13"
+    källa: "K-LAGENHETSUTDRAG-20251212"
+    källsida: 69
+  ekonomi:
+    uppgiftsdatum: "2025-12-12"
+    valuta: "SEK"
+    insats: 13166
+    andelstal_procent:
+      andelstal_k: "1.43581"
+      andelsvärde: "1.43581"
+      insats: "1.43582"
+    källa: "K-LAGENHETSUTDRAG-20251212"

@@ -12,6 +12,19 @@ Exempel:
 
 Det verifierade registret omfattar 78 lägenheter och finns i [`register.yaml`](register.yaml).
 
+## Komplettering från lägenhetsutdrag
+
+Den 13 november 2026 kompletterades samtliga lägenheter med fastighetsbeteckning, våningsuppgift, insats i SEK och andelstal enligt utdraget daterat **12 december 2025**. [Källor och kontroller](../inventering/importer/lagenhetsutdrag-2026-11-13.yaml). Adresser, antal rum och ytor överensstämmer med tidigare register. Befintliga objekt-ID:n och kopplingar har bevarats.
+
+- **Kävlinge Bågen 1:** 35 lägenheter i hus 51–63.
+- **Kävlinge Bågen 2:** 43 lägenheter i hus 65, 67 och 71–79. Föreningslokalen i hus 69 omfattas inte av lägenhetsutdraget.
+- Våningsuppgifterna återges som **1 TR** (58 lägenheter) och **2 TR** (20 lägenheter), utan egen tolkning av våningsnumreringen.
+- Skatteverkets lägenhetsnummer **1001** är bekräftat av beställaren för samtliga lägenheter; alla har enskild ingång. Numret identifierar därför inte ensamt en lägenhet i föreningen.
+
+`ekonomi.insats` är insatsbeloppet i SEK. `ekonomi.andelstal_procent` innehåller separata fält för källans **Andelstal K**, **Andelsvärde** och **Insats**. Procenttalen lagras som decimalsträngar med fem decimaler. Rubrikernas användning tolkas inte om, och små differenser mot 100 procent behålls. Uppgifterna avser underlaget från 2025-12-12 och är inte en bekräftelse på att alla värden är oförändrade idag.
+
+Riksbyggens gamla lägenhetsnummer, ekonomiska planens registreringsdatum och övriga ekonomiska uppgifter har utelämnats enligt beställarens anvisning. Originalet med boende- och pantuppgifter publiceras inte.
+
 ## Dokumentationsprincip
 
 En lägenhet ska kunna identifieras entydigt och kopplas till rätt hus.

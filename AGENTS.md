@@ -17,3 +17,7 @@ Se även `fakturor/README.md` och `inventering/importer/datumregel-2026-11-13.ya
 Skilj faktura, tillgång och åtgärd. Räkna kostnaden endast en gång från den unika fakturan. Bevara samtliga fakturarader. Fråga om okända objekt-/platskopplingar och gissa inte. Låt beställaren kontrollera extraktionen före registrering. Datum enligt den stående regeln kräver ingen separat kompletteringsfråga.
 
 Originaldokument hör till föreningens dokumentarkiv. Publicera inte originalfakturor, personuppgifter eller privata kontouppgifter i repot.
+
+## Lägenhetsuppgifter
+
+Beställarens avgränsning 2026-11-13: lägenhetsutdraget från 2025-12-12 får komplettera insatser, andelstal, våningsuppgifter och fastighetsbeteckningar. Skatteverkets nummer 1001 är bekräftat för alla 78 lägenheter eftersom de har enskilda ingångar. Riksbyggens lägenhetsnummer från det gamla förvaltaravtalet ska inte registreras. Ekonomiska planens registreringsdatum är inte känt och ska inte hämtas från utdraget. Övriga ekonomiska uppgifter ska inte överföras. Behåll befintliga stabila objekt-ID:n. Håll insatsbelopp i SEK skilt från procentfältet Insats och bevara andelstalens tre ursprungliga rubriker separat. Märk uppgifterna med källans datum.

@@ -1,0 +1,56 @@
+id: "IMPORT-LAGENHETSUTDRAG-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-LAGENHETSUTDRAG-20251212"
+    typ: "lägenhetsutdrag"
+    filnamn: "208217 Utdrag ur lägenhetsregistret.pdf"
+    dokumentdatum: "2025-12-12"
+    sha256: "ef4d9aa07621f0881d004c1e7c46d43630a3260d4cbd07b7becafd86b1515b3d"
+    arkiv: "SharePoint"
+    arkivlänk: null
+    kommentar: "Originalet innehåller personuppgifter och lagras inte i repot. Endast godkända sakuppgifter har överförts."
+  -
+    id: "K-LAGENHETSKOMPLETTERING-20261113"
+    typ: "beställaruppgifter"
+    datum: "2026-11-13"
+    uppgifter:
+      - "Komplettera insatser, andelstal, våningsuppgift och fastighetsbeteckning."
+      - "Skatteverkets lägenhetsnummer 1001 är korrekt för samtliga lägenheter eftersom alla har enskild ingång."
+      - "Riksbyggens lägenhetsnummer hör till tidigare förvaltaravtal och ska inte registreras."
+      - "Bortse från ekonomiska planens registreringsdatum; korrekt uppgift saknas."
+      - "Övriga ekonomiska uppgifter ska inte tas med."
+kontroll:
+  antal_lägenheter: 78
+  matchade_adresser: 78
+  överensstämmande_rumsantal: 78
+  överensstämmande_ytor: 78
+  summerad_yta_m2: 6952
+  fastigheter:
+    -
+      beteckning: "Kävlinge Bågen 1"
+      antal_lägenheter: 35
+    -
+      beteckning: "Kävlinge Bågen 2"
+      antal_lägenheter: 43
+  våningsuppgifter:
+    -
+      beteckning: "1 TR"
+      antal: 58
+    -
+      beteckning: "2 TR"
+      antal: 20
+  insatser_totalt_SEK: 916965
+  summerade_andelstal_procent:
+    Andelstal K: "99.99978"
+    Andelsvärde: "99.99978"
+    Insats: "99.99990"
+fältregler:
+  - "Befintliga stabila objekt-ID:n, adresser, rumsantal, ytor, förråd och garagekopplingar bevaras."
+  - "Våningsuppgift bevarar källans beteckningar 1 TR respektive 2 TR, utan egen omtolkning."
+  - "Insats i SEK hålls skild från procentfältet Insats."
+  - "Procentfältens ursprungliga rubriker är Andelstal K, Andelsvärde och Insats. De hålls separata; decimalsträngar bevarar fem decimaler."
+  - "Ingen egen tolkning av andelstalens användning görs. Små summadifferenser mot 100 procent normaliseras inte."
+  - "Insatser och andelstal är uppgifter enligt utdraget 2025-12-12, inte verifierat oförändrade belopp per registreringsdatum."
+  - "Personuppgifter, ägarförhållanden, pantuppgifter, överlåtelsepriser, avgifter och kapitaltillskott har inte överförts."
+  - "Riksbyggens lägenhetsnummer och ekonomiska planens registreringsdatum har inte överförts."
