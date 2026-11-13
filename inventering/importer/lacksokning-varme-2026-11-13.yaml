@@ -1,0 +1,121 @@
+id: "IMPORT-LACKSOKNING-VARME-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-LACKSOKNING-VARME-20261113"
+    typ: "zip-arkiv"
+    filnamn: "Läcksökning värmesystem.zip"
+    filer:
+      -
+        id: "K-LACK-VARME-D001"
+        arkivsökväg: "Läcksökning värmesystem/2016/Läcksökning värme-2016.pdf"
+        sha256: "c7892b2d061da6018b8d9288b55c0ec9d0c7ef044db4409ce80703e70bb50b3e"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Kumulativ Ocab-rapport"
+        ärende: "AR-VARME-LACK-2016-2017"
+        hantering: "Versioner av samma arbetsorder; återgivna noteringar skapar inte ytterligare händelser."
+      -
+        id: "K-LACK-VARME-D002"
+        arkivsökväg: "Läcksökning värmesystem/2016/Läcksökning.Värmeledning.Ocab.pdf"
+        sha256: "4263f4f5db4841d232a710f71b8931545d280a08071cf9abf47ff8e93789de1e"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Kumulativ Ocab-rapport"
+        ärende: "AR-VARME-LACK-2016-2017"
+        hantering: "Versioner av samma arbetsorder; återgivna noteringar skapar inte ytterligare händelser."
+      -
+        id: "K-LACK-VARME-D003"
+        arkivsökväg: "Läcksökning värmesystem/2016/Utlåtande NGP-SÄB1 brf Bogesholm 2016-06-29.pdf"
+        sha256: "8e2a801ecc1029536afb8b5542339df74e1b9e02f4a6b36e178d8a604bb52177"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Utlåtande över särskild besiktning"
+        hantering: "Besiktningsdatum och beslut bevaras, utan att planerade åtgärder antas utförda."
+      -
+        id: "K-LACK-VARME-D004"
+        arkivsökväg: "Läcksökning värmesystem/2016/Utlåtande.vattenprov.Kommunen.Mail.2016.pdf"
+        sha256: "51c78fcf2e6a1a16d15f51affa68233bbdf3ec6b08168264f4944bf0281a68d0"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Kommunal korrespondens om vattenprover"
+        hantering: "Källförtecknad som separat dricksvattenunderlag; inga person-/kontaktuppgifter överförda."
+      -
+        id: "K-LACK-VARME-D005"
+        arkivsökväg: "Läcksökning värmesystem/2016/Vattenprov.2016.pdf"
+        sha256: "515e475c874954ba76f8e175ede6afeaeb1a72c18324d6c400f9f99726b39e74"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Dricksvattenanalyser"
+        hantering: "Sammanfattad som separat referens; fullständig analysimport ingår inte."
+      -
+        id: "K-LACK-VARME-D006"
+        arkivsökväg: "Läcksökning värmesystem/2017/EONs besitning av gasläkage steg 1.pdf"
+        sha256: "280822982619c4fd896d81fa604aa48dd91619b947b6d1063a2c551f6ddc5efe"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "E.ON gasbesiktning/uppföljning"
+        hantering: "Ordning följer kontroll-/anteckningsdatum och protokollnummer, inte filnamnets steg 1 eller steg 2."
+      -
+        id: "K-LACK-VARME-D007"
+        arkivsökväg: "Läcksökning värmesystem/2017/EONs besitning av gasläkage steg 2, godkännd.pdf"
+        sha256: "554b40c7d21ae4ff83f733beedf76193f64b8b10f5e5a8ac5d72a2f90b8b45dd"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "E.ON gasbesiktning/uppföljning"
+        hantering: "Ordning följer kontroll-/anteckningsdatum och protokollnummer, inte filnamnets steg 1 eller steg 2."
+      -
+        id: "K-LACK-VARME-D008"
+        arkivsökväg: "Läcksökning värmesystem/2017/Rapport 2 februari .Läcksökninng värmesystem.pdf"
+        sha256: "68f563a4916b286dbd14f8b0d8a74e316672a05d8552868d0f2d1ae00bde37c1"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Kumulativ Ocab-rapport"
+        ärende: "AR-VARME-LACK-2016-2017"
+        hantering: "Versioner av samma arbetsorder; återgivna noteringar skapar inte ytterligare händelser."
+      -
+        id: "K-LACK-VARME-D009"
+        arkivsökväg: "Läcksökning värmesystem/2017/Rapport läcksök.Värmesystem Panna.februari.pdf"
+        sha256: "fe58f4f07b251672f4ad6d28d05f4dd81bdfd8488d7d30dfa4276612b7bc4bd1"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Kumulativ Ocab-rapport"
+        ärende: "AR-VARME-LACK-2016-2017"
+        hantering: "Versioner av samma arbetsorder; återgivna noteringar skapar inte ytterligare händelser."
+      -
+        id: "K-LACK-VARME-D010"
+        arkivsökväg: "Läcksökning värmesystem/2017/Rapport.Läcksökning.Värmesystem-2017.pdf"
+        sha256: "435734887e756f34258be220aad1fd3287b22aae09d24d08680c9eaafc160a56"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "Kumulativ Ocab-rapport"
+        ärende: "AR-VARME-LACK-2016-2017"
+        hantering: "Versioner av samma arbetsorder; återgivna noteringar skapar inte ytterligare händelser."
+      -
+        id: "K-LACK-VARME-D011"
+        arkivsökväg: "Läcksökning värmesystem/2017/Varmvattenpannor Brf Bogesholm rev1.pdf"
+        sha256: "58e60205d1231f106f91bc755e8ffda95ee11b700a3191fb1ba3424fa4a3f04d"
+        arkiv: "SharePoint"
+        arkivlänk: null
+        typ: "DEKRA säkerhetsanmärkning"
+        hantering: "Rapport 2017-01-23 beskriver kontroller 2016-11-28 och 2017-01-20, inte en tredje kontroll 23 januari."
+  -
+    id: "K-LACKSOKNING-KOMPLETTERING-20261113"
+    typ: "beställaruppgifter"
+    datum: "2026-11-13"
+    uppgifter:
+      - "Ursprunget till värmesystemets ursprungliga läcka hittades aldrig."
+      - "Undercentralens korrekta adress är Högalidsvägen 69, även när Ocab skriver Högalidsvägen 63."
+kontroll:
+  dokument: 11
+  Ocab_rapportversioner: 5
+  händelser: 13
+  nya_objekt: 2
+  nya_fakturor: 0
+öppna_uppgifter:
+  - "Aktuell vattenförlust och aktuellt läckagestatus bedöms inte av de historiska rapporterna."
+  - "Byte av felande ventil med rött vred och slutförande av DEKRA:s säkerhetsanmärkning är inte styrkta i detta arkiv."
+  - "DEKRA-nummer saknar verifierad pannvis koppling."
+  - "Exakta datum för vissa avstängningsförsök, ventilinstallationer och färgning saknas."
+  - "Vilka fyra lägenheter i hus 57 och exakt omfattning av Alla lgh OK framgår inte."
+  - "Beständiga arkivlänkar saknas."

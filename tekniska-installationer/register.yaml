@@ -314,9 +314,12 @@ objekt:
       - "A-GAS-UC-2024-10-02"
       - "A-GAS-UC-2025-05-09"
       - "A-GAS-UC-2025-12-11"
+      - "A-VARME-LACK-20160629"
+      - "A-VARME-LACK-20161012"
     källor:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
   -
     id: "TI-GASANLAGGNING-69-001"
     typ: "gasanläggning"
@@ -328,6 +331,13 @@ objekt:
       senaste_dokumenterade_gasbesiktning: "2026-01-09"
       senaste_gasbesiktningsomdöme: "Besiktning godkänd"
       kommentar: "Anläggningsnumret återges som i protokollen. Gasfakturorna har även andra format med inledande nollor; befintliga fakturauppgifter ändras inte."
+      DEKRA_registreringsnummer_enligt_2017:
+        nummer:
+          - "T7120958"
+          - "T7120985"
+          - "T7121000"
+        källa: "K-LACK-VARME-D011"
+        kommentar: "Gruppuppgift för tre pannor. Vilket registreringsnummer som hör till panna 1, 2 eller 3 är inte fastställt."
     relationer:
       -
         typ: "located_in"
@@ -338,9 +348,12 @@ objekt:
     underhållshistorik:
       - "A-GAS-WEUM-2023-02-21"
       - "A-GAS-WEUM-2026-01-09"
+      - "A-VARME-LACK-EON-20170222"
+      - "A-VARME-LACK-EON-20170223"
     källor:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
   -
     id: "TI-GASPANNA-69-001"
     typ: "gaspanna"
@@ -368,9 +381,15 @@ objekt:
       - "A-GAS-WEUM-2023-02-21"
       - "A-GAS-WEUM-2026-01-09"
       - "A-GAS-BRAND-2024-06-05-P1"
+      - "A-VARME-LACK-20160629"
+      - "A-VARME-LACK-PANNPROV-2017"
+      - "A-VARME-LACK-AVSTANGNINGAR-2017"
+      - "A-VARME-LACK-DEKRA-20161128"
+      - "A-VARME-LACK-DEKRA-20170120"
     källor:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
   -
     id: "TI-GASPANNA-69-002"
     typ: "gaspanna"
@@ -398,9 +417,15 @@ objekt:
       - "A-GAS-WEUM-2023-02-21"
       - "A-GAS-WEUM-2026-01-09"
       - "A-GAS-BRAND-2024-06-05-P2"
+      - "A-VARME-LACK-20160629"
+      - "A-VARME-LACK-PANNPROV-2017"
+      - "A-VARME-LACK-AVSTANGNINGAR-2017"
+      - "A-VARME-LACK-DEKRA-20161128"
+      - "A-VARME-LACK-DEKRA-20170120"
     källor:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
   -
     id: "TI-GASPANNA-69-003"
     typ: "gaspanna"
@@ -428,9 +453,15 @@ objekt:
       - "A-GAS-WEUM-2023-02-21"
       - "A-GAS-WEUM-2026-01-09"
       - "A-GAS-BRAND-2024-06-05-P3"
+      - "A-VARME-LACK-20160629"
+      - "A-VARME-LACK-PANNPROV-2017"
+      - "A-VARME-LACK-AVSTANGNINGAR-2017"
+      - "A-VARME-LACK-DEKRA-20161128"
+      - "A-VARME-LACK-DEKRA-20170120"
     källor:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
   -
     id: "TI-GASKANAL-LUCKA-69-001"
     typ: "lucka"
@@ -507,3 +538,64 @@ objekt:
     källor:
       - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       - "K-GASPANNOR-ZIP-20261113"
+  -
+    id: "TI-VARMESYSTEM-BOGESHOLM-001"
+    typ: "värmesystem"
+    namn: "Föreningens vattenburna värmesystem"
+    datastatus: "verifierad"
+    placering: "Brf Bogesholms byggnader och kulvertar; undercentral Högalidsvägen 69"
+    egenskaper:
+      historiskt_läcksökningsärende: "AR-VARME-LACK-2016-2017"
+      historiskt_resultat: "Ursprunglig läckkälla aldrig lokaliserad enligt beställaren"
+      aktuell_läckagestatus: null
+    relationer:
+      -
+        typ: "contains"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      - "A-VARME-LACK-20160629"
+      - "A-VARME-LACK-20161012"
+      - "A-VARME-LACK-20161018"
+      - "A-VARME-LACK-20161020"
+      - "A-VARME-LACK-20161101"
+      - "A-VARME-LACK-20161207"
+      - "A-VARME-LACK-PANNPROV-2017"
+      - "A-VARME-LACK-AVSTANGNINGAR-2017"
+      - "A-VARME-LACK-SPARAMNE-2017"
+    källor:
+      - "K-LACKSOKNING-VARME-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+  -
+    id: "TI-MAXPRESSOSTAT-69-001"
+    typ: "tryckvakt"
+    namn: "Gemensam maxpressostat för tre gaspannor, historisk dokumentation"
+    datastatus: "verifierad"
+    placering: "Expansionsledningen mellan manometer och påfyllningsledning, pannrummet Högalidsvägen 69, enligt DEKRA 2017"
+    egenskaper:
+      funktion: "Gemensam stopp-/larmfunktion vid högt tryck"
+      fabrikat: null
+      modell: null
+      serienummer: null
+      installationsdatum: null
+      historiskt_underlag: "600277-00, 2017-01-23"
+      kommentar: "Beskriven historisk komponent. Senare byten, slutförande av DEKRA-anmärkningen och aktuellt funktionstillstånd är inte fastställda."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "serves"
+        objekt: "TI-GASPANNA-69-001"
+      -
+        typ: "serves"
+        objekt: "TI-GASPANNA-69-002"
+      -
+        typ: "serves"
+        objekt: "TI-GASPANNA-69-003"
+    underhållshistorik:
+      - "A-VARME-LACK-DEKRA-20161128"
+      - "A-VARME-LACK-DEKRA-20170120"
+    källor:
+      - "K-LACKSOKNING-VARME-20261113"
+      - "K-LACK-VARME-D011"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"

@@ -22,6 +22,10 @@ Originaldokument hör till föreningens dokumentarkiv. Publicera inte originalfa
 
 Beställaren har 2026-11-13 bekräftat att expansionskärlsreferenserna i arkivet Gaspannorna gäller värmesystemets stora kärl (`TI-EXPANSIONSKARL-69-VARME-001`). Det är skilt från avgasarens lilla kärl (`TI-EXPANSIONSKARL-69-S400-001`), som har två fakturerade luftpåfyllningar 2026. Blanda inte deras historik. En separat kontrollpunkt för avgasare får inte automatiskt kopplas till dagens Spirotech S400.
 
-## Lägenhetsuppgifter från utdrag
+## Historisk läcksökning av värmesystemet
+
+Beställaren har bekräftat att den ursprungliga vattenläckans källa aldrig lokaliserades. Historiken 2016–2017 visar misstanke om panna 1, inte en fastställd läckkälla. Det är inte en uppgift om att läckaget fortfarande pågår. Ocabs adressuppgift Högalidsvägen 63 avser undercentralen på korrekt adress Högalidsvägen 69 enligt beställaren; bevara originaladressen som källavvikelse. Återkommande anteckningar i kumulativa rapportversioner räknas inte som nya besök. Gasläckaget som enligt E.ON åtgärdades 2017-02-23 är en separat händelse. DEKRA:s säkerhetsanmärkning har inte automatiskt slutbehandlats genom E.ON:s gasgodkännande.
+
+## Lägenhetsuppgifter från utdrag 2025-12-12
 
 Beställarens avgränsning 2026-11-13: lägenhetsutdraget från 2025-12-12 får komplettera insatser, andelstal, våningsuppgifter och fastighetsbeteckningar. Skatteverkets nummer 1001 är bekräftat för alla 78 lägenheter eftersom de har enskilda ingångar. Riksbyggens lägenhetsnummer från det gamla förvaltaravtalet ska inte registreras. Ekonomiska planens registreringsdatum är inte känt och ska inte hämtas från utdraget. Övriga ekonomiska uppgifter ska inte överföras. Behåll befintliga stabila objekt-ID:n. Håll insatsbelopp i SEK skilt från procentfältet Insats och bevara andelstalens tre ursprungliga rubriker separat. Märk uppgifterna med källans datum.

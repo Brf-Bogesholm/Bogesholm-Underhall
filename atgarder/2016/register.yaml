@@ -18,3 +18,143 @@ version: "1.0"
       - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
     komponentkommentar: "Expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren. Avgasarens lilla kärl ingår inte i denna koppling."
+  -
+    id: "A-VARME-LACK-20160629"
+    datum: "2016-06-29"
+    åtgärd: "Särskild besiktning av gaspanneentreprenaden; beslut om fortsatt läcksökning"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+      - "TI-UC-69-001"
+      - "TI-GASPANNA-69-001"
+      - "TI-GASPANNA-69-002"
+      - "TI-GASPANNA-69-003"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-20160629"
+    utförare: "Ingenjörsbyrån Lars Hansson AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D003"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-VARME-LACK-20161012"
+    datum: "2016-10-12"
+    åtgärd: "Läcksökning med värmekamera över kulvertar"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+      - "TI-UC-69-001"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-20161012"
+    utförare: "Ocab Avfuktning i Malmö AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D001"
+      - "K-LACK-VARME-D002"
+      - "K-LACK-VARME-D010"
+      - "K-LACK-VARME-D009"
+      - "K-LACK-VARME-D008"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-VARME-LACK-20161018"
+    datum: "2016-10-18"
+    åtgärd: "Avlyssning i kopplingsbrunnar och avläsning av vattenmätare"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-20161018"
+    utförare: "Ocab Avfuktning i Malmö AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D002"
+      - "K-LACK-VARME-D010"
+      - "K-LACK-VARME-D009"
+      - "K-LACK-VARME-D008"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-VARME-LACK-20161020"
+    datum: "2016-10-20"
+    åtgärd: "Uppföljande avläsning av påfyllningsmätare"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-20161020"
+    utförare: "Ocab Avfuktning i Malmö AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D002"
+      - "K-LACK-VARME-D010"
+      - "K-LACK-VARME-D009"
+      - "K-LACK-VARME-D008"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-VARME-LACK-20161101"
+    datum: "2016-11-01"
+    åtgärd: "Kontroll av lägenheter i hus 53 och delar av hus 55"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+      - "H-53"
+      - "H-55"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-20161101"
+    utförare: "Ocab Avfuktning i Malmö AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D002"
+      - "K-LACK-VARME-D010"
+      - "K-LACK-VARME-D009"
+      - "K-LACK-VARME-D008"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-VARME-LACK-20161207"
+    datum: "2016-12-07"
+    åtgärd: "Fortsatt lägenhetskontroll och mätuppföljning"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+      - "H-53"
+      - "H-55"
+      - "H-57"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-20161207"
+    utförare: "Ocab Avfuktning i Malmö AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D010"
+      - "K-LACK-VARME-D009"
+      - "K-LACK-VARME-D008"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-VARME-LACK-DEKRA-20161128"
+    datum: "2016-11-28"
+    åtgärd: "Säkerhetsbesiktning: utebliven stopp-/larmfunktion från gemensam tryckvakt"
+    objekt:
+      - "TI-MAXPRESSOSTAT-69-001"
+      - "TI-GASPANNA-69-001"
+      - "TI-GASPANNA-69-002"
+      - "TI-GASPANNA-69-003"
+    placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+    ärende: "AR-VARME-LACK-2016-2017"
+    händelse: "H-VARME-LACK-DEKRA-20161128"
+    utförare: "DEKRA Industrial AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LACK-VARME-D011"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."

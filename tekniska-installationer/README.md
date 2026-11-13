@@ -2,6 +2,8 @@
 
 [Gaspannor och undercentral – kontrollhistorik](../besiktningar/gaspannor/README.md) samlar funktionskontroller, gasbesiktningar och brandskyddskontroller från arkivet Gaspannorna. Pannornas ordning är bekräftad: 1 vänster, 2 mitten, 3 höger sett framifrån. Luckans anmärkning från brandskyddskontrollen 2024 har okänd åtgärdsstatus.
 
+[Värmesystemets historiska läcksökning 2016–2017](../besiktningar/varmesystem/README.md) bevarar det ej lokaliserade ursprungliga vattenläckaget, provningar och rapportversioner. Ocabs undercentral på adress 63 är enligt beställaren samma undercentral som korrekt har adress Högalidsvägen 69. Separata E.ON- och DEKRA-resultat hålls skilda från vattenläcksökningens utfall.
+
 Detta avsnitt innehåller dokumentation av föreningens tekniska installationer och system.
 
 [register.yaml](register.yaml) innehåller installationer registrerade från verifierade underlag och beställarens kompletteringar, enligt [objektmodellen](../modell/objektmodell.yaml). Registret är inte en fullständig inventering av samtliga installationer.

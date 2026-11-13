@@ -1,0 +1,415 @@
+version: "1.0"
+ärenden:
+  -
+    id: "AR-VARME-LACK-2016-2017"
+    typ: "historisk läcksökning av värmesystem"
+    objekt:
+      - "TI-VARMESYSTEM-BOGESHOLM-001"
+      - "TI-UC-69-001"
+    period_från: "2016-06-29"
+    period_till: "2017-02-23"
+    historiskt_resultat: "Ursprunglig läckkälla aldrig lokaliserad"
+    resultatkälla: "K-LACKSOKNING-KOMPLETTERING-20261113"
+    nulägesstatus: "Inte bedömd; det historiska utfallet säger inte om vattenförlust pågår idag."
+    adress: "Högalidsvägen 69"
+    adresskälla: "K-LACKSOKNING-KOMPLETTERING-20261113"
+    adress_enligt_Ocab: "Högalidsvägen 63"
+    adresskommentar: "Beställaren har bekräftat att Ocabs undercentral avser undercentralen på Högalidsvägen 69. Originalens adressuppgift bevaras som avvikelse."
+    utförare_läcksökning: "Ocab Avfuktning i Malmö AB"
+    beställare_enligt_Ocab: "Assemblin VS AB"
+    Ocab_arbetsorder: "28106051"
+    beställarreferens_enligt_Ocab: "2110002579"
+    rapportversioner:
+      -
+        dokument:
+          källa: "K-LACK-VARME-D001"
+          arkivsökväg: "Läcksökning värmesystem/2016/Läcksökning värme-2016.pdf"
+          sha256: "c7892b2d061da6018b8d9288b55c0ec9d0c7ef044db4409ce80703e70bb50b3e"
+        rapportdatum: "2016-10-12"
+        ursprungligt_besiktningsdatum_enligt_formulär: "2016-10-12"
+        arbetsorder: "28106051"
+        kommentar: "Kumulativ rapportversion. Tidigare händelser som återges igen räknas inte som nya besök."
+      -
+        dokument:
+          källa: "K-LACK-VARME-D002"
+          arkivsökväg: "Läcksökning värmesystem/2016/Läcksökning.Värmeledning.Ocab.pdf"
+          sha256: "4263f4f5db4841d232a710f71b8931545d280a08071cf9abf47ff8e93789de1e"
+        rapportdatum: "2016-11-01"
+        ursprungligt_besiktningsdatum_enligt_formulär: "2016-10-12"
+        arbetsorder: "28106051"
+        kommentar: "Kumulativ rapportversion. Tidigare händelser som återges igen räknas inte som nya besök."
+      -
+        dokument:
+          källa: "K-LACK-VARME-D010"
+          arkivsökväg: "Läcksökning värmesystem/2017/Rapport.Läcksökning.Värmesystem-2017.pdf"
+          sha256: "435734887e756f34258be220aad1fd3287b22aae09d24d08680c9eaafc160a56"
+        rapportdatum: "2017-01-25"
+        ursprungligt_besiktningsdatum_enligt_formulär: "2016-10-12"
+        arbetsorder: "28106051"
+        kommentar: "Kumulativ rapportversion. Tidigare händelser som återges igen räknas inte som nya besök."
+      -
+        dokument:
+          källa: "K-LACK-VARME-D009"
+          arkivsökväg: "Läcksökning värmesystem/2017/Rapport läcksök.Värmesystem Panna.februari.pdf"
+          sha256: "fe58f4f07b251672f4ad6d28d05f4dd81bdfd8488d7d30dfa4276612b7bc4bd1"
+        rapportdatum: "2017-02-10"
+        ursprungligt_besiktningsdatum_enligt_formulär: "2016-10-12"
+        arbetsorder: "28106051"
+        kommentar: "Kumulativ rapportversion. Tidigare händelser som återges igen räknas inte som nya besök."
+      -
+        dokument:
+          källa: "K-LACK-VARME-D008"
+          arkivsökväg: "Läcksökning värmesystem/2017/Rapport 2 februari .Läcksökninng värmesystem.pdf"
+          sha256: "68f563a4916b286dbd14f8b0d8a74e316672a05d8552868d0f2d1ae00bde37c1"
+        rapportdatum: "2017-02-14"
+        ursprungligt_besiktningsdatum_enligt_formulär: "2016-10-12"
+        arbetsorder: "28106051"
+        kommentar: "Kumulativ rapportversion. Tidigare händelser som återges igen räknas inte som nya besök."
+    händelser:
+      -
+        id: "H-VARME-LACK-20160629"
+        datum: "2016-06-29"
+        typ: "besiktning och beslut"
+        rubrik: "Särskild besiktning av gaspanneentreprenaden; beslut om fortsatt läcksökning"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+          - "TI-UC-69-001"
+          - "TI-GASPANNA-69-001"
+          - "TI-GASPANNA-69-002"
+          - "TI-GASPANNA-69-003"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D003"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Oregelbunden automatisk påfyllning noterad. Beslut att infälla avstängningsventiler i kulvertbrunnar för att kunna avgränsa läckande hus eller rörsträcka."
+        åtgärd: "A-VARME-LACK-20160629"
+        utförare: "Ingenjörsbyrån Lars Hansson AB"
+        anmärkningsnummer: "B.1"
+        beslut:
+          åtgärd: "Installera avstängningsventiler där sådana saknas i kulvertbrunnar"
+          tilltänkt_utförare: "Assemblin VS AB"
+          kostnadsansvar_enligt_utlåtande: "Brf Bogesholm"
+          planerad_tid: "Efter semesterperioden"
+          utförandestatus: "Inte styrkt av detta beslut"
+        omfattning_enligt_utlåtande:
+          - "Trycklarm löser ut"
+          - "Värmebärarsystemet tappar vatten"
+          - "Sekvensreglering för tre pannor"
+          - "Kondensavledning"
+        entreprenadbakgrund:
+          typ: "Utbyte av gaspannor"
+          beställningsdatum: "2014-04-16"
+          slutbesiktning_enligt_referens: "2014-11-04"
+          garantitidens_slut_enligt_utlåtande: "2019-11-04"
+          kommentar: "Bakgrund enligt utlåtandet; inget exakt installationsdatum för individuella pannor antas. Hänvisade äldre besiktningar är inte separata importerade protokoll."
+      -
+        id: "H-VARME-LACK-20161012"
+        datum: "2016-10-12"
+        typ: "läcksökning"
+        rubrik: "Läcksökning med värmekamera över kulvertar"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+          - "TI-UC-69-001"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D001"
+          - "K-LACK-VARME-D002"
+          - "K-LACK-VARME-D010"
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Kulvertarna hade gåtts över med värmekamera utan att något onormalt påvisats. Ingen läckkälla fastställd."
+        åtgärd: "A-VARME-LACK-20161012"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        arbetsorder: "28106051"
+        uppgift_om_vattenförlust:
+          årsvolym_liter: 4500
+          ungefärlig_dygnsvolym_liter: 12
+          kommentar: "Uppskattning enligt protokollet, inte nytt uppmätt konstant läckflöde."
+        fortsatt_plan:
+          - "Stänga pannorna en i taget över ett dygn för att utesluta dem"
+          - "Inspektera radiatorer, rör och kopplingar i lägenheter"
+        avgränsning: "Fortsatt plan är inte i sig bevis på utfört arbete i alla lägenheter."
+      -
+        id: "H-VARME-LACK-20161018"
+        datum: "2016-10-18"
+        typ: "läcksökning"
+        rubrik: "Avlyssning i kopplingsbrunnar och avläsning av vattenmätare"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D002"
+          - "K-LACK-VARME-D010"
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Samtliga kopplingsbrunnar enligt protokollet genomgångna, utan konstaterat läckageljud."
+        åtgärd: "A-VARME-LACK-20161018"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        mätarställning:
+          värde: 5475
+          enhet: "L"
+      -
+        id: "H-VARME-LACK-20161020"
+        datum: "2016-10-20"
+        typ: "mätning"
+        rubrik: "Uppföljande avläsning av påfyllningsmätare"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D002"
+          - "K-LACK-VARME-D010"
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Mätarställningen ökade från 5475 till 5489 L: 14 L på två dygn, 7 L/dygn enligt rapporten."
+        åtgärd: "A-VARME-LACK-20161020"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        mätarställning:
+          värde: 5489
+          enhet: "L"
+        mätintervall:
+          från: "2016-10-18"
+          till: "2016-10-20"
+          volym_liter: 14
+          dygn: 2
+          volym_liter_per_dygn: 7
+        tolkningskommentar: "Påfyllningsvolym är en indikation på vattenförlust, inte en lokalisering av läckan eller ett tryckvärde."
+      -
+        id: "H-VARME-LACK-20161101"
+        datum: "2016-11-01"
+        typ: "läcksökning"
+        rubrik: "Kontroll av lägenheter i hus 53 och delar av hus 55"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+          - "H-53"
+          - "H-55"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D002"
+          - "K-LACK-VARME-D010"
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Samtliga lägenheter i hus 53 och tre lägenheter i hus 55 genomgångna enligt noteringen. Tillträde hade ännu inte erhållits till 55D, 55E och 55F."
+        åtgärd: "A-VARME-LACK-20161101"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        avgränsning: "Inga personuppgifter registreras. Vilka tre lägenheter som besöktes i hus 55 fastställs inte genom uteslutning."
+      -
+        id: "H-VARME-LACK-20161207"
+        datum: "2016-12-07"
+        typ: "läcksökning"
+        rubrik: "Fortsatt lägenhetskontroll och mätuppföljning"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+          - "H-53"
+          - "H-55"
+          - "H-57"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D010"
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Noteringen säger Alla lgh OK och att även fyra lägenheter i hus 57 kontrollerats och var OK. Exakt omfattning av ordet alla är inte fastställd."
+        åtgärd: "A-VARME-LACK-20161207"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        mätarställning:
+          värde: 5809
+          enhet: "L"
+        mätintervall:
+          från: "2016-10-20"
+          till: "2016-12-07"
+          volym_liter: 320
+          dygn: 48
+          volym_liter_per_dygn_enligt_rapport: 6.7
+        avgränsning: "Uppgiften får inte tolkas som att samtliga 78 lägenheter besiktigats. De fyra i hus 57 är inte individuellt identifierade."
+      -
+        id: "H-VARME-LACK-PANNPROV-2017"
+        datum: null
+        typ: "läcksökning"
+        rubrik: "Avstängningsförsök med pannorna; möjlig indikation mot panna 1"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+          - "TI-GASPANNA-69-001"
+          - "TI-GASPANNA-69-002"
+          - "TI-GASPANNA-69-003"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D010"
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Enligt texten var volymförlusten 14–17 L/dygn vid avstängning av panna 2 eller 3 och 2–8 L/dygn när panna 1 stängdes. Panna 1 angavs som möjlig läckkälla, men kunde inte stängas helt på grund av en avstängning med rött vred som inte fungerade."
+        åtgärd: "A-VARME-LACK-PANNPROV-2017"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        dokumenterad_senast: "2017-01-25"
+        slutsats: "Misstanke, inte fastställd läcka i panna 1"
+        rekommenderad_åtgärd: "Byta den icke fungerande avstängningen för att möjliggöra fullständig isolering och säkerställande."
+        uppföljningsstatus: "Byte av just den felande ventilen styrks inte av dessa handlingar."
+        mätenhet_enligt_rapport: "L/dygn"
+        originalbenämning: "tryckfall"
+        kommentar: "Rapporten använder ordet tryckfall för volym per dygn. Uppgifterna registreras inte som tryckmätning i bar. Senare diagram innehåller varierande värden och ger ingen fastställd läcklokalisering."
+      -
+        id: "H-VARME-LACK-AVSTANGNINGAR-2017"
+        datum: null
+        typ: "dokumenterad installation"
+        rubrik: "Montering av avstängningar på pannornas expansionsledningar"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+          - "TI-GASPANNA-69-001"
+          - "TI-GASPANNA-69-002"
+          - "TI-GASPANNA-69-003"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D009"
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Rapporten uppger att avstängning infällts på panna 1:s expansionsledning och att avstängningar även installerats på panna 2 och 3."
+        åtgärd: "A-VARME-LACK-AVSTANGNINGAR-2017"
+        utförare: null
+        dokumenterad_senast: "2017-02-10"
+        datumkommentar: "Diagrammet skiljer mätningar efter 1 februari från tidigare mätningar med hänvisning till de nya avstängningarna. Exakt installationsdatum är inte särskilt angivet."
+        avgränsning: "Tillkomna avstängningar är inte samma uppgift som att den tidigare felande ventilen med rött vred har bytts. Ingen koppling till avgasarens lilla kärl görs."
+      -
+        id: "H-VARME-LACK-SPARAMNE-2017"
+        datum: null
+        typ: "läcksökning"
+        rubrik: "Färgning av värmevattnet med spårämne"
+        objekt:
+          - "TI-VARMESYSTEM-BOGESHOLM-001"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D008"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Rapporten uppger att vattnet färgats med Flourosin. Något fynd som säkert lokaliserar läckan redovisas inte."
+        åtgärd: "A-VARME-LACK-SPARAMNE-2017"
+        utförare: "Ocab Avfuktning i Malmö AB"
+        dokumenterad_senast: "2017-02-14"
+        spårämne_enligt_rapport: "Flourosin"
+        avgränsning: "Benämningen återges som i rapporten. Inget exakt doserings- eller utförandedatum antas."
+      -
+        id: "H-VARME-LACK-DEKRA-20161128"
+        datum: "2016-11-28"
+        typ: "säkerhetsbesiktning"
+        rubrik: "Säkerhetsbesiktning: utebliven stopp-/larmfunktion från gemensam tryckvakt"
+        objekt:
+          - "TI-MAXPRESSOSTAT-69-001"
+          - "TI-GASPANNA-69-001"
+          - "TI-GASPANNA-69-002"
+          - "TI-GASPANNA-69-003"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D011"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Vid test av den gemensamma maxpressostaten erhölls ingen utlösande stoppfunktion. Justering av gränsvärdet gav inte stopp av brännarna."
+        åtgärd: "A-VARME-LACK-DEKRA-20161128"
+        utförare: "DEKRA Industrial AB"
+        rapportdatum: "2017-01-23"
+        rapportreferens: "600277-00"
+        registreringsnummer_enligt_DEKRA:
+          - "T7120958"
+          - "T7120985"
+          - "T7121000"
+        rekommenderad_åtgärd: "Kontrollera och åtgärda elektrisk anslutning i styrskåpet, utföra funktionstest och kontakta DEKRA för slutförande enligt rapporten."
+        historisk_åtgärdsstatus: "Senare slutförande inte styrkt i detta arkiv"
+        avgränsning: "Historiskt besiktningsresultat, inte en ny bedömning av dagens säkerhetsfunktion. Koppling mellan DEKRA-numren och respektive pannnummer är inte fastställd."
+      -
+        id: "H-VARME-LACK-DEKRA-20170120"
+        datum: "2017-01-20"
+        typ: "säkerhetsbesiktning"
+        rubrik: "Säkerhetsbesiktning: utebliven stopp-/larmfunktion från gemensam tryckvakt"
+        objekt:
+          - "TI-MAXPRESSOSTAT-69-001"
+          - "TI-GASPANNA-69-001"
+          - "TI-GASPANNA-69-002"
+          - "TI-GASPANNA-69-003"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D011"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Efter besked om åtgärd gjordes återbesök. Tryckvakten löste mekaniskt, men pannorna fortsatte i drift och inget larm erhölls. Även bortkopplad kontakt gav samma resultat."
+        åtgärd: "A-VARME-LACK-DEKRA-20170120"
+        utförare: "DEKRA Industrial AB"
+        rapportdatum: "2017-01-23"
+        rapportreferens: "600277-00"
+        registreringsnummer_enligt_DEKRA:
+          - "T7120958"
+          - "T7120985"
+          - "T7121000"
+        rekommenderad_åtgärd: "Kontrollera och åtgärda elektrisk anslutning i styrskåpet, utföra funktionstest och kontakta DEKRA för slutförande enligt rapporten."
+        historisk_åtgärdsstatus: "Senare slutförande inte styrkt i detta arkiv"
+        avgränsning: "Historiskt besiktningsresultat, inte en ny bedömning av dagens säkerhetsfunktion. Koppling mellan DEKRA-numren och respektive pannnummer är inte fastställd."
+      -
+        id: "H-VARME-LACK-EON-20170222"
+        datum: "2017-02-22"
+        typ: "gasbesiktning"
+        rubrik: "Gasbesiktning med anmärkning om mindre gasläckage"
+        objekt:
+          - "TI-GASANLAGGNING-69-001"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D007"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Anläggningen markerades godkänd med anmärkning, åtgärdas snarast. Ett litet gasläckage före kundens regulator i pannrummet noterades."
+        åtgärd: "A-VARME-LACK-EON-20170222"
+        utförare: "E.ON Gas Sverige AB"
+        protokollnummer: "4124833"
+        rapport_följebrev_datum: "2017-02-25"
+        observationer:
+          - "Vänster panna uppgavs ha hög CO-bildning; 148 ppm uppmätt. Förslag om service, inte bevis för utförd service."
+        avgränsning: "Gasläckaget är en separat händelse och identifierar inte värmesystemets vattenläcka. Protokollet innehåller även en senare notering från 23 februari."
+      -
+        id: "H-VARME-LACK-EON-20170223"
+        datum: "2017-02-23"
+        typ: "uppföljande gasbesiktning"
+        rubrik: "Gasläckage rapporterat åtgärdat och gasanläggningen godkänd"
+        objekt:
+          - "TI-GASANLAGGNING-69-001"
+        placering: "Undercentralen, Högalidsvägen 69, samt angivna delar av värmesystemet"
+        källor:
+          - "K-LACK-VARME-D006"
+          - "K-LACK-VARME-D007"
+          - "K-LACKSOKNING-KOMPLETTERING-20261113"
+        resultat: "Efter telefonuppgift att Assemblin VVS åtgärdat gasläckaget anger E.ON att gasanläggningen är godkänd. Protokoll 4161557 markerar godkänd utan anmärkning."
+        åtgärd: "A-VARME-LACK-EON-20170223"
+        utförare: "E.ON Gas Sverige AB"
+        protokollnummer: "4161557"
+        föregående_protokoll: "4124833"
+        rapport_följebrev_datum: "2017-02-25"
+        avhjälpande:
+          utförare_enligt_protokoll: "Assemblin VVS"
+          status: "Rapporterat åtgärdat"
+          datum: "2017-02-23"
+          underlag: "Telefonuppgift återgiven i E.ON-protokollet; ingen separat reparationsfaktura eller verifiering av exakt bytestidpunkt."
+        avgränsning: "Detta godkännande avslutar gasanmärkningen enligt protokollet, inte vattenläcksökningen eller DEKRA:s separata säkerhetsanmärkning."
+    övriga_handlingar:
+      -
+        dokument:
+          källa: "K-LACK-VARME-D005"
+          arkivsökväg: "Läcksökning värmesystem/2016/Vattenprov.2016.pdf"
+          sha256: "515e475c874954ba76f8e175ede6afeaeb1a72c18324d6c400f9f99726b39e74"
+        typ: "historiska dricksvattenanalyser"
+        kommentar: "Provdatum 2016-05-16, rapportdatum 2016-05-24. Separat dricksvattenunderlag. Laboratoriebedömningarna identifierar inte värmevattenläckans källa. Fullständig analysimport görs inte här."
+      -
+        dokument:
+          källa: "K-LACK-VARME-D004"
+          arkivsökväg: "Läcksökning värmesystem/2016/Utlåtande.vattenprov.Kommunen.Mail.2016.pdf"
+          sha256: "51c78fcf2e6a1a16d15f51affa68233bbdf3ec6b08168264f4944bf0281a68d0"
+        typ: "e-post om dricksvattenanalyser 2016"
+        kommentar: "Korrespondens med kommunen om vattenprover, inte ett konstaterande av värmesystemets läckkälla. Personnamn och kontaktuppgifter överförs inte."
+    källor:
+      - "K-LACKSOKNING-VARME-20261113"
+      - "K-LACKSOKNING-KOMPLETTERING-20261113"
+    kostnad: null
+    faktura: null
+    tolkningsregler:
+      - "Misstanke om panna 1 är inte en fastställd läckkälla."
+      - "Mätarställningar, uppskattningar och uppmätta intervall hålls åtskilda."
+      - "Rapportdatum och ursprungligt besiktningsdatum är inte automatiskt datum för alla senare insatser."
+      - "Planerade åtgärder i kulvertbrunnar hålls skilda från senare dokumenterad installation av avstängningar på pannorna."
+      - "Okända individuella lägenhetskopplingar fylls inte genom gissning."
+      - "Gasläckage, värmevattenförlust, dricksvattenprover och säkerhetsfunktioner hålls som separata frågor."
+    läcksökning_senast_rapporterad: "2017-02-14"
