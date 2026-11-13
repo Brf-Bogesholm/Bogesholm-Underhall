@@ -18,6 +18,10 @@ Skilj faktura, tillgång och åtgärd. Räkna kostnaden endast en gång från de
 
 Originaldokument hör till föreningens dokumentarkiv. Publicera inte originalfakturor, personuppgifter eller privata kontouppgifter i repot.
 
-## Lägenhetsuppgifter
+## Expansionskärl i undercentralen
+
+Beställaren har 2026-11-13 bekräftat att expansionskärlsreferenserna i arkivet Gaspannorna gäller värmesystemets stora kärl (`TI-EXPANSIONSKARL-69-VARME-001`). Det är skilt från avgasarens lilla kärl (`TI-EXPANSIONSKARL-69-S400-001`), som har två fakturerade luftpåfyllningar 2026. Blanda inte deras historik. En separat kontrollpunkt för avgasare får inte automatiskt kopplas till dagens Spirotech S400.
+
+## Lägenhetsuppgifter från utdrag
 
 Beställarens avgränsning 2026-11-13: lägenhetsutdraget från 2025-12-12 får komplettera insatser, andelstal, våningsuppgifter och fastighetsbeteckningar. Skatteverkets nummer 1001 är bekräftat för alla 78 lägenheter eftersom de har enskilda ingångar. Riksbyggens lägenhetsnummer från det gamla förvaltaravtalet ska inte registreras. Ekonomiska planens registreringsdatum är inte känt och ska inte hämtas från utdraget. Övriga ekonomiska uppgifter ska inte överföras. Behåll befintliga stabila objekt-ID:n. Håll insatsbelopp i SEK skilt från procentfältet Insats och bevara andelstalens tre ursprungliga rubriker separat. Märk uppgifterna med källans datum.

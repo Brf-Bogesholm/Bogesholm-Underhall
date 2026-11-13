@@ -455,3 +455,55 @@ objekt:
     källor:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+  -
+    id: "TI-EXPANSIONSKARL-69-VARME-001"
+    typ: "expansionskärl"
+    namn: "Värmesystemets stora expansionskärl"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      funktion: "Expansion i värmesystemet"
+      storlek_enligt_beställaren: "Stora kärlet"
+      volym_liter: null
+      fabrikat: null
+      modell: null
+      serienummer: null
+      installationsdatum: null
+      identitetskommentar: "Objektet samlar historiken för värmesystemets stora expansionskärl. Fysiska byten och kontinuitet över hela perioden är inte verifierade. Äldre protokolls adressavvikelse bevaras."
+      kommentar: "Skilt från det lilla expansionskärlet till Spirotech S400. Historiska förtrycksvärden och läckageobservationer är inte verifierade aktuella värden eller tillstånd."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "serves"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      - "A-GAS-UC-2010-01-21"
+      - "A-GAS-UC-2010-08-20"
+      - "A-GAS-UC-2014-02-07"
+      - "A-GAS-UC-2014-12-17"
+      - "A-GAS-UC-2015-03-20"
+      - "A-GAS-UC-2015-12-09"
+      - "A-GAS-UC-2016-04-19"
+      - "A-GAS-UC-2017-08-29"
+      - "A-GAS-UC-2017-10-01"
+      - "A-GAS-UC-2017-11-23"
+      - "A-GAS-UC-2018-11-23"
+      - "A-GAS-UC-2019-06-03"
+      - "A-GAS-UC-2019-11-06"
+      - "A-GAS-UC-2020-04-23"
+      - "A-GAS-UC-2020-11-04"
+      - "A-GAS-UC-2021-04-14"
+      - "A-GAS-UC-2021-10-13"
+      - "A-GAS-UC-2022-03-14"
+      - "A-GAS-UC-2022-10-13"
+      - "A-GAS-UC-2023-02-06"
+      - "A-GAS-UC-2023-08-25"
+      - "A-GAS-UC-2024-04-12"
+      - "A-GAS-UC-2024-10-02"
+      - "A-GAS-UC-2025-05-09"
+      - "A-GAS-UC-2025-12-11"
+    källor:
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      - "K-GASPANNOR-ZIP-20261113"

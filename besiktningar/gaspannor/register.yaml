@@ -6,7 +6,7 @@ kontroller:
     typ: "Drifts- och funktionskontroll, äldre underlag"
     utförare: "Riksbyggen"
     objekt:
-      []
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Högalidsvägen 73D enligt det äldre protokollet"
     dokument:
       -
@@ -18,6 +18,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D001"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -29,13 +30,17 @@ kontroller:
     kommentar: "Datum läst i protokollet; adressavvikelsen behålls. Fullständig numerisk avskrift av de handskrivna mätvärdena ingår inte."
     åtgärd: "A-GAS-UC-2010-01-21"
     datumkonflikt: "Handskrivet datum tolkas visuellt som 2010-01-21; filnamnet 100120 anger 2010-01-20. Avvikelsen kvarstår för kontroll."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2010-08-20"
     datum: "2010-08-20"
     typ: "Drifts- och funktionskontroll, äldre underlag"
     utförare: "Riksbyggen"
     objekt:
-      []
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Högalidsvägen 73D enligt det äldre protokollet"
     dokument:
       -
@@ -47,6 +52,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D002"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -65,6 +71,10 @@ kontroller:
         text: "Fastighetsskötare uppges öppna; ingen utförd reparation antas."
     kommentar: "Datum läst i protokollet; adressavvikelsen behålls. Fullständig numerisk avskrift av de handskrivna mätvärdena ingår inte."
     åtgärd: "A-GAS-UC-2010-08-20"
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2014-02-07"
     datum: "2014-02-07"
@@ -72,6 +82,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -83,6 +94,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D004"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -102,6 +114,8 @@ kontroller:
         position: "23"
         källcell: "B39"
         blad: "Blad1"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         text: "Manometer saknar skyddsglas."
         position: "26"
@@ -500,6 +514,8 @@ kontroller:
           -
             cell: "M23"
             värde: "x"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -751,7 +767,10 @@ kontroller:
           -
             cell: "K34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2014-12-17"
     datum: "2014-12-17"
@@ -759,6 +778,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -770,6 +790,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D005"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -789,8 +810,10 @@ kontroller:
         position: "23"
         källcell: "B39"
         blad: "Blad1"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     utförda_insatser:
-      - "Expansionskärlet påfyllt enligt protokollet; vilket kärl och om luft eller vatten avses framgår inte."
+      - "Värmesystemets stora expansionskärl påfyllt enligt protokollet och beställarens komponentkoppling. Om luft eller vatten avses framgår inte."
       - "Kontakt med Vaillant efter summalarm på gaspanna 2 enligt notering. Ingen reparationsåtgärd eller reparationstidpunkt antas."
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2014-12-17"
@@ -1168,6 +1191,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -1413,7 +1438,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2015-03-20"
     datum: "2015-03-20"
@@ -1421,6 +1449,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -1432,6 +1461,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D006"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -1820,6 +1850,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -2065,7 +2097,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2015-12-09"
     datum: "2015-12-09"
@@ -2073,6 +2108,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -2084,6 +2120,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D007"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -2476,6 +2513,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -2721,7 +2760,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2016-04-19"
     datum: "2016-04-19"
@@ -2729,6 +2771,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -2740,6 +2783,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D008"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -3132,6 +3176,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -3383,7 +3429,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2017-08-29"
     datum: "2017-08-29"
@@ -3391,6 +3440,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -3409,6 +3459,7 @@ kontroller:
       - "K-GASPANNOR-D012"
       - "K-GASPANNOR-D011"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -3806,6 +3857,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -4063,7 +4116,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2017-10-01"
     datum: "2017-10-01"
@@ -4071,6 +4127,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -4089,6 +4146,7 @@ kontroller:
       - "K-GASPANNOR-D010"
       - "K-GASPANNOR-D009"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -4482,6 +4540,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -4733,7 +4793,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2017-11-23"
     datum: "2017-11-23"
@@ -4741,6 +4804,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -4759,6 +4823,7 @@ kontroller:
       - "K-GASPANNOR-D014"
       - "K-GASPANNOR-D013"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -5156,6 +5221,8 @@ kontroller:
           -
             cell: "O23"
             värde: "X"
+        objektkoppling: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         rad: 24
         blad: "Blad1"
@@ -5413,7 +5480,10 @@ kontroller:
           -
             cell: "M34"
             värde: "50"
-    expansionskärl_och_avgasare: "Äldre noteringar om expansionskärl kan inte säkert kopplas till avgasarens lilla kärl."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2018-11-23"
     datum: "2018-11-23"
@@ -5421,6 +5491,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -5432,6 +5503,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D015"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -5575,12 +5647,16 @@ kontroller:
         källcell: "C33"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -5718,7 +5794,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2018-11-23"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2019-06-03"
     datum: "2019-06-03"
@@ -5726,6 +5805,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -5744,6 +5824,7 @@ kontroller:
       - "K-GASPANNOR-D017"
       - "K-GASPANNOR-D016"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -5887,12 +5968,16 @@ kontroller:
         källcell: "C33"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -6030,7 +6115,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2019-06-03"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2019-11-06"
     datum: "2019-11-06"
@@ -6038,6 +6126,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -6056,6 +6145,7 @@ kontroller:
       - "K-GASPANNOR-D019"
       - "K-GASPANNOR-D020"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -6199,12 +6289,16 @@ kontroller:
         källcell: "C33"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -6342,7 +6436,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2019-11-06"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2020-04-23"
     datum: "2020-04-23"
@@ -6350,6 +6447,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -6370,6 +6468,7 @@ kontroller:
       - "K-GASPANNOR-D024"
       - "K-GASPANNOR-D023"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -6513,12 +6612,16 @@ kontroller:
         källcell: "C33"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -6686,7 +6789,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2020-04-23"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2020-11-04"
     datum: "2020-11-04"
@@ -6694,6 +6800,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -6705,6 +6812,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D026"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -6848,12 +6956,16 @@ kontroller:
         källcell: "C33"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Ex. UC Hus 1"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -7031,7 +7143,10 @@ kontroller:
       - "Larmfunktionen i styrutrustningen testad; fungerar enligt noteringen."
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2020-11-04"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2021-04-14"
     datum: "2021-04-14"
@@ -7039,6 +7154,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -7057,6 +7173,7 @@ kontroller:
       - "K-GASPANNOR-D028"
       - "K-GASPANNOR-D027"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -7200,12 +7317,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -7218,12 +7339,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,44 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -7360,7 +7485,10 @@ kontroller:
       - "Larmfunktionen i styrutrustningen testad; fungerar enligt noteringen."
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2021-04-14"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2021-10-13"
     datum: "2021-10-13"
@@ -7368,6 +7496,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -7379,6 +7508,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D029"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -7522,12 +7652,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -7540,12 +7674,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,44 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -7687,7 +7825,10 @@ kontroller:
       - "Larmfunktionen i styrutrustningen testad; fungerar enligt noteringen."
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2021-10-13"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2022-03-14"
     datum: "2022-03-14"
@@ -7695,6 +7836,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -7706,6 +7848,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D030"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -7849,12 +7992,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -7867,12 +8014,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,44 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -8014,7 +8165,10 @@ kontroller:
       - "Larmfunktionen i styrutrustningen testad; fungerar enligt noteringen."
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2022-03-14"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2022-10-13"
     datum: "2022-10-13"
@@ -8022,6 +8176,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -8040,6 +8195,7 @@ kontroller:
       - "K-GASPANNOR-D031"
       - "K-GASPANNOR-D045"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -8183,12 +8339,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -8201,12 +8361,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -8343,7 +8507,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2022-10-13"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2023-02-06"
     datum: "2023-02-06"
@@ -8351,6 +8518,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -8362,6 +8530,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D033"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -8505,12 +8674,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -8523,12 +8696,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -8670,7 +8847,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2023-02-06"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-WEUM-2023-02-21"
     datum: "2023-02-21"
@@ -8913,6 +9093,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -8924,6 +9105,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D034"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -9067,12 +9249,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -9085,12 +9271,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -9222,7 +9412,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2023-08-25"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2024-04-12"
     datum: "2024-04-12"
@@ -9230,6 +9423,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -9241,6 +9435,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D035"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -9384,12 +9579,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -9402,12 +9601,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -9539,7 +9742,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2024-04-12"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-BRAND-2024-06-05-P1"
     datum: "2024-06-05"
@@ -9657,6 +9863,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -9668,6 +9875,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D036"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -9811,12 +10019,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -9829,12 +10041,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -9966,7 +10182,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2024-10-02"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2025-05-09"
     datum: "2025-05-09"
@@ -9974,6 +10193,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -9985,6 +10205,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D040"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -10128,12 +10349,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -10146,12 +10371,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -10283,7 +10512,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2025-05-09"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-UC-2025-12-11"
     datum: "2025-12-11"
@@ -10291,6 +10523,7 @@ kontroller:
     utförare: "Riksbyggen"
     objekt:
       - "TI-UC-69-001"
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Undercentral/pannrum, Högalidsvägen 69"
     dokument:
       -
@@ -10302,6 +10535,7 @@ kontroller:
     källor:
       - "K-GASPANNOR-D041"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kostnad: null
     faktura: null
     kostnadskommentar: "Protokoll, inte ekonomiskt underlag. Ingen ny kostnad registreras."
@@ -10445,12 +10679,16 @@ kontroller:
         källcell: "C33"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.2"
         rubrik: "Trycksteg"
         källcell: "C34"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "Ok"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.3"
         rubrik: "Avgasare"
@@ -10463,12 +10701,16 @@ kontroller:
         källcell: "C36"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,5 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "4.5"
         rubrik: "Förtryck (luft) Ärvärde"
         källcell: "C37"
         blad: "Bogesholm Värme"
         status_enligt_protokoll: "1,43 bar"
+        objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+        objektkopplingkälla: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       -
         position: "5.1"
         rubrik: "Elinstallationer"
@@ -10596,7 +10838,10 @@ kontroller:
       []
     tolkningsregler: "Ok = ingen anmärkning vid kontrollen. n/a = ej tillgänglig enligt protokollets teckenförklaring. Historiskt omdöme är inte bevis på aktuellt skick."
     åtgärd: "A-GAS-UC-2025-12-11"
-    expansionskärl_och_avgasare: "Protokollets generella rubriker identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Inga automatiska komponentkopplingar."
+    expansionskärlskoppling:
+      objekt: "TI-EXPANSIONSKARL-69-VARME-001"
+      källa: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+      kommentar: "Rapporternas expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren, inte kärlet till avgasaren. Uppgifter om separat avgasare identifierar inte automatiskt dagens Spirotech S400."
   -
     id: "B-GAS-WEUM-2026-01-09"
     datum: "2026-01-09"

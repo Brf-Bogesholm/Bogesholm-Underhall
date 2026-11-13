@@ -5,7 +5,7 @@ version: "1.0"
     datum: "2010-01-21"
     åtgärd: "Drifts- och funktionskontroll, äldre underlag"
     objekt:
-      []
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Högalidsvägen 73D enligt det äldre protokollet"
     utförare: "Riksbyggen"
     besiktning: "B-GAS-UC-2010-01-21"
@@ -14,15 +14,17 @@ version: "1.0"
     källor:
       - "K-GASPANNOR-D001"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
     kopplingsstatus: "Äldre adress avviker från dagens undercentral på Högalidsvägen 69. Koppling till samma fysiska anläggning är inte verifierad."
     datumkommentar: "Handskrivet datum tolkas visuellt som 2010-01-21; filnamnet 100120 anger 2010-01-20. Avvikelsen kvarstår för kontroll."
+    komponentkommentar: "Expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren. Avgasarens lilla kärl ingår inte i denna koppling."
   -
     id: "A-GAS-UC-2010-08-20"
     datum: "2010-08-20"
     åtgärd: "Drifts- och funktionskontroll, äldre underlag"
     objekt:
-      []
+      - "TI-EXPANSIONSKARL-69-VARME-001"
     placering: "Högalidsvägen 73D enligt det äldre protokollet"
     utförare: "Riksbyggen"
     besiktning: "B-GAS-UC-2010-08-20"
@@ -31,5 +33,7 @@ version: "1.0"
     källor:
       - "K-GASPANNOR-D002"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
+      - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
     kopplingsstatus: "Äldre adress avviker från dagens undercentral på Högalidsvägen 69. Koppling till samma fysiska anläggning är inte verifierad."
+    komponentkommentar: "Expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren. Avgasarens lilla kärl ingår inte i denna koppling."

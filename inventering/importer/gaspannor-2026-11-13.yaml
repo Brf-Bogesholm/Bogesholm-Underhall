@@ -295,6 +295,12 @@ källor:
     uppgifter:
       - "Sett framifrån är vänster, mitten och höger panna 1, 2 och 3."
       - "Åtgärdsstatus för luckan vid gemensamma kanalen är okänd."
+  -
+    id: "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
+    typ: "beställaruppgifter"
+    datum: "2026-11-13"
+    uppgifter:
+      - "Samtliga referenser till expansionskärl i de nyss importerade rapporterna gäller värmesystemets stora expansionskärl, inte kärlet knutet till avgasaren."
 kontroll:
   antal_dokument: 45
   pdf: 16
@@ -305,13 +311,13 @@ kontroll:
   gasbesiktningar: 2
   brandskyddskontroller: 3
   pdf_excel_par: 8
-  nya_objekt: 6
+  nya_objekt: 7
   nya_fakturor: 0
 avgränsningar:
   - "Originaldokument och teknikernas person-/kontaktuppgifter publiceras inte."
   - "Protokoll och mätvärden skapar inga fakturabelopp. Mallar, felkodsförteckning och aviseringar skapar inga utförda servicehändelser."
   - "Kontrollerna avser sina respektive datum; inget generellt nutida godkännande har antagits."
-  - "Historiska expansionskärl och avgasare har inte likställts med dagens Spirotech S400 och dess lilla kärl."
+  - "Rapporternas expansionskärl är kopplade till värmesystemets stora kärl enligt beställaren. Det lilla kärlet till Spirotech S400 är ett separat objekt. Separata avgasaruppgifter identifierar inte automatiskt dagens avgasare."
   - "Ordning mellan fysiska pannbyten över historiken är inte fastställd. Objekt-ID:n följer pannpositioner."
   - "2010-protokollens 73D-adress, motstridigt datum 20/21 januari 2010 och datumkonflikten 2016/2017 bevaras."
   - "Lägenhetsaggregatens kontrollsammanställning är endast källförtecknad och ingår inte i denna pannimport."

@@ -14,6 +14,7 @@ Objekten finns i [installationsregistret](../../tekniska-installationer/register
 | TI-GASPANNA-69-002 | Panna 2, mitten sett framifrån |
 | TI-GASPANNA-69-003 | Panna 3, höger sett framifrån |
 | TI-GASKANAL-LUCKA-69-001 | Lucka vid väggen vid gemensamma kanalen |
+| TI-EXPANSIONSKARL-69-VARME-001 | Värmesystemets stora expansionskärl |
 
 Ordningen är bekräftad av beställaren den 13 november 2026. Pannobjekten följer nummer/position. Serienummer och eventuell utbyteshistorik saknas; det är inte verifierat att samma fysiska pannor funnits under hela historiken. Brandskyddsprotokollen från 2024 anger Vaillant ECO TEC för panna 1 och ECO TEC PLUS för pannorna 2 och 3. Fullständiga modellvarianter är inte fastställda.
 
@@ -35,7 +36,9 @@ Weums senare godkännande avser en annan kontrolltyp och bevisar inte att luckan
 
 De äldre funktionskontrollerna innehåller bland annat noteringar om otäta ventiler, expansionskärl, rost på högra gaspannan, ventilation i undercentralen och larmkedjans uppkoppling. Noteringarna är historiska observationer, inte automatiskt aktuella fel eller nya reparationsbeställningar. Utfört arbete hålls skilt från förslag och kontrollnoteringar.
 
-Generella rubriker för expansionskärl/avgasare identifierar inte säkert dagens Spirotech S400 eller dess lilla expansionskärl. Äldre påfyllning får därför inte räknas som ytterligare arbete på det redan registrerade lilla kärlet utan verifierad koppling. Mätarställningar är inte förbrukning under en period.
+**Beställarens komplettering 2026-11-13:** Rapporternas referenser till expansionskärl avser **värmesystemets stora expansionskärl**, med eget objekt-ID `TI-EXPANSIONSKARL-69-VARME-001`. Kontrollpunkter, förtryck, äldre läckagenoteringar och påfyllning kopplas till detta objekt. Fysiska byten av stora kärlet över perioden är inte fastställda. [Komplettering och berörda kontrollposter](../../inventering/importer/expansionskarl-koppling-2026-11-13.yaml).
+
+Det lilla expansionskärlet till Spirotech S400 har det separata ID:t `TI-EXPANSIONSKARL-69-S400-001` och behåller sina två fakturerade luftpåfyllningar 2026. Rapporternas stora kärl tillför ingen servicehändelse till det lilla kärlet. Separata kontrollpunkter för avgasare identifierar inte automatiskt dagens Spirotech S400. Mätarställningar är inte förbrukning under en period.
 
 Äldre Excelprotokoll bevarar tekniska tabellceller och koordinater. Nyare protokoll har separata kontrollpunkter, mätvärden och noteringar med källceller. `Ok` gäller vid respektive kontroll; `n/a` följer formulärets betydelse **ej tillgänglig**. Ingen sammanfattande godkännandestatus har lagts till där den inte uttryckligen finns.
 
