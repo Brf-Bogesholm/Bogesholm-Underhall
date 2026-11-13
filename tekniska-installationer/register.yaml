@@ -599,3 +599,36 @@ objekt:
       - "K-LACKSOKNING-VARME-20261113"
       - "K-LACK-VARME-D011"
       - "K-LACKSOKNING-KOMPLETTERING-20261113"
+  -
+    id: "TI-VENTILATION-69-FF1"
+    typ: "frånluftsaggregat"
+    namn: "Föreningslokalens ventilation FF1"
+    datastatus: "Identifierat genom OVK-protokoll och beställaruppgift"
+    placering: "Tak på föreningslokalen, Högalidsvägen 69"
+    egenskaper:
+      systembeteckning: "FF1"
+      systemtyp: "F"
+      betjänar: "Föreningslokalen med tillhörande utrymmen enligt respektive mätprotokoll"
+      omfattas_av_OVK: true
+      omfattningskälla: "K-OVK-KOMPLETTERING-20261113"
+      fabrikat: null
+      modell: null
+      serienummer: null
+      installationsdatum: null
+      byggår_kommentar: "1989 i äldre OVK, 1984 i 2024 års protokoll; ingen verifierad installationsålder."
+      senaste_OVK: "2024-08-15"
+      senaste_OVK_resultat: "Godkänd"
+      nästa_OVK_enligt_protokoll: "2030-08-15"
+      drift: "Kontinuerlig, med möjlighet att öka fläkthastigheten enligt äldre protokoll."
+      tilluft: "Fasadventiler"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-OVK-20121114"
+      - "A-OVK-20210709"
+      - "A-OVK-20240815"
+    källor:
+      - "K-OVK-20261113"
+      - "K-OVK-KOMPLETTERING-20261113"

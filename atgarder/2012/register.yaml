@@ -17,3 +17,18 @@ version: "1.0"
       - "K-LEKARKIV-D029"
       - "K-LEKPLATSKOPPLING-20261113"
     kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-OVK-20121114"
+    datum: "2012-11-14"
+    åtgärd: "OVK av föreningslokalens frånluftssystem FF1"
+    objekt:
+      - "TI-VENTILATION-69-FF1"
+      - "H-69"
+    besiktning: "B-OVK-20121114"
+    resultat: "Godkänd"
+    utförare: "Riksbyggen"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-OVK-20261113"
+      - "K-OVK-KOMPLETTERING-20261113"

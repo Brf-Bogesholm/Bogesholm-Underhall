@@ -1,0 +1,1496 @@
+version: "1.0"
+rapportdatum: "2014-06-19"
+utförare: "SIMAB Ventilation"
+dokument:
+  -
+    källa: "K-OVK-D001"
+    arkivsökväg: "OVK/2012/Anmärkningslista SIMAB2014_Bogesholm..pdf"
+    sha256: "7980747543dcbb63f42658deaaf48abe220b67cd600d1b65076bd33247374681"
+huvudprotokoll_status: "Saknas enligt beställaren"
+omfattning_enligt_beställaren: "Samtliga 78 lägenheter; 74 godkända och fyra med angivna anmärkningar."
+källor:
+  - "K-OVK-20261113"
+  - "K-OVK-KOMPLETTERING-20261113"
+lägenheter:
+  -
+    id: "A-VENT-RENSNING-20140619-79F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0001"
+    adress: "Högalidsvägen 79F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-79E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0002"
+    adress: "Högalidsvägen 79E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-79D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0003"
+    adress: "Högalidsvägen 79D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-79C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0004"
+    adress: "Högalidsvägen 79C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-79B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0005"
+    adress: "Högalidsvägen 79B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-79A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0006"
+    adress: "Högalidsvägen 79A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-77E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0007"
+    adress: "Högalidsvägen 77E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-77D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0008"
+    adress: "Högalidsvägen 77D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-77C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0009"
+    adress: "Högalidsvägen 77C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-77B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0010"
+    adress: "Högalidsvägen 77B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-77A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0011"
+    adress: "Högalidsvägen 77A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Anmärkning"
+    anmärkning: "Ventil fastmurad i vägg i badrummet på ovanvåningen."
+    åtgärdsstatus: "Okänd"
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Uttrycklig anmärkning i avvikelselistan."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0012"
+    adress: "Högalidsvägen 71A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0013"
+    adress: "Högalidsvägen 71B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0014"
+    adress: "Högalidsvägen 71C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0015"
+    adress: "Högalidsvägen 71D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0016"
+    adress: "Högalidsvägen 71E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0017"
+    adress: "Högalidsvägen 71F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Anmärkning"
+    anmärkning: "Vredet till spjället på spiskåpan är sönder."
+    åtgärdsstatus: "Okänd"
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Uttrycklig anmärkning i avvikelselistan."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71G"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0018"
+    adress: "Högalidsvägen 71G"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-71H"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0019"
+    adress: "Högalidsvägen 71H"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-75F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0020"
+    adress: "Högalidsvägen 75F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-75E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0021"
+    adress: "Högalidsvägen 75E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-75D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0022"
+    adress: "Högalidsvägen 75D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-75C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0023"
+    adress: "Högalidsvägen 75C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-75B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0024"
+    adress: "Högalidsvägen 75B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-75A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0025"
+    adress: "Högalidsvägen 75A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-73E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0026"
+    adress: "Högalidsvägen 73E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-73D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0027"
+    adress: "Högalidsvägen 73D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-73C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0028"
+    adress: "Högalidsvägen 73C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-73B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0029"
+    adress: "Högalidsvägen 73B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-73A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0030"
+    adress: "Högalidsvägen 73A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-65E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0031"
+    adress: "Högalidsvägen 65E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-65D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0032"
+    adress: "Högalidsvägen 65D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-65C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0033"
+    adress: "Högalidsvägen 65C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-65B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0034"
+    adress: "Högalidsvägen 65B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-65A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0035"
+    adress: "Högalidsvägen 65A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0036"
+    adress: "Högalidsvägen 67A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0037"
+    adress: "Högalidsvägen 67B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0038"
+    adress: "Högalidsvägen 67C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0039"
+    adress: "Högalidsvägen 67D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0040"
+    adress: "Högalidsvägen 67E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0041"
+    adress: "Högalidsvägen 67F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67G"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0042"
+    adress: "Högalidsvägen 67G"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-67H"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0043"
+    adress: "Högalidsvägen 67H"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-63F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0044"
+    adress: "Högalidsvägen 63F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-63E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0045"
+    adress: "Högalidsvägen 63E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-63D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0046"
+    adress: "Högalidsvägen 63D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-63C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0047"
+    adress: "Högalidsvägen 63C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-63B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0048"
+    adress: "Högalidsvägen 63B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-63A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0049"
+    adress: "Högalidsvägen 63A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-61A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0050"
+    adress: "Högalidsvägen 61A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Anmärkning"
+    anmärkning: "Inte rensbart; ventilationssystemet förbyggt med köksinredning och inte åtkomligt."
+    åtgärdsstatus: "Okänd"
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Uttrycklig anmärkning i avvikelselistan."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-61B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0051"
+    adress: "Högalidsvägen 61B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-61C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0052"
+    adress: "Högalidsvägen 61C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-61D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0053"
+    adress: "Högalidsvägen 61D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-59F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0054"
+    adress: "Högalidsvägen 59F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-59E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0055"
+    adress: "Högalidsvägen 59E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-59D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0056"
+    adress: "Högalidsvägen 59D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-59C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0057"
+    adress: "Högalidsvägen 59C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-59B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0058"
+    adress: "Högalidsvägen 59B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-59A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0059"
+    adress: "Högalidsvägen 59A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-57A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0060"
+    adress: "Högalidsvägen 57A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-57B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0061"
+    adress: "Högalidsvägen 57B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Anmärkning"
+    anmärkning: "Ventil fastmålad i badrum på första våningen; fick inte skära loss den av boende."
+    åtgärdsstatus: "Okänd"
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Uttrycklig anmärkning i avvikelselistan."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-57C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0062"
+    adress: "Högalidsvägen 57C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-57D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0063"
+    adress: "Högalidsvägen 57D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-55F"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0064"
+    adress: "Högalidsvägen 55F"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-55E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0065"
+    adress: "Högalidsvägen 55E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-55D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0066"
+    adress: "Högalidsvägen 55D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-55C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0067"
+    adress: "Högalidsvägen 55C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-55B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0068"
+    adress: "Högalidsvägen 55B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-55A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0069"
+    adress: "Högalidsvägen 55A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-53E"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0070"
+    adress: "Högalidsvägen 53E"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-53D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0071"
+    adress: "Högalidsvägen 53D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-53C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0072"
+    adress: "Högalidsvägen 53C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-53B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0073"
+    adress: "Högalidsvägen 53B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-53A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0074"
+    adress: "Högalidsvägen 53A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-51D"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0075"
+    adress: "Högalidsvägen 51D"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-51C"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0076"
+    adress: "Högalidsvägen 51C"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-51B"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0077"
+    adress: "Högalidsvägen 51B"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null
+  -
+    id: "A-VENT-RENSNING-20140619-51A"
+    datum: "2014-06-19"
+    datumgrund: "Rapportdatum i avvikelselistan; används som utförandedatum enligt beställarens anvisning."
+    åtgärd: "Totalrensning av ventilation"
+    objekt:
+      - "L-118-1-0078"
+    adress: "Högalidsvägen 51A"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänt enligt beställarens bekräftelse"
+    anmärkning: null
+    åtgärdsstatus: null
+    källor:
+      - "K-OVK-D001"
+      - "K-OVK-KOMPLETTERING-20261113"
+    underlag: "Avvikelselista 2014-06-19; huvudprotokoll saknas."
+    resultatgrund: "Beställaren bekräftar genomförd totalrensning med godkänt resultat utifrån att lägenheten inte finns i avvikelselistan. Inget individuellt godkännandeprotokoll har återfunnits."
+    faktura: null
+    kostnad: null

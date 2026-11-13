@@ -1,0 +1,121 @@
+id: "IMPORT-OVK-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-OVK-20261113"
+    typ: "OVK.zip i föreningens dokumentarkiv"
+    filer:
+      -
+        id: "K-OVK-D001"
+        path: "OVK/2012/Anmärkningslista SIMAB2014_Bogesholm..pdf"
+        sha256: "7980747543dcbb63f42658deaaf48abe220b67cd600d1b65076bd33247374681"
+        size: 331783
+      -
+        id: "K-OVK-D002"
+        path: "OVK/2012/Bifogad OVKbrev till beställaren_Bogesholm lokal.docx"
+        sha256: "1767fd547d4d2faaf98718a6d5860a21f2084a7065827a8c9639d9ca61ccb909"
+        size: 64901
+      -
+        id: "K-OVK-D003"
+        path: "OVK/2012/Bifogad OVKbrev till kommun_Bogesholm lokal.docx"
+        sha256: "ca44fb0475dee7351a920072c85e372d3a1f939b045a9dea9ede99b5c13d3e55"
+        size: 64464
+      -
+        id: "K-OVK-D004"
+        path: "OVK/2012/Intyg för lokal_Bogesholm 2012.pdf"
+        sha256: "1b52b98fcaec6f9cbe36f3f6d8f3458cb30d93f4d9b9607136c2879756daf9cc"
+        size: 9876
+      -
+        id: "K-OVK-D005"
+        path: "OVK/2012/Mätprotokoll_lokal_Bogesholm 2012.xlsx"
+        sha256: "d992127c7286a9e18e0a522803a785329110a098a5aa54f5f1598359f4e0e72f"
+        size: 131699
+      -
+        id: "K-OVK-D006"
+        path: "OVK/2012/OVK-protokoll Lokal_Bogesholm 2012.pdf"
+        sha256: "1d71ee0628102eebfd1bc2e4402720ecb17fdd453a242a32531bcda8ae2de22e"
+        size: 525302
+      -
+        id: "K-OVK-D007"
+        path: "OVK/2021/1. OVK_Protokoll_Lokal_2021.pdf"
+        sha256: "d8379f38b9762f42a361675ff823ff54a943e90ae5b541e5c42077e92759ae93"
+        size: 157713
+      -
+        id: "K-OVK-D008"
+        path: "OVK/2021/2. OVK_Intyg_Lokal_2021.pdf"
+        sha256: "ec2565aa980cc82faa87baa38cd0642bd4042d370f052f8b34714f54a36284e1"
+        size: 115228
+      -
+        id: "K-OVK-D009"
+        path: "OVK/2021/3. Mätprotokoll_lokal_2021.pdf"
+        sha256: "0c33e3f5527a5468a86ef205652ada57b2da72301a450609a28b4c5892e2cbe6"
+        size: 23871
+      -
+        id: "K-OVK-D010"
+        path: "OVK/2021/Offert OVK Lokal brf_ Bogesholm.msg"
+        sha256: "dd69b091f71ddd9771842d5c3f26eed19ad7babb49f9464c1f2b622dc3766e51"
+        size: 822784
+      -
+        id: "K-OVK-D011"
+        path: "OVK/Lokal 2021 räknas för 2018/1. OVK_Protokoll_Lokal_2021.pdf"
+        sha256: "d8379f38b9762f42a361675ff823ff54a943e90ae5b541e5c42077e92759ae93"
+        size: 157713
+      -
+        id: "K-OVK-D012"
+        path: "OVK/Lokal 2021 räknas för 2018/2. OVK_Intyg_Lokal_2021.pdf"
+        sha256: "ec2565aa980cc82faa87baa38cd0642bd4042d370f052f8b34714f54a36284e1"
+        size: 115228
+      -
+        id: "K-OVK-D013"
+        path: "OVK/Lokal 2021 räknas för 2018/3. Mätprotokoll_lokal_2021.pdf"
+        sha256: "0c33e3f5527a5468a86ef205652ada57b2da72301a450609a28b4c5892e2cbe6"
+        size: 23871
+      -
+        id: "K-OVK-D014"
+        path: "OVK/Lokal 2021 räknas för 2018/Mätprotokoll_lokal_Bogesholm 2021.xlsx"
+        sha256: "1f00fa43f0b02149c2efd090500227203719786cebfc6e654341a80771de6264"
+        size: 32975
+      -
+        id: "K-OVK-D015"
+        path: "OVK/Lokal 2021 räknas för 2018/OVK Lokal 2021.zip"
+        sha256: "4b7b4a2b7b35af582f0735a5f119238c8536f9a9db7ffbbb711ff17d0c6abad8"
+        size: 272592
+      -
+        id: "K-OVK-D016"
+        path: "OVK/Lokal 2024 SIMAB utfört åt oss/OVK Lokal 2024.zip"
+        sha256: "507ed77b0d6f3a6cda7833ae371e77184b3dc9442feae29cfcb4f6b647382491"
+        size: 1218060
+      -
+        id: "K-OVK-D017"
+        path: "OVK/Lokal 2024 SIMAB utfört åt oss/simabsotarna@omsmtp.se_20240827_090420.pdf"
+        sha256: "bf3c6b3eeff6b580fc76c48568cbe32eedb1abef3cc4f1df7712f21917d21312"
+        size: 1218068
+      -
+        id: "K-OVK-D018"
+        path: "OVK/Områdeskarta för förtydligande.pdf"
+        sha256: "8bb141918e28ddabddda708376f1197de5533ef991d36b1b7796ffd432998061"
+        size: 681832
+      -
+        id: "K-OVK-D019"
+        path: "OVK/Ritning V4-30 Lokal.pdf"
+        sha256: "db41e335ce813818aadf760eef62fd2e88212925bf7d0a8a3e267a63757ea0c7"
+        size: 1339232
+  -
+    id: "K-OVK-KOMPLETTERING-20261113"
+    typ: "beställarens bekräftelse"
+    uppgifter:
+      - "Endast föreningslokalens aggregat omfattas av OVK."
+      - "2014 års avvikelser dokumenteras på 57B, 61A, 71F och 77A."
+      - "Samtliga övriga lägenheter ska registreras med totalrensning 2014-06-19 och godkänt resultat enligt beställarens slutsats av avvikelselistan. Huvudprotokollet har inte återfunnits."
+dubbletthantering: "2021 års tre PDF-filer förekommer i två mappar och inuti en ZIP. 2024 års PDF förekommer även i en ZIP. Samma dokument räknas endast en gång."
+avgränsningar:
+  - "Tre OVK-kontroller; ingen utförd kontroll 2018 har registrerats."
+  - "2014 års avvikelselista gäller lägenheternas rensning och är inte OVK för lägenheterna."
+  - "Kostnader härleds inte ur protokoll eller offerter."
+  - "2012 års följebrev innehåller främmande offert-/malltext för Pilstorp 1; dessa uppgifter och belopp används inte för Bogesholm."
+  - "Historiska anmärkningars avhjälpande är okänt. Godkänd OVK 2024 stänger inte automatiskt äldre anmärkningar."
+kontroll:
+  OVK_kontroller: 3
+  lägenheter: 78
+  lägenheter_med_anmärkning: 4
+  godkända_enligt_beställaren: 74

@@ -1,0 +1,209 @@
+version: "1.0"
+besiktningar:
+  -
+    id: "B-OVK-20121114"
+    datum: "2012-11-14"
+    underskriftsdatum: "2012-12-05"
+    utförare: "Riksbyggen"
+    resultat: "Godkänd"
+    nästa_besiktning_enligt_protokoll: "2018-11-14"
+    dokument:
+      -
+        källa: "K-OVK-D004"
+        arkivsökväg: "OVK/2012/Intyg för lokal_Bogesholm 2012.pdf"
+        sha256: "1b52b98fcaec6f9cbe36f3f6d8f3458cb30d93f4d9b9607136c2879756daf9cc"
+      -
+        källa: "K-OVK-D005"
+        arkivsökväg: "OVK/2012/Mätprotokoll_lokal_Bogesholm 2012.xlsx"
+        sha256: "d992127c7286a9e18e0a522803a785329110a098a5aa54f5f1598359f4e0e72f"
+      -
+        källa: "K-OVK-D006"
+        arkivsökväg: "OVK/2012/OVK-protokoll Lokal_Bogesholm 2012.pdf"
+        sha256: "1d71ee0628102eebfd1bc2e4402720ecb17fdd453a242a32531bcda8ae2de22e"
+    anmärkningar:
+      -
+        text: "DU-pärm och ritningar saknas vid anläggningen."
+        klass: 1
+        åtgärdsstatus: "Okänd"
+      -
+        text: "Lokalen luktar sopor från soprum på grund av undertryck."
+        klass: 1
+        åtgärdsstatus: "Okänd"
+    klassförklaring: "1 = åtgärdas innan nästa OVK enligt protokollet."
+    luftflöden:
+      -
+        rum: "WC"
+        projekterat_l_s: 10
+        uppmätt_l_s: 10
+      -
+        rum: "HWC"
+        projekterat_l_s: 10
+        uppmätt_l_s: null
+        kommentar: "Låst"
+      -
+        rum: "Pentry med separat spisfläkt"
+        projekterat_l_s: 10
+        uppmätt_l_s: 9
+      -
+        rum: "Matsal"
+        projekterat_l_s: 120
+        uppmätt_l_s: 112
+      -
+        rum: "Soprum 1"
+        projekterat_l_s: 10
+        uppmätt_l_s: 9
+      -
+        rum: "Soprum 2"
+        projekterat_l_s: 10
+        uppmätt_l_s: 5
+        kommentar: "Bör ökas"
+    mätkommentar: "Frånluft i soprum bör ökas i normalläge. Otillräcklig friskluft när fläkten går på max enligt mätprotokollet."
+    tekniska_källskillnader:
+      flöde_börvärde_protokoll_l_s: 120
+      projekterat_flöde_mätprotokoll_l_s: 170
+      effekt_protokoll_W: "Uppskattat 60"
+      effekt_mätprotokoll_W: 105
+      byggår_enligt_protokoll: 1989
+    källavvikelse: "Lund och postnummer 22474 anges i protokollet; korrekt ort är Kävlinge. Ingen säker installationsålder härleds."
+    objekt: "TI-VENTILATION-69-FF1"
+    adress: "Högalidsvägen 69"
+    system: "FF1"
+    källor:
+      - "K-OVK-20261113"
+      - "K-OVK-KOMPLETTERING-20261113"
+    åtgärd: "A-OVK-20121114"
+  -
+    id: "B-OVK-20210709"
+    datum: "2021-07-09"
+    underskriftsdatum: "2021-07-12"
+    utförare: "Riksbyggen"
+    resultat: "Godkänd"
+    nästa_besiktning_enligt_protokoll: "2024-11-14"
+    dokument:
+      -
+        källa: "K-OVK-D007"
+        arkivsökväg: "OVK/2021/1. OVK_Protokoll_Lokal_2021.pdf"
+        sha256: "d8379f38b9762f42a361675ff823ff54a943e90ae5b541e5c42077e92759ae93"
+      -
+        källa: "K-OVK-D008"
+        arkivsökväg: "OVK/2021/2. OVK_Intyg_Lokal_2021.pdf"
+        sha256: "ec2565aa980cc82faa87baa38cd0642bd4042d370f052f8b34714f54a36284e1"
+      -
+        källa: "K-OVK-D009"
+        arkivsökväg: "OVK/2021/3. Mätprotokoll_lokal_2021.pdf"
+        sha256: "0c33e3f5527a5468a86ef205652ada57b2da72301a450609a28b4c5892e2cbe6"
+      -
+        källa: "K-OVK-D014"
+        arkivsökväg: "OVK/Lokal 2021 räknas för 2018/Mätprotokoll_lokal_Bogesholm 2021.xlsx"
+        sha256: "1f00fa43f0b02149c2efd090500227203719786cebfc6e654341a80771de6264"
+    administrativt_besiktningsdatum: "2018-11-14"
+    datumkommentar: "OVK utfördes aldrig 2018. Mätning utförd 2021-07-09 och protokoll undertecknat 2021-07-12. Enligt protokollet räknas kontrollen till 2018 års intervall; ingen utförd kontroll 2018 registreras."
+    luftflöden:
+      -
+        rum: "HWC"
+        projekterat_l_s: 10
+        uppmätt_l_s: 10
+      -
+        rum: "Pentry"
+        projekterat_l_s: 15
+        uppmätt_l_s: 16
+      -
+        rum: "Matsal"
+        projekterat_l_s: 70
+        uppmätt_l_s: 68
+        antal_don: 4
+        kommentar: "Separat spisfläkt"
+      -
+        rum: "Soprum 1"
+        projekterat_l_s: 85
+        uppmätt_l_s: 77
+        antal_don: 2
+      -
+        rum: "Soprum 2"
+        projekterat_l_s: 30
+        uppmätt_l_s: 32
+      -
+        rum: "Vaktmästare"
+        projekterat_l_s: 15
+        uppmätt_l_s: 16
+      -
+        rum: "WC/D"
+        projekterat_l_s: "10–30"
+        uppmätt_l_s: null
+        kommentar: "Låst utrymme; inte uppmätt"
+    projekterat_flöde_l_s: 241
+    uppskattad_effekt_W: 60
+    byggår_enligt_protokoll: 1989
+    objekt: "TI-VENTILATION-69-FF1"
+    adress: "Högalidsvägen 69"
+    system: "FF1"
+    källor:
+      - "K-OVK-20261113"
+      - "K-OVK-KOMPLETTERING-20261113"
+    åtgärd: "A-OVK-20210709"
+  -
+    id: "B-OVK-20240815"
+    datum: "2024-08-15"
+    utförare: "SIMAB Ventilation"
+    resultat: "Godkänd"
+    nästa_besiktning_enligt_protokoll: "2030-08-15"
+    dokument:
+      -
+        källa: "K-OVK-D017"
+        arkivsökväg: "OVK/Lokal 2024 SIMAB utfört åt oss/simabsotarna@omsmtp.se_20240827_090420.pdf"
+        sha256: "bf3c6b3eeff6b580fc76c48568cbe32eedb1abef3cc4f1df7712f21917d21312"
+    mätläge: 4
+    luftflöden:
+      -
+        rum: "Samlingssal"
+        projekterat_l_s: 70
+        uppmätt_l_s:
+          - 18
+          - 15
+          - 15
+          - 15
+        kommentar: "Fyra don; projekterat värde anges gemensamt."
+      -
+        rum: "Pentry"
+        projekterat_l_s: 15
+        uppmätt_l_s: 15
+      -
+        rum: "WC grund"
+        projekterat_l_s: 10
+        uppmätt_l_s: 10
+      -
+        rum: "WC forcering"
+        projekterat_l_s: 30
+        uppmätt_l_s: 30
+      -
+        rum: "Vaktmästare"
+        projekterat_l_s: 15
+        uppmätt_l_s: 15
+      -
+        rum: "Förråd"
+        projekterat_l_s: 10
+        uppmätt_l_s: 10
+      -
+        rum: "Soprum"
+        projekterat_l_s: 85
+        uppmätt_l_s:
+          - 35
+          - 40
+        kommentar: "Två don; projekterat värde anges gemensamt."
+      -
+        rum: "Torrsopor"
+        projekterat_l_s: 6
+        uppmätt_l_s: 7
+        kvot_enligt_protokoll: "17%"
+    total_projekterat_l_s_enligt_protokoll: 241
+    total_uppmätt_l_s_enligt_protokoll: 225
+    avvikelse_enligt_protokoll: "-7%"
+    byggår_enligt_protokoll: 1984
+    kommentar: "Totalsiffrorna återges som i originalet och räknas inte om genom att summera alternativa driftlägen för WC. Byggår skiljer mot äldre protokoll och är inte verifierat installationsår."
+    objekt: "TI-VENTILATION-69-FF1"
+    adress: "Högalidsvägen 69"
+    system: "FF1"
+    källor:
+      - "K-OVK-20261113"
+      - "K-OVK-KOMPLETTERING-20261113"
+    åtgärd: "A-OVK-20240815"

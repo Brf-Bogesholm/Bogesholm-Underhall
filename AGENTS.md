@@ -33,3 +33,7 @@ Beställaren har bekräftat fyra lekplatser: LP-50, LP-60, LP-70 och den separat
 ## Lägenhetsuppgifter från utdrag 2025-12-12
 
 Beställarens avgränsning 2026-11-13: lägenhetsutdraget från 2025-12-12 får komplettera insatser, andelstal, våningsuppgifter och fastighetsbeteckningar. Skatteverkets nummer 1001 är bekräftat för alla 78 lägenheter eftersom de har enskilda ingångar. Riksbyggens lägenhetsnummer från det gamla förvaltaravtalet ska inte registreras. Ekonomiska planens registreringsdatum är inte känt och ska inte hämtas från utdraget. Övriga ekonomiska uppgifter ska inte överföras. Behåll befintliga stabila objekt-ID:n. Håll insatsbelopp i SEK skilt från procentfältet Insats och bevara andelstalens tre ursprungliga rubriker separat. Märk uppgifterna med källans datum.
+
+## Ventilation och OVK
+
+Beställaren har bekräftat att endast föreningslokalens FF1 på Högalidsvägen 69 omfattas av OVK. Ventilationsrensningen 2014-06-19 är separat lägenhetshistorik. Avvikelselistan anger 57B, 61A, 71F och 77A; avhjälpandets status är okänd. För övriga 74 lägenheter registreras genomförd totalrensning med godkänt resultat enligt beställarens uttryckliga bekräftelse, grundad på avvikelselistan. Huvudprotokollet saknas; kalla inte detta individuellt verifierade godkännandeprotokoll eller OVK av lägenheterna. 2021 års OVK räknades till 2018 års intervall men utfördes 2021.
