@@ -960,7 +960,7 @@ version: "1.0"
       - "K-KOMPLETTERING-7594-20261027"
   -
     id: "A-2026-20180400-1"
-    datum: null
+    datum: "2026-11-05"
     åtgärd: "Reparation av dörren till Mellangången, mot skyddsrummet; inköp av Assa 580 motorlås och kabel EA220 10m."
     objekt:
       - "H-69"
@@ -974,9 +974,11 @@ version: "1.0"
     källor:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
+      - "K-DATUMREGEL-2026-11-13"
     kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
     kostnadsfördelning: null
-    datumkommentar: "Fakturadatum bekräftat till 2026-11-05; separat utförandedatum är okänt. Installation eller byte av den specificerade låskomponenten har inte bekräftats separat."
+    datumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum. Fakturan specificerar inget separat arbetsdatum. Exakt tidigare låskomponent är inte identifierad."
+    datumkälla: "K-DATUMREGEL-2026-11-13"
   -
     id: "A-2026-7634-1"
     datum: "2026-11-04"

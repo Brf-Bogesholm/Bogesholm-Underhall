@@ -199,6 +199,9 @@ objekt:
       installationsdatum: "2026-08-19"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-08-19"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -214,6 +217,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-MOTORLAS-MELLANGANG-001"
     typ: "motorlås"
@@ -227,14 +231,19 @@ objekt:
       garanti: null
       inköpsdatum: "2026-11-05"
       inköpsdatumkälla: "Fakturadatum, bekräftat av beställaren"
-      installationsdatum: null
+      installationsdatum: "2026-11-05"
       inköpsfaktura: "F-2026-20180400"
       fakturarad: "F-2026-20180400-R1"
       tillbehör:
         -
           benämning: "Assa Kabel EA220 10m för EL580"
           fakturarad: "F-2026-20180400-R2"
-      kommentar: "Inköp specificerat på reparationsunderlaget. Installations-/bytesdatum och eventuell tidigare låskomponent är okända."
+      kommentar: "Inköp specificerat på reparationsunderlaget. Installationsdatum registrerat enligt beställarens datumregel; eventuell tidigare låskomponent är okänd."
+      leveransdatum: "2026-11-05"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
+      installationsdatumkälla: "K-DATUMREGEL-2026-11-13"
+      datumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -244,6 +253,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-TERMOSTAT-KONTOR-001"
     typ: "termostat"

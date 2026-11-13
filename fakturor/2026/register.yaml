@@ -85,6 +85,7 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+      - "K-DATUMREGEL-2026-11-13"
     datastatus: "verifierad"
     rader:
       -
@@ -121,11 +122,13 @@ fakturor:
         artikelnummer: "DIVBJT3"
     avtalsnummer: "10475"
     raddatum_original: "260116"
-    leveransdatum: null
+    leveransdatum: "2026-01-16"
     tillgångar:
       - "UT-SLAP-NMS32K"
     åtgärder:
       - "A-2026-144035-1"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-10382"
     fakturanummer: "10382"
@@ -950,7 +953,7 @@ fakturor:
     organisationsnummer: "556035-8672"
     fakturadatum: "2026-09-28"
     förfallodatum: "2026-10-28"
-    leveransdatum: null
+    leveransdatum: "2026-09-28"
     ordernummer: "403316550"
     orderdatum: null
     ocr: "82088672710"
@@ -992,7 +995,10 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-04"
       - "K-KOMPLETTERING-2026-10-23-04"
+      - "K-DATUMREGEL-2026-11-13"
     betalningsmottagare: "Billie GmbH"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-9004352646"
     fakturanummer: "9004352646"
@@ -1273,6 +1279,10 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
+    leveransdatum: "2026-09-11"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-9003662035"
     fakturanummer: "9003662035"
@@ -1381,6 +1391,10 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
+    leveransdatum: "2026-07-23"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-1005437"
     fakturanummer: "1005437"
@@ -1425,9 +1439,13 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
     radbeloppssumma: 7373.75
     öresavrundning_enligt_beställaren: 0.25
     avrundningskommentar: "Beställaren bekräftar att 7373,75 kr i radbelopp plus 0,25 kr öresavrundning ger 7374 kr att betala. Fakturans angivna netto 5899,25 och moms 1474,75 summerar redan till 7374 och bevaras separat. Avrundningen adderas därför inte igen till dessa totalsummor. Radbeloppen har inte omräknats till exklusive moms."
+    leveransdatum: "2026-08-19"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-008761863"
     fakturanummer: "008761863"
@@ -1470,6 +1488,10 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
+    leveransdatum: "2026-10-19"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-008715942"
     fakturanummer: "008715942"
@@ -1530,6 +1552,10 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
+    leveransdatum: "2026-09-21"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-7594"
     fakturanummer: "7594"
@@ -1696,6 +1722,7 @@ fakturor:
     källor:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
+      - "K-DATUMREGEL-2026-11-13"
     datastatus: "verifierad"
     rader:
       -
@@ -1724,7 +1751,10 @@ fakturor:
       - "TI-MOTORLAS-MELLANGANG-001"
     tillgångar:
       - "TI-MOTORLAS-MELLANGANG-001"
-    kommentar: "Dörren till Mellangången, mot skyddsrummet. Fakturadatum 2026-11-05 bekräftat av beställaren efter felaktig initial läsning av skanningen. Utläggsblanketten daterad 2026-11-05 är administrativt underlag till samma kostnad, inte en andra faktura. Organisationsnummer har inte registrerats från det otydliga underlaget. Separat utförande-/installationsdatum är okänt."
+    kommentar: "Dörren till Mellangången, mot skyddsrummet. Fakturadatum 2026-11-05 bekräftat av beställaren efter felaktig initial läsning av skanningen. Utläggsblanketten daterad 2026-11-05 är administrativt underlag till samma kostnad, inte en andra faktura. Organisationsnummer har inte registrerats från det otydliga underlaget. Separat utförande-/installationsdatum anges inte; 2026-11-05 registreras enligt beställarens stående datumregel."
+    leveransdatum: "2026-11-05"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
   -
     id: "F-2026-3612811400"
     fakturanummer: "3612811400"

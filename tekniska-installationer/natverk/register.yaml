@@ -63,6 +63,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-9004352646"
       fakturarad: "F-2026-9004352646-R1"
+      leveransdatum: "2026-10-16"
+      leveransdatumkälla: "F-2026-9004352646"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       -
         typ: "part_of"
@@ -97,6 +100,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-9004352646"
       fakturarad: "F-2026-9004352646-R1"
+      leveransdatum: "2026-10-16"
+      leveransdatumkälla: "F-2026-9004352646"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       -
         typ: "part_of"
@@ -125,6 +131,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-9003905371"
       fakturarad: "F-2026-9003905371-R1"
+      leveransdatum: "2026-06-11"
+      leveransdatumkälla: "F-2026-9003905371"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       -
         typ: "located_in"
@@ -151,6 +160,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-9003806383"
       fakturarad: "F-2026-9003806383-R1"
+      leveransdatum: "2026-05-12"
+      leveransdatumkälla: "F-2026-9003806383"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       -
         typ: "located_in"
@@ -177,6 +189,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-9003754192"
       fakturarad: "F-2026-9003754192-R1"
+      leveransdatum: "2026-04-26"
+      leveransdatumkälla: "F-2026-9003754192"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       []
     underhållshistorik:
@@ -201,6 +216,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-9003754192"
       fakturarad: "F-2026-9003754192-R2"
+      leveransdatum: "2026-04-26"
+      leveransdatumkälla: "F-2026-9003754192"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       -
         typ: "part_of"
@@ -225,6 +243,9 @@ objekt:
       installationsdatum: "2026-09-11"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-09-11"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -234,6 +255,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-RACK-ELPANEL-001"
     typ: "racktillbehör"
@@ -249,6 +271,9 @@ objekt:
       installationsdatum: "2026-09-11"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-09-11"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "part_of"
@@ -258,6 +283,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-RACK-HYLLA-001"
     typ: "racktillbehör"
@@ -272,6 +298,9 @@ objekt:
       installationsdatum: "2026-09-11"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-09-11"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "part_of"
@@ -281,6 +310,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-RACK-PATCHKABLAR-001"
     typ: "racktillbehör"
@@ -296,6 +326,9 @@ objekt:
       installationsdatum: "2026-09-11"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-09-11"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "part_of"
@@ -305,6 +338,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-KAMERA-G5TURRET-001"
     typ: "övervakningskamera"
@@ -320,6 +354,9 @@ objekt:
       installationsdatum: "2026-03-24"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-03-24"
+      leveransdatumkälla: "F-2026-9003662035"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       []
     underhållshistorik:
@@ -342,6 +379,9 @@ objekt:
       installationsdatum: "2026-03-24"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-03-24"
+      leveransdatumkälla: "F-2026-9003662035"
+      leveransdatumkommentar: "Datum enligt fakturan."
     relationer:
       []
     underhållshistorik:
@@ -366,6 +406,9 @@ objekt:
       installationsdatum: "2026-07-23"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-07-23"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       []
     underhållshistorik:
@@ -373,6 +416,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-KAMERA-AILPR-001"
     typ: "övervakningskamera"
@@ -390,6 +434,9 @@ objekt:
       installationsdatum: "2026-07-23"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-07-23"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       []
     underhållshistorik:
@@ -397,6 +444,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-KAMERA-G5FLEX-001"
     typ: "övervakningskamera"
@@ -414,6 +462,9 @@ objekt:
       installationsdatum: "2026-07-23"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-07-23"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       []
     underhållshistorik:
@@ -421,6 +472,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-SW-AGGREGATION-001"
     typ: "nätverksswitch"
@@ -436,6 +488,9 @@ objekt:
       installationsdatum: "2026-10-19"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-10-19"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -445,6 +500,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-NANOSTATION-5AC-RESERV-1"
     typ: "radioenhet"
@@ -459,6 +515,9 @@ objekt:
       garanti: null
       installationsdatum: null
       lagringsstatus: "Reservmateriel"
+      leveransdatum: "2026-09-21"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -468,6 +527,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-NANOSTATION-5AC-RESERV-2"
     typ: "radioenhet"
@@ -482,6 +542,9 @@ objekt:
       garanti: null
       installationsdatum: null
       lagringsstatus: "Reservmateriel"
+      leveransdatum: "2026-09-21"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -491,6 +554,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-CPE-FASTE-61D-001"
     typ: "antennfäste"
@@ -505,6 +569,9 @@ objekt:
       installationsdatum: "2026-09-21"
       datumkälla: "K-KOMPLETTERING-2026-10-23-05"
       datumkommentar: "Fakturadatum används som installationsdatum enligt beställarens anvisning."
+      leveransdatum: "2026-09-21"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -514,6 +581,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-CPE-FASTE-RESERV-1"
     typ: "antennfäste"
@@ -527,6 +595,9 @@ objekt:
       garanti: null
       installationsdatum: null
       lagringsstatus: "Reservmateriel"
+      leveransdatum: "2026-09-21"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -536,6 +607,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-CPE-FASTE-RESERV-2"
     typ: "antennfäste"
@@ -549,6 +621,9 @@ objekt:
       garanti: null
       installationsdatum: null
       lagringsstatus: "Reservmateriel"
+      leveransdatum: "2026-09-21"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -558,6 +633,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "TI-CPE-FASTE-RESERV-3"
     typ: "antennfäste"
@@ -571,6 +647,9 @@ objekt:
       garanti: null
       installationsdatum: null
       lagringsstatus: "Reservmateriel"
+      leveransdatum: "2026-09-21"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       -
         typ: "located_in"
@@ -580,3 +659,4 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+      - "K-DATUMREGEL-2026-11-13"

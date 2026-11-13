@@ -32,7 +32,9 @@ objekt:
       inköp:
         faktura: "F-2026-144035"
         fakturadatum: "2026-01-16"
-        leveransdatum: null
+        leveransdatum: "2026-01-16"
+        leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+        leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
       tillbehör:
         -
           namn: "Vinterdäck med fälg, 13 tum, 4-bultade"
@@ -53,6 +55,7 @@ objekt:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "UT-GUNGBRADA-50-001"
     typ: "gungbräda"
@@ -125,6 +128,9 @@ objekt:
       datumkommentar: "Fakturadatum anses vara installationsdatum enligt beställarens uttryckliga anvisning."
       inköpsfaktura: "F-2026-82088672710"
       fakturarad: "F-2026-82088672710-R1"
+      leveransdatum: "2026-09-28"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum används enligt beställarens stående datumregel 2026-11-13; inte ett observerat händelsedatum."
     relationer:
       []
     underhållshistorik:
@@ -132,6 +138,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-04"
       - "K-KOMPLETTERING-2026-10-23-04"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "UT-SKYLT-TOALETT-LOKAL-001"
     typ: "skylt"

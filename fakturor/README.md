@@ -23,6 +23,8 @@ Objekten följer [objektmodellen](../modell/objektmodell.yaml). I dessa register
 
 Fakturadatum, leveransdatum och utförandedatum hålls isär. Datum som beställaren anvisat, såsom utförandedatum för 10382, har särskild källmarkering. Ursprunglig projekttext bevaras men ersätter inte verifierat faktiskt utfall.
 
+**Stående datumregel från 2026-11-13:** För tidigare och kommande fakturor används fakturadatum som leverans-, installations- eller monteringsdatum där det är relevant och fakturan inte anger något annat datum. Särskilt angivna datum och tidigare verifierade datum behålls. Datum enligt regeln markeras med `K-DATUMREGEL-2026-11-13` och är administrativa registreringsdatum, inte observerade händelsedatum. Regeln kräver ingen ny kompletteringsfråga vid varje faktura. Reservmateriel får inte ett installationsdatum, och ett framtida angivet leveransdatum bevisar inte att montering har skett. Se [regel och retroaktiva kompletteringar](../inventering/importer/datumregel-2026-11-13.yaml).
+
 `null` betyder okänd uppgift, inte noll eller frånvaro av garanti. `datastatus: verifierad` avser de registrerade sakuppgifterna och betyder inte att alla uppgifter är kompletta. Modell-/artikelbeteckningar är inte serienummer. En tidigare komponent får inte markeras som ersatt utan identifiering.
 
 Originalfakturor lagras i föreningens dokumentarkiv, inte här. Filnamn identifierar underlagen tills beständiga SharePoint-länkar har kompletterats. Arkivering har inte verifierats. Betalningsstatus kan inte utläsas av fakturan och registreras därför inte.
@@ -74,7 +76,7 @@ På faktura 1005437 summerar ursprungliga radbelopp till 7373,75 kr och beställ
 | Alex Rörtjänst 7634 | Termostat i kontoret och luft i avgasarens expansionskärl, utfört 4 november | 1 784 |
 | Caiflow 1180 | Administration av elbilsladdare inklusive fakturaunderlag, november–januari | 4 740 |
 
-Net Consultings fakturadatum är **2026-11-05**, bekräftat av beställaren efter felaktig initial läsning av skanningen. Separat datum för reparation och installation saknas. Utläggsblanketten avser samma kostnad och skapar ingen extra faktura. Personuppgifter och privata kontouppgifter från blanketten publiceras inte.
+Net Consultings fakturadatum är **2026-11-05**, bekräftat av beställaren efter felaktig initial läsning av skanningen. Separat datum för reparation och installation anges inte i fakturan; datumet har senare satts till 2026-11-05 enligt beställarens stående datumregel. Utläggsblanketten avser samma kostnad och skapar ingen extra faktura. Personuppgifter och privata kontouppgifter från blanketten publiceras inte.
 
 Alex-fakturan kopplas till kontorets termostat och det befintliga lilla expansionskärlet till Spirotech S400. Arbete och servicebil är gemensamma för de två åtgärderna; de har inte kostnadsfördelats. Själva avgasaren får ingen antagen servicehändelse.
 

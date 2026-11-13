@@ -1,0 +1,160 @@
+id: "K-DATUMREGEL-2026-11-13"
+typ: "stående beställaranvisning"
+datum: "2026-11-13"
+anvisning: "På tidigare och kommande fakturor får installationsdatum, monteringsdatum och leveransdatum sättas till fakturadatum om fakturan inte specifikt anger något annat datum."
+tillämpning: "Endast relevanta datum för identifierade inköp/installationer. Särskilt angivna och verifierade datum bevaras. Datum enligt regeln är registreringsdatum, inte observerade händelsedatum."
+retroaktiva_kompletteringar:
+  -
+    objekt: "F-2026-144035"
+    fält: "leveransdatum"
+    datum: "2026-01-16"
+  -
+    objekt: "F-2026-82088672710"
+    fält: "leveransdatum"
+    datum: "2026-09-28"
+  -
+    objekt: "F-2026-008703792"
+    fält: "leveransdatum"
+    datum: "2026-09-11"
+  -
+    objekt: "F-2026-008643886"
+    fält: "leveransdatum"
+    datum: "2026-07-23"
+  -
+    objekt: "F-2026-1005437"
+    fält: "leveransdatum"
+    datum: "2026-08-19"
+  -
+    objekt: "F-2026-008761863"
+    fält: "leveransdatum"
+    datum: "2026-10-19"
+  -
+    objekt: "F-2026-008715942"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "F-2026-20180400"
+    fält: "leveransdatum"
+    datum: "2026-11-05"
+  -
+    objekt: "TI-PORTMOTOR-G740-20260819"
+    fält: "leveransdatum"
+    datum: "2026-08-19"
+  -
+    objekt: "TI-MOTORLAS-MELLANGANG-001"
+    fält: "leveransdatum"
+    datum: "2026-11-05"
+  -
+    objekt: "TI-MOTORLAS-MELLANGANG-001"
+    fält: "installationsdatum"
+    datum: "2026-11-05"
+  -
+    objekt: "TI-HDD-UNVR-G2-001"
+    fält: "leveransdatum"
+    datum: "2026-10-16"
+  -
+    objekt: "TI-HDD-UNVR-G2-002"
+    fält: "leveransdatum"
+    datum: "2026-10-16"
+  -
+    objekt: "TI-SW-USW-PRO8POE-001"
+    fält: "leveransdatum"
+    datum: "2026-06-11"
+  -
+    objekt: "TI-MODEM-5G-MAX-001"
+    fält: "leveransdatum"
+    datum: "2026-05-12"
+  -
+    objekt: "TI-AP-U7-OUTDOOR-001"
+    fält: "leveransdatum"
+    datum: "2026-04-26"
+  -
+    objekt: "TI-SNMP-UPS-MILJOHUS-60-001"
+    fält: "leveransdatum"
+    datum: "2026-04-26"
+  -
+    objekt: "TI-RACK-KONTOR-001"
+    fält: "leveransdatum"
+    datum: "2026-09-11"
+  -
+    objekt: "TI-RACK-ELPANEL-001"
+    fält: "leveransdatum"
+    datum: "2026-09-11"
+  -
+    objekt: "TI-RACK-HYLLA-001"
+    fält: "leveransdatum"
+    datum: "2026-09-11"
+  -
+    objekt: "TI-RACK-PATCHKABLAR-001"
+    fält: "leveransdatum"
+    datum: "2026-09-11"
+  -
+    objekt: "TI-KAMERA-G5TURRET-001"
+    fält: "leveransdatum"
+    datum: "2026-03-24"
+  -
+    objekt: "TI-KAMERA-G5TURRET-002"
+    fält: "leveransdatum"
+    datum: "2026-03-24"
+  -
+    objekt: "TI-SW-USW-ULTRA-001"
+    fält: "leveransdatum"
+    datum: "2026-07-23"
+  -
+    objekt: "TI-KAMERA-AILPR-001"
+    fält: "leveransdatum"
+    datum: "2026-07-23"
+  -
+    objekt: "TI-KAMERA-G5FLEX-001"
+    fält: "leveransdatum"
+    datum: "2026-07-23"
+  -
+    objekt: "TI-SW-AGGREGATION-001"
+    fält: "leveransdatum"
+    datum: "2026-10-19"
+  -
+    objekt: "TI-NANOSTATION-5AC-RESERV-1"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "TI-NANOSTATION-5AC-RESERV-2"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "TI-CPE-FASTE-61D-001"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "TI-CPE-FASTE-RESERV-1"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "TI-CPE-FASTE-RESERV-2"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "TI-CPE-FASTE-RESERV-3"
+    fält: "leveransdatum"
+    datum: "2026-09-21"
+  -
+    objekt: "UT-SLAP-NMS32K"
+    fält: "leveransdatum"
+    datum: "2026-01-16"
+  -
+    objekt: "UT-VARDESKAP-001"
+    fält: "leveransdatum"
+    datum: "2026-09-28"
+  -
+    objekt: "A-2026-20180400-1"
+    fält: "datum"
+    datum: "2026-11-05"
+bevarade_undantag:
+  - "Toalettskylten på faktura 57551 har uttryckligt leveransdatum 2026-11-16; datumet behålls. Framtida leverans ger ingen genomförd monteringshändelse."
+  - "Termostaten och luftpåfyllningen på faktura 7634 behåller arbetsdatum 2026-11-04."
+  - "Reservmateriel får inget installationsdatum."
+  - "UNVR och UPS utan egen inköpsfaktura får inte tillbehörens datum."
+  - "Flera gemensamma arbetsdatum på elfakturor bevaras utan antagen fördelning."
+  - "Energi- och abonnemangsperioder, garantier och betalningsstatus påverkas inte."
+ersätter_tidigare_öppna_uppgifter:
+  - "Leveransdatum som saknades i äldre underlag fylls enligt regeln för de identifierade inköpen ovan."
+  - "Okänt installations-/utförandedatum för motorlåset till Mellangången ersätts med fakturadatum enligt regeln."
