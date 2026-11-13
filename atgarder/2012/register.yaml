@@ -1,0 +1,19 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-LEK-2012-ALLA"
+    datum: "2012-06-07"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-50"
+      - "LP-60"
+      - "LP-60-GUNGOR"
+      - "LP-70"
+    besiktning: "B-LEK-2012-ALLA"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D028"
+      - "K-LEKARKIV-D029"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."

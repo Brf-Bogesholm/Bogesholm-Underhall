@@ -195,6 +195,7 @@ version: "1.0"
     åtgärd: "Säkerhetsbesiktning av lekplatsen på 60-gården."
     objekt:
       - "LP-60"
+      - "LP-60-GUNGOR"
     placering: "Högalidsvägen 63"
     utförare: "Din Utemiljö i Skåne AB"
     faktura: "F-2026-5398"
@@ -203,11 +204,13 @@ version: "1.0"
     källor:
       - "K-FAKTUROR-2026-10-23-02"
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSKOPPLING-20261113"
     datumkälla: "K-PROTOKOLL-2026-63"
     kostnadsfördelning: null
     kostnadsprincip: "Kostnad lagras på fakturan. Gemensamma rader är underlag, inte en fördelning eller ytterligare belopp att summera."
     besiktningsprotokoll: "B-2026-63"
     kommentar: "Protokollets besiktningsdatum används; fakturans avvikande uppgift bevaras."
+    omfattningskommentar: "Rapporten omfattar både lekplatsen och den separata gunglekplatsen på 60-gården. Samma kontroll och faktura, inte en extra kostnad."
   -
     id: "A-2026-5398-77"
     datum: "2026-04-01"

@@ -37,3 +37,43 @@ version: "1.0"
       - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
     komponentkommentar: "Expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren. Avgasarens lilla kärl ingår inte i denna koppling."
+  -
+    id: "A-LEK-2020-50"
+    datum: "2020-05-28"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-50"
+    besiktning: "B-LEK-2020-50"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D035"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-LEK-2020-60"
+    datum: "2020-05-28"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-60"
+      - "LP-60-GUNGOR"
+    besiktning: "B-LEK-2020-60"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D035"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-LEK-2020-70"
+    datum: "2020-05-28"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-70"
+    besiktning: "B-LEK-2020-70"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D035"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."

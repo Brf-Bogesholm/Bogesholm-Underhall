@@ -6,13 +6,28 @@ objekt:
     datastatus: "verifierad"
     placering: "Högalidsvägen 53"
     egenskaper:
-
+      gård: "50-gården"
+      besiktningar:
+        - "B-LEK-2012-ALLA"
+        - "B-LEK-2019-50"
+        - "B-LEK-2020-50"
+        - "B-LEK-2021-50"
+        - "B-LEK-2023-50"
+        - "B-LEK-2025-50"
+        - "B-2026-53"
     relationer:
       []
     underhållshistorik:
       - "A-2026-5398-53"
+      - "A-LEK-2012-ALLA"
+      - "A-LEK-2019-50"
+      - "A-LEK-2020-50"
+      - "A-LEK-2021-50"
+      - "A-LEK-2023-50"
+      - "A-LEK-2025-50"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LP-60"
     typ: "lekplats"
@@ -20,13 +35,28 @@ objekt:
     datastatus: "verifierad"
     placering: "Högalidsvägen 63"
     egenskaper:
-
+      gård: "60-gården"
+      besiktningar:
+        - "B-LEK-2012-ALLA"
+        - "B-LEK-2019-60"
+        - "B-LEK-2020-60"
+        - "B-LEK-2021-60"
+        - "B-LEK-2023-60"
+        - "B-LEK-2025-60"
+        - "B-2026-63"
     relationer:
       []
     underhållshistorik:
       - "A-2026-5398-63"
+      - "A-LEK-2012-ALLA"
+      - "A-LEK-2019-60"
+      - "A-LEK-2020-60"
+      - "A-LEK-2021-60"
+      - "A-LEK-2023-60"
+      - "A-LEK-2025-60"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LP-70"
     typ: "lekplats"
@@ -34,13 +64,28 @@ objekt:
     datastatus: "verifierad"
     placering: "Högalidsvägen 77"
     egenskaper:
-
+      gård: "70-gården"
+      besiktningar:
+        - "B-LEK-2012-ALLA"
+        - "B-LEK-2019-70"
+        - "B-LEK-2020-70"
+        - "B-LEK-2021-70"
+        - "B-LEK-2023-70"
+        - "B-LEK-2025-70"
+        - "B-2026-77"
     relationer:
       []
     underhållshistorik:
       - "A-2026-5398-77"
+      - "A-LEK-2012-ALLA"
+      - "A-LEK-2019-70"
+      - "A-LEK-2020-70"
+      - "A-LEK-2021-70"
+      - "A-LEK-2023-70"
+      - "A-LEK-2025-70"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-50-HINDERBANA-001"
     typ: "lekredskap"
@@ -54,14 +99,20 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-53"
+        - "B-LEK-2021-50"
+        - "B-LEK-2023-50"
+        - "B-LEK-2025-50"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-50"
     underhållshistorik:
-      []
+      - "A-LEK-2021-50"
+      - "A-LEK-2023-50"
+      - "A-LEK-2025-50"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-50-SANDLADA-001"
     typ: "lekredskap"
@@ -75,14 +126,20 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-53"
+        - "B-LEK-2021-50"
+        - "B-LEK-2023-50"
+        - "B-LEK-2025-50"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-50"
     underhållshistorik:
-      []
+      - "A-LEK-2021-50"
+      - "A-LEK-2023-50"
+      - "A-LEK-2025-50"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-60-SANDLADA-001"
     typ: "lekredskap"
@@ -96,14 +153,20 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-63"
+        - "B-LEK-2021-60"
+        - "B-LEK-2023-60"
+        - "B-LEK-2025-60"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-60"
     underhållshistorik:
-      []
+      - "A-LEK-2021-60"
+      - "A-LEK-2023-60"
+      - "A-LEK-2025-60"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-60-VIPPGUNGA-001"
     typ: "lekredskap"
@@ -159,20 +222,27 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-63"
+        - "B-LEK-2021-60"
+        - "B-LEK-2023-60"
+        - "B-LEK-2025-60"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-60"
     underhållshistorik:
       - "A-2026-2697-1"
+      - "A-LEK-2021-60"
+      - "A-LEK-2023-60"
+      - "A-LEK-2025-60"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-60-GUNGA-001"
     typ: "lekredskap"
     namn: "Gunga typ 1, 2+1 platser"
     datastatus: "verifierad"
-    placering: "Lekplatsen på 60-gården"
+    placering: "Gunglekplatsen på 60-gården"
     egenskaper:
       fabrikat: null
       modell: null
@@ -180,14 +250,24 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-63"
+        - "B-LEK-2020-60"
+        - "B-LEK-2021-60"
+        - "B-LEK-2023-60"
+        - "B-LEK-2025-60"
+      platskopplingkälla: "K-LEKPLATSKOPPLING-20261113"
     relationer:
       -
         typ: "located_in"
-        objekt: "LP-60"
+        objekt: "LP-60-GUNGOR"
     underhållshistorik:
-      []
+      - "A-LEK-2020-60"
+      - "A-LEK-2021-60"
+      - "A-LEK-2023-60"
+      - "A-LEK-2025-60"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSKOPPLING-20261113"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-70-KARUSELL-001"
     typ: "lekredskap"
@@ -201,14 +281,20 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-77"
+        - "B-LEK-2021-70"
+        - "B-LEK-2023-70"
+        - "B-LEK-2025-70"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-70"
     underhållshistorik:
-      []
+      - "A-LEK-2021-70"
+      - "A-LEK-2023-70"
+      - "A-LEK-2025-70"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
   -
     id: "LEK-70-LEKHUS-001"
     typ: "lekredskap"
@@ -222,11 +308,69 @@ objekt:
       serienummer: null
       besiktningar:
         - "B-2026-77"
+        - "B-LEK-2021-70"
+        - "B-LEK-2023-70"
+        - "B-LEK-2025-70"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-70"
     underhållshistorik:
-      []
+      - "A-LEK-2021-70"
+      - "A-LEK-2023-70"
+      - "A-LEK-2025-70"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKPLATSARKIV-20261113"
+  -
+    id: "LP-60-GUNGOR"
+    typ: "lekplats"
+    namn: "Gunglekplatsen på 60-gården"
+    datastatus: "verifierad"
+    placering: "Separat gunglekplats på 60-gården; i protokollen sammanförd med Högalidsvägen 63"
+    egenskaper:
+      gård: "60-gården"
+      besiktningar:
+        - "B-LEK-2012-ALLA"
+        - "B-LEK-2020-60"
+        - "B-LEK-2021-60"
+        - "B-LEK-2023-60"
+        - "B-LEK-2025-60"
+        - "B-2026-63"
+    relationer:
+      []
+    underhållshistorik:
+      - "A-LEK-2012-ALLA"
+      - "A-LEK-2020-60"
+      - "A-LEK-2021-60"
+      - "A-LEK-2023-60"
+      - "A-LEK-2025-60"
+      - "A-2026-5398-63"
+    källor:
+      - "K-LEKPLATSARKIV-20261113"
+      - "K-LEKPLATSKOPPLING-20261113"
+  -
+    id: "LEK-50-VIPPGUNGA-2016"
+    typ: "lekredskap"
+    namn: "Historisk vippgunga på 50-gården, Hags 8042517"
+    datastatus: "verifierad"
+    placering: "50-gården enligt protokoll 2021–2025"
+    egenskaper:
+      fabrikat: "Hags"
+      modell: "8042517"
+      tillverkningsår: 2016
+      besiktningar:
+        - "B-LEK-2021-50"
+        - "B-LEK-2023-50"
+        - "B-LEK-2025-50"
+      kommentar: "Skild från UT-GUNGBRADA-50-001, Hags 8049488-1 med tillverkningsår 2025. Exakt avvecklingsdatum och ersättningsrelation är inte fastställda."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "LP-50"
+    underhållshistorik:
+      - "A-LEK-2021-50"
+      - "A-LEK-2023-50"
+      - "A-LEK-2025-50"
+    källor:
+      - "K-LEKPLATSARKIV-20261113"

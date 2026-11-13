@@ -1,0 +1,339 @@
+version: "1.0"
+besiktningar:
+  -
+    id: "B-LEK-2020-50"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2020-05-28"
+    protokoll_utfärdat: null
+    lekplatser:
+      - "LP-50"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D035"
+        arkivsökväg: "Lekplatsbesiktning/2020/Protokoll 2020.pdf"
+        sha256: "47b20fc45794b57b5a7b3e727386263b45a8a7f1b9cdefba4e8e68c6369eb4a8"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn: "Vippgunga"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 2
+        namn: "Sandlåda"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 3
+        namn: "Balansbrädor , gummibord, snurrpelare Hags"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 4
+        namn: "Sandunderlag"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 5
+        namn: "Informationstavla"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 6
+        namn: "Bänk"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: 1
+        anmärkning: "Lös i fäste"
+        felklassning: "B"
+        källsida: 1
+        id: "B-LEK-2020-50-ANM-1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-50"
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "Färgsläpp ( barn kan få de i munnen)."
+        felklassning: "B"
+        källsida: 1
+        id: "B-LEK-2020-50-ANM-2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-50"
+      -
+        protokoll_objektsnummer: 3
+        anmärkning: "Torrsprickor, färgsläpp"
+        felklassning: "C"
+        källsida: 1
+        id: "B-LEK-2020-50-ANM-3"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-50"
+      -
+        protokoll_objektsnummer: 4
+        anmärkning: "Sargen delar sig synliga spik"
+        felklassning: "B"
+        källsida: 1
+        id: "B-LEK-2020-50-ANM-4"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-50"
+      -
+        protokoll_objektsnummer: 5
+        anmärkning: "Saknas"
+        felklassning: "C"
+        källsida: 1
+        id: "B-LEK-2020-50-ANM-5"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-50"
+      -
+        protokoll_objektsnummer: 6
+        anmärkning: "Färgsläpp"
+        felklassning: "C"
+        källsida: 1
+        id: "B-LEK-2020-50-ANM-6"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-50"
+    källor:
+      - "K-LEKARKIV-D035"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    källsidor_huvudprotokoll:
+      - 1
+    utförare: null
+    klassningssystem: "A/B/C enligt protokollets förklaring."
+    källavvikelse: "Bildbilagor innehåller avvikande malltexter och positionshänvisningar; huvudprotokollens uppgifter hålls isär från bilagetexterna. Bilaga till protokoll 1 har föreningsnamnet BRF Toftängen."
+    åtgärd: "A-LEK-2020-50"
+  -
+    id: "B-LEK-2020-60"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2020-05-28"
+    protokoll_utfärdat: null
+    lekplatser:
+      - "LP-60"
+      - "LP-60-GUNGOR"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D035"
+        arkivsökväg: "Lekplatsbesiktning/2020/Protokoll 2020.pdf"
+        sha256: "47b20fc45794b57b5a7b3e727386263b45a8a7f1b9cdefba4e8e68c6369eb4a8"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn: "Fjädergunga nyckelpiga, 1st fjäder , 4 sitsar"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 2
+        namn: "Fjädergunga skjöldpadda, 1 st fjäder , 4 sitsar"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 3
+        namn: "Sandunderlag"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 4
+        namn: "Sandlåda"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 5
+        namn: "Stort lekhus Hags , 2-12 år"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 6
+        namn: "Sandunderlag"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 7
+        namn: "Gungställning"
+        objekt: "LEK-60-GUNGA-001"
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 8
+        namn: "informationstavla"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: 1
+        anmärkning: "OK"
+        felklassning: "OK"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-1"
+        åtgärdsstatus: "Ej tillämpligt"
+        objekt: null
+        lekplats: "LP-60"
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "OK"
+        felklassning: "OK"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-2"
+        åtgärdsstatus: "Ej tillämpligt"
+        objekt: null
+        lekplats: "LP-60"
+      -
+        protokoll_objektsnummer: 3
+        anmärkning: "OK"
+        felklassning: "OK"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-3"
+        åtgärdsstatus: "Ej tillämpligt"
+        objekt: null
+        lekplats: "LP-60"
+      -
+        protokoll_objektsnummer: 4
+        anmärkning: "Färgsläpp (barn kan få de i munnen). Lösa brädor"
+        felklassning: "B"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-4"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-60"
+      -
+        protokoll_objektsnummer: 5
+        anmärkning: "Lite färgsläpp ,murket i takskivor, murket i takskivor, revor"
+        felklassning: "B"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-5"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-60"
+      -
+        protokoll_objektsnummer: 6
+        anmärkning: "Sargen delar sig synliga skruvar"
+        felklassning: "B"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-6"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-60"
+      -
+        protokoll_objektsnummer: 7
+        anmärkning: "OK"
+        felklassning: "OK"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-7"
+        åtgärdsstatus: "Ej tillämpligt"
+        objekt: "LEK-60-GUNGA-001"
+        lekplats: "LP-60-GUNGOR"
+      -
+        protokoll_objektsnummer: 8
+        anmärkning: "Saknas"
+        felklassning: "C"
+        källsida: 7
+        id: "B-LEK-2020-60-ANM-8"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-60"
+    källor:
+      - "K-LEKARKIV-D035"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    källsidor_huvudprotokoll:
+      - 7
+    utförare: null
+    klassningssystem: "A/B/C enligt protokollets förklaring."
+    källavvikelse: "Bildbilagor innehåller avvikande malltexter och positionshänvisningar; huvudprotokollens uppgifter hålls isär från bilagetexterna. Bilaga till protokoll 1 har föreningsnamnet BRF Toftängen."
+    åtgärd: "A-LEK-2020-60"
+  -
+    id: "B-LEK-2020-70"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2020-05-28"
+    protokoll_utfärdat: null
+    lekplatser:
+      - "LP-70"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D035"
+        arkivsökväg: "Lekplatsbesiktning/2020/Protokoll 2020.pdf"
+        sha256: "47b20fc45794b57b5a7b3e727386263b45a8a7f1b9cdefba4e8e68c6369eb4a8"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn: "Sandlåda"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 2
+        namn: "Snurrkarusell"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 3
+        namn: "Sandunderlag"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+      -
+        protokoll_objektsnummer: 4
+        namn: "Informationstavla"
+        objekt: null
+        kopplingsstatus: "Redskapstyp och lekplats; fysisk kontinuitet över alla år inte verifierad."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: 1
+        anmärkning: "Utstickande bultar, låg sandnivå"
+        felklassning: "B"
+        källsida: 15
+        id: "B-LEK-2020-70-ANM-1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-70"
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "Lite rostangrepp"
+        felklassning: "C"
+        källsida: 15
+        id: "B-LEK-2020-70-ANM-2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-70"
+      -
+        protokoll_objektsnummer: 3
+        anmärkning: "Låg sandniva , bör va EU-sand stril 50 inte stenmjöl"
+        felklassning: "B"
+        källsida: 15
+        id: "B-LEK-2020-70-ANM-3"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-70"
+      -
+        protokoll_objektsnummer: 4
+        anmärkning: "Saknas"
+        felklassning: "C"
+        källsida: 15
+        id: "B-LEK-2020-70-ANM-4"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+        lekplats: "LP-70"
+    källor:
+      - "K-LEKARKIV-D035"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    källsidor_huvudprotokoll:
+      - 15
+    utförare: null
+    klassningssystem: "A/B/C enligt protokollets förklaring."
+    källavvikelse: "Bildbilagor innehåller avvikande malltexter och positionshänvisningar; huvudprotokollens uppgifter hålls isär från bilagetexterna. Bilaga till protokoll 1 har föreningsnamnet BRF Toftängen."
+    åtgärd: "A-LEK-2020-70"

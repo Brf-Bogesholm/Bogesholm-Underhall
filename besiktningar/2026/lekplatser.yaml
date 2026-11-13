@@ -17,6 +17,7 @@ besiktningar:
       arkiv: "SharePoint"
       arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsv 53, Kävlinge.pdf"
       arkivlänk: null
+      sha256: "3789f19e80f91553268a9fdd91141b42ba122ce4955906229465fbc1b4090ed5"
     objekt:
       -
         protokoll_objektsnummer: 1
@@ -25,6 +26,7 @@ besiktningar:
         fabrikat: "Hags"
         modell: "8049488-1"
         tillverkningsår: 2025
+        lekplats: "LP-50"
       -
         protokoll_objektsnummer: 2
         objekt: "LEK-50-HINDERBANA-001"
@@ -32,6 +34,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-50"
       -
         protokoll_objektsnummer: 3
         objekt: "LEK-50-SANDLADA-001"
@@ -39,6 +42,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-50"
     anmärkningar:
       -
         id: "B-2026-53-ANM-1"
@@ -47,6 +51,7 @@ besiktningar:
         felklassning: "IFI"
         standardhänvisning: null
         åtgärdsstatus: "Ej tillämpligt"
+        lekplats: "LP-50"
       -
         id: "B-2026-53-ANM-2"
         objekt: "LEK-50-HINDERBANA-001"
@@ -54,6 +59,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-50"
       -
         id: "B-2026-53-ANM-3"
         objekt: "LEK-50-HINDERBANA-001"
@@ -61,6 +67,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:4.2.11"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-50"
       -
         id: "B-2026-53-ANM-4"
         objekt: "LEK-50-SANDLADA-001"
@@ -68,6 +75,7 @@ besiktningar:
         felklassning: "IFI"
         standardhänvisning: null
         åtgärdsstatus: "Ej tillämpligt"
+        lekplats: "LP-50"
     övergripande:
       -
         kontroll: "Hänvisningsskylt"
@@ -84,6 +92,10 @@ besiktningar:
     källor:
       - "K-PROTOKOLL-2026-53"
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKARKIV-D049"
+      - "K-LEKPLATSKOPPLING-20261113"
+    lekplatser:
+      - "LP-50"
   -
     id: "B-2026-63"
     typ: "säkerhetsbesiktning av lekplats"
@@ -101,6 +113,7 @@ besiktningar:
       arkiv: "SharePoint"
       arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsvägen 63, Kävlinge.pdf"
       arkivlänk: null
+      sha256: "77af717dc2b65b9e37a4cec5bd3a23b8fb67a2fdc4fd43e3fad8dfe5e6107254"
     objekt:
       -
         protokoll_objektsnummer: 1
@@ -109,6 +122,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-60"
       -
         protokoll_objektsnummer: 2
         objekt: "LEK-60-VIPPGUNGA-001"
@@ -116,6 +130,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-60"
       -
         protokoll_objektsnummer: 3
         objekt: "LEK-60-VIPPGUNGA-002"
@@ -123,6 +138,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-60"
       -
         protokoll_objektsnummer: 4
         objekt: "LEK-60-KLATTERLEK-001"
@@ -130,6 +146,7 @@ besiktningar:
         fabrikat: "Hags"
         modell: "408084"
         tillverkningsår: 2008
+        lekplats: "LP-60"
       -
         protokoll_objektsnummer: 5
         objekt: "LEK-60-GUNGA-001"
@@ -137,6 +154,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-60-GUNGOR"
     anmärkningar:
       -
         id: "B-2026-63-ANM-1"
@@ -145,6 +163,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-7:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60"
       -
         id: "B-2026-63-ANM-2"
         objekt: "LEK-60-VIPPGUNGA-001"
@@ -152,6 +171,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60"
       -
         id: "B-2026-63-ANM-3"
         objekt: "LEK-60-VIPPGUNGA-002"
@@ -159,15 +179,19 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60"
       -
         id: "B-2026-63-ANM-4"
         objekt: "LEK-60-KLATTERLEK-001"
-        anmärkning: "Kvävningsmått på tak"
+        anmärkning: "Knävringsmått på tak"
         felklassning: 8
         standardhänvisning: "1176-1:4.2.7.2"
         åtgärdsstatus: "Avhjälpande ej verifierat"
         relaterad_åtgärd: "A-2026-2697-1"
         kommentar: "Byte av ena taksidan är dokumenterat. Vilka enskilda anmärkningar som avhjälpts är inte verifierat."
+        lekplats: "LP-60"
+        tidigare_avskrift: "Kvävningsmått på tak"
+        avskriftskommentar: "Återger ordalydelsen i tabellen. Ingen egen rättning av rapportens formulering eller felklassning har gjorts."
       -
         id: "B-2026-63-ANM-5"
         objekt: "LEK-60-KLATTERLEK-001"
@@ -177,6 +201,7 @@ besiktningar:
         åtgärdsstatus: "Avhjälpande ej verifierat"
         relaterad_åtgärd: "A-2026-2697-1"
         kommentar: "Byte av ena taksidan är dokumenterat. Vilka enskilda anmärkningar som avhjälpts är inte verifierat."
+        lekplats: "LP-60"
       -
         id: "B-2026-63-ANM-6"
         objekt: "LEK-60-KLATTERLEK-001"
@@ -186,6 +211,7 @@ besiktningar:
         åtgärdsstatus: "Avhjälpande ej verifierat"
         relaterad_åtgärd: "A-2026-2697-1"
         kommentar: "Byte av ena taksidan är dokumenterat. Vilka enskilda anmärkningar som avhjälpts är inte verifierat."
+        lekplats: "LP-60"
       -
         id: "B-2026-63-ANM-7"
         objekt: "LEK-60-GUNGA-001"
@@ -193,6 +219,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60-GUNGOR"
       -
         id: "B-2026-63-ANM-8"
         objekt: "LEK-60-GUNGA-001"
@@ -200,6 +227,7 @@ besiktningar:
         felklassning: 3
         standardhänvisning: "1176-2:4.2"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60-GUNGOR"
     övergripande:
       -
         kontroll: "Hänvisningsskylt"
@@ -216,6 +244,11 @@ besiktningar:
     källor:
       - "K-PROTOKOLL-2026-63"
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKARKIV-D050"
+      - "K-LEKPLATSKOPPLING-20261113"
+    lekplatser:
+      - "LP-60"
+      - "LP-60-GUNGOR"
   -
     id: "B-2026-77"
     typ: "säkerhetsbesiktning av lekplats"
@@ -233,6 +266,7 @@ besiktningar:
       arkiv: "SharePoint"
       arkivsökväg: "Besiktningsprotokoll/Lekplatsbesiktning/2026/Bogesholm, Högalidsvägen 77, Kävlinge.pdf"
       arkivlänk: null
+      sha256: "2959052bd57377e408049b2c38c1c2b59a1e05af5bb39b5807d401f86125f52f"
     objekt:
       -
         protokoll_objektsnummer: 1
@@ -241,6 +275,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-70"
       -
         protokoll_objektsnummer: 2
         objekt: "LEK-70-LEKHUS-001"
@@ -248,6 +283,7 @@ besiktningar:
         fabrikat: null
         modell: null
         tillverkningsår: null
+        lekplats: "LP-70"
     anmärkningar:
       -
         id: "B-2026-77-ANM-1"
@@ -256,6 +292,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
       -
         id: "B-2026-77-ANM-2"
         objekt: "LEK-70-KARUSELL-001"
@@ -263,6 +300,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-7:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
       -
         id: "B-2026-77-ANM-3"
         objekt: "LEK-70-LEKHUS-001"
@@ -270,6 +308,7 @@ besiktningar:
         felklassning: 0
         standardhänvisning: "1176-1:7.1"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
       -
         id: "B-2026-77-ANM-4"
         objekt: "LEK-70-LEKHUS-001"
@@ -277,6 +316,7 @@ besiktningar:
         felklassning: 2
         standardhänvisning: "1176-1:4.2.5"
         åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
     övergripande:
       -
         kontroll: "Hänvisningsskylt"
@@ -293,3 +333,7 @@ besiktningar:
     källor:
       - "K-PROTOKOLL-2026-77"
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-LEKARKIV-D051"
+      - "K-LEKPLATSKOPPLING-20261113"
+    lekplatser:
+      - "LP-70"

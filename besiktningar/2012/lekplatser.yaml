@@ -1,0 +1,381 @@
+version: "1.0"
+besiktningar:
+  -
+    id: "B-LEK-2012-ALLA"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2012-06-07"
+    protokoll_utfärdat: "2012-06-17"
+    lekplatser:
+      - "LP-50"
+      - "LP-60"
+      - "LP-60-GUNGOR"
+      - "LP-70"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D028"
+        arkivsökväg: "Lekplatsbesiktning/2012/Brf Bogesholm protokoll Wallinolek.pdf"
+        sha256: "bbd687dde40a34f9a86d524625ce29d7876715300a903945b9ceac10724684fd"
+        arkiv: "SharePoint"
+        arkivlänk: null
+      -
+        källa: "K-LEKARKIV-D029"
+        arkivsökväg: "Lekplatsbesiktning/2012/Brf Bogesholm protokoll Wallinolek.xls"
+        sha256: "4451be7cf0ece09ad85054954dda72224b3d3b500c8fdcac76e82f0adf37fc29"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn: "Baksandlåda"
+        fabrikat: null
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 2
+        namn: "Vippgunga"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 3
+        namn: "Dansslinga"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 4
+        namn: "Vippgunga, Turtle"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 5
+        namn: "Vippgunga, Nyckelpiga"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 6
+        namn: "Baksandlåda"
+        fabrikat: null
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 7
+        namn: "Klätterställning, Praha"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: "408084/ 2008"
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 8
+        namn: "Gungställning, 3-pl"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 9
+        namn: "Gungsitsar, 2st enkeldäck samt 1st babysits"
+        fabrikat: null
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 10
+        namn: "Inspringningsskydd"
+        fabrikat: null
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 11
+        namn: "Karusell"
+        fabrikat: "HBH"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 12
+        namn: "Baksandlåda"
+        fabrikat: null
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+      -
+        protokoll_objektsnummer: 13
+        namn: "Bakbord"
+        fabrikat: "Hags"
+        modell_och_år_enligt_källa: null
+        objekt: null
+        kopplingsstatus: "Historisk lokal position; fysisk identitet och exakt platskoppling är inte verifierade per redskap."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: "G"
+        anmärkning: "Drift- och Underhållsplan ej redovisad"
+        felklassning: "C"
+        källcell: "B33"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: "G"
+        anmärkning: "Flertal felaktiga huvudmått i veranda"
+        felklassning: "A"
+        källcell: "B34"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 1
+        anmärkning: "Delar av ovansidan släpper"
+        felklassning: "Ö"
+        källcell: "B35"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-3"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "Typskylt saknas"
+        felklassning: "C"
+        källcell: "B36"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-4"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "Mottagardäcken spruckna"
+        felklassning: "Ö"
+        källcell: "B37"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-5"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "Behöver oljas"
+        felklassning: "Ö"
+        källcell: "B38"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-6"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 2
+        anmärkning: "Infästningen lös vid mottagardäcken"
+        felklassning: "Ö"
+        källcell: "B39"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-7"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 3
+        anmärkning: "Typskyltar saknas på alla delar."
+        felklassning: "C"
+        källcell: "B40"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-8"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 4
+        anmärkning: "Typskylt saknas"
+        felklassning: "C"
+        källcell: "B41"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-9"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 4
+        anmärkning: "Sargen runt om lös pos 4 och pos 5"
+        felklassning: "Ö"
+        källcell: "B42"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-10"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 5
+        anmärkning: "Typskylt saknas"
+        felklassning: "C"
+        källcell: "B43"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-11"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 7
+        anmärkning: "Ett par av klätterstagen behöver spännas"
+        felklassning: "Ö"
+        källcell: "B44"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-12"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 7
+        anmärkning: "En del täckhattar saknas"
+        felklassning: "Ö"
+        källcell: "B45"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-13"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 7
+        anmärkning: "Bult saknas vid startdel rutschbanan"
+        felklassning: "Ö"
+        källcell: "B46"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-14"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 8
+        anmärkning: "Typskylt saknas"
+        felklassning: "C"
+        källcell: "B47"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-15"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 8
+        anmärkning: "Träck i fallunderlaget"
+        felklassning: "Ö"
+        källcell: "B48"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-16"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 9
+        anmärkning: "Bägge enkeldäcken hänger för lågt"
+        felklassning: "B"
+        källcell: "B49"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-17"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 9
+        anmärkning: "Bägge enkeldäcken spruckna"
+        felklassning: "Ö"
+        källcell: "B50"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-18"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 9
+        anmärkning: "Kättingarna ej avkapade"
+        felklassning: "C"
+        källcell: "B51"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-19"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 10
+        anmärkning: "Flera stolpar lösa"
+        felklassning: "Ö"
+        källcell: "B52"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-20"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 11
+        anmärkning: "Flertal rostiga delar"
+        felklassning: "Ö"
+        källcell: "B53"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-21"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 11
+        anmärkning: "Typskylt saknas"
+        felklassning: "C"
+        källcell: "B54"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-22"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 11
+        anmärkning: "Behöver tvättas"
+        felklassning: "Ö"
+        källcell: "B55"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-23"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 11
+        anmärkning: "Golvet behöver spännas"
+        felklassning: "Ö"
+        källcell: "B56"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-24"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 11
+        anmärkning: "Marken runt om behöver återställas"
+        felklassning: "B"
+        källcell: "B57"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-25"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 11
+        anmärkning: "En del täckhattar saknas"
+        felklassning: "Ö"
+        källcell: "B58"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-26"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 12
+        anmärkning: "Ovanliggaren spricker"
+        felklassning: "Ö"
+        källcell: "B59"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-27"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+      -
+        protokoll_objektsnummer: 13
+        anmärkning: "Typskylt saknas"
+        felklassning: "C"
+        källcell: "B60"
+        blad: "Blad1"
+        id: "B-LEK-2012-ALLA-ANM-28"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        objekt: null
+    källor:
+      - "K-LEKARKIV-D028"
+      - "K-LEKARKIV-D029"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    utförare: "wallinolek"
+    klassningssystem: "Källans A/B/C/Ö; ingen omräkning till 2026 års riskmatris."
+    kommentar: "Ett samlat protokoll för området. Lokala positioner är inte globala objekt-ID:n. Veranda-anmärkningens exakta placering är inte fastställd."
+    åtgärd: "A-LEK-2012-ALLA"

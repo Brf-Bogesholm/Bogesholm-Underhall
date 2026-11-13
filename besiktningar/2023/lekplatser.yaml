@@ -1,0 +1,323 @@
+version: "1.0"
+besiktningar:
+  -
+    id: "B-LEK-2023-50"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2023-03-29"
+    protokoll_utfärdat: "2023-03-30"
+    lekplatser:
+      - "LP-50"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D043"
+        arkivsökväg: "Lekplatsbesiktning/2023/2023-Bogesholm, Högalidsvägen 53, Kävlinge.pdf"
+        sha256: "745a593dd6a4ee55a5bb3244de92b7996de5ef96f5b97eb9fdc7539e0030002b"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn_enligt_protokoll: "Sandlåda med formbar sand"
+        objekt: "LEK-50-SANDLADA-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+      -
+        protokoll_objektsnummer: 2
+        namn_enligt_protokoll: "Balansredskap"
+        objekt: "LEK-50-HINDERBANA-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+      -
+        protokoll_objektsnummer: 3
+        namn_enligt_protokoll: "Vippgunga typ 1 Hags 8042517 2016"
+        objekt: "LEK-50-VIPPGUNGA-2016"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-50-SANDLADA-001"
+        anmärkning: "Sarg rötskadad"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:4.1.3"
+        källsida: 3
+        id: "B-LEK-2023-50-ANM-1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-50"
+        text_utläst: "1 Sandlåda Sarg rötskadad 1176-1:4.1.3 C-fel 4"
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-50-HINDERBANA-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:7.1"
+        källsida: 3
+        id: "B-LEK-2023-50-ANM-2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-50"
+        text_utläst: "2 Balansredskap Typskylt saknas 1176-1:7.1 C-fel"
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-50-HINDERBANA-001"
+        anmärkning: "Huvar på hoppkubbar trasiga"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:4.2.11"
+        källsida: 3
+        id: "B-LEK-2023-50-ANM-3"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-50"
+        text_utläst: "2 Balansredskap Huvar på hoppkubbar 1176-1:4.2.11 C-fel 5 trasiga"
+      -
+        protokoll_objektsnummer: 3
+        objekt: "LEK-50-VIPPGUNGA-2016"
+        anmärkning: "Lös i infästning mot stolpe"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-7:7.1"
+        källsida: 3
+        id: "B-LEK-2023-50-ANM-4"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-50"
+        text_utläst: "3 Vippgunga Lös i infästning mot 1176-7:7.1 C.fel 6 stolpe"
+    källor:
+      - "K-LEKARKIV-D043"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    utförare: "Din Utemiljö i Skåne AB"
+    övergripande_original: "Anmärkning: Enligt\nstandard\nRutiner för drift- & underhåll Saknas\n1176-7:8.2.6/\n8.2.7\nAnvisningar från Saknas 1176-7:8.1.1/\nlekredskapstillverkare 8.2.9\nRutiner för åtgärd vid olycka/ Saknas 1176-7:8.2.4\nincident\nRutiner för dokumentation Saknas 1176-7:8.2.2\nHänvisningsskylt Ja 1176-7:8.2.3\nBrunnar inom området Inga olåsta brunnar utan fallskydd\nidentifierade i anslutning till lekplats"
+    övergripande_felklassningar_enligt_text:
+      []
+    klassningssystem: "A/B/C/Ö och IFI enligt respektive rapport. Ingen omräkning till numerisk riskklass."
+    kommentar: "Övergripande anmärkningar om rutiner, brunnar och skyltning bevaras separat. Nyare rapporters frånvaro av en notering bevisar inte att en äldre anmärkning avhjälpts."
+    åtgärd: "A-LEK-2023-50"
+    övergripande_åtgärdsstatus: "Avhjälpande ej verifierat; uppgifter avser besiktningsdatum, inte en ny bedömning av dagens rutiner eller skick."
+  -
+    id: "B-LEK-2023-60"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2023-03-29"
+    protokoll_utfärdat: "2023-03-30"
+    lekplatser:
+      - "LP-60"
+      - "LP-60-GUNGOR"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D044"
+        arkivsökväg: "Lekplatsbesiktning/2023/2023-Bogesholm, Högalidsvägen 63, Kävlinge.pdf"
+        sha256: "654b626a52f206ebac09a6fb49942d1eafd481159586953f70543734fb9e1a94"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn_enligt_protokoll: "Gunga typ 1, 2+1pl"
+        objekt: "LEK-60-GUNGA-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+      -
+        protokoll_objektsnummer: 2
+        namn_enligt_protokoll: "Klätterlek med rutsch Hags 408084 2008"
+        objekt: "LEK-60-KLATTERLEK-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+      -
+        protokoll_objektsnummer: 3
+        namn_enligt_protokoll: "Sandlåda med formbar sand"
+        objekt: "LEK-60-SANDLADA-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+      -
+        protokoll_objektsnummer: 4
+        namn_enligt_protokoll: "Vippgunga typ 2b"
+        objekt: null
+        kopplingskommentar: "Vippgungorna på 60-gården kan inte särskiljas säkert enbart från växlande positionsnummer."
+      -
+        protokoll_objektsnummer: 5
+        namn_enligt_protokoll: "Vippgunga typ 2b"
+        objekt: null
+        kopplingskommentar: "Vippgungorna på 60-gården kan inte särskiljas säkert enbart från växlande positionsnummer."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-60-GUNGA-001"
+        anmärkning: "Fallskyddsmaterial kompakterat"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:4.2.8.5.2"
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60-GUNGOR"
+        text_utläst: "1 Gunga Fallskyddsmaterial 1176-1:4.2.8.5.2 C-fel kompakterat"
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-60-GUNGA-001"
+        anmärkning: "Fundament för grunt under mark, som minst cirka 10 cm under marknivå"
+        felklassning: "B-fel"
+        standardhänvisningar:
+          - "1176-1:4.2.14"
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60-GUNGOR"
+        text_utläst: "1 Gunga Fundament för grunt 1176-1:4.2.14 B-fel under mark, som minst ca 10cm under marknivå"
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-60-GUNGA-001"
+        anmärkning: "Ställning för högt monterad"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-7:5.2"
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-3"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60-GUNGOR"
+        text_utläst: "1 Gunga Ställning för högt 1176-7:5.2 C-fel monterad"
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-60-KLATTERLEK-001"
+        anmärkning: "Inga fel identifierade"
+        felklassning: "IFI"
+        standardhänvisningar:
+          []
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-4"
+        åtgärdsstatus: "Ej tillämpligt"
+        lekplats: "LP-60"
+        text_utläst: "2 Klätterlek IFI"
+      -
+        protokoll_objektsnummer: 3
+        objekt: "LEK-60-SANDLADA-001"
+        anmärkning: "Inga fel identifierade"
+        felklassning: "IFI"
+        standardhänvisningar:
+          []
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-5"
+        åtgärdsstatus: "Ej tillämpligt"
+        lekplats: "LP-60"
+        text_utläst: "3 Sandlåda IFI"
+      -
+        protokoll_objektsnummer: 4
+        objekt: null
+        anmärkning: "Typskylt saknas"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:7.1"
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-6"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60"
+        text_utläst: "4 Vippgunga Typskylt saknas 1176-1:7.1 C-fel"
+      -
+        protokoll_objektsnummer: 5
+        objekt: null
+        anmärkning: "Typskylt saknas"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:7.1"
+        källsida: 4
+        id: "B-LEK-2023-60-ANM-7"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-60"
+        text_utläst: "5 Vippgunga Typskylt saknas 1176-1:7.1 C-fel"
+    källor:
+      - "K-LEKARKIV-D044"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    utförare: "Din Utemiljö i Skåne AB"
+    övergripande_original: "Anmärkning: Enligt\nstandard\nRutiner för drift- & underhåll Saknas\n1176-7:8.2.6/\n8.2.7\nAnvisningar från Saknas 1176-7:8.1.1/\nlekredskapstillverkare 8.2.9\nRutiner för åtgärd vid olycka/ Saknas 1176-7:8.2.4\nincident\nRutiner för dokumentation Saknas 1176-7:8.2.2\nHänvisningsskylt Saknas 1176-7:8.2.3\nBrunnar inom området Inga olåsta brunnar utan fallskydd\nidentifierade i anslutning till lekplats"
+    övergripande_felklassningar_enligt_text:
+      []
+    klassningssystem: "A/B/C/Ö och IFI enligt respektive rapport. Ingen omräkning till numerisk riskklass."
+    kommentar: "Övergripande anmärkningar om rutiner, brunnar och skyltning bevaras separat. Nyare rapporters frånvaro av en notering bevisar inte att en äldre anmärkning avhjälpts."
+    åtgärd: "A-LEK-2023-60"
+    övergripande_åtgärdsstatus: "Avhjälpande ej verifierat; uppgifter avser besiktningsdatum, inte en ny bedömning av dagens rutiner eller skick."
+  -
+    id: "B-LEK-2023-70"
+    typ: "säkerhetsbesiktning av lekplats"
+    besiktningsdatum: "2023-03-29"
+    protokoll_utfärdat: "2023-03-30"
+    lekplatser:
+      - "LP-70"
+    dokument:
+      -
+        källa: "K-LEKARKIV-D045"
+        arkivsökväg: "Lekplatsbesiktning/2023/2023-Bogesholm, Högalidsvägen 77, Kävlinge.pdf"
+        sha256: "1d190b34b054c7099c547281706ac6c875688e12a0b8373e555496426b1fb583"
+        arkiv: "SharePoint"
+        arkivlänk: null
+    objekt:
+      -
+        protokoll_objektsnummer: 1
+        namn_enligt_protokoll: "Karusell typ B"
+        objekt: "LEK-70-KARUSELL-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+      -
+        protokoll_objektsnummer: 2
+        namn_enligt_protokoll: "Lekhus"
+        objekt: "LEK-70-LEKHUS-001"
+        kopplingskommentar: "Position och redskapstyp enligt detta protokoll; fysisk kontinuitet över alla år är inte verifierad."
+    anmärkningar:
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-70-KARUSELL-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:7.1"
+        källsida: 3
+        id: "B-LEK-2023-70-ANM-1"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
+        text_utläst: "1 Karusell Typskylt saknas 1176-1:7.1 C-fel"
+      -
+        protokoll_objektsnummer: 1
+        objekt: "LEK-70-KARUSELL-001"
+        anmärkning: "Lös i infästningen mot fundament"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-7:7.1"
+        källsida: 3
+        id: "B-LEK-2023-70-ANM-2"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
+        text_utläst: "1 Karusell Lös i infästningen mot 1176-7:7.1 C-fel fundament"
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-70-LEKHUS-001"
+        anmärkning: "Typskylt saknas"
+        felklassning: "C-fel"
+        standardhänvisningar:
+          - "1176-1:7.1"
+        källsida: 3
+        id: "B-LEK-2023-70-ANM-3"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
+        text_utläst: "2 Lekhus Typskylt saknas 1176-1:7.1 C-fel"
+      -
+        protokoll_objektsnummer: 2
+        objekt: "LEK-70-LEKHUS-001"
+        anmärkning: "Pappen på tak har släppt"
+        felklassning: "Ö"
+        standardhänvisningar:
+          []
+        källsida: 3
+        id: "B-LEK-2023-70-ANM-4"
+        åtgärdsstatus: "Avhjälpande ej verifierat"
+        lekplats: "LP-70"
+        text_utläst: "2 Lekhus Pappen på tak har släppt Ö 3"
+    källor:
+      - "K-LEKARKIV-D045"
+      - "K-LEKPLATSKOPPLING-20261113"
+    faktura: null
+    kostnad: null
+    kostnadskommentar: "Besiktningsunderlag, ingen ny kostnad eller faktura registrerad."
+    utförare: "Din Utemiljö i Skåne AB"
+    övergripande_original: "Anmärkning: Enligt\nstandard\nRutiner för drift- & underhåll Saknas\n1176-7:8.2.6/\n8.2.7\nAnvisningar från Saknas 1176-7:8.1.1/\nlekredskapstillverkare 8.2.9\nRutiner för åtgärd vid olycka/ Saknas 1176-7:8.2.4\nincident\nRutiner för dokumentation Saknas 1176-7:8.2.2\nHänvisningsskylt Ja 1176-7:8.2.3\nBrunnar inom området Inga olåsta brunnar utan fallskydd\nidentifierade i anslutning till lekplats"
+    övergripande_felklassningar_enligt_text:
+      []
+    klassningssystem: "A/B/C/Ö och IFI enligt respektive rapport. Ingen omräkning till numerisk riskklass."
+    kommentar: "Övergripande anmärkningar om rutiner, brunnar och skyltning bevaras separat. Nyare rapporters frånvaro av en notering bevisar inte att en äldre anmärkning avhjälpts."
+    åtgärd: "A-LEK-2023-70"
+    övergripande_åtgärdsstatus: "Avhjälpande ej verifierat; uppgifter avser besiktningsdatum, inte en ny bedömning av dagens rutiner eller skick."

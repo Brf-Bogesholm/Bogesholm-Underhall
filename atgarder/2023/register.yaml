@@ -54,3 +54,43 @@ version: "1.0"
       - "K-GASPANNOR-D032"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
     kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-LEK-2023-50"
+    datum: "2023-03-29"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-50"
+    besiktning: "B-LEK-2023-50"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D043"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-LEK-2023-60"
+    datum: "2023-03-29"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-60"
+      - "LP-60-GUNGOR"
+    besiktning: "B-LEK-2023-60"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D044"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-LEK-2023-70"
+    datum: "2023-03-29"
+    åtgärd: "Säkerhetsbesiktning av lekplats/lekredskap"
+    objekt:
+      - "LP-70"
+    besiktning: "B-LEK-2023-70"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LEKARKIV-D045"
+      - "K-LEKPLATSKOPPLING-20261113"
+    kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
