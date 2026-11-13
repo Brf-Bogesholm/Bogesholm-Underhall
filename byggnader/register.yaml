@@ -11,6 +11,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-53
     typ: byggnad
     namn: Hus 53
@@ -20,6 +21,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-55
     typ: byggnad
     namn: Hus 55
@@ -29,6 +31,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-57
     typ: byggnad
     namn: Hus 57
@@ -38,6 +41,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-59
     typ: byggnad
     namn: Hus 59
@@ -47,6 +51,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-61
     typ: byggnad
     namn: Hus 61
@@ -56,6 +61,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-63
     typ: byggnad
     namn: Hus 63
@@ -65,6 +71,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-65
     typ: byggnad
     namn: Hus 65
@@ -74,6 +81,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-67
     typ: byggnad
     namn: Hus 67
@@ -83,6 +91,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-69
     typ: byggnad
     namn: Hus 69
@@ -101,6 +110,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-73
     typ: byggnad
     namn: Hus 73
@@ -110,6 +120,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-75
     typ: byggnad
     namn: Hus 75
@@ -119,6 +130,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-77
     typ: byggnad
     namn: Hus 77
@@ -128,6 +140,7 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"
   - id: H-79
     typ: byggnad
     namn: Hus 79
@@ -137,3 +150,4 @@ byggnader:
     takbesiktningar:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
+      - "B-TAKSAKERHET-20250829"

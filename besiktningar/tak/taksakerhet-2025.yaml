@@ -1,0 +1,245 @@
+id: "B-TAKSAKERHET-20250829"
+typ: "Femårig garantibesiktning av taksäkerhet"
+datum: "2025-08-29"
+rapportdatum: "2025-08-29"
+adressomfattning_enligt_protokoll: "Högalidsvägen 51–79, Kävlinge"
+objekt:
+  - "H-51"
+  - "H-53"
+  - "H-55"
+  - "H-57"
+  - "H-59"
+  - "H-61"
+  - "H-63"
+  - "H-65"
+  - "H-67"
+  - "H-71"
+  - "H-73"
+  - "H-75"
+  - "H-77"
+  - "H-79"
+utförare: "Malmö Proj AB (Projab)"
+entreprenör: "Lomma Tak AB"
+beställare: "Brf Bogesholm"
+metod: "Från marken med stickprov på några tak."
+dokument:
+  källa: "K-TAKSAKERHET-20261113"
+  arkivsökväg: "Taksäkerhet/2025/20250829 Garantibesiktning.pdf"
+  sha256: "def5749dd74011d801a0c9c6f19df709e55016971b266290e22a252857d09cb6"
+  sidor: 5
+källor:
+  - "K-TAKSAKERHET-20261113"
+  - "K-TAKSAKERHET-GODKANNANDE-20261113"
+entreprenadbakgrund:
+  offertdatum: "2020-01-21"
+  offertbenämning: "2020 Kävlinge Högalidsvägen 69"
+  slutbesiktning_enligt_hänvisning: "2020-09-07"
+  entreprenadens_godkännandedatum_enligt_rapport: "2020-09-07"
+  underlag_enligt_rapport:
+    - "Slutbesiktningsprotokoll"
+  kommentar: "Hänvisad slutbesiktning har inte tillhandahållits som separat dokument. Datumet används inte som exakt installationsdatum eller som nytt godkännande 2025."
+klassförklaringar:
+  E: "Besiktningsmannen anser entreprenören ansvarig för ett fel där ett fel anges. E-märkta rader med texten Utan anmärkning är resultatnoteringar och inte registrerade fel."
+  B: "Besiktningsmannen anser inte entreprenören ansvarig; avhjälpande efter särskild beställning."
+hus:
+  -
+    objekt: "H-51"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.1"
+        originaltext: "Utan anmärkning"
+        källsida: 3
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+  -
+    objekt: "H-53"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.2"
+        originaltext: "Utan anmärkning"
+        källsida: 3
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+      -
+        punkt: "B.3"
+        originaltext: "3st takpannor trasiga"
+        källsida: 3
+        typ: "Trasiga takpannor"
+        antal: 3
+        klass: "B"
+        ansvarsbedömning: "Besiktningsmannen anser inte entreprenören ansvarig; avhjälpande efter särskild beställning enligt protokollets klassförklaring."
+        avhjälpandets_status: "Okänd"
+        avhjälpandedatum: null
+  -
+    objekt: "H-55"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.4"
+        originaltext: "Utan anmärkning"
+        källsida: 3
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+      -
+        punkt: "B.5"
+        originaltext: "7st takpannor trasiga"
+        källsida: 3
+        typ: "Trasiga takpannor"
+        antal: 7
+        klass: "B"
+        ansvarsbedömning: "Besiktningsmannen anser inte entreprenören ansvarig; avhjälpande efter särskild beställning enligt protokollets klassförklaring."
+        avhjälpandets_status: "Okänd"
+        avhjälpandedatum: null
+  -
+    objekt: "H-57"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.6"
+        originaltext: "Utan anmärkning"
+        källsida: 3
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+  -
+    objekt: "H-59"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.7"
+        originaltext: "Utan anmärkning"
+        källsida: 3
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+  -
+    objekt: "H-61"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.8"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+      -
+        punkt: "E.9"
+        originaltext: "Inga trasiga takpannor"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Inga trasiga takpannor"
+  -
+    objekt: "H-63"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.10"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+  -
+    objekt: "H-65"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.11"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+      -
+        punkt: "B.12"
+        originaltext: "1st takpanna trasig"
+        källsida: 4
+        typ: "Trasiga takpannor"
+        antal: 1
+        klass: "B"
+        ansvarsbedömning: "Besiktningsmannen anser inte entreprenören ansvarig; avhjälpande efter särskild beställning enligt protokollets klassförklaring."
+        avhjälpandets_status: "Okänd"
+        avhjälpandedatum: null
+  -
+    objekt: "H-67"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.13"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+  -
+    objekt: "H-71"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.14"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+  -
+    objekt: "H-73"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.15"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+      -
+        punkt: "E.16"
+        originaltext: "Inga trasiga takpannor"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Inga trasiga takpannor"
+  -
+    objekt: "H-75"
+    taksäkerhetsresultat: "Utan anmärkning"
+    noteringar:
+      -
+        punkt: "E.17"
+        originaltext: "Utan anmärkning"
+        källsida: 4
+        typ: "Resultatnotering"
+        resultat: "Utan anmärkning"
+      -
+        punkt: "B.18"
+        originaltext: "2 st takpannor trasiga"
+        källsida: 5
+        typ: "Trasiga takpannor"
+        antal: 2
+        klass: "B"
+        ansvarsbedömning: "Besiktningsmannen anser inte entreprenören ansvarig; avhjälpande efter särskild beställning enligt protokollets klassförklaring."
+        avhjälpandets_status: "Okänd"
+        avhjälpandedatum: null
+  -
+    objekt: "H-77"
+    taksäkerhetsresultat: "Resultat saknas i protokollet"
+    noteringar:
+      -
+        punkt: "E.19"
+        originaltext: null
+        källsida: 5
+        typ: "Resultatnotering"
+        resultat: "Resultat saknas i protokollet"
+  -
+    objekt: "H-79"
+    taksäkerhetsresultat: "Resultat saknas i protokollet"
+    noteringar:
+      -
+        punkt: "E.20"
+        originaltext: null
+        källsida: 5
+        typ: "Resultatnotering"
+        resultat: "Resultat saknas i protokollet"
+summa_trasiga_takpannor: 13
+senare_avhjälpandets_status: "Okänd"
+källavvikelser:
+  - "Rubriken Fasadrenovering förekommer, men besiktningens uttryckliga omfattning är taksäkerhet."
+  - "Hus 77 och 79 har punktnummer men tomma textfält; inget godkänt resultat antas."
+  - "Avsnitt 24 anger Inga fel trots B-noteringarna om trasiga takpannor. B-noteringarna bevaras; ingen åtgärdsfrist eller slutförd reparation härleds."
+kostnad: null
+kostnadskommentar: "Beställaren ska betala besiktningsmannen enligt rapporten, men belopp anges inte. Ingen kostnad tillagd."
+åtgärd: "A-TAKSAKERHET-20250829"

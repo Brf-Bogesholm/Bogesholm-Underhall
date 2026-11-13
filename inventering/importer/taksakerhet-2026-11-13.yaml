@@ -1,0 +1,26 @@
+id: "IMPORT-TAKSAKERHET-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-TAKSAKERHET-20261113"
+    typ: "Garantibesiktningsprotokoll i Taksäkerhet.zip"
+    arkivsökväg: "Taksäkerhet/2025/20250829 Garantibesiktning.pdf"
+    sha256: "def5749dd74011d801a0c9c6f19df709e55016971b266290e22a252857d09cb6"
+  -
+    id: "K-TAKSAKERHET-GODKANNANDE-20261113"
+    typ: "Beställarens anvisning och godkännande"
+    uppgifter:
+      - "Koppla till respektive hus."
+      - "Sammanställningen med 13 trasiga takpannor och saknat resultat för hus 77 och 79 godkänd."
+kontroll:
+  besiktningar: 1
+  hus: 14
+  punkter: 20
+  trasiga_takpannor: 13
+  hus_med_B_anmärkningar: 4
+  hus_med_tomma_resultat: 2
+avgränsningar:
+  - "Inga personnamn, kontaktuppgifter eller original publicerade."
+  - "Inga kostnader tillagda."
+  - "2020 års slutbesiktning är endast refererad och registreras inte som separat importerad besiktning."
+  - "Inga historiska anmärkningar från andra besiktningar stängs automatiskt."
