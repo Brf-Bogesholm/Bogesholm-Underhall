@@ -132,3 +132,30 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-04"
       - "K-KOMPLETTERING-2026-10-23-04"
+  -
+    id: "UT-SKYLT-TOALETT-LOKAL-001"
+    typ: "skylt"
+    namn: "Taktil toalettskylt Toalett RWC, föreningslokalen"
+    datastatus: "verifierad"
+    placering: "Avsedd för toalettdörren i föreningslokalen, Högalidsvägen 69"
+    egenskaper:
+      artikelnummer: "jcgt637.2"
+      benämning: "Taktilt Piktogram med text Toalett RWC"
+      antal: 1
+      inköpsdatum: "2026-11-12"
+      inköpsdatumkälla: "Fakturadatum"
+      inköpsfaktura: "F-2026-57551"
+      fakturarad: "F-2026-57551-R1"
+      leveransdatum_enligt_faktura: "2026-11-16"
+      installationsdatum: null
+      garanti: null
+      kommentar: "Avsedd placering bekräftad av beställaren. Montering och faktisk leverans är inte bekräftade."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-57551-1"
+    källor:
+      - "K-FAKTURA-57551"
+      - "K-KOMPLETTERING-57551-20261113"

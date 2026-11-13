@@ -7,6 +7,7 @@ registreringsomgångar:
   - "2026-10-23-05"
   - "2026-10-27-06"
   - "2026-11-13-07"
+  - "2026-11-13-08"
 fakturor:
   -
     id: "F-2026-7150"
@@ -2081,3 +2082,53 @@ fakturor:
     tjänstkälla: "K-KOMPLETTERING-2026-11-13-07"
     abonnemang: "AB-CAIFLOW-SILVER-001"
     kommentar: "Tre identiska fakturarader bevaras. Fördelningen av raderna på månader och kopplingen till individuella laddare är inte bekräftade. Fakturan är en tjänstekostnad, inte ett inköp av 48 laddare."
+  -
+    id: "F-2026-57551"
+    fakturanummer: "57551"
+    ocr: "5755178"
+    leverantör: "JC Kontakter AB / JC Gravyr & Tryck AB"
+    organisationsnummer: "556669-2249"
+    fakturadatum: "2026-11-12"
+    förfallodatum: "2026-12-11"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 381
+    moms: 95.25
+    öresavrundning: 0
+    att_betala: 476.25
+    leveransdatum: "2026-11-16"
+    leveransdatumkommentar: "Datum enligt fakturan; faktisk leverans är inte bekräftad."
+    leveransadress: "Högalidsvägen 69, 244 36 Kävlinge"
+    ordernummer: "57160"
+    kundens_ordernummer: "107535"
+    dokument:
+      filnamn: "Faktura_57551.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTURA-57551"
+      - "K-KOMPLETTERING-57551-20261113"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-57551-R1"
+        artikelnummer: "jcgt637.2"
+        benämning: "Taktilt Piktogram med text Toalett RWC"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 345
+        belopp_exklusive_moms: 345
+      -
+        id: "F-2026-57551-R2"
+        artikelnummer: "97"
+        benämning: "Postnord. 3-5 arbetsdagar"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 36
+        belopp_exklusive_moms: 36
+    tillgångar:
+      - "UT-SKYLT-TOALETT-LOKAL-001"
+    åtgärder:
+      - "A-2026-57551-1"
+    kommentar: "Inköp av skylt till toalettdörren i föreningslokalen enligt beställaren. Monteringsdatum är okänt."

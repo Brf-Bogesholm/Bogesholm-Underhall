@@ -1,0 +1,23 @@
+id: "IMPORT-2026-11-13-08"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-FAKTURA-57551"
+    typ: "faktura"
+    filnamn: "Faktura_57551.pdf"
+    sha256: "8325e7c13a69d8b0b651e8af30c6450a7fef776b2ddddd82b562fffcc7b64ef5"
+  -
+    id: "K-KOMPLETTERING-57551-20261113"
+    typ: "beställaruppgifter"
+    uppgifter:
+      - "Skylten är avsedd för toalettdörren i föreningslokalen, Högalidsvägen 69."
+      - "Beställaren har godkänt extraktionen, inklusive kostnad och angivet leveransdatum. Monteringsdatum lämnas okänt."
+kontroll:
+  antal_fakturor: 1
+  antal_tillgångar: 1
+  antal_inköpshändelser: 1
+  att_betala: 476.25
+  valuta: "SEK"
+öppna_uppgifter:
+  - "Faktisk leverans och monteringsdatum är inte bekräftade."
+  - "Garantiuppgift och beständig SharePoint-länk saknas. Betalningsstatus och arkivering är inte verifierade."

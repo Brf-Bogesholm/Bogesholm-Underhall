@@ -79,3 +79,7 @@ Net Consultings fakturadatum är **2026-11-05**, bekräftat av beställaren efte
 Alex-fakturan kopplas till kontorets termostat och det befintliga lilla expansionskärlet till Spirotech S400. Arbete och servicebil är gemensamma för de två åtgärderna; de har inte kostnadsfördelats. Själva avgasaren får ingen antagen servicehändelse.
 
 De fyra energifakturorna är driftkostnader, inte servicehändelser. [Energiregistret](../drift/energi/register.yaml) har en gemensam förbrukning per energislag och period så att handel och nät inte ger dubbelräknad förbrukning. Inmatad el är inte samma sak som total solelproduktion. [Caiflow-abonnemanget](../drift/abonnemang/register.yaml) bevarar tre fakturarader utan att anta vilka individuella laddare eller månader respektive rad avser.
+
+## Toalettskylt, faktura 57551
+
+[Källor och godkänd extraktion](../inventering/importer/faktura-57551-2026-11-13.yaml) för inköp av en taktil skylt med text **Toalett RWC**, avsedd för toalettdörren i föreningslokalen på Högalidsvägen 69. Fakturan från JC Kontakter AB / JC Gravyr & Tryck AB är daterad 12 november 2026: skylt 345 kr och frakt 36 kr exklusive moms, moms 95,25 kr, totalt **476,25 kr**. Leveransdatum enligt fakturan är 16 november 2026; faktisk leverans och montering är inte bekräftade. Händelsen registreras som inköp, utan antaget monteringsdatum.

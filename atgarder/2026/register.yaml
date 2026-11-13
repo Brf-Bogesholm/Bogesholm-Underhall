@@ -1018,3 +1018,23 @@ version: "1.0"
     datumkälla: "K-FAKTUROR-2026-11-11-07"
     objektkopplingkälla: "K-KOMPLETTERING-2026-11-13-07"
     kommentar: "Arbetskostnad och servicebil delas med termostatmonteringen och har inte fördelats. Ingen kontroll eller service av själva avgasaren har antagits."
+  -
+    id: "A-2026-57551-1"
+    datum: "2026-11-12"
+    datumtyp: "Fakturadatum för inköp"
+    datumkälla: "K-FAKTURA-57551"
+    åtgärd: "Inköp av taktil toalettskylt med text Toalett RWC till toalettdörren i föreningslokalen."
+    objekt:
+      - "UT-SKYLT-TOALETT-LOKAL-001"
+      - "H-69"
+    placering: "Avsedd för toalettdörren i föreningslokalen, Högalidsvägen 69"
+    faktura: "F-2026-57551"
+    fakturarader:
+      - "F-2026-57551-R1"
+      - "F-2026-57551-R2"
+    utförare: "JC Kontakter AB / JC Gravyr & Tryck AB"
+    källor:
+      - "K-FAKTURA-57551"
+      - "K-KOMPLETTERING-57551-20261113"
+    kostnadsprincip: "Kostnaden lagras på den unika fakturan. Objektet och inköpshändelsen innebär inte ytterligare kostnader att summera."
+    kommentar: "Inköpshändelse; montering och faktisk leverans är inte bekräftade. Leveransdatum enligt fakturan är 2026-11-16."
