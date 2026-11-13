@@ -94,3 +94,27 @@ version: "1.0"
       - "K-LEKARKIV-D045"
       - "K-LEKPLATSKOPPLING-20261113"
     kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-SBA-20230427"
+    datum: "2023-04-27"
+    åtgärd: "Intern brandskyddskontroll"
+    besiktning: "B-SBA-20230427"
+    objekt:
+      - "F-655"
+      - "G-710"
+      - "G-721"
+      - "G-761"
+      - "U-KONTOR-69"
+      - "U-LOKAL-69"
+      - "U-MILJOHUS-50"
+      - "U-MILJOHUS-60"
+      - "U-MILJOHUS-70"
+      - "U-PANNRUM-69"
+    omfattning: "Allmänna ytor och garage"
+    garagekontroll: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."

@@ -169,3 +169,53 @@ version: "1.0"
       - "K-LEKARKIV-D048"
       - "K-LEKPLATSKOPPLING-20261113"
     kommentar: "En besiktningspost, även när protokollet omfattar både lekplats och separat gunglekplats. Se protokollet för historiska fel och klassningar."
+  -
+    id: "A-SBA-20250324"
+    datum: "2025-03-24"
+    åtgärd: "Intern brandskyddskontroll"
+    besiktning: "B-SBA-20250324"
+    objekt:
+      - "F-604"
+      - "G-706"
+      - "G-708"
+      - "G-710"
+      - "G-713"
+      - "G-733"
+      - "G-755"
+      - "G-763"
+      - "G-767"
+      - "U-KONTOR-69"
+      - "U-LOKAL-69"
+      - "U-MILJOHUS-50"
+      - "U-MILJOHUS-60"
+      - "U-MILJOHUS-70"
+      - "U-PANNRUM-69"
+    omfattning: "Allmänna ytor och garage"
+    garagekontroll: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."
+  -
+    id: "A-SBA-20250929"
+    datum: "2025-09-29"
+    åtgärd: "Intern brandskyddskontroll"
+    besiktning: "B-SBA-20250929"
+    objekt:
+      - "F-605"
+      - "U-KONTOR-69"
+      - "U-LOKAL-69"
+      - "U-MILJOHUS-50"
+      - "U-MILJOHUS-60"
+      - "U-MILJOHUS-70"
+      - "U-PANNRUM-69"
+    omfattning: "Allmänna ytor"
+    garagekontroll: "Ej kontrollerade 2025-09-29; planerad kontroll våren 2026 är inte styrkt utförd här."
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."

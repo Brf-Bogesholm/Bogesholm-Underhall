@@ -1,0 +1,148 @@
+version: "1.0"
+utrymmen:
+  -
+    id: "U-LOKAL-69"
+    typ: "utrymme"
+    namn: "Föreningslokalen"
+    adress: "Högalidsvägen 69"
+    alias:
+      - "Gemensamhetslokal"
+      - "Lokal"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20250324"
+      - "B-SBA-20250929"
+      - "B-SBA-20171009"
+      - "B-SBA-20190704"
+      - "B-SBA-20200514"
+      - "B-SBA-20210406"
+      - "B-SBA-20211123"
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+      - "B-SBA-20230427"
+      - "B-SBA-20240529"
+  -
+    id: "U-KONTOR-69"
+    typ: "utrymme"
+    namn: "Kontoret"
+    adress: "Högalidsvägen 69"
+    alias:
+      - "Vaktmästeriet"
+      - "Lilla vaktmästeriet"
+      - "Vaktmästarlokal"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20250324"
+      - "B-SBA-20250929"
+      - "B-SBA-20171009"
+      - "B-SBA-20190704"
+      - "B-SBA-20200514"
+      - "B-SBA-20210406"
+      - "B-SBA-20211123"
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+      - "B-SBA-20230427"
+      - "B-SBA-20240529"
+    placeringskommentar: "Utrymmet bredvid föreningslokalen i samma byggnad enligt beställaren."
+  -
+    id: "U-PANNRUM-69"
+    typ: "utrymme"
+    namn: "Pannrum och undercentral"
+    adress: "Högalidsvägen 69"
+    alias:
+      - "Pannrum"
+      - "Undercentral"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20250324"
+      - "B-SBA-20250929"
+      - "B-SBA-20171009"
+      - "B-SBA-20190704"
+      - "B-SBA-20200514"
+      - "B-SBA-20210406"
+      - "B-SBA-20211123"
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+      - "B-SBA-20230427"
+      - "B-SBA-20240529"
+  -
+    id: "U-SKYDDSRUM-69"
+    typ: "utrymme"
+    namn: "Skyddsrummet"
+    adress: "Högalidsvägen 69"
+    alias:
+      - "Förrådsgång i skyddsrum"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+  -
+    id: "U-MILJOHUS-50"
+    typ: "utrymme"
+    namn: "Miljöhus 50-gården"
+    adress: null
+    alias:
+      - "Miljöhus"
+      - "Miljörum"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20250324"
+      - "B-SBA-20250929"
+      - "B-SBA-20190704"
+      - "B-SBA-20200514"
+      - "B-SBA-20210406"
+      - "B-SBA-20211123"
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+      - "B-SBA-20230427"
+      - "B-SBA-20240529"
+    kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."
+  -
+    id: "U-MILJOHUS-60"
+    typ: "utrymme"
+    namn: "Miljöhus 60-gården"
+    adress: null
+    alias:
+      - "Miljöhus"
+      - "Miljörum"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20250324"
+      - "B-SBA-20250929"
+      - "B-SBA-20190704"
+      - "B-SBA-20200514"
+      - "B-SBA-20210406"
+      - "B-SBA-20211123"
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+      - "B-SBA-20230427"
+      - "B-SBA-20240529"
+    kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."
+  -
+    id: "U-MILJOHUS-70"
+    typ: "utrymme"
+    namn: "Miljöhus 70-gården"
+    adress: null
+    alias:
+      - "Miljöhus"
+      - "Miljörum"
+    källor:
+      - "K-SBA-KOPPLING-20261113"
+    brandskyddshistorik:
+      - "B-SBA-20250324"
+      - "B-SBA-20250929"
+      - "B-SBA-20190704"
+      - "B-SBA-20200514"
+      - "B-SBA-20210406"
+      - "B-SBA-20211123"
+      - "B-SBA-20220420"
+      - "B-SBA-20221017"
+      - "B-SBA-20230427"
+      - "B-SBA-20240529"
+    kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."

@@ -23,6 +23,13 @@ platser:
     platsnummer: 741
     tillhör_lägenhet: L-118-1-0003
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20200514-N11"
+      - "B-SBA-20210406-N14"
+      - "B-SBA-20211123-N14"
+      - "B-SBA-20220420-N14"
+      - "B-SBA-20221017-N14"
+      - "B-SBA-20240529-N06"
   - id: G-740
     typ: garage
     namn: Garage 740
@@ -41,12 +48,19 @@ platser:
     platsnummer: 733
     tillhör_lägenhet: L-118-1-0006
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N11"
   - id: G-707
     typ: garage
     namn: Garage 707
     platsnummer: 707
     tillhör_lägenhet: L-118-1-0007
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N07"
+      - "B-SBA-20211123-N07"
+      - "B-SBA-20220420-N07"
+      - "B-SBA-20221017-N07"
   - id: G-716
     typ: garage
     namn: Garage 716
@@ -77,12 +91,20 @@ platser:
     platsnummer: 715
     tillhör_lägenhet: L-118-1-0012
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N10"
+      - "B-SBA-20211123-N10"
+      - "B-SBA-20220420-N10"
+      - "B-SBA-20221017-N10"
   - id: G-708
     typ: garage
     namn: Garage 708
     platsnummer: 708
     tillhör_lägenhet: L-118-1-0013
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N08"
+      - "B-SBA-20240529-N09"
   - id: G-709
     typ: garage
     namn: Garage 709
@@ -95,6 +117,15 @@ platser:
     platsnummer: 710
     tillhör_lägenhet: L-118-1-0015
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N09"
+      - "B-SBA-20200514-N07"
+      - "B-SBA-20210406-N08"
+      - "B-SBA-20211123-N08"
+      - "B-SBA-20220420-N08"
+      - "B-SBA-20221017-N08"
+      - "B-SBA-20230427-N04"
+      - "B-SBA-20240529-N08"
   - id: G-765
     typ: garage
     namn: Garage 765
@@ -113,6 +144,8 @@ platser:
     platsnummer: 713
     tillhör_lägenhet: L-118-1-0018
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N10"
   - id: G-714
     typ: garage
     namn: Garage 714
@@ -125,6 +158,8 @@ platser:
     platsnummer: 721
     tillhör_lägenhet: L-118-1-0020
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20230427-N05"
   - id: G-722
     typ: garage
     namn: Garage 722
@@ -137,6 +172,8 @@ platser:
     platsnummer: 723
     tillhör_lägenhet: L-118-1-0022
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20200514-N08"
   - id: G-724
     typ: garage
     namn: Garage 724
@@ -173,6 +210,11 @@ platser:
     platsnummer: 727
     tillhör_lägenhet: L-118-1-0028
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N11"
+      - "B-SBA-20211123-N11"
+      - "B-SBA-20220420-N11"
+      - "B-SBA-20221017-N11"
   - id: G-728
     typ: garage
     namn: Garage 728
@@ -191,12 +233,19 @@ platser:
     platsnummer: 734
     tillhör_lägenhet: L-118-1-0031
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20200514-N10"
   - id: G-735
     typ: garage
     namn: Garage 735
     platsnummer: 735
     tillhör_lägenhet: L-118-1-0032
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N12"
+      - "B-SBA-20211123-N12"
+      - "B-SBA-20220420-N12"
+      - "B-SBA-20221017-N12"
   - id: G-770
     typ: garage
     namn: Garage 770
@@ -215,6 +264,11 @@ platser:
     platsnummer: 738
     tillhör_lägenhet: L-118-1-0035
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N13"
+      - "B-SBA-20211123-N13"
+      - "B-SBA-20220420-N13"
+      - "B-SBA-20221017-N13"
   - id: G-730
     typ: garage
     namn: Garage 730
@@ -233,6 +287,11 @@ platser:
     platsnummer: 762
     tillhör_lägenhet: L-118-1-0038
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N20"
+      - "B-SBA-20211123-N20"
+      - "B-SBA-20220420-N20"
+      - "B-SBA-20221017-N20"
   - id: G-731
     typ: garage
     namn: Garage 731
@@ -245,12 +304,20 @@ platser:
     platsnummer: 761
     tillhör_lägenhet: L-118-1-0040
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20230427-N06"
   - id: G-763
     typ: garage
     namn: Garage 763
     platsnummer: 763
     tillhör_lägenhet: L-118-1-0041
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N06"
+      - "B-SBA-20210406-N21"
+      - "B-SBA-20211123-N21"
+      - "B-SBA-20220420-N21"
+      - "B-SBA-20221017-N21"
   - id: G-764
     typ: garage
     namn: Garage 764
@@ -263,6 +330,12 @@ platser:
     platsnummer: 706
     tillhör_lägenhet: L-118-1-0043
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N07"
+      - "B-SBA-20210406-N06"
+      - "B-SBA-20211123-N06"
+      - "B-SBA-20220420-N06"
+      - "B-SBA-20221017-N06"
   - id: P-912
     typ: parkeringsplats
     namn: Parkeringsplats 912
@@ -287,12 +360,22 @@ platser:
     platsnummer: 704
     tillhör_lägenhet: L-118-1-0047
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N05"
+      - "B-SBA-20211123-N05"
+      - "B-SBA-20220420-N05"
+      - "B-SBA-20221017-N05"
   - id: G-703
     typ: garage
     namn: Garage 703
     platsnummer: 703
     tillhör_lägenhet: L-118-1-0048
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N04"
+      - "B-SBA-20211123-N04"
+      - "B-SBA-20220420-N04"
+      - "B-SBA-20221017-N04"
   - id: G-742
     typ: garage
     namn: Garage 742
@@ -305,6 +388,8 @@ platser:
     platsnummer: 743
     tillhör_lägenhet: L-118-1-0050
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20200514-N12"
   - id: G-744
     typ: garage
     namn: Garage 744
@@ -323,6 +408,11 @@ platser:
     platsnummer: 746
     tillhör_lägenhet: L-118-1-0053
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N15"
+      - "B-SBA-20211123-N15"
+      - "B-SBA-20220420-N15"
+      - "B-SBA-20221017-N15"
   - id: P-905
     typ: parkeringsplats
     namn: Parkeringsplats 905
@@ -341,6 +431,12 @@ platser:
     platsnummer: 747
     tillhör_lägenhet: L-118-1-0056
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20200514-N13"
+      - "B-SBA-20210406-N16"
+      - "B-SBA-20211123-N16"
+      - "B-SBA-20220420-N16"
+      - "B-SBA-20221017-N16"
   - id: G-736
     typ: garage
     namn: Garage 736
@@ -365,6 +461,8 @@ platser:
     platsnummer: 767
     tillhör_lägenhet: L-118-1-0060
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N12"
   - id: G-766
     typ: garage
     namn: Garage 766
@@ -377,12 +475,22 @@ platser:
     platsnummer: 711
     tillhör_lägenhet: L-118-1-0062
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N09"
+      - "B-SBA-20211123-N09"
+      - "B-SBA-20220420-N09"
+      - "B-SBA-20221017-N09"
   - id: G-748
     typ: garage
     namn: Garage 748
     platsnummer: 748
     tillhör_lägenhet: L-118-1-0063
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N17"
+      - "B-SBA-20211123-N17"
+      - "B-SBA-20220420-N17"
+      - "B-SBA-20221017-N17"
   - id: P-911
     typ: parkeringsplats
     namn: Parkeringsplats 911
@@ -413,6 +521,11 @@ platser:
     platsnummer: 751
     tillhör_lägenhet: L-118-1-0068
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N18"
+      - "B-SBA-20211123-N18"
+      - "B-SBA-20220420-N18"
+      - "B-SBA-20221017-N18"
   - id: G-752
     typ: garage
     namn: Garage 752
@@ -437,6 +550,8 @@ platser:
     platsnummer: 755
     tillhör_lägenhet: L-118-1-0072
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N05"
   - id: G-756
     typ: garage
     namn: Garage 756
@@ -455,6 +570,11 @@ platser:
     platsnummer: 758
     tillhör_lägenhet: L-118-1-0075
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20210406-N19"
+      - "B-SBA-20211123-N19"
+      - "B-SBA-20220420-N19"
+      - "B-SBA-20221017-N19"
   - id: G-759
     typ: garage
     namn: Garage 759
@@ -473,6 +593,9 @@ platser:
     platsnummer: 732
     tillhör_lägenhet: L-118-1-0078
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20200514-N09"
+      - "B-SBA-20240529-N07"
   - id: P-771
     typ: garage
     namn: Garage 771

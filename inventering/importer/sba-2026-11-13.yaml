@@ -1,0 +1,73 @@
+id: "IMPORT-SBA-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-SBA-20261113"
+    typ: "SBA.zip"
+    filer:
+      -
+        id: "K-SBA-D001"
+        arkivsökväg: "SBA/Bogesholm 2025-03-24.pdf"
+        sha256: "903d59779fc1568b53b73722e54176f323a9e42eb0154768e3a73f53a4d3d42e"
+      -
+        id: "K-SBA-D002"
+        arkivsökväg: "SBA/Bogesholm 2025-09-29.pdf"
+        sha256: "81e4e4ff4bba02a344a71c122ff69309278097921210bfe0ac1edb92ab6825bf"
+      -
+        id: "K-SBA-D003"
+        arkivsökväg: "SBA/Bogesholm_2017_10_09.pdf"
+        sha256: "1aeec71fd2d5424497870ec8ecc050a7667c9c7de380c47d2df116c912d3d4e7"
+      -
+        id: "K-SBA-D004"
+        arkivsökväg: "SBA/Bogesholm_2019_07_04.pdf"
+        sha256: "3ffa5ab1f525285ec62059e8413d8bcb694d509972c89fef412201713d24c36d"
+      -
+        id: "K-SBA-D005"
+        arkivsökväg: "SBA/Bogesholm_2020_05_14.pdf"
+        sha256: "da8e98b3df310a9796255b2a1e838c30ca7e0c6e4a208143c36b738ac35a0e74"
+      -
+        id: "K-SBA-D006"
+        arkivsökväg: "SBA/Bogesholm_2021_04_06.pdf"
+        sha256: "f0ef8b5e6dc2fc4abfdc363bc6845c86d5305c9d8ff3067c1308550e578c0045"
+      -
+        id: "K-SBA-D007"
+        arkivsökväg: "SBA/Bogesholm_2021_11_23.pdf"
+        sha256: "5114197abf9174cead3a7afead1691e896ad914ae177e715dfc0caa9bab3f9db"
+      -
+        id: "K-SBA-D008"
+        arkivsökväg: "SBA/Bogesholm_2022_04_20.pdf"
+        sha256: "a9b8ad79830587de84a52b4edb51d6aa92f86080c84a552b26094c3e1eec0871"
+      -
+        id: "K-SBA-D009"
+        arkivsökväg: "SBA/Bogesholm_2022_10_17.pdf"
+        sha256: "38b9b0238a504dae631c88d71fec1fcfa9421096e5ad4e3b3bb5299a57f86790"
+      -
+        id: "K-SBA-D010"
+        arkivsökväg: "SBA/Bogesholm_2023-04-27.pdf"
+        sha256: "dd4a4bbbb9b8fe74c93ffd6061dd1ecfbd23cf13ce567b15c75e51728802c6f2"
+      -
+        id: "K-SBA-D011"
+        arkivsökväg: "SBA/Bogesholm_2024_05_29.pdf"
+        sha256: "abcfc3fa28d30fae180bd364acd35d880f16324451bf6c8d9bb2534c9a87baa2"
+      -
+        id: "K-SBA-D012"
+        arkivsökväg: "SBA/Brandsyn 2021-04-06/INformation till boende.docx"
+        sha256: "9d23963c3583097eb6d99b8fc2ff75841b69eb2bf444f5891894da2b84a8d5ea"
+  -
+    id: "K-SBA-KOPPLING-20261113"
+    typ: "Beställarens bekräftelse"
+    uppgifter:
+      - "Garage 1–71 motsvarar registernummer 701–771."
+      - "Förråd 55 i skyddsrum motsvarar 655."
+      - "Vaktmästeriet benämns numera kontoret, bredvid lokalen i samma byggnad på Högalidsvägen 69."
+      - "Generella miljöhusnoteringar omfattar samtliga tre gårdar."
+kontroll:
+  kontrolltillfällen: 11
+  noteringar: 158
+avgränsningar:
+  - "Information till boende om planerad brandsyn 2021-04-06 är en avisering, inte ett ytterligare kontrolltillfälle."
+  - "Garage listade i kontroller 2021-11-23, 2022-04-20 och 2022-10-17 kontrollerades inte på nytt enligt protokollens begränsningar."
+  - "2020-05-14 kontrollerades endast garage; övrig återgiven checklistetext är bakgrund."
+  - "Brandsyn 2024-05-29 är separat från gaspannornas brandskyddskontroll 2024-06-05."
+  - "Ingen automatisk stängning av äldre avvikelser genom senare OK-rutor eller frånvaro i listor."
+  - "Ingen kostnad härledd, inga personnamn eller original publicerade."

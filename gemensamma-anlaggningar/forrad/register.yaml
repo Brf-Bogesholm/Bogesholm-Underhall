@@ -126,6 +126,8 @@ förråd:
     typ_av_förråd: Garageförrådet
     tillhör_lägenhet: L-118-1-0015
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250929-N04"
   - id: F-634
     typ: förråd
     namn: Förråd 634
@@ -198,6 +200,8 @@ förråd:
     typ_av_förråd: Skyddsrummet
     tillhör_lägenhet: L-118-1-0024
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20190704-N10"
   - id: F-622
     typ: förråd
     namn: Förråd 622
@@ -326,6 +330,8 @@ förråd:
     typ_av_förråd: Garageförrådet
     tillhör_lägenhet: L-118-1-0040
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20250324-N04"
   - id: F-602
     typ: förråd
     namn: Förråd 602
@@ -446,6 +452,10 @@ förråd:
     typ_av_förråd: Skyddsrummet
     tillhör_lägenhet: L-118-1-0055
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20190704-N09"
+      - "B-SBA-20210406-N22"
+      - "B-SBA-20211123-N22"
   - id: F-631
     typ: förråd
     namn: Förråd 631
@@ -558,6 +568,12 @@ förråd:
     typ_av_förråd: Skyddsrummet
     tillhör_lägenhet: L-118-1-0069
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20190704-N08"
+      - "B-SBA-20210406-N23"
+      - "B-SBA-20211123-N23"
+      - "B-SBA-20220420-N24"
+      - "B-SBA-20221017-N24"
   - id: F-658
     typ: förråd
     namn: Förråd 658
@@ -590,6 +606,10 @@ förråd:
     typ_av_förråd: Egna vinden
     tillhör_lägenhet: L-118-1-0073
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20220420-N23"
+      - "B-SBA-20221017-N23"
+      - "B-SBA-20230427-N08"
   - id: F-654
     typ: förråd
     namn: Förråd 654
@@ -639,6 +659,8 @@ förråd:
     tillhör_lägenhet: null
     användning: BRF
     datastatus: verifierad
+    brandskyddshistorik:
+      - "B-SBA-20240529-N05"
   - id: F-629
     typ: förråd
     namn: Förråd 629

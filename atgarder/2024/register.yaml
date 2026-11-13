@@ -96,3 +96,28 @@ version: "1.0"
     källor:
       - "K-OVK-20261113"
       - "K-OVK-KOMPLETTERING-20261113"
+  -
+    id: "A-SBA-20240529"
+    datum: "2024-05-29"
+    åtgärd: "Intern brandskyddskontroll"
+    besiktning: "B-SBA-20240529"
+    objekt:
+      - "F-609"
+      - "G-708"
+      - "G-710"
+      - "G-732"
+      - "G-741"
+      - "U-KONTOR-69"
+      - "U-LOKAL-69"
+      - "U-MILJOHUS-50"
+      - "U-MILJOHUS-60"
+      - "U-MILJOHUS-70"
+      - "U-PANNRUM-69"
+    omfattning: "Allmänna ytor och garage"
+    garagekontroll: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."

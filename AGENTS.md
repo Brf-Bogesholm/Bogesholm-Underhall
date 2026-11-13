@@ -41,3 +41,7 @@ Beställaren har bekräftat att endast föreningslokalens FF1 på Högalidsväge
 ## Tak och förråd
 
 Beställarens anvisning 2026-11-13: förrådssynen 2007 kopplas till respektive lägenhet; taköversynen 2012 och takbesiktningen 2019 kopplas till respektive hus. Lägenhetsbokstäver i takrapporten bevaras som positionsuppgifter i husets noteringar. Arkivmapp 2015 är inte besiktningsdatum. Generella brister är inte individuellt fastställda på varje hus. Rapporterna intygar inte utförd hängrännerensning. Exakt byggnads-ID för soprummet på gård 61–67 i 2012 års rapport är inte fastställt.
+
+## SBA och platskopplingar
+
+Beställaren bekräftar 2026-11-13: protokollens garage 1–71 motsvarar registernummer 701–771; behåll stabila befintliga objekt-ID:n. Förråd 55 i skyddsrum är 655. Vaktmästeriet och lilla vaktmästeriet benämns numera kontoret, bredvid lokalen i samma byggnad på Högalidsvägen 69. Generella miljöhusnoteringar gäller samtliga tre gårdar. Återgivna garageanmärkningar på datum då endast allmänna ytor kontrollerats är inte nya garagefynd. Senare OK eller frånvaro i listor är inte i sig belägg för avhjälpande.

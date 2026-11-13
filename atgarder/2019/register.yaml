@@ -108,3 +108,26 @@ version: "1.0"
       - "K-TAK-ARKIV-20261113"
       - "K-TAK-KOPPLING-20261113"
     kommentar: "Besiktning, inte intyg om utförda rekommenderade reparationer eller hängrännerensning."
+  -
+    id: "A-SBA-20190704"
+    datum: "2019-07-04"
+    åtgärd: "Intern brandskyddskontroll"
+    besiktning: "B-SBA-20190704"
+    objekt:
+      - "F-621"
+      - "F-626"
+      - "F-635"
+      - "U-KONTOR-69"
+      - "U-LOKAL-69"
+      - "U-MILJOHUS-50"
+      - "U-MILJOHUS-60"
+      - "U-MILJOHUS-70"
+      - "U-PANNRUM-69"
+    omfattning: "Allmänna ytor"
+    garagekontroll: "Ej kontrollerade 2019-07-04; hänvisar till separat protokoll som inte finns i detta arkiv."
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."

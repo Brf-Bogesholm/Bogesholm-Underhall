@@ -1,0 +1,1789 @@
+version: "1.0"
+kontroller:
+  -
+    id: "B-SBA-20171009"
+    datum: "2017-10-09"
+    typ: "Intern brandskyddskontroll"
+    utförare: "AVARN"
+    dokument:
+      källa: "K-SBA-D003"
+      arkivsökväg: "SBA/Bogesholm_2017_10_09.pdf"
+      sha256: "1aeec71fd2d5424497870ec8ecc050a7667c9c7de380c47d2df116c912d3d4e7"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20171009-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20171009-N02"
+        objekt:
+          []
+        text: "Enligt uppgift kabeldragning på vindar och ombyggnad till förråd; kontroll av tätningar, luckor och konstruktion vid brandcellsgränser rekommenderas om inte redan kontrollerat."
+        källsida: 1
+        typ: "rekommendation"
+        status: "Okänd senare åtgärdsstatus"
+        plats: "Vindar, ospecificerade; inte fördelat på alla lägenheter"
+      -
+        id: "B-SBA-20171009-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Spisvakt eller timer rekommenderas."
+        källsida: 1
+        typ: "rekommendation"
+        status: "Okänd senare åtgärdsstatus"
+      -
+        id: "B-SBA-20171009-N04"
+        objekt:
+          - "U-KONTOR-69"
+        text: "Förbandslåda anges finnas i vaktmästarlokal."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+    omfattning: "Allmänna ytor"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20190704"
+    datum: "2019-07-04"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D004"
+      arkivsökväg: "SBA/Bogesholm_2019_07_04.pdf"
+      sha256: "3ffa5ab1f525285ec62059e8413d8bcb694d509972c89fef412201713d24c36d"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20190704-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20190704-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler rekommenderas, en per miljörum; anges inte som lagkrav i rapporten."
+        källsida: 1
+        typ: "rekommendation"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20190704-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20190704-N04"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Mindre brister i genomföringar i miljöhus; översyn och tätning av samtliga rekommenderas."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd"
+      -
+        id: "B-SBA-20190704-N05"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Brandvarnare i gemensamhetslokal delvis nedtagna; bör finnas minst i entréhall och gärna i lokalen."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd"
+      -
+        id: "B-SBA-20190704-N06"
+        objekt:
+          []
+        text: "Brandfarlig vara i vissa förråd och i en förrådsgång; inga säkra nummer anges."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd"
+        plats: "Ospecificerade förråd och förrådsgång"
+      -
+        id: "B-SBA-20190704-N07"
+        objekt:
+          - "U-KONTOR-69"
+        text: "Skyddskåpa saknas på belysning över bänk i lilla vaktmästeriet; alternativt föreslås borttagning eftersom utrymmet används för förvaring."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+      -
+        id: "B-SBA-20190704-N08"
+        objekt:
+          - "F-635"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 635
+      -
+        id: "B-SBA-20190704-N09"
+        objekt:
+          - "F-626"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 626
+      -
+        id: "B-SBA-20190704-N10"
+        objekt:
+          - "F-621"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 621
+    omfattning: "Allmänna ytor"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    garagekontroll: "Ej kontrollerade 2019-07-04; hänvisar till separat protokoll som inte finns i detta arkiv."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20200514"
+    datum: "2020-05-14"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D005"
+      arkivsökväg: "SBA/Bogesholm_2020_05_14.pdf"
+      sha256: "da8e98b3df310a9796255b2a1e838c30ca7e0c6e4a208143c36b738ac35a0e74"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20200514-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Bakgrund; endast garage kontrollerade"
+      -
+        id: "B-SBA-20200514-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20200514-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20200514-N04"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Mindre brister i genomföringar i miljöhus; översyn och tätning av samtliga rekommenderas."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Återgiven text; endast garage kontrollerade detta datum"
+      -
+        id: "B-SBA-20200514-N05"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Brandvarnare i gemensamhetslokal delvis nedtagna; bör finnas minst i entréhall och gärna i lokalen."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Återgiven text; inte ny kontroll"
+      -
+        id: "B-SBA-20200514-N06"
+        objekt:
+          []
+        text: "Brandfarlig vara i vissa förråd och i en förrådsgång; inga säkra nummer anges."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Återgiven text; inte ny kontroll"
+        plats: "Ospecificerade förråd och förrådsgång"
+      -
+        id: "B-SBA-20200514-N07"
+        objekt:
+          - "G-710"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+      -
+        id: "B-SBA-20200514-N08"
+        objekt:
+          - "G-723"
+        text: "Förvaring."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 23
+        registernummer: 723
+      -
+        id: "B-SBA-20200514-N09"
+        objekt:
+          - "G-732"
+        text: "Förvaring."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 32
+        registernummer: 732
+      -
+        id: "B-SBA-20200514-N10"
+        objekt:
+          - "G-734"
+        text: "Förvaring."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 34
+        registernummer: 734
+      -
+        id: "B-SBA-20200514-N11"
+        objekt:
+          - "G-741"
+        text: "Används för tillfället som snickarverkstad; egen belysning och förlängningskablar/maskiner."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 41
+        registernummer: 741
+      -
+        id: "B-SBA-20200514-N12"
+        objekt:
+          - "G-743"
+        text: "Förvaring."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 43
+        registernummer: 743
+      -
+        id: "B-SBA-20200514-N13"
+        objekt:
+          - "G-747"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 47
+        registernummer: 747
+      -
+        id: "B-SBA-20200514-N14"
+        objekt:
+          []
+        text: "För många bildäck i vissa förråd; inga nummer anges. Rapportens angivna maxantal fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Bakgrundstext; endast garage kontrollerade"
+        plats: "Ospecificerade förråd"
+    omfattning: "Endast garage; övrig checklistetext bevarad som bakgrund, inte som nya kontroller av allmänna ytor."
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Endast garage kontrollerade. Checklistans övriga OK-rutor och återgivna text har inte tolkats som nya kontroller av allmänna ytor."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20210406"
+    datum: "2021-04-06"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D006"
+      arkivsökväg: "SBA/Bogesholm_2021_04_06.pdf"
+      sha256: "f0ef8b5e6dc2fc4abfdc363bc6845c86d5305c9d8ff3067c1308550e578c0045"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20210406-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20210406-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20210406-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20210406-N04"
+        objekt:
+          - "G-703"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 3
+        registernummer: 703
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N05"
+        objekt:
+          - "G-704"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 4
+        registernummer: 704
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N06"
+        objekt:
+          - "G-706"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 6
+        registernummer: 706
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N07"
+        objekt:
+          - "G-707"
+        text: "Brännbar vätska i dunk."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 7
+        registernummer: 707
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N08"
+        objekt:
+          - "G-710"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N09"
+        objekt:
+          - "G-711"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 11
+        registernummer: 711
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N10"
+        objekt:
+          - "G-715"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 15
+        registernummer: 715
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N11"
+        objekt:
+          - "G-727"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 27
+        registernummer: 727
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N12"
+        objekt:
+          - "G-735"
+        text: "Däck fler än fyra, förvaring (lite), egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 35
+        registernummer: 735
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N13"
+        objekt:
+          - "G-738"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 38
+        registernummer: 738
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N14"
+        objekt:
+          - "G-741"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 41
+        registernummer: 741
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N15"
+        objekt:
+          - "G-746"
+        text: "Däck fler än fyra."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 46
+        registernummer: 746
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N16"
+        objekt:
+          - "G-747"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 47
+        registernummer: 747
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N17"
+        objekt:
+          - "G-748"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 48
+        registernummer: 748
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N18"
+        objekt:
+          - "G-751"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 51
+        registernummer: 751
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N19"
+        objekt:
+          - "G-758"
+        text: "Brännbar vätska."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 58
+        registernummer: 758
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N20"
+        objekt:
+          - "G-762"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 62
+        registernummer: 762
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N21"
+        objekt:
+          - "G-763"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 63
+        registernummer: 763
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20210406-N22"
+        objekt:
+          - "F-626"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 626
+      -
+        id: "B-SBA-20210406-N23"
+        objekt:
+          - "F-635"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 635
+    omfattning: "Allmänna ytor och garage"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20211123"
+    datum: "2021-11-23"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D007"
+      arkivsökväg: "SBA/Bogesholm_2021_11_23.pdf"
+      sha256: "5114197abf9174cead3a7afead1691e896ad914ae177e715dfc0caa9bab3f9db"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20211123-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20211123-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20211123-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20211123-N04"
+        objekt:
+          - "G-703"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 3
+        registernummer: 703
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N05"
+        objekt:
+          - "G-704"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 4
+        registernummer: 704
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N06"
+        objekt:
+          - "G-706"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 6
+        registernummer: 706
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N07"
+        objekt:
+          - "G-707"
+        text: "Brännbar vätska i dunk."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 7
+        registernummer: 707
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N08"
+        objekt:
+          - "G-710"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N09"
+        objekt:
+          - "G-711"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 11
+        registernummer: 711
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N10"
+        objekt:
+          - "G-715"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 15
+        registernummer: 715
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N11"
+        objekt:
+          - "G-727"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 27
+        registernummer: 727
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N12"
+        objekt:
+          - "G-735"
+        text: "Däck fler än fyra, förvaring (lite), egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 35
+        registernummer: 735
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N13"
+        objekt:
+          - "G-738"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 38
+        registernummer: 738
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N14"
+        objekt:
+          - "G-741"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 41
+        registernummer: 741
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N15"
+        objekt:
+          - "G-746"
+        text: "Däck fler än fyra."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 46
+        registernummer: 746
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N16"
+        objekt:
+          - "G-747"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 47
+        registernummer: 747
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N17"
+        objekt:
+          - "G-748"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 48
+        registernummer: 748
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N18"
+        objekt:
+          - "G-751"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 51
+        registernummer: 751
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N19"
+        objekt:
+          - "G-758"
+        text: "Brännbar vätska."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 58
+        registernummer: 758
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N20"
+        objekt:
+          - "G-762"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 62
+        registernummer: 762
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N21"
+        objekt:
+          - "G-763"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 63
+        registernummer: 763
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20211123-N22"
+        objekt:
+          - "F-626"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Kvarstår enligt protokollet"
+        ursprungligt_förrådsnummer: 626
+      -
+        id: "B-SBA-20211123-N23"
+        objekt:
+          - "F-635"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Kvarstår enligt protokollet"
+        ursprungligt_förrådsnummer: 635
+    omfattning: "Allmänna ytor"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    garagekontroll: "Ej utförd vid detta tillfälle; äldre lista återgiven."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20220420"
+    datum: "2022-04-20"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D008"
+      arkivsökväg: "SBA/Bogesholm_2022_04_20.pdf"
+      sha256: "a9b8ad79830587de84a52b4edb51d6aa92f86080c84a552b26094c3e1eec0871"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20220420-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20220420-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20220420-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20220420-N04"
+        objekt:
+          - "G-703"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 3
+        registernummer: 703
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N05"
+        objekt:
+          - "G-704"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 4
+        registernummer: 704
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N06"
+        objekt:
+          - "G-706"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 6
+        registernummer: 706
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N07"
+        objekt:
+          - "G-707"
+        text: "Brännbar vätska i dunk."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 7
+        registernummer: 707
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N08"
+        objekt:
+          - "G-710"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N09"
+        objekt:
+          - "G-711"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 11
+        registernummer: 711
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N10"
+        objekt:
+          - "G-715"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 15
+        registernummer: 715
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N11"
+        objekt:
+          - "G-727"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 27
+        registernummer: 727
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N12"
+        objekt:
+          - "G-735"
+        text: "Däck fler än fyra, förvaring (lite), egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 35
+        registernummer: 735
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N13"
+        objekt:
+          - "G-738"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 38
+        registernummer: 738
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N14"
+        objekt:
+          - "G-741"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 41
+        registernummer: 741
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N15"
+        objekt:
+          - "G-746"
+        text: "Däck fler än fyra."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 46
+        registernummer: 746
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N16"
+        objekt:
+          - "G-747"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 47
+        registernummer: 747
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N17"
+        objekt:
+          - "G-748"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 48
+        registernummer: 748
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N18"
+        objekt:
+          - "G-751"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 51
+        registernummer: 751
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N19"
+        objekt:
+          - "G-758"
+        text: "Brännbar vätska."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 58
+        registernummer: 758
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N20"
+        objekt:
+          - "G-762"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 62
+        registernummer: 762
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N21"
+        objekt:
+          - "G-763"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 63
+        registernummer: 763
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20220420-N22"
+        objekt:
+          - "U-SKYDDSRUM-69"
+        text: "Brännbar vätska i förrådsgång i skyddsrum."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+      -
+        id: "B-SBA-20220420-N23"
+        objekt:
+          - "F-655"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 55
+      -
+        id: "B-SBA-20220420-N24"
+        objekt:
+          - "F-635"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 635
+    omfattning: "Allmänna ytor"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    garagekontroll: "Ej utförd vid detta tillfälle; äldre lista återgiven."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20221017"
+    datum: "2022-10-17"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D009"
+      arkivsökväg: "SBA/Bogesholm_2022_10_17.pdf"
+      sha256: "38b9b0238a504dae631c88d71fec1fcfa9421096e5ad4e3b3bb5299a57f86790"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20221017-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20221017-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20221017-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20221017-N04"
+        objekt:
+          - "G-703"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 3
+        registernummer: 703
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N05"
+        objekt:
+          - "G-704"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 4
+        registernummer: 704
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N06"
+        objekt:
+          - "G-706"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 6
+        registernummer: 706
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N07"
+        objekt:
+          - "G-707"
+        text: "Brännbar vätska i dunk."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 7
+        registernummer: 707
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N08"
+        objekt:
+          - "G-710"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N09"
+        objekt:
+          - "G-711"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 11
+        registernummer: 711
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N10"
+        objekt:
+          - "G-715"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 15
+        registernummer: 715
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N11"
+        objekt:
+          - "G-727"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 27
+        registernummer: 727
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N12"
+        objekt:
+          - "G-735"
+        text: "Däck fler än fyra, förvaring (lite), egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 35
+        registernummer: 735
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N13"
+        objekt:
+          - "G-738"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 38
+        registernummer: 738
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N14"
+        objekt:
+          - "G-741"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 41
+        registernummer: 741
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N15"
+        objekt:
+          - "G-746"
+        text: "Däck fler än fyra."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 46
+        registernummer: 746
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N16"
+        objekt:
+          - "G-747"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 47
+        registernummer: 747
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N17"
+        objekt:
+          - "G-748"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 48
+        registernummer: 748
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N18"
+        objekt:
+          - "G-751"
+        text: "Egen belysning."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 51
+        registernummer: 751
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N19"
+        objekt:
+          - "G-758"
+        text: "Brännbar vätska."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 58
+        registernummer: 758
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N20"
+        objekt:
+          - "G-762"
+        text: "Förvaring (lite)."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 62
+        registernummer: 762
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N21"
+        objekt:
+          - "G-763"
+        text: "Bensindunk."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Äldre anmärkning återgiven utan ny garagekontroll"
+        ursprungligt_garagenummer: 63
+        registernummer: 763
+        ursprunglig_kontroll: "2021-04-06"
+      -
+        id: "B-SBA-20221017-N22"
+        objekt:
+          - "U-SKYDDSRUM-69"
+        text: "Brännbar vätska i förrådsgång i skyddsrum."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Kvarstår enligt protokollet"
+      -
+        id: "B-SBA-20221017-N23"
+        objekt:
+          - "F-655"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Kvarstår enligt protokollet"
+        ursprungligt_förrådsnummer: 55
+      -
+        id: "B-SBA-20221017-N24"
+        objekt:
+          - "F-635"
+        text: "För många bildäck enligt rapporten; rapporten anger högst fyra per förråd."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Kvarstår enligt protokollet"
+        ursprungligt_förrådsnummer: 635
+    omfattning: "Allmänna ytor"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    garagekontroll: "Ej utförd vid detta tillfälle; äldre lista återgiven."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20230427"
+    datum: "2023-04-27"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D010"
+      arkivsökväg: "SBA/Bogesholm_2023-04-27.pdf"
+      sha256: "dd4a4bbbb9b8fe74c93ffd6061dd1ecfbd23cf13ce567b15c75e51728802c6f2"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20230427-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20230427-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20230427-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20230427-N04"
+        objekt:
+          - "G-710"
+        text: "Egen belysning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+      -
+        id: "B-SBA-20230427-N05"
+        objekt:
+          - "G-721"
+        text: "Däck fler än fyra."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 21
+        registernummer: 721
+      -
+        id: "B-SBA-20230427-N06"
+        objekt:
+          - "G-761"
+        text: "Förvaring (lite)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 61
+        registernummer: 761
+      -
+        id: "B-SBA-20230427-N07"
+        objekt:
+          []
+        text: "En del garage har lite förvaring; inga ytterligare nummer anges."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        plats: "Ospecificerade garage"
+      -
+        id: "B-SBA-20230427-N08"
+        objekt:
+          - "F-655"
+        text: "För många bildäck i förråd i skyddsrum; originalets nummer 55 motsvarar 655 enligt beställaren."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Kvarstår enligt protokollet"
+        ursprungligt_förrådsnummer: 55
+    omfattning: "Allmänna ytor och garage"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20240529"
+    datum: "2024-05-29"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D011"
+      arkivsökväg: "SBA/Bogesholm_2024_05_29.pdf"
+      sha256: "abcfc3fa28d30fae180bd364acd35d880f16324451bf6c8d9bb2534c9a87baa2"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20240529-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20240529-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20240529-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20240529-N04"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Brandsläckare blockerad i gemensamhetslokalen."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Åtgärdad omgående vid kontrollen"
+        åtgärdsdatum: "2024-05-29"
+      -
+        id: "B-SBA-20240529-N05"
+        objekt:
+          - "F-609"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 609
+      -
+        id: "B-SBA-20240529-N06"
+        objekt:
+          - "G-741"
+        text: "Förgreningskablar och laddning."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 41
+        registernummer: 741
+      -
+        id: "B-SBA-20240529-N07"
+        objekt:
+          - "G-732"
+        text: "Belysning (lysrör)."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 32
+        registernummer: 732
+      -
+        id: "B-SBA-20240529-N08"
+        objekt:
+          - "G-710"
+        text: "Belysning (lysrör) och brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+      -
+        id: "B-SBA-20240529-N09"
+        objekt:
+          - "G-708"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 8
+        registernummer: 708
+      -
+        id: "B-SBA-20240529-N10"
+        objekt:
+          []
+        text: "Översyn av elektriska installationer rekommenderas i samband med takrenovering av garage."
+        källsida: 1
+        typ: "rekommendation"
+        status: "Okänd senare åtgärdsstatus"
+        plats: "Garage generellt"
+    omfattning: "Allmänna ytor och garage"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20250324"
+    datum: "2025-03-24"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Great Security"
+    dokument:
+      källa: "K-SBA-D001"
+      arkivsökväg: "SBA/Bogesholm 2025-03-24.pdf"
+      sha256: "903d59779fc1568b53b73722e54176f323a9e42eb0154768e3a73f53a4d3d42e"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20250324-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20250324-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20250324-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20250324-N04"
+        objekt:
+          - "F-604"
+        text: "Brännbar vätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 604
+      -
+        id: "B-SBA-20250324-N05"
+        objekt:
+          - "G-755"
+        text: "Spolarvätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 55
+        registernummer: 755
+      -
+        id: "B-SBA-20250324-N06"
+        objekt:
+          - "G-763"
+        text: "Spolarvätska i större dunk."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 63
+        registernummer: 763
+      -
+        id: "B-SBA-20250324-N07"
+        objekt:
+          - "G-706"
+        text: "Spolarvätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 6
+        registernummer: 706
+      -
+        id: "B-SBA-20250324-N08"
+        objekt:
+          - "G-708"
+        text: "Spolarvätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 8
+        registernummer: 708
+      -
+        id: "B-SBA-20250324-N09"
+        objekt:
+          - "G-710"
+        text: "Spolarvätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 10
+        registernummer: 710
+      -
+        id: "B-SBA-20250324-N10"
+        objekt:
+          - "G-713"
+        text: "Sprejflaskor."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 13
+        registernummer: 713
+      -
+        id: "B-SBA-20250324-N11"
+        objekt:
+          - "G-733"
+        text: "Spolarvätska."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 33
+        registernummer: 733
+      -
+        id: "B-SBA-20250324-N12"
+        objekt:
+          - "G-767"
+        text: "Bensindunk."
+        källsida: 1
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_garagenummer: 67
+        registernummer: 767
+    omfattning: "Allmänna ytor och garage"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."
+  -
+    id: "B-SBA-20250929"
+    datum: "2025-09-29"
+    typ: "Intern brandskyddskontroll"
+    utförare: "Kontrollant enligt original; företag inte uttryckligen angivet"
+    dokument:
+      källa: "K-SBA-D002"
+      arkivsökväg: "SBA/Bogesholm 2025-09-29.pdf"
+      sha256: "81e4e4ff4bba02a344a71c122ff69309278097921210bfe0ac1edb92ab6825bf"
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    noteringar:
+      -
+        id: "B-SBA-20250929-N01"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Handbrandsläckare anges finnas i gemensamhetslokal, vaktmästeri, pannrum och ospecificerade förråd."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet"
+      -
+        id: "B-SBA-20250929-N02"
+        objekt:
+          - "U-MILJOHUS-50"
+          - "U-MILJOHUS-60"
+          - "U-MILJOHUS-70"
+        text: "Punktsprinkler monterade i miljörum."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet; ingen installationsdag eller enskild sprinkleridentitet fastställd"
+      -
+        id: "B-SBA-20250929-N03"
+        objekt:
+          - "U-LOKAL-69"
+        text: "Timer monterad till spis och uttag i gemensamhetslokalen."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "Enligt protokollet"
+      -
+        id: "B-SBA-20250929-N04"
+        objekt:
+          - "F-605"
+        text: "Brännbar vätska."
+        källsida: 2
+        typ: "anmärkning"
+        status: "Okänd senare åtgärdsstatus"
+        ursprungligt_förrådsnummer: 605
+      -
+        id: "B-SBA-20250929-N05"
+        objekt:
+          - "U-LOKAL-69"
+          - "U-KONTOR-69"
+          - "U-PANNRUM-69"
+        text: "Seriekopplad brandvarning anges finnas i gemensamhetslokal, vaktmästeri, pannrum och vissa ospecificerade garagelängor. Uppkopplat till föreningsmedlemmar."
+        källsida: 1
+        typ: "kontrolluppgift"
+        status: "OK enligt protokollet; enskilda garagelängor ej identifierade"
+      -
+        id: "B-SBA-20250929-N06"
+        objekt:
+          []
+        text: "Rutiner för egenkontroll samt drift- och underhåll av brandskydd bör beskriva vad, vem, hur och hur ofta."
+        källsida: 2
+        typ: "rekommendation"
+        status: "Okänd senare åtgärdsstatus"
+        plats: "Föreningens SBA-organisation"
+    omfattning: "Allmänna ytor"
+    kontrollstatus: "Resultat per kontrollpunkt; ingen egen sammanvägd godkännandeklassning."
+    normalresultat: "Utrymningsdörrar, oberoende utrymning och fria utrymningsvägar; släckutrustning på plats, manometer, åtkomlighet och skyltning; ordning, elcentral och övriga punkter anges huvudsakligen OK med avvikelser och begränsningar nedan. Generella formuleringar om brandvarnare i bostäder är inte individuella lägenhetskontroller."
+    garagekontroll: "Ej kontrollerade 2025-09-29; planerad kontroll våren 2026 är inte styrkt utförd här."
+    organisationsnotering: "Brandrelaterad dokumentation, avtal och protokoll bör samlas i SBA-pärm enligt checklistan. Rekommendationer och rättsliga formuleringar återges som historiskt källinnehåll, inte som ny rättslig bedömning."

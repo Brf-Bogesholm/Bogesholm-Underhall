@@ -172,3 +172,20 @@ version: "1.0"
       - "K-LACK-VARME-D007"
       - "K-LACKSOKNING-KOMPLETTERING-20261113"
     kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-SBA-20171009"
+    datum: "2017-10-09"
+    åtgärd: "Intern brandskyddskontroll"
+    besiktning: "B-SBA-20171009"
+    objekt:
+      - "U-KONTOR-69"
+      - "U-LOKAL-69"
+      - "U-PANNRUM-69"
+    omfattning: "Allmänna ytor"
+    garagekontroll: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-SBA-20261113"
+      - "K-SBA-KOPPLING-20261113"
+    kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."
