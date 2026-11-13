@@ -1,0 +1,53 @@
+id: "IMPORT-2026-11-13-07"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-FAKTUROR-2026-11-11-07"
+    typ: "sju fakturaunderlag"
+    mottagen: "2026-11-11"
+    filer:
+      -
+        filnamn: "skanna(1).pdf"
+        sha256: "34e7db5cd90011f23992901f7e32b8112b772c9a807173e673304e00b80cdb7e"
+      -
+        filnamn: "3612811400.pdf"
+        sha256: "93d0323eb5543977b68cf579dcf3ebc4e094237f17154f47c2e894b75ac26815"
+      -
+        filnamn: "BFU_Faktura_3006729507_164.pdf"
+        sha256: "6cc2d6f63a142161918523cfe0064f7d5173a4438f1a57d1d6d70b9850be3277"
+      -
+        filnamn: "3224954200.pdf"
+        sha256: "03ae4f03548d3766080eb5dfbb03b14b4d8360e79a6b40f6f3c9a4a0252630a1"
+      -
+        filnamn: "invoice_Zko6HZcY.pdf"
+        sha256: "c38d85b4ad51a018406a2c60824c701baef329c7cd54c9988372ddf92dfe9ff7"
+      -
+        filnamn: "Faktura_7634_20261106-164918.pdf"
+        sha256: "0139138aa36973de8d3ad0234b07960531dd9c36a85ad1bfd2e133457136481a"
+      -
+        filnamn: "Faktura1180.pdf"
+        sha256: "cfaec68148471ab8157e0c3e2ede305ea90ecdcb041ec48f55ccbfbafcde1b1a"
+  -
+    id: "K-KOMPLETTERING-2026-11-13-07"
+    typ: "beställaruppgifter"
+    datum: "2026-11-13"
+    uppgifter:
+      - "Net Consulting-fakturan är daterad 2026-11-05. Tidigare läsning av årtalet var felaktig."
+      - "Luftpåfyllningen på faktura 7634 gäller expansionskärlet till avgasaren."
+      - "Caiflow avser administration av elbilsladdarna inklusive sammanställning av fakturaunderlag."
+kontroll:
+  antal_fakturor: 7
+  antal_åtgärder: 3
+  nya_tillgångar: 2
+  energiperioder: 2
+  abonnemang: 1
+  att_betala: 74715
+  valuta: "SEK"
+kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
+öppna_uppgifter:
+  - "Separat utförande-/installationsdatum för låsarbetet är okänt; inköpsdatum använder bekräftat fakturadatum."
+  - "Net Consultings organisationsnummer och förfallodatum har inte registrerats från det otydliga underlaget."
+  - "Caiflows tre rader är inte fördelade på månader eller individuella laddare."
+  - "Gemensam arbetstid och servicebil på Alex-fakturan har inte kostnadsfördelats mellan åtgärderna."
+  - "Serienummer och garantiuppgifter för de inköpta komponenterna saknas."
+  - "Beständiga SharePoint-länkar saknas; arkivering och betalningsstatus är inte verifierade."

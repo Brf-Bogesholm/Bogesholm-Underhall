@@ -59,3 +59,23 @@ På faktura 1005437 summerar ursprungliga radbelopp till 7373,75 kr och beställ
 ## Vattenledningsbesiktning, faktura 7594
 
 [Besiktning](../besiktningar/2026/vattenledningar.yaml), [78 lägenhetskopplingar](../lagenheter/besiktningskopplingar-2026.yaml) och [källor](../inventering/importer/faktura-7594-2026-10-27.yaml). En gemensam händelse omfattar samtliga lägenheter, utan antagen kostnadsfördelning. Rapport inväntas. Fakturans arbetsdatum 15, 16 och 19 oktober bevaras; registrerat utförandedatum 22 oktober 2026 är enligt beställarens uttryckliga anvisning.
+
+## Sjunde registreringsomgången, 13 november 2026
+
+[Källor och kompletteringar](../inventering/importer/fakturor-2026-11-13-07.yaml) omfattar sju fakturor om totalt **74 715 kr inklusive moms och avrundning**:
+
+| Faktura | Innehåll | Att betala, kr |
+| --- | --- | ---: |
+| Net Consulting 20180400 | Motorlås och kabel till Mellangångens dörr mot skyddsrummet | 6 419 |
+| Öresundskraft 3612811400 | Biogashandel, oktober | 23 134 |
+| Weum 3006729507 | Gasnät, oktober | 8 121 |
+| Skånska Energi 3224954200 | Elnät och avdrag för nätersättning, oktober | 10 384 |
+| Bixia 26110853503743 | Elhandel, oktober | 20 133 |
+| Alex Rörtjänst 7634 | Termostat i kontoret och luft i avgasarens expansionskärl, utfört 4 november | 1 784 |
+| Caiflow 1180 | Administration av elbilsladdare inklusive fakturaunderlag, november–januari | 4 740 |
+
+Net Consultings fakturadatum är **2026-11-05**, bekräftat av beställaren efter felaktig initial läsning av skanningen. Separat datum för reparation och installation saknas. Utläggsblanketten avser samma kostnad och skapar ingen extra faktura. Personuppgifter och privata kontouppgifter från blanketten publiceras inte.
+
+Alex-fakturan kopplas till kontorets termostat och det befintliga lilla expansionskärlet till Spirotech S400. Arbete och servicebil är gemensamma för de två åtgärderna; de har inte kostnadsfördelats. Själva avgasaren får ingen antagen servicehändelse.
+
+De fyra energifakturorna är driftkostnader, inte servicehändelser. [Energiregistret](../drift/energi/register.yaml) har en gemensam förbrukning per energislag och period så att handel och nät inte ger dubbelräknad förbrukning. Inmatad el är inte samma sak som total solelproduktion. [Caiflow-abonnemanget](../drift/abonnemang/register.yaml) bevarar tre fakturarader utan att anta vilka individuella laddare eller månader respektive rad avser.

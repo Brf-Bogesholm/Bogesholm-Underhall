@@ -6,6 +6,7 @@ registreringsomgångar:
   - "2026-10-23-04"
   - "2026-10-23-05"
   - "2026-10-27-06"
+  - "2026-11-13-07"
 fakturor:
   -
     id: "F-2026-7150"
@@ -1672,3 +1673,411 @@ fakturor:
     källor:
       - "K-FAKTURA-7594"
       - "K-KOMPLETTERING-7594-20261027"
+  -
+    id: "F-2026-20180400"
+    fakturanummer: "20180400"
+    leverantör: "Net Consulting"
+    organisationsnummer: null
+    fakturadatum: "2026-11-05"
+    förfallodatum: null
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 5135
+    moms: 1283.75
+    öresavrundning: 0.25
+    att_betala: 6419
+    kategori: "reparation och materialinköp"
+    dokument:
+      filnamn: "skanna(1).pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-20180400-R1"
+        benämning: "Assa 580 motorlås"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 4735
+        belopp_exklusive_moms: 4735
+        artikelnummer: "25129"
+      -
+        id: "F-2026-20180400-R2"
+        benämning: "Assa, Kabel EA220 10m för EL580"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 400
+        artikelnummer: "25247"
+    åtgärder:
+      - "A-2026-20180400-1"
+    fakturadatumkälla: "K-KOMPLETTERING-2026-11-13-07"
+    förfallodatumkommentar: "Tydlig läsning av årtalet saknas; har inte härletts från betalningsvillkoret."
+    betalningsvillkor: "10 dagar netto"
+    objekt:
+      - "H-69"
+      - "TI-MOTORLAS-MELLANGANG-001"
+    tillgångar:
+      - "TI-MOTORLAS-MELLANGANG-001"
+    kommentar: "Dörren till Mellangången, mot skyddsrummet. Fakturadatum 2026-11-05 bekräftat av beställaren efter felaktig initial läsning av skanningen. Utläggsblanketten daterad 2026-11-05 är administrativt underlag till samma kostnad, inte en andra faktura. Organisationsnummer har inte registrerats från det otydliga underlaget. Separat utförande-/installationsdatum är okänt."
+  -
+    id: "F-2026-3612811400"
+    fakturanummer: "3612811400"
+    leverantör: "Öresundskraft Marknad AB"
+    organisationsnummer: "556519-7679"
+    fakturadatum: "2026-11-10"
+    förfallodatum: "2026-12-10"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 18507.23
+    moms: 4626.81
+    öresavrundning: -0.04
+    att_betala: 23134
+    kategori: "drift – gashandel"
+    dokument:
+      filnamn: "3612811400.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-3612811400-R1"
+        benämning: "Energipris Biogas"
+        antal: 9203
+        enhet: "kWh"
+        à_pris_exklusive_moms: 1.58
+        belopp_exklusive_moms: 14540.74
+      -
+        id: "F-2026-3612811400-R2"
+        benämning: "Energiskatt"
+        antal: 9203
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.431
+        belopp_exklusive_moms: 3966.49
+    åtgärder:
+      []
+    ocr: "3612811400"
+    fakturautställare: "Öresundskraft AB"
+    fakturautställare_organisationsnummer: "559443-4069"
+    kommentar: "Gashandel utförd av Öresundskraft Marknad AB; fordran överlåten till Öresundskraft AB."
+    avtalsnummer: "10644"
+    kontraktsnummer: "8776532"
+    produkt: "Rörligt pris Biogas"
+    period_från: "2026-10-01"
+    period_till: "2026-10-31"
+    objekt:
+      - "H-69"
+    placering: "Högalidsvägen 69"
+    energipost: "E-2026-10-H69-GAS"
+  -
+    id: "F-2026-3006729507"
+    fakturanummer: "3006729507"
+    leverantör: "Weum Gas AB"
+    organisationsnummer: "556015-9492"
+    fakturadatum: "2026-11-10"
+    förfallodatum: "2026-12-10"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 6496.65
+    moms: 1624.16
+    öresavrundning: 0.19
+    att_betala: 8121
+    kategori: "drift – gasnät"
+    dokument:
+      filnamn: "BFU_Faktura_3006729507_164.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-3006729507-R1"
+        benämning: "Fast pris"
+        antal: 31
+        enhet: "dagar"
+        à_pris_exklusive_moms: null
+        belopp_exklusive_moms: 1241.33
+        pris_enligt_faktura: "1241,33 kr/mån"
+      -
+        id: "F-2026-3006729507-R2"
+        benämning: "Gasöverföringsavgift"
+        antal: 9203
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.2607
+        belopp_exklusive_moms: 2399.22
+      -
+        id: "F-2026-3006729507-R3"
+        benämning: "Myndighetsavgifter"
+        antal: 9203
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.001
+        belopp_exklusive_moms: 9.2
+      -
+        id: "F-2026-3006729507-R4"
+        benämning: "Abonnemangsavgift"
+        antal: 31
+        enhet: "dagar"
+        à_pris_exklusive_moms: null
+        belopp_exklusive_moms: 2846.9
+        pris_enligt_faktura: "419 kr/kW/år, 80 kW, 31 dagar"
+    åtgärder:
+      []
+    ocr: "3006729507"
+    avtalsnummer: "6000871"
+    abonnerad_effekt_kW: 80
+    period_från: "2026-10-01"
+    period_till: "2026-10-31"
+    objekt:
+      - "H-69"
+    placering: "Högalidsvägen 69"
+    energipost: "E-2026-10-H69-GAS"
+  -
+    id: "F-2026-3224954200"
+    fakturanummer: "3224954200"
+    leverantör: "Skånska Energi Nät AB"
+    organisationsnummer: "556497-5232"
+    fakturadatum: "2026-11-09"
+    förfallodatum: "2026-12-09"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 8307.54
+    moms: 2076.89
+    öresavrundning: -0.43
+    att_betala: 10384
+    kategori: "drift – elnät och nätersättning"
+    dokument:
+      filnamn: "3224954200.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-3224954200-R1"
+        benämning: "Fast avgift elnät 63A"
+        antal: 31
+        enhet: "dagar"
+        à_pris_exklusive_moms: null
+        belopp_exklusive_moms: 1850.83
+        pris_enligt_faktura: "21792 kr/år"
+      -
+        id: "F-2026-3224954200-R2"
+        benämning: "Elöverföring"
+        antal: 10994.692
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.23
+        belopp_exklusive_moms: 2528.33
+      -
+        id: "F-2026-3224954200-R3"
+        benämning: "Energiskatt"
+        antal: 10994.692
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.36
+        belopp_exklusive_moms: 3958.09
+      -
+        id: "F-2026-3224954200-R4"
+        benämning: "Nätersättning för inmatad el"
+        antal: -213.038
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.1394
+        belopp_exklusive_moms: -29.71
+    åtgärder:
+      []
+    fakturautställare: "Skånska Energi AB"
+    fakturautställare_organisationsnummer: "556013-6391"
+    kommentar: "Elnät och nätersättning från Skånska Energi Nät AB faktureras genom Skånska Energi AB. Kredit för nätersättning ingår redan i fakturasumman."
+    huvudsäkring_A: 63
+    period_från: "2026-10-01"
+    period_till: "2026-10-31"
+    objekt:
+      - "H-69"
+    placering: "Högalidsvägen 69"
+    energipost: "E-2026-10-H69-EL"
+  -
+    id: "F-2026-26110853503743"
+    fakturanummer: "26110853503743"
+    leverantör: "Bixia AB"
+    organisationsnummer: "556544-2638"
+    fakturadatum: "2026-11-06"
+    förfallodatum: "2026-12-07"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 16106.19
+    moms: 4026.55
+    öresavrundning: 0.26
+    att_betala: 20133
+    kategori: "drift – elhandel"
+    dokument:
+      filnamn: "invoice_Zko6HZcY.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-26110853503743-R1"
+        benämning: "El"
+        antal: 10994.692
+        enhet: "kWh"
+        à_pris_exklusive_moms: 1.434
+        belopp_exklusive_moms: 15776.35
+      -
+        id: "F-2026-26110853503743-R2"
+        benämning: "El, påslag"
+        antal: 10994.692
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0.03
+        belopp_exklusive_moms: 329.84
+      -
+        id: "F-2026-26110853503743-R3"
+        benämning: "Bixia 100% förnybar el"
+        antal: 10994.692
+        enhet: "kWh"
+        à_pris_exklusive_moms: 0
+        belopp_exklusive_moms: 0
+      -
+        id: "F-2026-26110853503743-R4"
+        benämning: "Månadsavgift"
+        antal: 1
+        enhet: "månad"
+        à_pris_exklusive_moms: 0
+        belopp_exklusive_moms: 0
+    åtgärder:
+      []
+    produkt: "Bixia Kvartspris"
+    kommentar: "Fakturerat genom Billogram. Fakturan anger att pris och förbrukning kan innehålla fler decimaler än vad som visas; fakturerat radbelopp bevaras."
+    period_från: "2026-10-01"
+    period_till: "2026-10-31"
+    objekt:
+      - "H-69"
+    placering: "Högalidsvägen 69"
+    energipost: "E-2026-10-H69-EL"
+  -
+    id: "F-2026-7634"
+    fakturanummer: "7634"
+    leverantör: "Alex Rörtjänst AB"
+    organisationsnummer: "559114-5890"
+    fakturadatum: "2026-11-06"
+    förfallodatum: "2026-12-06"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 1427.05
+    moms: 356.76
+    öresavrundning: 0.19
+    att_betala: 1784
+    kategori: "service och materialinköp"
+    dokument:
+      filnamn: "Faktura_7634_20261106-164918.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-7634-R1"
+        benämning: "2026-11-04 - Satt termostat i kontoret och fyllt på luft till exp"
+        antal: 1.5
+        enhet: "tim"
+        à_pris_exklusive_moms: 550
+        belopp_exklusive_moms: 825
+      -
+        id: "F-2026-7634-R2"
+        benämning: "Servicebil"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 400
+      -
+        id: "F-2026-7634-R3"
+        benämning: "TERMOSTAT EVOSENSE 0-28°C"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 202.05
+        belopp_exklusive_moms: 202.05
+    åtgärder:
+      - "A-2026-7634-1"
+      - "A-2026-7634-2"
+    projekt: "26797"
+    projektbeskrivning: "Rad kontor avgasare"
+    arbetsdatum_enligt_faktura:
+      - "2026-11-04"
+    tillgångar:
+      - "TI-TERMOSTAT-KONTOR-001"
+    objekt:
+      - "H-69"
+      - "TI-TERMOSTAT-KONTOR-001"
+      - "TI-EXPANSIONSKARL-69-S400-001"
+  -
+    id: "F-2026-1180"
+    fakturanummer: "1180"
+    leverantör: "Caiflow AB"
+    organisationsnummer: "559497-5772"
+    fakturadatum: "2026-11-05"
+    förfallodatum: "2026-12-05"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 3792
+    moms: 948
+    öresavrundning: 0
+    att_betala: 4740
+    kategori: "drift – administration av elbilsladdare"
+    dokument:
+      filnamn: "Faktura1180.pdf"
+      arkiv: "SharePoint"
+      arkivlänk: null
+      arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    datastatus: "verifierad"
+    rader:
+      -
+        id: "F-2026-1180-R1"
+        benämning: "Tjänstepaket Silver"
+        antal: 16
+        enhet: "st"
+        à_pris_exklusive_moms: 79
+        belopp_exklusive_moms: 1264
+      -
+        id: "F-2026-1180-R2"
+        benämning: "Tjänstepaket Silver"
+        antal: 16
+        enhet: "st"
+        à_pris_exklusive_moms: 79
+        belopp_exklusive_moms: 1264
+      -
+        id: "F-2026-1180-R3"
+        benämning: "Tjänstepaket Silver"
+        antal: 16
+        enhet: "st"
+        à_pris_exklusive_moms: 79
+        belopp_exklusive_moms: 1264
+    åtgärder:
+      []
+    ocr: "569592540570859"
+    period_från: "2026-11-01"
+    period_till: "2027-01-31"
+    tjänst: "Administration av elbilsladdare inklusive sammanställning av fakturaunderlag"
+    tjänstkälla: "K-KOMPLETTERING-2026-11-13-07"
+    abonnemang: "AB-CAIFLOW-SILVER-001"
+    kommentar: "Tre identiska fakturarader bevaras. Fördelningen av raderna på månader och kopplingen till individuella laddare är inte bekräftade. Fakturan är en tjänstekostnad, inte ett inköp av 48 laddare."

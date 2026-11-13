@@ -1,0 +1,25 @@
+version: "1.0"
+kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
+abonnemang:
+  -
+    id: "AB-CAIFLOW-SILVER-001"
+    namn: "Caiflow Tjänstepaket Silver"
+    leverantör: "Caiflow AB"
+    organisationsnummer: "559497-5772"
+    tjänst: "Administration av elbilsladdare inklusive sammanställning av fakturaunderlag"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    individuella_laddarobjekt:
+      []
+    objektkopplingstatus: "Individuella laddare och platser är inte verifierade."
+    fakturaperioder:
+      -
+        från: "2026-11-01"
+        till: "2027-01-31"
+        faktura: "F-2026-1180"
+        fakturarader:
+          - "F-2026-1180-R1"
+          - "F-2026-1180-R2"
+          - "F-2026-1180-R3"
+    kommentar: "Fakturan har tre rader med vardera 16 st à 79 kr exklusive moms. Det är inte bekräftat vilken månad varje rad avser eller vilka individuella laddare som omfattas. Ingen automatisk förnyelse eller längre avtalstid har antagits."

@@ -1,0 +1,45 @@
+version: "1.0"
+kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
+perioder:
+  -
+    id: "E-2026-10-H69-GAS"
+    energislag: "gas"
+    period_från: "2026-10-01"
+    period_till: "2026-10-31"
+    objekt:
+      - "H-69"
+    placering: "Högalidsvägen 69"
+    anläggningsid: "0040009395"
+    mätarnummer: "G132946"
+    förbrukning_kWh: 9203
+    fakturor:
+      - "F-2026-3612811400"
+      - "F-2026-3006729507"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    kommentar: "En gemensam förbrukningspost för handel och nät. Förbrukningen får inte summeras en gång per faktura."
+    anläggningsid_gashandel: "ZSS0040009395"
+    gasvolym_Nm3: 853.571
+    värmevärde_kWh_per_Nm3: 10.782
+  -
+    id: "E-2026-10-H69-EL"
+    energislag: "el"
+    period_från: "2026-10-01"
+    period_till: "2026-10-31"
+    objekt:
+      - "H-69"
+    placering: "Högalidsvägen 69"
+    anläggningsid: "735999187000860875"
+    mätarnummer: "13125394166900029628"
+    förbrukning_kWh: 10994.692
+    fakturor:
+      - "F-2026-3224954200"
+      - "F-2026-26110853503743"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    kommentar: "En gemensam förbrukningspost för handel och nät. Förbrukningen får inte summeras en gång per faktura."
+    inmatning_kWh: 213.038
+    anläggningsid_inmatning: "735999187000986933"
+    inmatningskommentar: "Inmatad el på nätet, inte total solelproduktion."

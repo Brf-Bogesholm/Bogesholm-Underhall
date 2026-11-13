@@ -958,3 +958,63 @@ version: "1.0"
     källor:
       - "K-FAKTURA-7594"
       - "K-KOMPLETTERING-7594-20261027"
+  -
+    id: "A-2026-20180400-1"
+    datum: null
+    åtgärd: "Reparation av dörren till Mellangången, mot skyddsrummet; inköp av Assa 580 motorlås och kabel EA220 10m."
+    objekt:
+      - "H-69"
+      - "TI-MOTORLAS-MELLANGANG-001"
+    placering: "Dörren till Mellangången, mot skyddsrummet, Högalidsvägen 69"
+    faktura: "F-2026-20180400"
+    fakturarader:
+      - "F-2026-20180400-R1"
+      - "F-2026-20180400-R2"
+    utförare: "Net Consulting"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
+    kostnadsfördelning: null
+    datumkommentar: "Fakturadatum bekräftat till 2026-11-05; separat utförandedatum är okänt. Installation eller byte av den specificerade låskomponenten har inte bekräftats separat."
+  -
+    id: "A-2026-7634-1"
+    datum: "2026-11-04"
+    åtgärd: "Montering av termostat EVOSENSE 0–28°C i kontoret."
+    objekt:
+      - "H-69"
+      - "TI-TERMOSTAT-KONTOR-001"
+    placering: "Styrelsens kontor, Högalidsvägen 69"
+    faktura: "F-2026-7634"
+    fakturarader:
+      - "F-2026-7634-R1"
+      - "F-2026-7634-R2"
+      - "F-2026-7634-R3"
+    utförare: "Alex Rörtjänst AB"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
+    kostnadsfördelning: null
+    datumkälla: "K-FAKTUROR-2026-11-11-07"
+    kommentar: "Arbetskostnad och servicebil delas med luftpåfyllningen och har inte fördelats."
+  -
+    id: "A-2026-7634-2"
+    datum: "2026-11-04"
+    åtgärd: "Påfyllning av luft i det lilla expansionskärlet till Spirotech S400-avgasaren."
+    objekt:
+      - "TI-EXPANSIONSKARL-69-S400-001"
+    placering: "Undercentralen i pannrummet, Högalidsvägen 69"
+    faktura: "F-2026-7634"
+    fakturarader:
+      - "F-2026-7634-R1"
+      - "F-2026-7634-R2"
+    utförare: "Alex Rörtjänst AB"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+    kostnadsprincip: "Kostnader summeras endast från unika fakturor. Objekt, åtgärder och driftposter är hänvisningar, inte ytterligare kostnader."
+    kostnadsfördelning: null
+    datumkälla: "K-FAKTUROR-2026-11-11-07"
+    objektkopplingkälla: "K-KOMPLETTERING-2026-11-13-07"
+    kommentar: "Arbetskostnad och servicebil delas med termostatmonteringen och har inte fördelats. Ingen kontroll eller service av själva avgasaren har antagits."

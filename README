@@ -15,6 +15,7 @@ Det ersätter inte föreningens dokumentarkiv. Originaldokument som fakturor, ri
 ## Innehåll
 
 - [`fakturor/`](fakturor/README.md) – fakturauppgifter, tillgångskopplingar och genomförda åtgärder.
+- [`drift/`](drift/README.md) – energiperioder och administrationstjänster med hänvisning till fakturor.
 
 - [`modell/`](modell/README.md) – gemensam objektmodell, fältregler och relationer.
 - [`byggnader/`](byggnader/README.md) – 15 byggnadsobjekt, inklusive föreningslokalen i hus 69.

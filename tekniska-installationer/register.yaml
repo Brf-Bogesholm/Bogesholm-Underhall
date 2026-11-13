@@ -77,9 +77,12 @@ objekt:
         objekt: "TI-AVGASARE-69-S400-001"
     underhållshistorik:
       - "A-2026-7313-3"
+      - "A-2026-7634-2"
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
   -
     id: "TI-VP-06414119101020"
     typ: "värmepump"
@@ -211,3 +214,56 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-05"
       - "K-KOMPLETTERING-2026-10-23-05"
+  -
+    id: "TI-MOTORLAS-MELLANGANG-001"
+    typ: "motorlås"
+    namn: "Assa 580 motorlås till Mellangångens dörr mot skyddsrummet"
+    datastatus: "verifierad"
+    placering: "Avsett för dörren till Mellangången, mot skyddsrummet, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Assa"
+      modell: "580"
+      serienummer: null
+      garanti: null
+      inköpsdatum: "2026-11-05"
+      inköpsdatumkälla: "Fakturadatum, bekräftat av beställaren"
+      installationsdatum: null
+      inköpsfaktura: "F-2026-20180400"
+      fakturarad: "F-2026-20180400-R1"
+      tillbehör:
+        -
+          benämning: "Assa Kabel EA220 10m för EL580"
+          fakturarad: "F-2026-20180400-R2"
+      kommentar: "Inköp specificerat på reparationsunderlaget. Installations-/bytesdatum och eventuell tidigare låskomponent är okända."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-20180400-1"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
+  -
+    id: "TI-TERMOSTAT-KONTOR-001"
+    typ: "termostat"
+    namn: "EVOSENSE 0–28°C, kontoret"
+    datastatus: "verifierad"
+    placering: "Styrelsens kontor, Högalidsvägen 69"
+    egenskaper:
+      modell: "EVOSENSE 0–28°C"
+      serienummer: null
+      garanti: null
+      inköpsfaktura: "F-2026-7634"
+      fakturarad: "F-2026-7634-R3"
+      installationsdatum: "2026-11-04"
+      datumkälla: "K-FAKTUROR-2026-11-11-07"
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-7634-1"
+    källor:
+      - "K-FAKTUROR-2026-11-11-07"
+      - "K-KOMPLETTERING-2026-11-13-07"
