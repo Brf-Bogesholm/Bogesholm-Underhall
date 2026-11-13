@@ -1,0 +1,5242 @@
+version: "1.0"
+rapportuttag: "2017-05-12"
+kontroller:
+  -
+    id: "B-LGH-2017-16-015096"
+    kontrollreferens: "16-015096"
+    objekt: "L-118-1-0001"
+    adress: "Högalidsvägen 79F"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 1
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015096-R01"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Vattenlås läcker."
+        källsida: 1
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015096-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Radiator"
+        originalnotering: "Rost på underkant radiator. Bör slipas och målas."
+        källsida: 1
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015096-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 1
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015097"
+    kontrollreferens: "16-015097"
+    objekt: "L-118-1-0002"
+    adress: "Högalidsvägen 79E"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 1
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015097-R01"
+        klassning: "Klass A"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Doslock saknas på vägg"
+        källsida: 1
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015097-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 1
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015097-R03"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Nedre kakelraden i duschdelen. Inga synliga skador"
+        källsida: 1
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000753"
+    kontrollreferens: "17-000753"
+    objekt: "L-118-1-0002"
+    adress: "Högalidsvägen 79E"
+    datum: "2017-03-10"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 1
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000753-R01"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Nedre kakelraden i duschdelen. Inga synliga skador"
+        källsida: 1
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015097-R03"
+      -
+        id: "B-LGH-2017-17-000753-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 1
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015097-R02"
+      -
+        id: "B-LGH-2017-17-000753-R03"
+        klassning: "OK"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Doslock saknas på vägg"
+        källsida: 1
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015097-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015098"
+    kontrollreferens: "16-015098"
+    objekt: "L-118-1-0003"
+    adress: "Högalidsvägen 79D"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 1
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015098-R01"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 1
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015098-R02"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 1
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015099"
+    kontrollreferens: "16-015099"
+    objekt: "L-118-1-0004"
+    adress: "Högalidsvägen 79C"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 1
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015099-R01"
+        klassning: "Klass B"
+        rum: "Grovkök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Kranpip trög"
+        källsida: 1
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015100"
+    kontrollreferens: "16-015100"
+    objekt: "L-118-1-0005"
+    adress: "Högalidsvägen 79B"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 2
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015100-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Avstängningsventil sitter fast."
+        källsida: 2
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015100-R02"
+        klassning: "Klass C"
+        rum: "Kök"
+        byggnadsdel: "Läckageskydd"
+        originalnotering: "Kan ej kontrollera om läckageskydd finns under diskmaskin."
+        källsida: 2
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015100-R03"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Jordat eluttag vid tv saknar jord."
+        källsida: 2
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000621"
+    kontrollreferens: "17-000621"
+    objekt: "L-118-1-0005"
+    adress: "Högalidsvägen 79B"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 2
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000621-R01"
+        klassning: "Klass C"
+        rum: "Kök"
+        byggnadsdel: "Läckageskydd"
+        originalnotering: "Kan ej kontrollera om läckageskydd finns under diskmaskin."
+        källsida: 2
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015100-R02"
+      -
+        id: "B-LGH-2017-17-000621-R02"
+        klassning: "OK"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Jordat eluttag vid tv saknar jord."
+        källsida: 2
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015100-R03"
+      -
+        id: "B-LGH-2017-17-000621-R03"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Avstängningsventil sitter fast."
+        källsida: 2
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015100-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015101"
+    kontrollreferens: "16-015101"
+    objekt: "L-118-1-0006"
+    adress: "Högalidsvägen 79A"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 2
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015101-R01"
+        klassning: "Klass B"
+        rum: "Grovkök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Kranpip trög"
+        källsida: 2
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015101-R02"
+        klassning: "Klass A"
+        rum: "Rum 3"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Kabel som kommer ifrån uttag är inte riktigt uppfäst och ansluten"
+        källsida: 2
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015101-R03"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "El"
+        originalnotering: "Kabel till belysning över vask ej riktigt ansluten och uppfäst"
+        källsida: 2
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000622"
+    kontrollreferens: "17-000622"
+    objekt: "L-118-1-0006"
+    adress: "Högalidsvägen 79A"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 2
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000622-R01"
+        klassning: "OK"
+        rum: "Rum 3"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Kabel som kommer ifrån uttag är inte riktigt uppfäst och ansluten"
+        källsida: 2
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015101-R02"
+      -
+        id: "B-LGH-2017-17-000622-R02"
+        klassning: "Klass B"
+        rum: "Grovkök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Kranpip trög"
+        källsida: 2
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015101-R01"
+      -
+        id: "B-LGH-2017-17-000622-R03"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "El"
+        originalnotering: "Kabel till belysning över vask ej riktigt ansluten och uppfäst"
+        källsida: 2
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015101-R03"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015102"
+    kontrollreferens: "16-015102"
+    objekt: "L-118-1-0007"
+    adress: "Högalidsvägen 77E"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 2
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015102-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 2
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015102-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Förhöjt fuktvärde i dusch. Vidare undersökning rek."
+        källsida: 2
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015103"
+    kontrollreferens: "16-015103"
+    objekt: "L-118-1-0008"
+    adress: "Högalidsvägen 77D"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 3
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015103-R01"
+        klassning: "Klass A"
+        rum: "Grovkök"
+        byggnadsdel: "El"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 3
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015103-R02"
+        klassning: "Klass A"
+        rum: "Hall 1"
+        byggnadsdel: "El"
+        originalnotering: "Ej jordade uttag vid ledande golv"
+        källsida: 3
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000623"
+    kontrollreferens: "17-000623"
+    objekt: "L-118-1-0008"
+    adress: "Högalidsvägen 77D"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 3
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000623-R01"
+        klassning: "OK"
+        rum: "Grovkök"
+        byggnadsdel: "El"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 3
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015103-R01"
+      -
+        id: "B-LGH-2017-17-000623-R02"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "El"
+        originalnotering: "Ej jordade uttag vid ledande golv"
+        källsida: 3
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015103-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015104"
+    kontrollreferens: "16-015104"
+    objekt: "L-118-1-0009"
+    adress: "Högalidsvägen 77C"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 3
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015105"
+    kontrollreferens: "16-015105"
+    objekt: "L-118-1-0010"
+    adress: "Högalidsvägen 77B"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 3
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015106"
+    kontrollreferens: "16-015106"
+    objekt: "L-118-1-0011"
+    adress: "Högalidsvägen 77A"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 3
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015106-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 3
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015106-R02"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 3
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015106-R03"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Avstängningsventil sitter fast."
+        källsida: 3
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015107"
+    kontrollreferens: "16-015107"
+    objekt: "L-118-1-0012"
+    adress: "Högalidsvägen 71A"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 3
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015108"
+    kontrollreferens: "16-015108"
+    objekt: "L-118-1-0013"
+    adress: "Högalidsvägen 71B"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 4
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015108-R01"
+        klassning: "Klass A"
+        rum: "Hall 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ledande golv men ej jordade uttag."
+        källsida: 4
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015108-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 4
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015108-R03"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 4
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000624"
+    kontrollreferens: "17-000624"
+    objekt: "L-118-1-0013"
+    adress: "Högalidsvägen 71B"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 4
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000624-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 4
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015108-R03"
+      -
+        id: "B-LGH-2017-17-000624-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 4
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015108-R02"
+      -
+        id: "B-LGH-2017-17-000624-R03"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ledande golv men ej jordade uttag."
+        källsida: 4
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015108-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015109"
+    kontrollreferens: "16-015109"
+    objekt: "L-118-1-0014"
+    adress: "Högalidsvägen 71C"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 4
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015109-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Saknas"
+        källsida: 4
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015109-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Vägg"
+        originalnotering: "Skruvhål i duschutrymme"
+        källsida: 4
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015109-R03"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Jordat uttag saknar jord"
+        källsida: 4
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000625"
+    kontrollreferens: "17-000625"
+    objekt: "L-118-1-0014"
+    adress: "Högalidsvägen 71C"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 4
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000625-R01"
+        klassning: "OK"
+        rum: "Rum 1"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Jordat uttag saknar jord"
+        källsida: 4
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015109-R03"
+      -
+        id: "B-LGH-2017-17-000625-R02"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Saknas"
+        källsida: 4
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015109-R01"
+      -
+        id: "B-LGH-2017-17-000625-R03"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Vägg"
+        originalnotering: "Skruvhål i duschutrymme"
+        källsida: 4
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015109-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015110"
+    kontrollreferens: "16-015110"
+    objekt: "L-118-1-0015"
+    adress: "Högalidsvägen 71D"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 4
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015111"
+    kontrollreferens: "16-015111"
+    objekt: "L-118-1-0016"
+    adress: "Högalidsvägen 71E"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 5
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015112"
+    kontrollreferens: "16-015112"
+    objekt: "L-118-1-0017"
+    adress: "Högalidsvägen 71F"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 5
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015112-R01"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Lock på kopplingsdosa saknas."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015112-R02"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag ovan vask, fas på skyddsjord eller två stift."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015112-R03"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Jordat eluttag saknar jord."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015112-R04"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 5
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015112-R05"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000626"
+    kontrollreferens: "17-000626"
+    objekt: "L-118-1-0017"
+    adress: "Högalidsvägen 71F"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 5
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000626-R01"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015112-R05"
+      -
+        id: "B-LGH-2017-17-000626-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag ovan vask, fas på skyddsjord eller två stift."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015112-R02"
+      -
+        id: "B-LGH-2017-17-000626-R03"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 5
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015112-R04"
+      -
+        id: "B-LGH-2017-17-000626-R04"
+        klassning: "OK"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Jordat eluttag saknar jord."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015112-R03"
+      -
+        id: "B-LGH-2017-17-000626-R05"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Lock på kopplingsdosa saknas."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015112-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015113"
+    kontrollreferens: "16-015113"
+    objekt: "L-118-1-0018"
+    adress: "Högalidsvägen 71G"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 5
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015113-R01"
+        klassning: "Klass B"
+        rum: "Rum 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Saknas"
+        källsida: 5
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015114"
+    kontrollreferens: "16-015114"
+    objekt: "L-118-1-0019"
+    adress: "Högalidsvägen 71H"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 5
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015114-R01"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Skydd saknas på lysrörsarmatur."
+        källsida: 5
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015114-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 5
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015115"
+    kontrollreferens: "16-015115"
+    objekt: "L-118-1-0020"
+    adress: "Högalidsvägen 75F"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 6
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015115-R01"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Saknar lock"
+        källsida: 6
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015115-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Belysning"
+        originalnotering: "Saknar kupor"
+        källsida: 6
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000627"
+    kontrollreferens: "17-000627"
+    objekt: "L-118-1-0020"
+    adress: "Högalidsvägen 75F"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 6
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000627-R01"
+        klassning: "OK"
+        rum: "Rum 1"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Saknar lock"
+        källsida: 6
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015115-R01"
+      -
+        id: "B-LGH-2017-17-000627-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Belysning"
+        originalnotering: "Saknar kupor"
+        källsida: 6
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015115-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015116"
+    kontrollreferens: "16-015116"
+    objekt: "L-118-1-0021"
+    adress: "Högalidsvägen 75E"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 6
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015116-R01"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 6
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015116-R02"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 6
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015116-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 6
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015117"
+    kontrollreferens: "16-015117"
+    objekt: "L-118-1-0022"
+    adress: "Högalidsvägen 75D"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 6
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015117-R01"
+        klassning: "Klass B"
+        rum: "Rum 3"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 6
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015118"
+    kontrollreferens: "16-015118"
+    objekt: "L-118-1-0023"
+    adress: "Högalidsvägen 75C"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 6
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015119"
+    kontrollreferens: "16-015119"
+    objekt: "L-118-1-0024"
+    adress: "Högalidsvägen 75B"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 6
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015120"
+    kontrollreferens: "16-015120"
+    objekt: "L-118-1-0025"
+    adress: "Högalidsvägen 75A"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 7
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015120-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare lös."
+        källsida: 7
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015121"
+    kontrollreferens: "16-015121"
+    objekt: "L-118-1-0026"
+    adress: "Högalidsvägen 73E"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 7
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015121-R01"
+        klassning: "Klass A"
+        rum: "Altan"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Kabel dåligt isolerad/monterad"
+        källsida: 7
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015121-R02"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 7
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015121-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskmaskin"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 7
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015121-R04"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Belysning"
+        originalnotering: "Kabel över vask ej uppfäst"
+        källsida: 7
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015121-R05"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 7
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000628"
+    kontrollreferens: "17-000628"
+    objekt: "L-118-1-0026"
+    adress: "Högalidsvägen 73E"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 7
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000628-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 7
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015121-R05"
+      -
+        id: "B-LGH-2017-17-000628-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Belysning"
+        originalnotering: "Kabel över vask ej uppfäst"
+        källsida: 7
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015121-R04"
+      -
+        id: "B-LGH-2017-17-000628-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskmaskin"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 7
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015121-R03"
+      -
+        id: "B-LGH-2017-17-000628-R04"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 7
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015121-R02"
+      -
+        id: "B-LGH-2017-17-000628-R05"
+        klassning: "OK"
+        rum: "Altan"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Kabel dåligt isolerad/monterad"
+        källsida: 7
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015121-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015122"
+    kontrollreferens: "16-015122"
+    objekt: "L-118-1-0027"
+    adress: "Högalidsvägen 73D"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 7
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015122-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 7
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015122-R02"
+        klassning: "Klass C"
+        rum: "Kök"
+        byggnadsdel: "Läckageskydd"
+        originalnotering: "Kan ej kontrollera om läckageskydd finns under diskmaskin."
+        källsida: 7
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015122-R03"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 7
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015123"
+    kontrollreferens: "16-015123"
+    objekt: "L-118-1-0028"
+    adress: "Högalidsvägen 73C"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 7
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015123-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Lös"
+        källsida: 7
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R02"
+        klassning: "Klass B"
+        rum: "Grovkök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Kran läcker/lös"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Köksfläkt"
+        originalnotering: "Vred saknas på fläktkåpa"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R04"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Toalettstol"
+        originalnotering: "Spolknapp saknas"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R05"
+        klassning: "Klass A"
+        rum: "Hall 1"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Ojordat uttag vid ledande golv"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R06"
+        klassning: "Klass A"
+        rum: "Förråd"
+        byggnadsdel: "El"
+        originalnotering: "Säkringshållare skadad"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R07"
+        klassning: "Klass A"
+        rum: "Grovkök"
+        byggnadsdel: "El"
+        originalnotering: "Jordfelsbrytare saknas"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R08"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Saknas"
+        källsida: 8
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015123-R09"
+        klassning: "Klass A"
+        rum: "Altan"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Lock skadat"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000629"
+    kontrollreferens: "17-000629"
+    objekt: "L-118-1-0028"
+    adress: "Högalidsvägen 73C"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 8
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000629-R01"
+        klassning: "OK"
+        rum: "Altan"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Lock skadat"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R09"
+      -
+        id: "B-LGH-2017-17-000629-R02"
+        klassning: "OK"
+        rum: "Förråd"
+        byggnadsdel: "El"
+        originalnotering: "Säkringshållare skadad"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R06"
+      -
+        id: "B-LGH-2017-17-000629-R03"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Saknas"
+        källsida: 8
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R08"
+      -
+        id: "B-LGH-2017-17-000629-R04"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Eluttag"
+        originalnotering: "Ojordat uttag vid ledande golv"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R05"
+      -
+        id: "B-LGH-2017-17-000629-R05"
+        klassning: "OK"
+        rum: "Grovkök"
+        byggnadsdel: "El"
+        originalnotering: "Jordfelsbrytare saknas"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R07"
+      -
+        id: "B-LGH-2017-17-000629-R06"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Köksfläkt"
+        originalnotering: "Vred saknas på fläktkåpa"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R03"
+      -
+        id: "B-LGH-2017-17-000629-R07"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Toalettstol"
+        originalnotering: "Spolknapp saknas"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R04"
+      -
+        id: "B-LGH-2017-17-000629-R08"
+        klassning: "OK"
+        rum: "Grovkök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Kran läcker/lös"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R02"
+      -
+        id: "B-LGH-2017-17-000629-R09"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Lös"
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015123-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015124"
+    kontrollreferens: "16-015124"
+    objekt: "L-118-1-0029"
+    adress: "Högalidsvägen 73B"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 8
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015124-R01"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 8
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015124-R02"
+        klassning: "Klass A"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015124-R03"
+        klassning: "Klass C"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Golvbeklädnad"
+        originalnotering: "Laminatgolv."
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000630"
+    kontrollreferens: "17-000630"
+    objekt: "L-118-1-0029"
+    adress: "Högalidsvägen 73B"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 8
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000630-R01"
+        klassning: "Klass C"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Golvbeklädnad"
+        originalnotering: "Laminatgolv."
+        källsida: 8
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015124-R03"
+      -
+        id: "B-LGH-2017-17-000630-R02"
+        klassning: "OK"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015124-R02"
+      -
+        id: "B-LGH-2017-17-000630-R03"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas."
+        källsida: 8
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015124-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015125"
+    kontrollreferens: "16-015125"
+    objekt: "L-118-1-0030"
+    adress: "Högalidsvägen 73A"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 8
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015125-R01"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "El"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 8
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000631"
+    kontrollreferens: "17-000631"
+    objekt: "L-118-1-0030"
+    adress: "Högalidsvägen 73A"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 9
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000631-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "El"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 9
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015125-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015126"
+    kontrollreferens: "16-015126"
+    objekt: "L-118-1-0031"
+    adress: "Högalidsvägen 65E"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 9
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015126-R01"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag bakom kyl löst."
+        källsida: 9
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000632"
+    kontrollreferens: "17-000632"
+    objekt: "L-118-1-0031"
+    adress: "Högalidsvägen 65E"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 9
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000632-R01"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag bakom kyl löst."
+        källsida: 9
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015126-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015127"
+    kontrollreferens: "16-015127"
+    objekt: "L-118-1-0032"
+    adress: "Högalidsvägen 65D"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 9
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015127-R01"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Vattenlås läcker."
+        källsida: 9
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015127-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare läcker vid användning."
+        källsida: 9
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015128"
+    kontrollreferens: "16-015128"
+    objekt: "L-118-1-0033"
+    adress: "Högalidsvägen 65C"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 9
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015128-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 9
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015128-R02"
+        klassning: "Klass A"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Jordat eluttag saknar jord."
+        källsida: 9
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015128-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 9
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000633"
+    kontrollreferens: "17-000633"
+    objekt: "L-118-1-0033"
+    adress: "Högalidsvägen 65C"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 9
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000633-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 9
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015128-R01"
+      -
+        id: "B-LGH-2017-17-000633-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 9
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015128-R03"
+      -
+        id: "B-LGH-2017-17-000633-R03"
+        klassning: "OK"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Jordat eluttag saknar jord."
+        källsida: 9
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015128-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015129"
+    kontrollreferens: "16-015129"
+    objekt: "L-118-1-0034"
+    adress: "Högalidsvägen 65B"
+    datum: "2017-01-25"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 10
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015130"
+    kontrollreferens: "16-015130"
+    objekt: "L-118-1-0035"
+    adress: "Högalidsvägen 65A"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 10
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015130-R01"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag saknar jord."
+        källsida: 10
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015130-R02"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrum. Jordfelsbrytare saknas."
+        källsida: 10
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000754"
+    kontrollreferens: "17-000754"
+    objekt: "L-118-1-0035"
+    adress: "Högalidsvägen 65A"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 10
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000754-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrum. Jordfelsbrytare saknas."
+        källsida: 10
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015130-R02"
+      -
+        id: "B-LGH-2017-17-000754-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag saknar jord."
+        källsida: 10
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015130-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015131"
+    kontrollreferens: "16-015131"
+    objekt: "L-118-1-0036"
+    adress: "Högalidsvägen 67A"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 10
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015131-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 10
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015131-R02"
+        klassning: "Klass B"
+        rum: "Rum 3"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Brandvarnare fungerar ej."
+        källsida: 10
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015132"
+    kontrollreferens: "16-015132"
+    objekt: "L-118-1-0037"
+    adress: "Högalidsvägen 67B"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 10
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015133"
+    kontrollreferens: "16-015133"
+    objekt: "L-118-1-0038"
+    adress: "Högalidsvägen 67C"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 10
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015134"
+    kontrollreferens: "16-015134"
+    objekt: "L-118-1-0039"
+    adress: "Högalidsvägen 67D"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 11
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015134-R01"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 11
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015134-R02"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 11
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000679"
+    kontrollreferens: "17-000679"
+    objekt: "L-118-1-0039"
+    adress: "Högalidsvägen 67D"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 11
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000679-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 11
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015134-R02"
+      -
+        id: "B-LGH-2017-17-000679-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 11
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015134-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015135"
+    kontrollreferens: "16-015135"
+    objekt: "L-118-1-0040"
+    adress: "Högalidsvägen 67E"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 11
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015135-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 11
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015135-R02"
+        klassning: "Klass C"
+        rum: "Kök"
+        byggnadsdel: "Läckageskydd"
+        originalnotering: "Kan ej kontrollera om läckageskydd finns under diskmaskin."
+        källsida: 11
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015135-R03"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 11
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000590"
+    kontrollreferens: "17-000590"
+    objekt: "L-118-1-0040"
+    adress: "Högalidsvägen 67E"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 11
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000590-R01"
+        klassning: "Klass C"
+        rum: "Kök"
+        byggnadsdel: "Läckageskydd"
+        originalnotering: "Kan ej kontrollera om läckageskydd finns under diskmaskin."
+        källsida: 11
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015135-R02"
+      -
+        id: "B-LGH-2017-17-000590-R02"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 11
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015135-R03"
+      -
+        id: "B-LGH-2017-17-000590-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 11
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015135-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015136"
+    kontrollreferens: "16-015136"
+    objekt: "L-118-1-0041"
+    adress: "Högalidsvägen 67F"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 11
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015136-R01"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 11
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015137"
+    kontrollreferens: "16-015137"
+    objekt: "L-118-1-0042"
+    adress: "Högalidsvägen 67G"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 12
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015137-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 12
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015137-R02"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Sprucket eluttag höger om vask."
+        källsida: 12
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000591"
+    kontrollreferens: "17-000591"
+    objekt: "L-118-1-0042"
+    adress: "Högalidsvägen 67G"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 12
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000591-R01"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Sprucket eluttag höger om vask."
+        källsida: 12
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015137-R02"
+      -
+        id: "B-LGH-2017-17-000591-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 12
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015137-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015138"
+    kontrollreferens: "16-015138"
+    objekt: "L-118-1-0043"
+    adress: "Högalidsvägen 67H"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 12
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015138-R01"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 12
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015138-R02"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Saknas kupa"
+        källsida: 12
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015138-R03"
+        klassning: "Klass B"
+        rum: "Rum 2"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Brandvarnare ur funktion"
+        källsida: 12
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015138-R04"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Wc-stol"
+        originalnotering: "Spolknapp lös"
+        källsida: 12
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000592"
+    kontrollreferens: "17-000592"
+    objekt: "L-118-1-0043"
+    adress: "Högalidsvägen 67H"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 12
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000592-R01"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Wc-stol"
+        originalnotering: "Spolknapp lös"
+        källsida: 12
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015138-R04"
+      -
+        id: "B-LGH-2017-17-000592-R02"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Saknas kupa"
+        källsida: 12
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015138-R02"
+      -
+        id: "B-LGH-2017-17-000592-R03"
+        klassning: "Klass B"
+        rum: "Rum 2"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Brandvarnare ur funktion"
+        källsida: 12
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015138-R03"
+      -
+        id: "B-LGH-2017-17-000592-R04"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 12
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015138-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015139"
+    kontrollreferens: "16-015139"
+    objekt: "L-118-1-0044"
+    adress: "Högalidsvägen 63F"
+    datum: "2017-03-03"
+    kategori: "SKOLL2"
+    typ: "Statuskontroll 2"
+    källsida: 12
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015139-R01"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 12
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    kontrollnotering: "Ej hemma vid Skoll 1."
+  -
+    id: "B-LGH-2017-16-015140"
+    kontrollreferens: "16-015140"
+    objekt: "L-118-1-0045"
+    adress: "Högalidsvägen 63E"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 13
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015140-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Förhöjt fuktvärde vid blandaren. Vidare undersökn rek."
+        källsida: 13
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015140-R02"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Elen är fast ansluten"
+        källsida: 13
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015140-R03"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 13
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000593"
+    kontrollreferens: "17-000593"
+    objekt: "L-118-1-0045"
+    adress: "Högalidsvägen 63E"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 13
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000593-R01"
+        klassning: "OK"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 13
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015140-R03"
+      -
+        id: "B-LGH-2017-17-000593-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Förhöjt fuktvärde vid blandaren. Vidare undersökn rek."
+        källsida: 13
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015140-R01"
+      -
+        id: "B-LGH-2017-17-000593-R03"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Elen är fast ansluten"
+        källsida: 13
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015140-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015141"
+    kontrollreferens: "16-015141"
+    objekt: "L-118-1-0046"
+    adress: "Högalidsvägen 63D"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 13
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015141-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Wc-stol"
+        originalnotering: "Läcker vatten."
+        källsida: 13
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015141-R02"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrum. Jordfelsbrytare fungerar ej."
+        källsida: 13
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000594"
+    kontrollreferens: "17-000594"
+    objekt: "L-118-1-0046"
+    adress: "Högalidsvägen 63D"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 13
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000594-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Wc-stol"
+        originalnotering: "Läcker vatten."
+        källsida: 13
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015141-R01"
+      -
+        id: "B-LGH-2017-17-000594-R02"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrum. Jordfelsbrytare fungerar ej."
+        källsida: 13
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015141-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015142"
+    kontrollreferens: "16-015142"
+    objekt: "L-118-1-0047"
+    adress: "Högalidsvägen 63C"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 13
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015142-R01"
+        klassning: "Klass A"
+        rum: "Uteförråd"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 13
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015142-R02"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupor saknas till lampa."
+        källsida: 13
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015142-R03"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Dåligt tätad kopplingsdosa till tvättmaskin."
+        källsida: 13
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015142-R04"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Beröringsskydd saknas på dimmer"
+        källsida: 13
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015142-R05"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Sladd till lysrör och uttag ej uppfästa"
+        källsida: 13
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000595"
+    kontrollreferens: "17-000595"
+    objekt: "L-118-1-0047"
+    adress: "Högalidsvägen 63C"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 14
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000595-R01"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Sladd till lysrör och uttag ej uppfästa"
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015142-R05"
+      -
+        id: "B-LGH-2017-17-000595-R02"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Dåligt tätad kopplingsdosa till tvättmaskin."
+        källsida: 14
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015142-R03"
+      -
+        id: "B-LGH-2017-17-000595-R03"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Beröringsskydd saknas på dimmer"
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015142-R04"
+      -
+        id: "B-LGH-2017-17-000595-R04"
+        klassning: "Klass A"
+        rum: "Uteförråd"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015142-R01"
+      -
+        id: "B-LGH-2017-17-000595-R05"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupor saknas till lampa."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015142-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Registrerad"
+    utförd_kontroll_styrkt: false
+    kontrollnotering: "Ej åtgärdat."
+  -
+    id: "B-LGH-2017-16-015143"
+    kontrollreferens: "16-015143"
+    objekt: "L-118-1-0048"
+    adress: "Högalidsvägen 63B"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 14
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015143-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare läcker vid användning."
+        källsida: 14
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015143-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Hål i vägg tätas."
+        källsida: 14
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015144"
+    kontrollreferens: "16-015144"
+    objekt: "L-118-1-0049"
+    adress: "Högalidsvägen 63A"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 14
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015145"
+    kontrollreferens: "16-015145"
+    objekt: "L-118-1-0050"
+    adress: "Högalidsvägen 61A"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 14
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015145-R01"
+        klassning: "Klass C"
+        rum: "Rum 2"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kan ej kontrollera uttag vid fönster."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015145-R02"
+        klassning: "Klass A"
+        rum: "Rum 4"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag vid fönster saknar jord."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015145-R03"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015145-R04"
+        klassning: "Klass A"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag vid fönster och nattduksbord saknar jord."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015145-R05"
+        klassning: "Klass B"
+        rum: "Wc/dusch"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Spricka i mjukfog i badkarshörna."
+        källsida: 14
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000596"
+    kontrollreferens: "17-000596"
+    objekt: "L-118-1-0050"
+    adress: "Högalidsvägen 61A"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 14
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000596-R01"
+        klassning: "Klass B"
+        rum: "Wc/dusch"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Spricka i mjukfog i badkarshörna."
+        källsida: 14
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015145-R05"
+      -
+        id: "B-LGH-2017-17-000596-R02"
+        klassning: "OK"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag vid fönster och nattduksbord saknar jord."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015145-R04"
+      -
+        id: "B-LGH-2017-17-000596-R03"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015145-R03"
+      -
+        id: "B-LGH-2017-17-000596-R04"
+        klassning: "Klass C"
+        rum: "Rum 2"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kan ej kontrollera uttag vid fönster."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015145-R01"
+      -
+        id: "B-LGH-2017-17-000596-R05"
+        klassning: "OK"
+        rum: "Rum 4"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag vid fönster saknar jord."
+        källsida: 14
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015145-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015146"
+    kontrollreferens: "16-015146"
+    objekt: "L-118-1-0051"
+    adress: "Högalidsvägen 61B"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 15
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015146-R01"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 15
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015146-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Avloppsslang till diskmaskin fästes upp"
+        källsida: 15
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015146-R03"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Belysning"
+        originalnotering: "Kupa på belysning saknas"
+        källsida: 15
+        teman:
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015146-R04"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Brandvarnare saknas"
+        källsida: 15
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015147"
+    kontrollreferens: "16-015147"
+    objekt: "L-118-1-0052"
+    adress: "Högalidsvägen 61C"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 15
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015147-R01"
+        klassning: "Klass B"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 15
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015148"
+    kontrollreferens: "16-015148"
+    objekt: "L-118-1-0053"
+    adress: "Högalidsvägen 61D"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 15
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015148-R01"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Pip trög"
+        källsida: 15
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015148-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Förhöjt fuktvärde vid dusch. Vidare undersökning rek."
+        källsida: 15
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015149"
+    kontrollreferens: "16-015149"
+    objekt: "L-118-1-0054"
+    adress: "Högalidsvägen 59F"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 15
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015149-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare lös."
+        källsida: 15
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015149-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Ventilation"
+        originalnotering: "Ventilationsdon saknas."
+        källsida: 15
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015149-R03"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Hål i plastmattan tätas."
+        källsida: 15
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015149-R04"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Vattenlås läcker."
+        källsida: 15
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015150"
+    kontrollreferens: "16-015150"
+    objekt: "L-118-1-0055"
+    adress: "Högalidsvägen 59E"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 15
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015150-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 15
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015151"
+    kontrollreferens: "16-015151"
+    objekt: "L-118-1-0056"
+    adress: "Högalidsvägen 59D"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 16
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015151-R01"
+        klassning: "Klass C"
+        rum: "Rum 2"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Revovering pågår."
+        källsida: 16
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015151-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare lös."
+        källsida: 16
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015152"
+    kontrollreferens: "16-015152"
+    objekt: "L-118-1-0057"
+    adress: "Högalidsvägen 59C"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 16
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015152-R01"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "El"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 16
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000597"
+    kontrollreferens: "17-000597"
+    objekt: "L-118-1-0057"
+    adress: "Högalidsvägen 59C"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 16
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000597-R01"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "El"
+        originalnotering: "Saknas jordfelsbrytare"
+        källsida: 16
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015152-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Registrerad"
+    utförd_kontroll_styrkt: false
+    kontrollnotering: "Ej åtgärdat."
+  -
+    id: "B-LGH-2017-16-015153"
+    kontrollreferens: "16-015153"
+    objekt: "L-118-1-0058"
+    adress: "Högalidsvägen 59B"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 16
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015153-R01"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 16
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000598"
+    kontrollreferens: "17-000598"
+    objekt: "L-118-1-0058"
+    adress: "Högalidsvägen 59B"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 16
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000598-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 16
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015153-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015154"
+    kontrollreferens: "16-015154"
+    objekt: "L-118-1-0059"
+    adress: "Högalidsvägen 59A"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 16
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015154-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Vägg"
+        originalnotering: "Fuktindikering vid badkar. Vidare undersök rek."
+        källsida: 16
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015155"
+    kontrollreferens: "16-015155"
+    objekt: "L-118-1-0060"
+    adress: "Högalidsvägen 57A"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 17
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015155-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Vattenlås läcker."
+        källsida: 17
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015155-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Wc-stol"
+        originalnotering: "Wc-stol är lös."
+        källsida: 17
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015156"
+    kontrollreferens: "16-015156"
+    objekt: "L-118-1-0061"
+    adress: "Högalidsvägen 57B"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 17
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015157"
+    kontrollreferens: "16-015157"
+    objekt: "L-118-1-0062"
+    adress: "Högalidsvägen 57C"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 17
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015157-R01"
+        klassning: "Klass A"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Eluttag ej kopplat till jordfelsbrytare."
+        källsida: 17
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015157-R02"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 17
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015157-R03"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare läcker vid användning."
+        källsida: 17
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000599"
+    kontrollreferens: "17-000599"
+    objekt: "L-118-1-0062"
+    adress: "Högalidsvägen 57C"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 17
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000599-R01"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Kupa saknas på taklampa."
+        källsida: 17
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015157-R02"
+      -
+        id: "B-LGH-2017-17-000599-R02"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Blandare"
+        originalnotering: "Blandare läcker vid användning."
+        källsida: 17
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015157-R03"
+      -
+        id: "B-LGH-2017-17-000599-R03"
+        klassning: "OK"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Eluttag ej kopplat till jordfelsbrytare."
+        källsida: 17
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015157-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015158"
+    kontrollreferens: "16-015158"
+    objekt: "L-118-1-0063"
+    adress: "Högalidsvägen 57D"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 17
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015158-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 17
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015159"
+    kontrollreferens: "16-015159"
+    objekt: "L-118-1-0064"
+    adress: "Högalidsvägen 55F"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 18
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015159-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 18
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015160"
+    kontrollreferens: "16-015160"
+    objekt: "L-118-1-0065"
+    adress: "Högalidsvägen 55E"
+    datum: "2017-03-03"
+    kategori: "SKOLL2"
+    typ: "Statuskontroll 2"
+    källsida: 18
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015160-R01"
+        klassning: "Klass A"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Lamphållare lös, samt saknar kupa"
+        källsida: 18
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015160-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Skruvhål i vägg, vid tvättmaskin. Dålig svets i golvmatta, vid toastol."
+        källsida: 18
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-001591"
+    kontrollreferens: "17-001591"
+    objekt: "L-118-1-0065"
+    adress: "Högalidsvägen 55E"
+    datum: "2017-04-11"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 18
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-001591-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Skruvhål i vägg, vid tvättmaskin. Dålig svets i golvmatta, vid toastol."
+        källsida: 18
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015160-R02"
+      -
+        id: "B-LGH-2017-17-001591-R02"
+        klassning: "OK"
+        rum: "Klädkammare"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Lamphållare lös, samt saknar kupa"
+        källsida: 18
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015160-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015161"
+    kontrollreferens: "16-015161"
+    objekt: "L-118-1-0066"
+    adress: "Högalidsvägen 55D"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 18
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015161-R01"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Hatt på öppet rör bakom tvättmaskin saknas."
+        källsida: 18
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015161-R02"
+        klassning: "Klass A"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 18
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000600"
+    kontrollreferens: "17-000600"
+    objekt: "L-118-1-0066"
+    adress: "Högalidsvägen 55D"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 18
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000600-R01"
+        klassning: "OK"
+        rum: "Badrum"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Eluttag i badrummet, jordfelsbrytare saknas."
+        källsida: 18
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015161-R02"
+      -
+        id: "B-LGH-2017-17-000600-R02"
+        klassning: "Klass B"
+        rum: "Badrum"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Hatt på öppet rör bakom tvättmaskin saknas."
+        källsida: 18
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015161-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015162"
+    kontrollreferens: "16-015162"
+    objekt: "L-118-1-0067"
+    adress: "Högalidsvägen 55C"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 18
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015163"
+    kontrollreferens: "16-015163"
+    objekt: "L-118-1-0068"
+    adress: "Högalidsvägen 55B"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 19
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015163-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 19
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015164"
+    kontrollreferens: "16-015164"
+    objekt: "L-118-1-0069"
+    adress: "Högalidsvägen 55A"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 19
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015164-R01"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd dragen genom vägg, från vardagsrum"
+        källsida: 19
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015164-R02"
+        klassning: "Klass A"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 19
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000601"
+    kontrollreferens: "17-000601"
+    objekt: "L-118-1-0069"
+    adress: "Högalidsvägen 55A"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 19
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000601-R01"
+        klassning: "OK"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd dragen genom vägg, från vardagsrum"
+        källsida: 19
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015164-R01"
+      -
+        id: "B-LGH-2017-17-000601-R02"
+        klassning: "OK"
+        rum: "Rum 3"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Förlängningssladd fast ansluten"
+        källsida: 19
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015164-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015165"
+    kontrollreferens: "16-015165"
+    objekt: "L-118-1-0070"
+    adress: "Högalidsvägen 53E"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 19
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015165-R01"
+        klassning: "Klass C"
+        rum: "Kök"
+        byggnadsdel: "Läckageskydd"
+        originalnotering: "Kan ej kontrollera om läckageskydd finns under diskmaskin."
+        källsida: 19
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015166"
+    kontrollreferens: "16-015166"
+    objekt: "L-118-1-0071"
+    adress: "Högalidsvägen 53D"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 19
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015166-R01"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Fuktindikering"
+        originalnotering: "Något förhöjt fuktvärde på 3 plattor vid dusch."
+        källsida: 19
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015167"
+    kontrollreferens: "16-015167"
+    objekt: "L-118-1-0072"
+    adress: "Högalidsvägen 53C"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 19
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015167-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang fästes upp"
+        källsida: 19
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015168"
+    kontrollreferens: "16-015168"
+    objekt: "L-118-1-0073"
+    adress: "Högalidsvägen 53B"
+    datum: "2017-01-24"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 20
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015168-R01"
+        klassning: "Klass A"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Uttag i badrumsskåp ej jordat"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015168-R02"
+        klassning: "Klass A"
+        rum: "Hall 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ojordat uttag, ledande golv"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000602"
+    kontrollreferens: "17-000602"
+    objekt: "L-118-1-0073"
+    adress: "Högalidsvägen 53B"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 20
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000602-R01"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ojordat uttag, ledande golv"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015168-R02"
+      -
+        id: "B-LGH-2017-17-000602-R02"
+        klassning: "OK"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Uttag i badrumsskåp ej jordat"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015168-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015169"
+    kontrollreferens: "16-015169"
+    objekt: "L-118-1-0074"
+    adress: "Högalidsvägen 53A"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 20
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015170"
+    kontrollreferens: "16-015170"
+    objekt: "L-118-1-0075"
+    adress: "Högalidsvägen 51D"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 20
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      []
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015171"
+    kontrollreferens: "16-015171"
+    objekt: "L-118-1-0076"
+    adress: "Högalidsvägen 51C"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 20
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015171-R01"
+        klassning: "Klass A"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Saknas kupa"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015171-R02"
+        klassning: "Klass A"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Uttag i lysrörsamatur sönder"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015171-R03"
+        klassning: "Klass C"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Fuktindikering på golv, inga synliga skador"
+        källsida: 20
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015171-R04"
+        klassning: "Klass A"
+        rum: "Altan/balkong"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Uttag skadat"
+        källsida: 20
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015171-R05"
+        klassning: "Klass B"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 20
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015171-R06"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 20
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015171-R07"
+        klassning: "Klass B"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 20
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000680"
+    kontrollreferens: "17-000680"
+    objekt: "L-118-1-0076"
+    adress: "Högalidsvägen 51C"
+    datum: "2017-03-03"
+    kategori: "AKOLL1"
+    typ: "Återkontroll av A-fel 1"
+    källsida: 21
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000680-R01"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 21
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R05"
+      -
+        id: "B-LGH-2017-17-000680-R02"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 21
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R06"
+      -
+        id: "B-LGH-2017-17-000680-R03"
+        klassning: "OK"
+        rum: "Hall 2"
+        byggnadsdel: "Brandvarnare"
+        originalnotering: "Ur funktion"
+        källsida: 21
+        teman:
+          - "Brandvarnare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R07"
+      -
+        id: "B-LGH-2017-17-000680-R04"
+        klassning: "OK"
+        rum: "Altan/balkong"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Uttag skadat"
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R04"
+      -
+        id: "B-LGH-2017-17-000680-R05"
+        klassning: "Klass C"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Övrigt"
+        originalnotering: "Fuktindikering på golv, inga synliga skador"
+        källsida: 21
+        teman:
+          - "Fuktindikering eller fuktvärde"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R03"
+      -
+        id: "B-LGH-2017-17-000680-R06"
+        klassning: "OK"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Saknas kupa"
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+          - "Belysning eller skyddskupor"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R01"
+      -
+        id: "B-LGH-2017-17-000680-R07"
+        klassning: "OK"
+        rum: "Kök"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Uttag i lysrörsamatur sönder"
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015171-R02"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015172"
+    kontrollreferens: "16-015172"
+    objekt: "L-118-1-0077"
+    adress: "Högalidsvägen 51B"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 21
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015172-R01"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Mörka fläckar i tak och vägg i dusch. Ingen fukt ind."
+        källsida: 21
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015172-R02"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Golvbeklädnad"
+        originalnotering: "Färgsläpp i taket och på vägg."
+        källsida: 21
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015172-R03"
+        klassning: "Klass A"
+        rum: "Hall 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ledande golv men ej jordade uttag."
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+      -
+        id: "B-LGH-2017-16-015172-R04"
+        klassning: "Klass A"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ledande golv men ej jordade uttag."
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-17-000681"
+    kontrollreferens: "17-000681"
+    objekt: "L-118-1-0077"
+    adress: "Högalidsvägen 51B"
+    datum: "2017-04-11"
+    kategori: "AKOLL2"
+    typ: "Återkontroll av A-fel 2"
+    källsida: 21
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-17-000681-R01"
+        klassning: "OK"
+        rum: "Rum 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ledande golv men ej jordade uttag."
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015172-R04"
+      -
+        id: "B-LGH-2017-17-000681-R02"
+        klassning: "OK"
+        rum: "Hall 1"
+        byggnadsdel: "Elinstallation"
+        originalnotering: "Ledande golv men ej jordade uttag."
+        källsida: 21
+        teman:
+          - "Elinstallation, uttag eller jordfelsbrytare"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tolkningskommentar: "OK är källans resultat vid detta kontrolltillfälle. Den kvarstående felbeskrivningen är en referenstext, inte ett nytt påstående om kvarstående fel. Exakt åtgärdsdatum och arbetets innehåll härleds inte."
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015172-R03"
+      -
+        id: "B-LGH-2017-17-000681-R03"
+        klassning: "Klass B"
+        rum: "Tvätt/grovkök"
+        byggnadsdel: "Golvbeklädnad"
+        originalnotering: "Färgsläpp i taket och på vägg."
+        källsida: 21
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015172-R02"
+      -
+        id: "B-LGH-2017-17-000681-R04"
+        klassning: "Klass C"
+        rum: "Badrum"
+        byggnadsdel: "Vägg/golvbeklädnad"
+        originalnotering: "Mörka fläckar i tak och vägg i dusch. Ingen fukt ind."
+        källsida: 21
+        teman:
+          []
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+        tidigare_motsvarande_noteringar:
+          - "B-LGH-2017-16-015172-R01"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+  -
+    id: "B-LGH-2017-16-015173"
+    kontrollreferens: "16-015173"
+    objekt: "L-118-1-0078"
+    adress: "Högalidsvägen 51A"
+    datum: "2017-01-26"
+    kategori: "SKOLL1"
+    typ: "Statuskontroll 1"
+    källsida: 21
+    dokument:
+      källa: "K-LGH-BES-D004"
+      arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+      sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    rader:
+      -
+        id: "B-LGH-2017-16-015173-R01"
+        klassning: "Klass B"
+        rum: "Kök"
+        byggnadsdel: "Diskm. installation"
+        originalnotering: "Avloppsslang ej uppfäst"
+        källsida: 21
+        teman:
+          - "Diskmaskinsinstallation eller avloppsslang"
+        senare_åtgärdsstatus: "Okänd"
+        nulägesstatus: "Okänd"
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renoveringar eller dagens skick."
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true

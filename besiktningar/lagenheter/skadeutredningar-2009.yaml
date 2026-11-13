@@ -1,0 +1,107 @@
+version: "1.0"
+utredningar:
+  -
+    id: "B-LGH-SKADA-20090427-65D"
+    datum: "2009-04-27"
+    typ: "Skadeutredning"
+    objekt:
+      - "L-118-1-0032"
+    adress: "Högalidsvägen 65D"
+    utförare: "Villaklimat"
+    dokument:
+      källa: "K-LGH-BES-D001"
+      arkivsökväg: "Lägenhetsbesiktning/2009/65D katter/Högalidsvägen 65 D Kävlinge skador Katter.doc"
+      sha256: "3710f99469d4ced6d2d078fc2afee1a2ca1a434d16e4186f038f94bcd7aa487c"
+    iakttagelser:
+      - "Fukt i golv och väggar i vardagsrum, hall och kök samt stark lukt som rapporten tillskriver katturin."
+      - "Övervåningen inte besökt."
+    orsaksbedömning_enligt_källa: "Rapporten tillskriver skadorna katturin; uppgiften är en historisk källbedömning."
+    åtgärdsförslag:
+      - "Sanering och rivning av drabbade ytskikt; omfattning enligt rapporten, inte dokumenterat utfört."
+    mätningar:
+      -
+        mätpunkt: 1
+        plats: "Vardagsrum vägg"
+        material: "Gips"
+        värde: 10
+        metod: "Fuktindikator"
+        skala: "1–10; inte RF-procent eller fuktkvot"
+        datum: "2009-04-27"
+      -
+        mätpunkt: 2
+        plats: "Vardagsrum vägg"
+        material: "Gips"
+        värde: 9
+        metod: "Fuktindikator"
+        skala: "1–10; inte RF-procent eller fuktkvot"
+        datum: "2009-04-27"
+      -
+        mätpunkt: 3
+        plats: "Vardagsrum golv"
+        material: "Parkett"
+        värde: 10
+        metod: "Fuktindikator"
+        skala: "1–10; inte RF-procent eller fuktkvot"
+        datum: "2009-04-27"
+      -
+        mätpunkt: 4
+        plats: "Kök golv"
+        material: "Matta"
+        värde: 8
+        metod: "Fuktindikator"
+        skala: "1–10; inte RF-procent eller fuktkvot"
+        datum: "2009-04-27"
+      -
+        mätpunkt: 5
+        plats: "Hall golv"
+        material: "Matta"
+        värde: 9
+        metod: "Fuktindikator"
+        skala: "1–10; inte RF-procent eller fuktkvot"
+        datum: "2009-04-27"
+    grannobservation:
+      objekt: "L-118-1-0031"
+      adress: "Högalidsvägen 65E"
+      text: "Lukt enligt rapporten vid vardagsrumsvägg och lucka till rörkulvert mellan lägenheterna. Ursprunget bedömdes troligen vara 65D."
+      orsakssäkerhet: "Bedömning, inte fastställd mätning av källa"
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    senare_åtgärdsstatus: "Okänd; åtgärdsförslag är inte utförandebevis."
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renovering."
+  -
+    id: "B-LGH-SKADA-20090730-77C"
+    datum: "2009-07-30"
+    rapportdatum: "2009-08-05"
+    typ: "Besiktning av vattenskada i kök"
+    objekt:
+      - "L-118-1-0009"
+    adress: "Högalidsvägen 77C"
+    utförare: "Villaklimat OBM AB"
+    dokument:
+      källa: "K-LGH-BES-D003"
+      arkivsökväg: "Lägenhetsbesiktning/2009/77C Fukt/Högalidsvägen 77c Kävlinge skiss"
+      sha256: "c8512e0c285eac36ccfc32fac9dec879fc24705167bc08ac5ca1e1f61fc5525e"
+    bilaga:
+      källa: "K-LGH-BES-D002"
+      arkivsökväg: "Lägenhetsbesiktning/2009/77C Fukt/Högalidsv 77c Kävlinge.doc"
+      sha256: "48a06a7b33688e234c938514afc0e0393b00fa515241298b25f3b4ca944d2c1b"
+    källkommentar: "Besiktningsrapportens text finns i den fil som saknar filändelse och heter skiss. DOC-filen innehåller ingen läsbar löptext; den bevaras som kompletterande underlag utan nya slutsatser."
+    iakttagelser:
+      - "Kraftig mögeltillväxt på lägenhetsskiljande vägg och köksinredning enligt rapporten."
+      - "Formförändringar och avvikande lukt i bänkskåp."
+      - "Bristfällig anslutning av kondensslang till vattenlås under diskbänk."
+      - "Fukt i vägg, golv och inredning hänvisas till rödmarkerad skiss; ingen egen utvidgning av skadeområdet görs."
+      - "Inget pågående läckage synligt vid besöket."
+    orsaksbedömning_enligt_källa: "Långvarigt läckage från värmeåtervinningsaggregat enligt rapporten."
+    åtgärdsförslag:
+      - "Service på värmeåtervinningsaggregat"
+      - "Rivning av underskåp fram till spis, demontering av diskmaskin och flytt av spis"
+      - "Rivning av möglig gips och golvmatta, bortslipning av lim"
+      - "Uttorkning, eventuell mögelsanering och återställning"
+    uppskattad_torktid_dagar_enligt_rapport: 10
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    senare_åtgärdsstatus: "Okänd; åtgärdsförslag är inte utförandebevis."
+    nulägesstatus: "Okänd; historisk ögonblicksbild, ingen bedömning av senare renovering."

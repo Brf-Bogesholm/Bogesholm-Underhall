@@ -1,0 +1,57 @@
+id: "IMPORT-LAGENHETSBESIKTNING-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-LAGENHETSBESIKTNING-20261113"
+    typ: "Lägenhetsbesiktning.zip"
+    filer:
+      -
+        id: "K-LGH-BES-D001"
+        arkivsökväg: "Lägenhetsbesiktning/2009/65D katter/Högalidsvägen 65 D Kävlinge skador Katter.doc"
+        sha256: "3710f99469d4ced6d2d078fc2afee1a2ca1a434d16e4186f038f94bcd7aa487c"
+        användning: "Besiktningsunderlag"
+      -
+        id: "K-LGH-BES-D002"
+        arkivsökväg: "Lägenhetsbesiktning/2009/77C Fukt/Högalidsv 77c Kävlinge.doc"
+        sha256: "48a06a7b33688e234c938514afc0e0393b00fa515241298b25f3b4ca944d2c1b"
+        användning: "Besiktningsunderlag"
+      -
+        id: "K-LGH-BES-D003"
+        arkivsökväg: "Lägenhetsbesiktning/2009/77C Fukt/Högalidsvägen 77c Kävlinge skiss"
+        sha256: "c8512e0c285eac36ccfc32fac9dec879fc24705167bc08ac5ca1e1f61fc5525e"
+        användning: "Besiktningsunderlag"
+      -
+        id: "K-LGH-BES-D004"
+        arkivsökväg: "Lägenhetsbesiktning/2017/Lägenhetsbesiktning, komplett.pdf"
+        sha256: "453f035cd7c97f0ecb5116cf42dd0ecc135a2b26f4b44fe8382ac1abc9cf654f"
+        användning: "Besiktningsunderlag"
+      -
+        id: "K-LGH-BES-D005"
+        arkivsökväg: "Lägenhetsbesiktning/2017/Medlemsförteckning.pdf"
+        sha256: "f6734e6a867464fab22fe5751255baf92de54fe065e2c39ef695de9b41d4dc04"
+        användning: "Ej importerad: medlemsförteckning och personuppgifter saknar relevans."
+      -
+        id: "K-LGH-BES-D006"
+        arkivsökväg: "Lägenhetsbesiktning/2017/Sammanställning Statuskontroll Bogesholm.pdf"
+        sha256: "2c1ce666277d0b053f96d22184c23e7731dd2192459a5dfed599eb94d695f419"
+        användning: "Besiktningsunderlag"
+  -
+    id: "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+    typ: "Beställarens anvisning och godkännande"
+    uppgifter:
+      - "Koppla till respektive lägenhet."
+      - "Åtgärdsinsats gjordes men utförandedokumentation saknas."
+      - "Protokoll är historiska ögonblicksbilder, inte bedömning av senare renoveringar eller dagens skick."
+      - "Återkontrollernas uttryckliga OK bevaras som daterade resultat."
+      - "Äldre skadeutredningar 2009 och observation i 65E ska också registreras."
+kontroll:
+  lägenheter: 78
+  statuskontrollposter: 78
+  återkontrollposter: 32
+  varav_registrerade_ej_styrkt_genomförda: 2
+  äldre_skadeutredningar: 2
+avgränsningar:
+  - "Original, foton, namn och kontaktuppgifter publiceras inte."
+  - "Gamla förvaltarlägenhetsnummer och medlemsandelar importeras inte. Koppling görs med adress och befintligt stabilt lägenhets-ID."
+  - "Inga fakturor eller kostnader härleds från underlaget."
+  - "Ingen slutsats om senare totalrenovering eller dagens skick."

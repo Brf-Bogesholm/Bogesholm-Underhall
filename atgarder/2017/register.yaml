@@ -189,3 +189,1543 @@ version: "1.0"
       - "K-SBA-20261113"
       - "K-SBA-KOPPLING-20261113"
     kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."
+  -
+    id: "A-LGH-2017-16-015096"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0001"
+    besiktning: "B-LGH-2017-16-015096"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015097"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0002"
+    besiktning: "B-LGH-2017-16-015097"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000753"
+    datum: "2017-03-10"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0002"
+    besiktning: "B-LGH-2017-17-000753"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015098"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0003"
+    besiktning: "B-LGH-2017-16-015098"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015099"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0004"
+    besiktning: "B-LGH-2017-16-015099"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015100"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0005"
+    besiktning: "B-LGH-2017-16-015100"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000621"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0005"
+    besiktning: "B-LGH-2017-17-000621"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015101"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0006"
+    besiktning: "B-LGH-2017-16-015101"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000622"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0006"
+    besiktning: "B-LGH-2017-17-000622"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015102"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0007"
+    besiktning: "B-LGH-2017-16-015102"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015103"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0008"
+    besiktning: "B-LGH-2017-16-015103"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000623"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0008"
+    besiktning: "B-LGH-2017-17-000623"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015104"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0009"
+    besiktning: "B-LGH-2017-16-015104"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015105"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0010"
+    besiktning: "B-LGH-2017-16-015105"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015106"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0011"
+    besiktning: "B-LGH-2017-16-015106"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015107"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0012"
+    besiktning: "B-LGH-2017-16-015107"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015108"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0013"
+    besiktning: "B-LGH-2017-16-015108"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000624"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0013"
+    besiktning: "B-LGH-2017-17-000624"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015109"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0014"
+    besiktning: "B-LGH-2017-16-015109"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000625"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0014"
+    besiktning: "B-LGH-2017-17-000625"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015110"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0015"
+    besiktning: "B-LGH-2017-16-015110"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015111"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0016"
+    besiktning: "B-LGH-2017-16-015111"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015112"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0017"
+    besiktning: "B-LGH-2017-16-015112"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000626"
+    datum: "2017-04-11"
+    åtgärd: "Återkontroll av A-fel 2"
+    objekt:
+      - "L-118-1-0017"
+    besiktning: "B-LGH-2017-17-000626"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015113"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0018"
+    besiktning: "B-LGH-2017-16-015113"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015114"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0019"
+    besiktning: "B-LGH-2017-16-015114"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015115"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0020"
+    besiktning: "B-LGH-2017-16-015115"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000627"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0020"
+    besiktning: "B-LGH-2017-17-000627"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015116"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0021"
+    besiktning: "B-LGH-2017-16-015116"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015117"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0022"
+    besiktning: "B-LGH-2017-16-015117"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015118"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0023"
+    besiktning: "B-LGH-2017-16-015118"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015119"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0024"
+    besiktning: "B-LGH-2017-16-015119"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015120"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0025"
+    besiktning: "B-LGH-2017-16-015120"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015121"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0026"
+    besiktning: "B-LGH-2017-16-015121"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000628"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0026"
+    besiktning: "B-LGH-2017-17-000628"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015122"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0027"
+    besiktning: "B-LGH-2017-16-015122"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015123"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0028"
+    besiktning: "B-LGH-2017-16-015123"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000629"
+    datum: "2017-04-11"
+    åtgärd: "Återkontroll av A-fel 2"
+    objekt:
+      - "L-118-1-0028"
+    besiktning: "B-LGH-2017-17-000629"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015124"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0029"
+    besiktning: "B-LGH-2017-16-015124"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000630"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0029"
+    besiktning: "B-LGH-2017-17-000630"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015125"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0030"
+    besiktning: "B-LGH-2017-16-015125"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000631"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0030"
+    besiktning: "B-LGH-2017-17-000631"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015126"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0031"
+    besiktning: "B-LGH-2017-16-015126"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000632"
+    datum: "2017-04-11"
+    åtgärd: "Återkontroll av A-fel 2"
+    objekt:
+      - "L-118-1-0031"
+    besiktning: "B-LGH-2017-17-000632"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015127"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0032"
+    besiktning: "B-LGH-2017-16-015127"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015128"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0033"
+    besiktning: "B-LGH-2017-16-015128"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000633"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0033"
+    besiktning: "B-LGH-2017-17-000633"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015129"
+    datum: "2017-01-25"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0034"
+    besiktning: "B-LGH-2017-16-015129"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015130"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0035"
+    besiktning: "B-LGH-2017-16-015130"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000754"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0035"
+    besiktning: "B-LGH-2017-17-000754"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015131"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0036"
+    besiktning: "B-LGH-2017-16-015131"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015132"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0037"
+    besiktning: "B-LGH-2017-16-015132"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015133"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0038"
+    besiktning: "B-LGH-2017-16-015133"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015134"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0039"
+    besiktning: "B-LGH-2017-16-015134"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000679"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0039"
+    besiktning: "B-LGH-2017-17-000679"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015135"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0040"
+    besiktning: "B-LGH-2017-16-015135"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000590"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0040"
+    besiktning: "B-LGH-2017-17-000590"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015136"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0041"
+    besiktning: "B-LGH-2017-16-015136"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015137"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0042"
+    besiktning: "B-LGH-2017-16-015137"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000591"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0042"
+    besiktning: "B-LGH-2017-17-000591"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015138"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0043"
+    besiktning: "B-LGH-2017-16-015138"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000592"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0043"
+    besiktning: "B-LGH-2017-17-000592"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015139"
+    datum: "2017-03-03"
+    åtgärd: "Statuskontroll 2"
+    objekt:
+      - "L-118-1-0044"
+    besiktning: "B-LGH-2017-16-015139"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015140"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0045"
+    besiktning: "B-LGH-2017-16-015140"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000593"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0045"
+    besiktning: "B-LGH-2017-17-000593"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015141"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0046"
+    besiktning: "B-LGH-2017-16-015141"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000594"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0046"
+    besiktning: "B-LGH-2017-17-000594"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015142"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0047"
+    besiktning: "B-LGH-2017-16-015142"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000595"
+    datum: "2017-04-11"
+    åtgärd: "Registrerad återkontrollspost; genomförande inte styrkt"
+    objekt:
+      - "L-118-1-0047"
+    besiktning: "B-LGH-2017-17-000595"
+    status_enligt_källa: "Registrerad"
+    utförd_kontroll_styrkt: false
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015143"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0048"
+    besiktning: "B-LGH-2017-16-015143"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015144"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0049"
+    besiktning: "B-LGH-2017-16-015144"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015145"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0050"
+    besiktning: "B-LGH-2017-16-015145"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000596"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0050"
+    besiktning: "B-LGH-2017-17-000596"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015146"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0051"
+    besiktning: "B-LGH-2017-16-015146"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015147"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0052"
+    besiktning: "B-LGH-2017-16-015147"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015148"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0053"
+    besiktning: "B-LGH-2017-16-015148"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015149"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0054"
+    besiktning: "B-LGH-2017-16-015149"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015150"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0055"
+    besiktning: "B-LGH-2017-16-015150"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015151"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0056"
+    besiktning: "B-LGH-2017-16-015151"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015152"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0057"
+    besiktning: "B-LGH-2017-16-015152"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000597"
+    datum: "2017-04-11"
+    åtgärd: "Registrerad återkontrollspost; genomförande inte styrkt"
+    objekt:
+      - "L-118-1-0057"
+    besiktning: "B-LGH-2017-17-000597"
+    status_enligt_källa: "Registrerad"
+    utförd_kontroll_styrkt: false
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015153"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0058"
+    besiktning: "B-LGH-2017-16-015153"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000598"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0058"
+    besiktning: "B-LGH-2017-17-000598"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015154"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0059"
+    besiktning: "B-LGH-2017-16-015154"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015155"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0060"
+    besiktning: "B-LGH-2017-16-015155"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015156"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0061"
+    besiktning: "B-LGH-2017-16-015156"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015157"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0062"
+    besiktning: "B-LGH-2017-16-015157"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000599"
+    datum: "2017-04-11"
+    åtgärd: "Återkontroll av A-fel 2"
+    objekt:
+      - "L-118-1-0062"
+    besiktning: "B-LGH-2017-17-000599"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015158"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0063"
+    besiktning: "B-LGH-2017-16-015158"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015159"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0064"
+    besiktning: "B-LGH-2017-16-015159"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015160"
+    datum: "2017-03-03"
+    åtgärd: "Statuskontroll 2"
+    objekt:
+      - "L-118-1-0065"
+    besiktning: "B-LGH-2017-16-015160"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-001591"
+    datum: "2017-04-11"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0065"
+    besiktning: "B-LGH-2017-17-001591"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015161"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0066"
+    besiktning: "B-LGH-2017-16-015161"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000600"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0066"
+    besiktning: "B-LGH-2017-17-000600"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015162"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0067"
+    besiktning: "B-LGH-2017-16-015162"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015163"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0068"
+    besiktning: "B-LGH-2017-16-015163"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015164"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0069"
+    besiktning: "B-LGH-2017-16-015164"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000601"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0069"
+    besiktning: "B-LGH-2017-17-000601"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015165"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0070"
+    besiktning: "B-LGH-2017-16-015165"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015166"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0071"
+    besiktning: "B-LGH-2017-16-015166"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015167"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0072"
+    besiktning: "B-LGH-2017-16-015167"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015168"
+    datum: "2017-01-24"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0073"
+    besiktning: "B-LGH-2017-16-015168"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000602"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0073"
+    besiktning: "B-LGH-2017-17-000602"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015169"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0074"
+    besiktning: "B-LGH-2017-16-015169"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015170"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0075"
+    besiktning: "B-LGH-2017-16-015170"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015171"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0076"
+    besiktning: "B-LGH-2017-16-015171"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000680"
+    datum: "2017-03-03"
+    åtgärd: "Återkontroll av A-fel 1"
+    objekt:
+      - "L-118-1-0076"
+    besiktning: "B-LGH-2017-17-000680"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015172"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0077"
+    besiktning: "B-LGH-2017-16-015172"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-17-000681"
+    datum: "2017-04-11"
+    åtgärd: "Återkontroll av A-fel 2"
+    objekt:
+      - "L-118-1-0077"
+    besiktning: "B-LGH-2017-17-000681"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-LGH-2017-16-015173"
+    datum: "2017-01-26"
+    åtgärd: "Statuskontroll 1"
+    objekt:
+      - "L-118-1-0078"
+    besiktning: "B-LGH-2017-16-015173"
+    status_enligt_källa: "Genomförd"
+    utförd_kontroll_styrkt: true
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-LAGENHETSBESIKTNING-20261113"
+      - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"

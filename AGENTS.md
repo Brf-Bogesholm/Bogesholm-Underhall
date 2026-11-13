@@ -45,3 +45,7 @@ Beställarens anvisning 2026-11-13: förrådssynen 2007 kopplas till respektive 
 ## SBA och platskopplingar
 
 Beställaren bekräftar 2026-11-13: protokollens garage 1–71 motsvarar registernummer 701–771; behåll stabila befintliga objekt-ID:n. Förråd 55 i skyddsrum är 655. Vaktmästeriet och lilla vaktmästeriet benämns numera kontoret, bredvid lokalen i samma byggnad på Högalidsvägen 69. Generella miljöhusnoteringar gäller samtliga tre gårdar. Återgivna garageanmärkningar på datum då endast allmänna ytor kontrollerats är inte nya garagefynd. Senare OK eller frånvaro i listor är inte i sig belägg för avhjälpande.
+
+## Lägenhetsbesiktningar
+
+Beställaren bekräftar 2026-11-13 att protokollen är historiska ögonblicksbilder med okänt senare utfall. En åtgärdsinsats gjordes men slutlig utförandedokumentation saknas. Dra inga slutsatser om dagens skick eller senare totalrenoveringar. Bevara uttryckliga daterade OK-rader vid återkontroll; dessa är inte reparationsdatum. Två återkontrollsposter står som Registrerad, inte Genomförd. Räkna teman per unik lägenhet i statuskontrollen, utan dubbelräkning av återkontroller. 21 lägenheter med diskmaskins-/avloppsslangsnoteringar innebär inte 21 utslitna slangar. Medlemsförteckning och gamla förvaltarlägenhetsnummer ska inte importeras.
