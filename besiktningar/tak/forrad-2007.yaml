@@ -1,0 +1,430 @@
+id: "B-FORRAD-20071126"
+typ: "Syn av förråd vid fasadrenovering"
+datum: "2007-11-26"
+rapportdatum: "2007-12-09"
+utförare: "Riksbyggen"
+dokument:
+  källa: "K-TAK-D001"
+  arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+  sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+metod: "Ingen demontering eller rivning; takpannor vid blyplåt lyftes. Synliga problem och indikationer noterades."
+bakgrund: "Fukt i förråd vid balkonger på våning 2 och väggar under förråden på våning 1. Misstänkt vatteninträngning vid anslutningar mellan tak över tegelfasad och fortsättning över förråd."
+sammanfattning:
+  - "Blyplåtar bedömdes ofta leda vatten ned i väggar. Takpapp och takpannor vid anslutningarna ofta skadade."
+  - "Byte av blyplåt vid 55A var utfört vid synen. Övriga byten och lagning av takpapp föreslogs snarast."
+  - "Annan inträngning, exempelvis mellan vägg och balkonggolv, kunde inte uteslutas."
+  - "Boracolbehandling och ventilation för uttorkning föreslogs, inte dokumenterat utförda."
+  - "Balkongbjälklagens avvattning bedömdes bristfällig; smala rännor, smuts och grus hindrade avrinning. Ändring föreslogs."
+  - "Översyn av tak och lekplatser 2008 omnämns som framtida plan; ingen utförd åtgärd registreras utifrån planen."
+lägenheter:
+  -
+    id: "B-FORRAD-20071126-55A"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0069"
+    adress: "Högalidsvägen 55A"
+    källsida: 1
+    iakttagelser:
+      - "Boende upplever problem med fukt i förrådet."
+      - "Anges som åtgärdat inom fasadrenoveringsentreprenaden."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: true
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-55D"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0066"
+    adress: "Högalidsvägen 55D"
+    källsida: 2
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Rinningar på vägg invändigt."
+      - "Golv inte åtkomligt."
+      - "Boende upplever problem med fukt i förrådet."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-55E"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0065"
+    adress: "Högalidsvägen 55E"
+    källsida: 2
+    iakttagelser:
+      - "Takpapp trasig."
+      - "Inga synliga problem invändigt."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-59A"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0059"
+    adress: "Högalidsvägen 59A"
+    källsida: 3
+    iakttagelser:
+      - "Takpanna sprucken."
+      - "Golv fuktigt under plastmatta."
+      - "Dörrblad rötskadat."
+      - "Innerväggar och innertak omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-59D"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0056"
+    adress: "Högalidsvägen 59D"
+    källsida: 3
+    iakttagelser:
+      - "Anges att åtgärdas inom fasadrenoveringsentreprenaden; utförande inte styrkt."
+      - "Boende upplever problem med fukt i förrådet."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-59F"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0054"
+    adress: "Högalidsvägen 59F"
+    källsida: 3
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Dörr låst, invändig syn kunde inte utföras."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-63A"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0049"
+    adress: "Högalidsvägen 63A"
+    källsida: 4
+    iakttagelser:
+      - "Fuktproblem konstaterat i vägg på bottenvåningen."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-63D"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0046"
+    adress: "Högalidsvägen 63D"
+    källsida: 4
+    iakttagelser:
+      - "Takpapp trasig."
+      - "Takpanna skadad."
+      - "Innerväggar och innertak av plåt omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-63E"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0045"
+    adress: "Högalidsvägen 63E"
+    källsida: 5
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Udda taklösning med plåt utvändigt."
+      - "Inga synliga problem invändigt."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-67A"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0036"
+    adress: "Högalidsvägen 67A"
+    källsida: 5
+    iakttagelser:
+      - "Folie under takpannor."
+      - "Innerväggar och innertak omnämns utan specificerat fel."
+      - "Boende har anmält att det regnar in vid viss kombination av vind, regn och vindriktning."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-67D"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0039"
+    adress: "Högalidsvägen 67D"
+    källsida: 6
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Karm tidigare utbytt på förrådsdörr."
+      - "Innerväggar och innertak omnämns utan specificerat fel."
+      - "Boende påtalar lukt av fukt/mögel i hall på våning 1 till lägenheten på våning 2. Intilliggande förråd till förskolan har inga synliga problem."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-67E"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0040"
+    adress: "Högalidsvägen 67E"
+    källsida: 6
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Innerväggar omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-67G"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0042"
+    adress: "Högalidsvägen 67G"
+    källsida: 6
+    iakttagelser:
+      - "Takpapp trasig."
+      - "Knutbräda rötskadad."
+      - "Innerväggar omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-71A"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0012"
+    adress: "Högalidsvägen 71A"
+    källsida: 7
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Innerväggar omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-71D"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0015"
+    adress: "Högalidsvägen 71D"
+    källsida: 7
+    iakttagelser:
+      - "Takpanna trasig."
+      - "Innerväggar omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-71E"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0016"
+    adress: "Högalidsvägen 71E"
+    källsida: 7
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Innerväggar omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-71H"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0019"
+    adress: "Högalidsvägen 71H"
+    källsida: 7
+    iakttagelser:
+      - "Inga synliga utvändiga problem med taket."
+      - "Innerväggar omnämns utan specificerat fel."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-75A"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0025"
+    adress: "Högalidsvägen 75A"
+    källsida: 7
+    iakttagelser:
+      - "Vatten står på blyplåt."
+      - "Invändiga spår från tidigare fukt."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-75D"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0022"
+    adress: "Högalidsvägen 75D"
+    källsida: 7
+    iakttagelser:
+      - "Takpapp trasig."
+      - "Inga synliga problem invändigt."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+  -
+    id: "B-FORRAD-20071126-75F"
+    datum: "2007-11-26"
+    rapportdatum: "2007-12-09"
+    objekt: "L-118-1-0020"
+    adress: "Högalidsvägen 75F"
+    källsida: 8
+    iakttagelser:
+      - "Takpapp trasig."
+      - "Fuktindikation på råspont."
+      - "Rinningar på insida av gips."
+      - "Boende upplever problem med fukt i förrådet."
+    senare_åtgärdsstatus: "Okänd"
+    historiskt_åtgärdat_enligt_rapport: false
+    kommentar: "Historiska iakttagelser. Allmänna omnämnanden av byggnadsdelar har inte tolkats som specificerade skador."
+    dokument:
+      källa: "K-TAK-D001"
+      arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+      sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"

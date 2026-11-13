@@ -1,0 +1,37 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-FORRAD-20071126"
+    datum: "2007-11-26"
+    datum_från: null
+    datum_till: null
+    åtgärd: "Syn av förråd vid fasadrenovering"
+    objekt:
+      - "L-118-1-0069"
+      - "L-118-1-0066"
+      - "L-118-1-0065"
+      - "L-118-1-0059"
+      - "L-118-1-0056"
+      - "L-118-1-0054"
+      - "L-118-1-0049"
+      - "L-118-1-0046"
+      - "L-118-1-0045"
+      - "L-118-1-0036"
+      - "L-118-1-0039"
+      - "L-118-1-0040"
+      - "L-118-1-0042"
+      - "L-118-1-0012"
+      - "L-118-1-0015"
+      - "L-118-1-0016"
+      - "L-118-1-0019"
+      - "L-118-1-0025"
+      - "L-118-1-0022"
+      - "L-118-1-0020"
+    besiktning: "B-FORRAD-20071126"
+    utförare: "Riksbyggen"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+    kommentar: "Besiktning, inte intyg om utförda rekommenderade reparationer eller hängrännerensning."

@@ -8,54 +8,81 @@ byggnader:
     husnummer: 51
     lägenheter: [L-118-1-0075, L-118-1-0076, L-118-1-0077, L-118-1-0078]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-53
     typ: byggnad
     namn: Hus 53
     husnummer: 53
     lägenheter: [L-118-1-0070, L-118-1-0071, L-118-1-0072, L-118-1-0073, L-118-1-0074]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-55
     typ: byggnad
     namn: Hus 55
     husnummer: 55
     lägenheter: [L-118-1-0064, L-118-1-0065, L-118-1-0066, L-118-1-0067, L-118-1-0068, L-118-1-0069]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-57
     typ: byggnad
     namn: Hus 57
     husnummer: 57
     lägenheter: [L-118-1-0060, L-118-1-0061, L-118-1-0062, L-118-1-0063]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-59
     typ: byggnad
     namn: Hus 59
     husnummer: 59
     lägenheter: [L-118-1-0054, L-118-1-0055, L-118-1-0056, L-118-1-0057, L-118-1-0058, L-118-1-0059]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-61
     typ: byggnad
     namn: Hus 61
     husnummer: 61
     lägenheter: [L-118-1-0050, L-118-1-0051, L-118-1-0052, L-118-1-0053]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-63
     typ: byggnad
     namn: Hus 63
     husnummer: 63
     lägenheter: [L-118-1-0044, L-118-1-0045, L-118-1-0046, L-118-1-0047, L-118-1-0048, L-118-1-0049]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-65
     typ: byggnad
     namn: Hus 65
     husnummer: 65
     lägenheter: [L-118-1-0031, L-118-1-0032, L-118-1-0033, L-118-1-0034, L-118-1-0035]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-67
     typ: byggnad
     namn: Hus 67
     husnummer: 67
     lägenheter: [L-118-1-0036, L-118-1-0037, L-118-1-0038, L-118-1-0039, L-118-1-0040, L-118-1-0041, L-118-1-0042, L-118-1-0043]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-69
     typ: byggnad
     namn: Hus 69
@@ -63,33 +90,50 @@ byggnader:
     lägenheter: []
     datastatus: verifierad
     kommentar: Föreningslokalen enligt befintlig objektslista.
+    takbesiktningar:
+      - "B-TAK-20121114-28"
   - id: H-71
     typ: byggnad
     namn: Hus 71
     husnummer: 71
     lägenheter: [L-118-1-0012, L-118-1-0013, L-118-1-0014, L-118-1-0015, L-118-1-0016, L-118-1-0017, L-118-1-0018, L-118-1-0019]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-73
     typ: byggnad
     namn: Hus 73
     husnummer: 73
     lägenheter: [L-118-1-0026, L-118-1-0027, L-118-1-0028, L-118-1-0029, L-118-1-0030]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-75
     typ: byggnad
     namn: Hus 75
     husnummer: 75
     lägenheter: [L-118-1-0020, L-118-1-0021, L-118-1-0022, L-118-1-0023, L-118-1-0024, L-118-1-0025]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-77
     typ: byggnad
     namn: Hus 77
     husnummer: 77
     lägenheter: [L-118-1-0007, L-118-1-0008, L-118-1-0009, L-118-1-0010, L-118-1-0011]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"
   - id: H-79
     typ: byggnad
     namn: Hus 79
     husnummer: 79
     lägenheter: [L-118-1-0001, L-118-1-0002, L-118-1-0003, L-118-1-0004, L-118-1-0005, L-118-1-0006]
     datastatus: verifierad
+    takbesiktningar:
+      - "B-TAK-20121114-28"
+      - "B-TAK-20190313-27"

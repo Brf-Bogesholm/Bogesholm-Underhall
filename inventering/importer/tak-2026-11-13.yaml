@@ -1,0 +1,30 @@
+id: "IMPORT-TAK-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-TAK-ARKIV-20261113"
+    typ: "Tak hängrännor.zip"
+    filer:
+      -
+        id: "K-TAK-D001"
+        arkivsökväg: "Tak hängrännor/2015/Fasadrenovering.pdf"
+        sha256: "38b9343ad4910d22f50572b302c71f2f9c512497be2a777e8cbaa64282ceed77"
+      -
+        id: "K-TAK-D002"
+        arkivsökväg: "Tak hängrännor/2015/Takbesiktning.Bogesholm.pdf"
+        sha256: "10ebf9b4eb1ee2f468ad7f8b629500a72eb6b34cc63c7241f579361c01174435"
+      -
+        id: "K-TAK-D003"
+        arkivsökväg: "Tak hängrännor/2019 Kondbes yttertak Riksbyggen Bogesholm.pdf"
+        sha256: "c9576f135dd0e3e3c33fa13776ad8d8697ba8448faa3422db845f6eb77419085"
+  -
+    id: "K-TAK-KOPPLING-20261113"
+    typ: "Beställarens anvisning"
+    uppgifter:
+      - "Syn av förråd kopplas till respektive lägenhet."
+      - "Övriga rapporter kopplas till respektive hus; lokala adressdetaljer bevaras i husets iakttagelser."
+kontroll:
+  rapporter: 3
+  förrådssyn_lägenheter: 20
+  takbesiktning_2019_bostadshus: 14
+avgränsning: "Arkivmapp 2015 är inte besiktningsdatum. Ingen dokumenterad utförd hängrännerensning i dessa rapporter. Inga kostnader tillagda. Original och personuppgifter publiceras inte."

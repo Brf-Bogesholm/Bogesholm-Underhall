@@ -32,3 +32,33 @@ version: "1.0"
     källor:
       - "K-OVK-20261113"
       - "K-OVK-KOMPLETTERING-20261113"
+  -
+    id: "A-TAK-20121114-28"
+    datum: null
+    datum_från: "2012-11-14"
+    datum_till: "2012-11-28"
+    åtgärd: "Taköversyn"
+    objekt:
+      - "H-51"
+      - "H-53"
+      - "H-55"
+      - "H-57"
+      - "H-59"
+      - "H-61"
+      - "H-63"
+      - "H-65"
+      - "H-67"
+      - "H-69"
+      - "H-71"
+      - "H-73"
+      - "H-75"
+      - "H-77"
+      - "H-79"
+    besiktning: "B-TAK-20121114-28"
+    utförare: "Byggsystem i Skåne AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-TAK-ARKIV-20261113"
+      - "K-TAK-KOPPLING-20261113"
+    kommentar: "Besiktning, inte intyg om utförda rekommenderade reparationer eller hängrännerensning."

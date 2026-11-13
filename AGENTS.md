@@ -37,3 +37,7 @@ Beställarens avgränsning 2026-11-13: lägenhetsutdraget från 2025-12-12 får 
 ## Ventilation och OVK
 
 Beställaren har bekräftat att endast föreningslokalens FF1 på Högalidsvägen 69 omfattas av OVK. Ventilationsrensningen 2014-06-19 är separat lägenhetshistorik. Avvikelselistan anger 57B, 61A, 71F och 77A; avhjälpandets status är okänd. För övriga 74 lägenheter registreras genomförd totalrensning med godkänt resultat enligt beställarens uttryckliga bekräftelse, grundad på avvikelselistan. Huvudprotokollet saknas; kalla inte detta individuellt verifierade godkännandeprotokoll eller OVK av lägenheterna. 2021 års OVK räknades till 2018 års intervall men utfördes 2021.
+
+## Tak och förråd
+
+Beställarens anvisning 2026-11-13: förrådssynen 2007 kopplas till respektive lägenhet; taköversynen 2012 och takbesiktningen 2019 kopplas till respektive hus. Lägenhetsbokstäver i takrapporten bevaras som positionsuppgifter i husets noteringar. Arkivmapp 2015 är inte besiktningsdatum. Generella brister är inte individuellt fastställda på varje hus. Rapporterna intygar inte utförd hängrännerensning. Exakt byggnads-ID för soprummet på gård 61–67 i 2012 års rapport är inte fastställt.

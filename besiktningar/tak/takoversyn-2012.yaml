@@ -1,0 +1,47 @@
+id: "B-TAK-20121114-28"
+typ: "Taköversyn"
+datum_från: "2012-11-14"
+datum_till: "2012-11-28"
+rapportdatum: "2012-12-10"
+utförare: "Byggsystem i Skåne AB"
+dokument:
+  källa: "K-TAK-D002"
+  arkivsökväg: "Tak hängrännor/2015/Takbesiktning.Bogesholm.pdf"
+  sha256: "10ebf9b4eb1ee2f468ad7f8b629500a72eb6b34cc63c7241f579361c01174435"
+källor:
+  - "K-TAK-ARKIV-20261113"
+  - "K-TAK-KOPPLING-20261113"
+datumkommentar: "Ligger i arkivmapp 2015 men rapport och syn är från 2012. Handskriven notering anger bilaga till protokollet 22 januari 2013."
+generella_brister:
+  - "Underlagspapp i nedre takfall saknas eller är bristfällig på flera ställen, utöver rötskador som uppges åtgärdade vid 55A och 77A."
+  - "Huvar och avloppsluftare saknar ofta stostätning."
+  - "Skarvar på hängrännor lösa eller läcker."
+  - "Bakfall på nästan samtliga hängrännor."
+  - "Skadade eller nedböjda rännkrokar på många ställen."
+specificerade_noteringar:
+  -
+    hus: "H-69"
+    text: "Gemensamhetslokalen har början till rostangrepp på plåttäckningarnas nederkant."
+  -
+    plats: "Soprum på gård 61–67"
+    text: "Papp saknas vid nock cirka 200 mm; det regnar in."
+    hus: null
+    kommentar: "Exakt byggnads-ID för soprummet inte fastställt. Inte tilldelat en bostadsbyggnad."
+senare_åtgärdsstatus: "Okänd"
+objekt:
+  - "H-51"
+  - "H-53"
+  - "H-55"
+  - "H-57"
+  - "H-59"
+  - "H-61"
+  - "H-63"
+  - "H-65"
+  - "H-67"
+  - "H-69"
+  - "H-71"
+  - "H-73"
+  - "H-75"
+  - "H-77"
+  - "H-79"
+kopplingskommentar: "Kopplad till områdets hus enligt beställaren. Generella brister är områdesiakttagelser och inte bevis för att varje brist konstaterats i varje hus. Soprumsnoteringen ligger kvar med okänd exakt byggnad."

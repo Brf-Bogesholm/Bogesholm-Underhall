@@ -377,6 +377,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-71A"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-71A"
 - id: L-118-1-0013
   typ: lägenhet
   namn: lgh 13
@@ -470,6 +472,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-71D"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-71D"
 - id: L-118-1-0016
   typ: lägenhet
   namn: lgh 16
@@ -501,6 +505,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-71E"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-71E"
 - id: L-118-1-0017
   typ: lägenhet
   namn: lgh 17
@@ -594,6 +600,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-71H"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-71H"
 - id: L-118-1-0020
   typ: lägenhet
   namn: lgh 20
@@ -625,6 +633,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-75F"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-75F"
 - id: L-118-1-0021
   typ: lägenhet
   namn: lgh 21
@@ -687,6 +697,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-75D"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-75D"
 - id: L-118-1-0023
   typ: lägenhet
   namn: lgh 23
@@ -780,6 +792,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-75A"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-75A"
 - id: L-118-1-0026
   typ: lägenhet
   namn: lgh 26
@@ -1121,6 +1135,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-67A"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-67A"
 - id: L-118-1-0037
   typ: lägenhet
   namn: lgh 37
@@ -1214,6 +1230,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-67D"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-67D"
 - id: L-118-1-0040
   typ: lägenhet
   namn: lgh 40
@@ -1245,6 +1263,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-67E"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-67E"
 - id: L-118-1-0041
   typ: lägenhet
   namn: lgh 41
@@ -1307,6 +1327,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-67G"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-67G"
 - id: L-118-1-0043
   typ: lägenhet
   namn: lgh 43
@@ -1400,6 +1422,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-63E"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-63E"
 - id: L-118-1-0046
   typ: lägenhet
   namn: lgh 46
@@ -1431,6 +1455,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-63D"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-63D"
 - id: L-118-1-0047
   typ: lägenhet
   namn: lgh 47
@@ -1524,6 +1550,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-63A"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-63A"
 - id: L-118-1-0050
   typ: lägenhet
   namn: lgh 50
@@ -1679,6 +1707,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-59F"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-59F"
 - id: L-118-1-0055
   typ: lägenhet
   namn: lgh 55
@@ -1741,6 +1771,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-59D"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-59D"
 - id: L-118-1-0057
   typ: lägenhet
   namn: lgh 57
@@ -1834,6 +1866,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-59A"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-59A"
 - id: L-118-1-0060
   typ: lägenhet
   namn: lgh 60
@@ -2020,6 +2054,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-55E"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-55E"
 - id: L-118-1-0066
   typ: lägenhet
   namn: lgh 66
@@ -2051,6 +2087,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-55D"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-55D"
 - id: L-118-1-0067
   typ: lägenhet
   namn: lgh 67
@@ -2144,6 +2182,8 @@ lägenheter:
     källa: "K-LAGENHETSUTDRAG-20251212"
   ventilationshistorik:
     - "A-VENT-RENSNING-20140619-55A"
+  förrådsbesiktningar:
+    - "B-FORRAD-20071126-55A"
 - id: L-118-1-0070
   typ: lägenhet
   namn: lgh 70
