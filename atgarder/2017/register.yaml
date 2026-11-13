@@ -1,0 +1,50 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-GAS-UC-2017-10-01"
+    datum: "2017-10-01"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2017-10-01"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D010"
+      - "K-GASPANNOR-D009"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-UC-2017-08-29"
+    datum: "2017-08-29"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2017-08-29"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D012"
+      - "K-GASPANNOR-D011"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-UC-2017-11-23"
+    datum: "2017-11-23"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2017-11-23"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D014"
+      - "K-GASPANNOR-D013"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."

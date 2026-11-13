@@ -1,0 +1,324 @@
+id: "IMPORT-GASPANNOR-20261113"
+godkänd: "2026-11-13"
+källor:
+  -
+    id: "K-GASPANNOR-ZIP-20261113"
+    typ: "zip-arkiv"
+    filnamn: "Gaspannorna.zip"
+    filer:
+      -
+        id: "K-GASPANNOR-D001"
+        arkivsökväg: "Gaspannorna/2010/Drift o funktionskontroll 100120.pdf"
+        sha256: "eebdc9b47f2ef800770a511e728c94d3d805c20df216730ab11d500152b7bcaa"
+        typ: "Äldre handskrivet kontrollprotokoll"
+        hantering: "Separat äldre kontrollpost. Adressavvikelse 73D; aktuell komponentkoppling inte verifierad."
+      -
+        id: "K-GASPANNOR-D002"
+        arkivsökväg: "Gaspannorna/2010/Drift o funktionskontroll 100820.pdf"
+        sha256: "a6ec72518128d514f907a876cd51e3ad39ff31bb23300e3faa6e9af5018303f2"
+        typ: "Äldre handskrivet kontrollprotokoll"
+        hantering: "Separat äldre kontrollpost. Adressavvikelse 73D; aktuell komponentkoppling inte verifierad."
+      -
+        id: "K-GASPANNOR-D003"
+        arkivsökväg: "Gaspannorna/2010/Driftprotokoll mall.docx"
+        sha256: "68276b43f8412fbbf764e558d2d2992cd1c509de0bdd31660e709d04e780f334"
+        typ: "Blank protokollmall"
+        hantering: "Referens, ingen utförd kontroll."
+      -
+        id: "K-GASPANNOR-D004"
+        arkivsökväg: "Gaspannorna/2014/Värme_2014_besök 1_Bogesholm.xlsx"
+        sha256: "28dfb1f81f39424c3772272ded6dd8e97459e76e2de0a3c83729079de4db7c9b"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D005"
+        arkivsökväg: "Gaspannorna/2014/Värme_2014_besök 2_Bogesholm.xlsx"
+        sha256: "1b6ed943f743baae510922b0071e90e3a5d9b41af46291f618b3f0d589c1309b"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D006"
+        arkivsökväg: "Gaspannorna/2015/Värme_2015_Besök 1_Bogesholm.xlsx"
+        sha256: "d2ef126670292808ed322a496862ee2739730f1f6746125f0ef575b36e0d1589"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D007"
+        arkivsökväg: "Gaspannorna/2015/Värme_2015_Besök 2_Bogesholm.xlsx"
+        sha256: "704573ea34d1f3cf15255582b9090afc5b1aea04e703686712e4f545c1f5c5f7"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D008"
+        arkivsökväg: "Gaspannorna/2016/Besök 1/Värme_2016_Besök 1_Bogesholm.xlsx"
+        sha256: "9f939f7cfa1f493c9b9081dade194f22ea5f76dfb505152e5a6e033ddab0af58"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D009"
+        arkivsökväg: "Gaspannorna/2016/Besök 2/Värme_2016_Besök 2_Bogesholm.pdf"
+        sha256: "0748599e566994c6910eba7dfa4f0517b81fc7ac1b7cb282db29f04a064609d4"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D010"
+        hantering: "En kontrollpost, inte ett extra besök."
+      -
+        id: "K-GASPANNOR-D010"
+        arkivsökväg: "Gaspannorna/2016/Besök 2/Värme_2016_Besök 2_Bogesholm.xlsx"
+        sha256: "3c72e7afde6fec6bd2a2be259a6b1634ce45cb4f7006ef0d487c6178056d6e03"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D011"
+        arkivsökväg: "Gaspannorna/2017/Besök 1/Värme_2017_Besök 1_Bogesholm.pdf"
+        sha256: "2e3c0168a4da1255bfbcebc70fd887e88f4d3eccb7133eec7190e15afc4b2557"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D012"
+        hantering: "En kontrollpost, inte ett extra besök."
+      -
+        id: "K-GASPANNOR-D012"
+        arkivsökväg: "Gaspannorna/2017/Besök 1/Värme_2017_Besök 1_Bogesholm.xlsx"
+        sha256: "5148bc2766c6cc6ffdb8b305d9335e8baa1dcce7e99850c5ed92191900869cf7"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D013"
+        arkivsökväg: "Gaspannorna/2017/Besök 2/Värme_2017_Besök 2_Bogesholm.pdf"
+        sha256: "365993affd4cf8c3767d0981720c719c073469cf7e413b769bf91845d21327d1"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D014"
+        hantering: "En kontrollpost, inte ett extra besök."
+      -
+        id: "K-GASPANNOR-D014"
+        arkivsökväg: "Gaspannorna/2017/Besök 2/Värme_2017_Besök 2_Bogesholm.xlsx"
+        sha256: "17337a38e5093ac67ea5265a7de8a7680a7a4a91cd98b992c91b465cdf473b7c"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D015"
+        arkivsökväg: "Gaspannorna/2018/Funktionskontroll Undercentral_2018_Bogesholm.xlsx"
+        sha256: "9af80a51019666efbe6053d716cb7776bad298ee17facbb244ddc3805b27e83b"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D016"
+        arkivsökväg: "Gaspannorna/2019/Besök 1/Funktionskontroll Bogesholm Besök1 2019.pdf"
+        sha256: "395f7d1fe5a241372618aff308dcd4e7b486ab56a9c1c244c9a2fdb65f5d47cf"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D017"
+        hantering: "En kontrollpost, inte ett extra besök."
+      -
+        id: "K-GASPANNOR-D017"
+        arkivsökväg: "Gaspannorna/2019/Besök 1/Funktionskontroll Bogesholm Besök1 2019.xlsx"
+        sha256: "10f92d9239bf5641fd25c6035ed56390815fb4791e7bd3beb1c6095702c42985"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D018"
+        arkivsökväg: "Gaspannorna/2019/Besök 2/Filterbyte Bogesholm 2019.docx"
+        sha256: "114df865ad69b800d50e9056546e9a8cebc0055cfd2274733070e93158744cea"
+        typ: "Avisering om filterbyte"
+        hantering: "Planerat arbete, inte bevis för utförande. Separat ventilationsunderlag; ingen servicehändelse skapad."
+        kommentar: "2019-aviseringen innehåller motstridiga datum från 2018 och 2019."
+      -
+        id: "K-GASPANNOR-D019"
+        arkivsökväg: "Gaspannorna/2019/Besök 2/Funktionskontroll Gaspanna Bogesholm Besök 2.xlsx"
+        sha256: "bda7ddb77cddfcb73d480a144d8cd32224a51ced0e8c43d68969e340aa62248b"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D020"
+        arkivsökväg: "Gaspannorna/2019/Besök 2/Funktionskontroll_2019_Besök2.pdf"
+        sha256: "f4c53ebb2d55a68f46ac344439033477391776e1e1a5d292740ffb6fe9db783e"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D019"
+        hantering: "En kontrollpost, inte ett extra besök."
+      -
+        id: "K-GASPANNOR-D021"
+        arkivsökväg: "Gaspannorna/2020/Besök 1/Avisering 1 Björns.docx"
+        sha256: "704a883d40e65753e28bbaeeaebc43c9113a30cf5b6c7416e839798407f1b08d"
+        typ: "Avisering om filterbyte"
+        hantering: "Planerat arbete, inte bevis för utförande. Separat ventilationsunderlag; ingen servicehändelse skapad."
+        kommentar: "Avser lägenheternas återvinningsaggregat."
+      -
+        id: "K-GASPANNOR-D022"
+        arkivsökväg: "Gaspannorna/2020/Besök 1/Avisering 2 Björns.docx"
+        sha256: "076fda656e29ca0c6ed57a048c8863b6cd35d085d4e73ec84d6b4050f37ba251"
+        typ: "Avisering om filterbyte"
+        hantering: "Planerat arbete, inte bevis för utförande. Separat ventilationsunderlag; ingen servicehändelse skapad."
+        kommentar: "Avser lägenheternas återvinningsaggregat."
+      -
+        id: "K-GASPANNOR-D023"
+        arkivsökväg: "Gaspannorna/2020/Besök 1/Funktionskontroll_2020_besök1.pdf"
+        sha256: "7a382ef0f7715ebcf13c9a8e185c49bc2a9cbda3b6c3aed2552b1a2176e7771a"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D024"
+        hantering: "En kontrollpost, inte ett extra besök."
+        kommentar: "Sida 1 är pann-/UC-kontrollen. Sidor 2–4 avser lägenhetsaggregat, motsvarande separat Excelunderlag D025; dessa sidor ingår inte i pannimporten."
+      -
+        id: "K-GASPANNOR-D024"
+        arkivsökväg: "Gaspannorna/2020/Besök 1/Funktionskontroll_Gaspanna_2020_besök1.xlsx"
+        sha256: "80b20effe2491556ce1862636fc3d1eb158f28eca23f7158d83db2b45200707e"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D025"
+        arkivsökväg: "Gaspannorna/2020/Besök 1/Funktionskontroll_lghagg_Bogesholm_2020.xlsx"
+        sha256: "d7d951c90d549e524204e5cfe12b47bdb90653588762107c00a33cc387f714ff"
+        typ: "Separat kontrollsammanställning för lägenhetsaggregat"
+        hantering: "Identifierad och källförtecknad; lägenhetsvis ventilationsimport återstår separat. Inte kontroll av gaspannorna."
+      -
+        id: "K-GASPANNOR-D026"
+        arkivsökväg: "Gaspannorna/2020/Besök 2/Funktionskontroll_2020_besök2.xlsx"
+        sha256: "91e25c11d6a3d98ec9566430b745e4883614e114c8db6730fb748213f074fb2e"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D027"
+        arkivsökväg: "Gaspannorna/2021/Besök 1 endast UC/Funktionskontroll_2021_besök1.pdf"
+        sha256: "68ec82490e1a005f4ef537de87d2e3154ebc099502951ff4f03e4beab062dcaa"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D028"
+        hantering: "En kontrollpost, inte ett extra besök."
+      -
+        id: "K-GASPANNOR-D028"
+        arkivsökväg: "Gaspannorna/2021/Besök 1 endast UC/Funktionskontroll_2021_besök1.xlsx"
+        sha256: "e0ba05d5f31f7565104bb6959ee9b59676a7451fc31e8e31cde0ae47ea37f5d9"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D029"
+        arkivsökväg: "Gaspannorna/2021/Besök 2 endast UC/Funktionskontroll_2021_besök2.xlsx"
+        sha256: "7cdddc0d4eefb86d5572aa2f99eac0ef14912f0199d8ba5a8a3f9d5cc8b01363"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D030"
+        arkivsökväg: "Gaspannorna/2022/Besök 1 endast UC/Funktionskontroll_2022_besök1.xlsx"
+        sha256: "c4e3f5f1c951eb53a8637042fcf8be29977a5c9dbcfe5f80dbcb6e6f5cf858f6"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D031"
+        arkivsökväg: "Gaspannorna/2022/Besök 2 endast UC/Funktionskontroll_2022_besök2.xlsx"
+        sha256: "e0a4c69c0b061e564d53129609d0056c82aec4b1c19447610f25f70c0418f57c"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D032"
+        arkivsökväg: "Gaspannorna/2023/besiktning gasanläggning 2023.pdf"
+        sha256: "f6647f665dc715bb9f876618bb3c64303b39889312b3764c742d6f11a2968398"
+        typ: "Gasbesiktning"
+        hantering: "Registrerad med totalomdöme och pannvisa mätvärden."
+      -
+        id: "K-GASPANNOR-D033"
+        arkivsökväg: "Gaspannorna/2023/Besök 1 endast UC/Funktionskontroll_2023_besök1.xlsx"
+        sha256: "06ec88810a0eb316b1edab9313b0e5b5ecaa513857cccb377900333b0accef98"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D034"
+        arkivsökväg: "Gaspannorna/2023/Besök 2 endast UC/Funktionskontroll_2023_besök2.xlsx"
+        sha256: "e2063c4ff537a85b2b5245ce9d6bdf08b8e7261104399e792d1722a930e2c0a6"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D035"
+        arkivsökväg: "Gaspannorna/2024/Besök 1 endast UC/Funktionskontroll_2024_besök1.xlsx"
+        sha256: "fd18de9271f184fb6732e26d8808a23fc09f7b1dcf1f02c03b312b93b9bc4b4e"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D036"
+        arkivsökväg: "Gaspannorna/2024/Besök 2/Funktionskontroll_2024_besök2.xlsx"
+        sha256: "c7a7dadf7586f5c2bcfd82bd64c63af22dfa2acaaf49356586557663eea93e61"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D037"
+        arkivsökväg: "Gaspannorna/2024/Gaspanna 1_2024-07-02.pdf"
+        sha256: "4b223379d42c685e88184eed17a77d8fdb0ed80306c7a0f4a1aaa58bc657ef0c"
+        typ: "Brandskyddskontroll"
+        hantering: "Registrerad per panna, med separat anmärkning på gemensam lucka."
+      -
+        id: "K-GASPANNOR-D038"
+        arkivsökväg: "Gaspannorna/2024/Gaspanna 2_2024-07-02.pdf"
+        sha256: "6a7db8f65f05222d9b1764918043ed64009b06757b7ee130cad836fa23097b2f"
+        typ: "Brandskyddskontroll"
+        hantering: "Registrerad per panna, med separat anmärkning på gemensam lucka."
+      -
+        id: "K-GASPANNOR-D039"
+        arkivsökväg: "Gaspannorna/2024/Gaspanna 3_2024-07-02.pdf"
+        sha256: "809ddf16f56254b20205118ae3fe05ff93e5825d140297ea93b8110e5b2004f2"
+        typ: "Brandskyddskontroll"
+        hantering: "Registrerad per panna, med separat anmärkning på gemensam lucka."
+      -
+        id: "K-GASPANNOR-D040"
+        arkivsökväg: "Gaspannorna/2025/Besök 1/Funktionskontroll_2025_besök1.xlsx"
+        sha256: "ec7b04e4ba10aac4e9dab66fd513bec6dd3664d92ddbb7a6b6c5cfc586e2e1b9"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D041"
+        arkivsökväg: "Gaspannorna/2025/Besök 2/Funktionskontroll_2025_besök2.xlsx"
+        sha256: "4e78cba2e31e70633b97230128ce518c2d130786abb0d3e6a8fe56fd39e8a975"
+        typ: "Funktionskontroll"
+        hantering: "Registrerad kontrollhistorik med datum från handlingen."
+      -
+        id: "K-GASPANNOR-D042"
+        arkivsökväg: "Gaspannorna/2026/Weum - Besiktning.pdf"
+        sha256: "0f1d6eb3174c40fa402d771e7aab28978905fe5729c2385a27bc813d6e313186"
+        typ: "Gasbesiktning"
+        hantering: "Registrerad med totalomdöme och pannvisa mätvärden."
+      -
+        id: "K-GASPANNOR-D043"
+        arkivsökväg: "Gaspannorna/Anläggningskort.xlsx"
+        sha256: "addb882db962edd3901da5eeaeb2039b8b44c76a77f1d347d2dd4d68c2497dc2"
+        typ: "Anläggningskort 2014-02-07"
+        hantering: "Identifikation/adress och i huvudsak tomma tekniska tabeller. Inga saknade kapaciteter eller serienummer har fyllts i."
+      -
+        id: "K-GASPANNOR-D044"
+        arkivsökväg: "Gaspannorna/Felkoder VC 1206Gaspannor_Bogesholm.pdf"
+        sha256: "ad4df115db9464e8a1b0f53bf5b9eae3d4db303f944f58df17754bf34504dbd4"
+        typ: "Referensmaterial med felkoder"
+        hantering: "Felkodsförteckning är inte en förteckning över inträffade fel. Ingen felhändelse skapad."
+      -
+        id: "K-GASPANNOR-D045"
+        arkivsökväg: "Gaspannorna/Funktionskontroll_2022_besök2.pdf"
+        sha256: "ae7c0a3a9d9634331f075be972658a6d165f2963c187d3a9f3b1642f967a44dc"
+        typ: "PDF-version av funktionskontroll"
+        samma_kontroll_som: "K-GASPANNOR-D031"
+        hantering: "En kontrollpost, inte ett extra besök."
+  -
+    id: "K-GASPANNOR-KOMPLETTERING-20261113"
+    typ: "beställaruppgifter"
+    datum: "2026-11-13"
+    uppgifter:
+      - "Sett framifrån är vänster, mitten och höger panna 1, 2 och 3."
+      - "Åtgärdsstatus för luckan vid gemensamma kanalen är okänd."
+kontroll:
+  antal_dokument: 45
+  pdf: 16
+  excel: 25
+  word: 4
+  unika_kontrollposter: 30
+  funktionskontroller: 25
+  gasbesiktningar: 2
+  brandskyddskontroller: 3
+  pdf_excel_par: 8
+  nya_objekt: 6
+  nya_fakturor: 0
+avgränsningar:
+  - "Originaldokument och teknikernas person-/kontaktuppgifter publiceras inte."
+  - "Protokoll och mätvärden skapar inga fakturabelopp. Mallar, felkodsförteckning och aviseringar skapar inga utförda servicehändelser."
+  - "Kontrollerna avser sina respektive datum; inget generellt nutida godkännande har antagits."
+  - "Historiska expansionskärl och avgasare har inte likställts med dagens Spirotech S400 och dess lilla kärl."
+  - "Ordning mellan fysiska pannbyten över historiken är inte fastställd. Objekt-ID:n följer pannpositioner."
+  - "2010-protokollens 73D-adress, motstridigt datum 20/21 januari 2010 och datumkonflikten 2016/2017 bevaras."
+  - "Lägenhetsaggregatens kontrollsammanställning är endast källförtecknad och ingår inte i denna pannimport."
+öppna_uppgifter:
+  - "Luckans åtgärdsstatus är okänd."
+  - "Pannornas serienummer, installationsdatum och utbyteshistorik saknas."
+  - "2010-protokollens adressavvikelse och datum 20/21 januari behöver utredas."
+  - "Protokollet i 2016/besök 2 är daterat 2017-10-01; konflikten är inte löst."
+  - "Lägenhetsvis ventilationskontroll 2020 kan granskas och registreras separat."
+  - "Beständiga arkivlänkar saknas."

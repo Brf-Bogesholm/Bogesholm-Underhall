@@ -1,0 +1,77 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-GAS-UC-2024-04-12"
+    datum: "2024-04-12"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2024-04-12"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D035"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-UC-2024-10-02"
+    datum: "2024-10-02"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2024-10-02"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D036"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-BRAND-2024-06-05-P1"
+    datum: "2024-06-05"
+    åtgärd: "Brandskyddskontroll av gaspanna"
+    objekt:
+      - "TI-GASPANNA-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Skorstensteamet i Skåne AB"
+    besiktning: "B-GAS-BRAND-2024-06-05-P1"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D037"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-BRAND-2024-06-05-P2"
+    datum: "2024-06-05"
+    åtgärd: "Brandskyddskontroll av gaspanna"
+    objekt:
+      - "TI-GASPANNA-69-002"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Skorstensteamet i Skåne AB"
+    besiktning: "B-GAS-BRAND-2024-06-05-P2"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D038"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-BRAND-2024-06-05-P3"
+    datum: "2024-06-05"
+    åtgärd: "Brandskyddskontroll av gaspanna"
+    objekt:
+      - "TI-GASPANNA-69-003"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Skorstensteamet i Skåne AB"
+    besiktning: "B-GAS-BRAND-2024-06-05-P3"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D039"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."

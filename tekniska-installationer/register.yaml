@@ -277,3 +277,181 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
+  -
+    id: "TI-UC-69-001"
+    typ: "undercentral"
+    namn: "Undercentralen, Högalidsvägen 69"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      betjänar: "Hela föreningen"
+      kommentar: "Identitet för undercentralen på denna adress. Kontroller från 2010 med adress 73D har inte automatiskt kopplats hit."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-GAS-UC-2014-02-07"
+      - "A-GAS-UC-2014-12-17"
+      - "A-GAS-UC-2015-03-20"
+      - "A-GAS-UC-2015-12-09"
+      - "A-GAS-UC-2016-04-19"
+      - "A-GAS-UC-2017-10-01"
+      - "A-GAS-UC-2017-08-29"
+      - "A-GAS-UC-2017-11-23"
+      - "A-GAS-UC-2018-11-23"
+      - "A-GAS-UC-2019-06-03"
+      - "A-GAS-UC-2019-11-06"
+      - "A-GAS-UC-2020-04-23"
+      - "A-GAS-UC-2020-11-04"
+      - "A-GAS-UC-2021-04-14"
+      - "A-GAS-UC-2021-10-13"
+      - "A-GAS-UC-2022-03-14"
+      - "A-GAS-UC-2022-10-13"
+      - "A-GAS-UC-2023-02-06"
+      - "A-GAS-UC-2023-08-25"
+      - "A-GAS-UC-2024-04-12"
+      - "A-GAS-UC-2024-10-02"
+      - "A-GAS-UC-2025-05-09"
+      - "A-GAS-UC-2025-12-11"
+    källor:
+      - "K-GASPANNOR-ZIP-20261113"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+  -
+    id: "TI-GASANLAGGNING-69-001"
+    typ: "gasanläggning"
+    namn: "Gasanläggningen, Högalidsvägen 69"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      anläggningsnummer_enligt_Weum: "40009395"
+      senaste_dokumenterade_gasbesiktning: "2026-01-09"
+      senaste_gasbesiktningsomdöme: "Besiktning godkänd"
+      kommentar: "Anläggningsnumret återges som i protokollen. Gasfakturorna har även andra format med inledande nollor; befintliga fakturauppgifter ändras inte."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      - "A-GAS-WEUM-2023-02-21"
+      - "A-GAS-WEUM-2026-01-09"
+    källor:
+      - "K-GASPANNOR-ZIP-20261113"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+  -
+    id: "TI-GASPANNA-69-001"
+    typ: "gaspanna"
+    namn: "Gaspanna 1, vänster"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      pannnummer: 1
+      läge_sett_framifrån: "vänster"
+      lägeskopplingkälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      fabrikat: "Vaillant"
+      typ_enligt_brandskyddsprotokoll_2024: "ECO TEC"
+      serienummer: null
+      installationsdatum: null
+      garanti: null
+      identitetskommentar: "Objektet följer pannnummer/position. Utan serienummer och utbyteshistorik är det inte verifierat att samma fysiska panna funnits under hela kontrollhistoriken. Fullständig modellvariant är inte fastställd."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-GASANLAGGNING-69-001"
+    underhållshistorik:
+      - "A-GAS-WEUM-2023-02-21"
+      - "A-GAS-WEUM-2026-01-09"
+      - "A-GAS-BRAND-2024-06-05-P1"
+    källor:
+      - "K-GASPANNOR-ZIP-20261113"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+  -
+    id: "TI-GASPANNA-69-002"
+    typ: "gaspanna"
+    namn: "Gaspanna 2, mitten"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      pannnummer: 2
+      läge_sett_framifrån: "mitten"
+      lägeskopplingkälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      fabrikat: "Vaillant"
+      typ_enligt_brandskyddsprotokoll_2024: "ECO TEC PLUS"
+      serienummer: null
+      installationsdatum: null
+      garanti: null
+      identitetskommentar: "Objektet följer pannnummer/position. Utan serienummer och utbyteshistorik är det inte verifierat att samma fysiska panna funnits under hela kontrollhistoriken. Fullständig modellvariant är inte fastställd."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-GASANLAGGNING-69-001"
+    underhållshistorik:
+      - "A-GAS-WEUM-2023-02-21"
+      - "A-GAS-WEUM-2026-01-09"
+      - "A-GAS-BRAND-2024-06-05-P2"
+    källor:
+      - "K-GASPANNOR-ZIP-20261113"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+  -
+    id: "TI-GASPANNA-69-003"
+    typ: "gaspanna"
+    namn: "Gaspanna 3, höger"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      pannnummer: 3
+      läge_sett_framifrån: "höger"
+      lägeskopplingkälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      fabrikat: "Vaillant"
+      typ_enligt_brandskyddsprotokoll_2024: "ECO TEC PLUS"
+      serienummer: null
+      installationsdatum: null
+      garanti: null
+      identitetskommentar: "Objektet följer pannnummer/position. Utan serienummer och utbyteshistorik är det inte verifierat att samma fysiska panna funnits under hela kontrollhistoriken. Fullständig modellvariant är inte fastställd."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-GASANLAGGNING-69-001"
+    underhållshistorik:
+      - "A-GAS-WEUM-2023-02-21"
+      - "A-GAS-WEUM-2026-01-09"
+      - "A-GAS-BRAND-2024-06-05-P3"
+    källor:
+      - "K-GASPANNOR-ZIP-20261113"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+  -
+    id: "TI-GASKANAL-LUCKA-69-001"
+    typ: "lucka"
+    namn: "Lucka vid väggen vid gaspannornas gemensamma kanal"
+    datastatus: "verifierad"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    egenskaper:
+      anmärkning: "ANM-GAS-BRAND-20240605-LUCKA"
+      åtgärdsstatus: "Okänd"
+      statusdatum: "2026-11-13"
+      statuskälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      kommentar: "Dokumenterad i brandskyddsprotokollet för panna 1 den 2024-06-05. Ingen senare verifierad åtgärd finns."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-GASANLAGGNING-69-001"
+    underhållshistorik:
+      - "A-GAS-BRAND-2024-06-05-P1"
+    källor:
+      - "K-GASPANNOR-ZIP-20261113"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"

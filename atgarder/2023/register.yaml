@@ -1,0 +1,50 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-GAS-UC-2023-02-06"
+    datum: "2023-02-06"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2023-02-06"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D033"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-UC-2023-08-25"
+    datum: "2023-08-25"
+    åtgärd: "Funktionskontroll av undercentral/gaspannor"
+    objekt:
+      - "TI-UC-69-001"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Riksbyggen"
+    besiktning: "B-GAS-UC-2023-08-25"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D034"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-GAS-WEUM-2023-02-21"
+    datum: "2023-02-21"
+    åtgärd: "Besiktning av gasanläggning"
+    objekt:
+      - "TI-GASANLAGGNING-69-001"
+      - "TI-GASPANNA-69-001"
+      - "TI-GASPANNA-69-002"
+      - "TI-GASPANNA-69-003"
+    placering: "Undercentral/pannrum, Högalidsvägen 69"
+    utförare: "Weum Gas AB"
+    besiktning: "B-GAS-WEUM-2023-02-21"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GASPANNOR-D032"
+      - "K-GASPANNOR-KOMPLETTERING-20261113"
+    kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
