@@ -1,0 +1,57 @@
+version: "1.0"
+anläggning: "TI-LADDPARK-BOGESHOLM-001"
+kluster:
+  - "TI-LADDKLUSTER-RAD-1"
+  - "TI-LADDKLUSTER-RAD-2"
+driftsättningsdatum: "2023-04-28"
+datumkälla: "K-LADDPARK-KOMPLETTERING-20261114"
+teknisk_omfattning_enligt_avtal:
+  dubbelladdare: 8
+  laddpunkter: 16
+  modell: "Compleo NEO 2x22kW Online"
+  montage: "Garo-stativ/montageboxar enligt order"
+  montageboxar: 8
+  lastbalanseringsenheter: 1
+  lastbalansering_modell: "Compleo Local (IPC)"
+  strömtransformatorer: 3
+  kommunikationsboxar: 1
+  kommunikation: "4G-router/modem och nätverkskabel enligt avtal. Nuvarande nätverkskonfiguration inte verifierad."
+  bakplåtar: 8
+  entreprenör: "Compleo CS Nordic AB"
+  underentreprenör: "MW Group"
+  historisk_ombyggnad: "Avtalet omfattade nedmontering av fyra befintliga Garo-laddare och installation av två kluster. Exakt rad för utbytet är inte verifierad."
+modellreferenser:
+  -
+    källa: "K-NEO-MONTA-20261114"
+    url: "https://monta.com/en/supported-charging-stations/compleo-neo/"
+    kontrollerad: "2026-11-14"
+    verifierade_uppgifter:
+      - "Compleo Neo finns listad som kompatibel med Monta"
+      - "AC-laddning"
+      - "Två Typ 2-uttag"
+    avgränsning: "Modellkompatibilitet är inte bekräftelse på att föreningen använder Monta. Inga ytterligare funktioner från webblistan antas aktiverade här."
+drift:
+  nuvarande_administratör: "Caiflow AB"
+  abonnemang: "AB-CAIFLOW-SILVER-001"
+  fakturareferens: "F-2026-1180"
+  tjänst: "Administration av elbilsladdare inklusive sammanställning av fakturaunderlag"
+  övergångskälla: "K-LADDPARK-KOMPLETTERING-20261114"
+  övergångsdatum: null
+  tidigare_avtal: "Compleo avslutade föreningens avtal enligt beställaren."
+  supportuppgift: "Beställaren uppfattar att Compleo slutat stödja dessa laddare i Sverige. Generellt supportstopp och stöd för exakt NEO-variant är inte oberoende verifierat."
+  extern_supportreferens: "https://www.compleocharging.se/support/kundsupport"
+  extern_supportkontroll: "2026-11-14: webbplatsen beskriver hårdvarusupport i Sverige. Detta fastställer inte support för just föreningens modell eller avtalsförhållande."
+öppna_tekniska_uppgifter:
+  - "Individuella serienummer och laddar-ID:n"
+  - "Koppling mellan uttag och parkeringsplatsnummer"
+  - "Avtalets klusternummer kopplade till radnummer"
+  - "Exakt installerad variant och dess jordfels-/DC-skydd; användarens generella modelltext är inte verifierad installationsdokumentation"
+  - "OCPP-version och aktiv backend"
+  - "Nuvarande kommunikationsutrustning och nätverkskonfiguration"
+  - "Garantitid och eventuella garanti-/servicevillkor"
+  - "Dokumenterat datum för övergång till Caiflow"
+avgränsning: "Teknisk registrering enligt beställarens instruktion. Inga priser, ekonomiska avtalsvillkor, personuppgifter eller originaldokument importeras."
+källor:
+  - "K-COMPLEO-TEKNIK-20261114"
+  - "K-LADDPARK-KOMPLETTERING-20261114"
+  - "K-NEO-MONTA-20261114"

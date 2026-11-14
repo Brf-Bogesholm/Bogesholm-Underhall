@@ -10,9 +10,10 @@ abonnemang:
     källor:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
+      - "K-LADDPARK-KOMPLETTERING-20261114"
     individuella_laddarobjekt:
       []
-    objektkopplingstatus: "Individuella laddare och platser är inte verifierade."
+    objektkopplingstatus: "Kopplad till laddparken och kluster på rad 1 och rad 2 enligt beställaren. Individuella laddare och platsnummer ännu inte verifierade."
     fakturaperioder:
       -
         från: "2026-11-01"
@@ -23,3 +24,7 @@ abonnemang:
           - "F-2026-1180-R2"
           - "F-2026-1180-R3"
     kommentar: "Fakturan har tre rader med vardera 16 st à 79 kr exklusive moms. Det är inte bekräftat vilken månad varje rad avser eller vilka individuella laddare som omfattas. Ingen automatisk förnyelse eller längre avtalstid har antagits."
+    anläggning: "TI-LADDPARK-BOGESHOLM-001"
+    kluster:
+      - "TI-LADDKLUSTER-RAD-1"
+      - "TI-LADDKLUSTER-RAD-2"

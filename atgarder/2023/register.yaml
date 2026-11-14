@@ -118,3 +118,19 @@ version: "1.0"
       - "K-SBA-20261113"
       - "K-SBA-KOPPLING-20261113"
     kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."
+  -
+    id: "A-LADDPARK-DRIFTSTART-20230428"
+    datum: "2023-04-28"
+    datumkälla: "K-LADDPARK-KOMPLETTERING-20261114"
+    datumkommentar: "Avtalets planerade driftsättningsdatum bekräftat som faktiskt datum av beställaren; inte hämtat från ett separat driftsättningsprotokoll."
+    åtgärd: "Driftsättning av laddpark med åtta dubbelladdare och 16 laddpunkter"
+    objekt:
+      - "TI-LADDPARK-BOGESHOLM-001"
+      - "TI-LADDKLUSTER-RAD-1"
+      - "TI-LADDKLUSTER-RAD-2"
+    utförare: "Compleo CS Nordic AB / MW Group enligt avtal"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-COMPLEO-TEKNIK-20261114"
+      - "K-LADDPARK-KOMPLETTERING-20261114"

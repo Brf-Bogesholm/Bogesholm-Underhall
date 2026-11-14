@@ -49,3 +49,7 @@ Beställaren bekräftar 2026-11-13: protokollens garage 1–71 motsvarar registe
 ## Lägenhetsbesiktningar
 
 Beställaren bekräftar 2026-11-13 att protokollen är historiska ögonblicksbilder med okänt senare utfall. En åtgärdsinsats gjordes men slutlig utförandedokumentation saknas. Dra inga slutsatser om dagens skick eller senare totalrenoveringar. Bevara uttryckliga daterade OK-rader vid återkontroll; dessa är inte reparationsdatum. Två återkontrollsposter står som Registrerad, inte Genomförd. Räkna teman per unik lägenhet i statuskontrollen, utan dubbelräkning av återkontroller. 21 lägenheter med diskmaskins-/avloppsslangsnoteringar innebär inte 21 utslitna slangar. Medlemsförteckning och gamla förvaltarlägenhetsnummer ska inte importeras.
+
+## Laddpark
+
+Beställaren anger 2026-11-14 att Compleo-underlaget ska registreras tekniskt, utan priser eller ekonomiska avtalsvillkor. Två kluster på parkeringsplatsens rad 1 och rad 2; ursprungliga klusternummer inte säkert kopplade till raderna. Driftsättningsdatum 2023-04-28 är bekräftat av beställaren och ersätter den felaktiga uppgiften 2023-04-24. Caiflow har ersatt Compleo som administratör enligt beställaren. Ett generellt supportstopp i Sverige är inte verifierat. Modellens maxeffekt ska hållas skild från installationens 32 A per kluster och lastbalansering.

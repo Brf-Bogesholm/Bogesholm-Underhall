@@ -1,0 +1,37 @@
+id: "IMPORT-LADDPARK-TEKNIK-20261114"
+godkänd: "2026-11-14"
+källor:
+  -
+    id: "K-COMPLEO-TEKNIK-20261114"
+    typ: "Teknisk omfattning enligt e-signerat avtal Compleo"
+    filnamn: "E-signerat avtal Compleo.pdf"
+    sha256: "4fb7482a59f4e35af0c8164a9f0807e42679f31ccddd8616bd894e611fcd195c"
+    använda_sidor:
+      - 1
+      - 2
+      - 6
+      - 8
+      - 9
+  -
+    id: "K-LADDPARK-KOMPLETTERING-20261114"
+    typ: "Beställarens uppgifter"
+    uppgifter:
+      - "Klustren är placerade på parkeringsplatsens rad 1 och rad 2."
+      - "Använd 2023-04-28 som faktiskt driftsättningsdatum. Den först uppgivna dagen 2023-04-24 är rättad."
+      - "Compleo avslutade föreningens avtal och föreningen har övergått till Caiflow."
+      - "Dokumentera tekniken; priser och ekonomiska avtalsvillkor ska inte tas med i denna registrering."
+  -
+    id: "K-NEO-MONTA-20261114"
+    typ: "Modellreferens från Monta"
+    url: "https://monta.com/en/supported-charging-stations/compleo-neo/"
+    kontrollerad: "2026-11-14"
+kontroll:
+  anläggningar: 1
+  kluster: 2
+  dubbelladdare: 8
+  laddpunkter: 16
+avgränsningar:
+  - "Ingen ny faktura eller kostnad registrerad. Caiflows redan registrerade tjänstefaktura länkas."
+  - "Ingen ny publicering av avtalspriser, ekonomiska villkor, original eller personuppgifter."
+  - "Inga individuella serienummer eller platsnummer gissas."
+  - "Generell modelltext om lanseringsår, ersättningsserier, skyddsfunktioner och supportstopp har inte registrerats som verifierade fakta."

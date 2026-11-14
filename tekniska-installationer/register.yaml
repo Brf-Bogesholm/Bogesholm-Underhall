@@ -632,3 +632,87 @@ objekt:
     källor:
       - "K-OVK-20261113"
       - "K-OVK-KOMPLETTERING-20261113"
+  -
+    id: "TI-LADDPARK-BOGESHOLM-001"
+    typ: "laddanläggning"
+    namn: "Elbilsladdare på parkeringsplatsen"
+    datastatus: "Tekniskt underlag och placering enligt avtal och beställaruppgifter"
+    placering: "Parkeringsplatsen, rad 1 och rad 2"
+    egenskaper:
+      fabrikat: "Compleo"
+      modell: "NEO 2x22kW Online"
+      antal_dubbelladdare: 8
+      antal_laddpunkter: 16
+      driftsättningsdatum: "2023-04-28"
+      driftsättningsdatumkälla: "K-LADDPARK-KOMPLETTERING-20261114"
+      driftsättningsdatumkommentar: "Planerat avtalsdatum används som faktiskt datum enligt beställarens slutliga bekräftelse 2026-11-14. Den tidigare uppgiften 2023-04-24 är ersatt."
+      laddtyp: "AC"
+      uttagstyp: "Typ 2"
+      uttag_per_laddbox: 2
+      modellbeteckning_effekt: "2x22 kW"
+      effektkommentar: "Modellens märk-/maxeffekt är inte samtidigt tillgänglig effekt i föreningens installation. Avtalad matning är 32 A per kluster och laddningen lastbalanseras mot fastigheten."
+      lastbalansering: "Compleo Local (IPC) enligt tekniskt avtalsunderlag"
+      individuella_serienummer: null
+      individuella_laddar_ID: null
+      platsnummerkopplingar: null
+      garantitid: null
+    relationer:
+      -
+        typ: "består_av"
+        objekt: "TI-LADDKLUSTER-RAD-1"
+      -
+        typ: "består_av"
+        objekt: "TI-LADDKLUSTER-RAD-2"
+    underhållshistorik:
+      - "A-LADDPARK-DRIFTSTART-20230428"
+    abonnemang: "AB-CAIFLOW-SILVER-001"
+    källor:
+      - "K-COMPLEO-TEKNIK-20261114"
+      - "K-LADDPARK-KOMPLETTERING-20261114"
+      - "K-NEO-MONTA-20261114"
+  -
+    id: "TI-LADDKLUSTER-RAD-1"
+    typ: "laddkluster"
+    namn: "Laddkluster på parkeringsplatsens rad 1"
+    datastatus: "Gruppobjekt; individuella laddare ännu inte identifierade"
+    placering: "Parkeringsplatsen rad 1"
+    egenskaper:
+      antal_dubbelladdare: 4
+      antal_laddpunkter: 8
+      avsäkring_A: 32
+      driftsättningsdatum: "2023-04-28"
+      driftsättningsdatumkälla: "K-LADDPARK-KOMPLETTERING-20261114"
+      ursprungligt_klusternummer: null
+      nummerkommentar: "Klustren är placerade på rad 1 och rad 2 enligt beställaren. Vilket av avtalets kluster 1/2 som motsvarar respektive rad är inte uttryckligen fastställt."
+    relationer:
+      -
+        typ: "del_av"
+        objekt: "TI-LADDPARK-BOGESHOLM-001"
+    underhållshistorik:
+      - "A-LADDPARK-DRIFTSTART-20230428"
+    källor:
+      - "K-COMPLEO-TEKNIK-20261114"
+      - "K-LADDPARK-KOMPLETTERING-20261114"
+  -
+    id: "TI-LADDKLUSTER-RAD-2"
+    typ: "laddkluster"
+    namn: "Laddkluster på parkeringsplatsens rad 2"
+    datastatus: "Gruppobjekt; individuella laddare ännu inte identifierade"
+    placering: "Parkeringsplatsen rad 2"
+    egenskaper:
+      antal_dubbelladdare: 4
+      antal_laddpunkter: 8
+      avsäkring_A: 32
+      driftsättningsdatum: "2023-04-28"
+      driftsättningsdatumkälla: "K-LADDPARK-KOMPLETTERING-20261114"
+      ursprungligt_klusternummer: null
+      nummerkommentar: "Klustren är placerade på rad 1 och rad 2 enligt beställaren. Vilket av avtalets kluster 1/2 som motsvarar respektive rad är inte uttryckligen fastställt."
+    relationer:
+      -
+        typ: "del_av"
+        objekt: "TI-LADDPARK-BOGESHOLM-001"
+    underhållshistorik:
+      - "A-LADDPARK-DRIFTSTART-20230428"
+    källor:
+      - "K-COMPLEO-TEKNIK-20261114"
+      - "K-LADDPARK-KOMPLETTERING-20261114"
