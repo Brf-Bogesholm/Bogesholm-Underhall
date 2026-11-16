@@ -1,0 +1,482 @@
+id: "EK-2026-10-BALANS"
+typ: "balansrapport"
+förening: "Brf Bogesholm"
+organisationsnummer: "716407-0059"
+räkenskapsår_från: "2026-01-01"
+räkenskapsår_till: "2026-12-31"
+period_från: "2026-01-01"
+period_till: "2026-10-31"
+utskriftsdatum: "2026-11-16"
+utskriftstid: "15:44"
+valuta: "SEK"
+dokument:
+  filnamn: "balansrapport.pdf"
+  sha256: "3082533fb2f662792560b12126caa7828d15b8132a14585e04035be48660a404"
+  arkiv: "Föreningens dokumentarkiv"
+  arkivlänk: null
+källor:
+  - "K-UNDERLAG-20261116"
+  - "K-KOMPLETTERING-20261116"
+rapporteringsbakgrund: "Första balans- och resultatrapporterna från nya förvaltaren enligt beställaren. Sparas som jämförelsematerial inför kommande år."
+konton:
+  -
+    konto: "1110"
+    benämning: "Byggnader"
+    källsida: 1
+    ingående_balans: 38768321.75
+    ingående_saldo: 38768321.75
+    periodförändring: 0.0
+    utgående_balans: 38768321.75
+  -
+    konto: "1119"
+    benämning: "Ackumulerade avskrivningar på byggnader"
+    källsida: 1
+    ingående_balans: -11742483.41
+    ingående_saldo: -11742483.41
+    periodförändring: 0.0
+    utgående_balans: -11742483.41
+  -
+    konto: "1130"
+    benämning: "Mark"
+    källsida: 1
+    ingående_balans: 1401783.0
+    ingående_saldo: 1401783.0
+    periodförändring: 0.0
+    utgående_balans: 1401783.0
+  -
+    konto: "1143"
+    benämning: "Standardförb ombyggnader"
+    källsida: 1
+    ingående_balans: 3401308.93
+    ingående_saldo: 3401308.93
+    periodförändring: 0.0
+    utgående_balans: 3401308.93
+  -
+    konto: "1149"
+    benämning: "Ack avskriv standardförbättring"
+    källsida: 1
+    ingående_balans: -2868394.74
+    ingående_saldo: -2868394.74
+    periodförändring: 0.0
+    utgående_balans: -2868394.74
+  -
+    konto: "1160"
+    benämning: "Markinventarier"
+    källsida: 1
+    ingående_balans: 74359.38
+    ingående_saldo: 74359.38
+    periodförändring: 0.0
+    utgående_balans: 74359.38
+  -
+    konto: "1169"
+    benämning: "Ack avskriv markinventarier"
+    källsida: 1
+    ingående_balans: -42756.65
+    ingående_saldo: -42756.65
+    periodförändring: 0.0
+    utgående_balans: -42756.65
+  -
+    konto: "1174"
+    benämning: "Bredbandsinstallation"
+    källsida: 1
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 1106.0
+    utgående_balans: 1106.0
+  -
+    konto: "1231"
+    benämning: "Installationer på egen fastighet"
+    källsida: 1
+    ingående_balans: 625359.65
+    ingående_saldo: 625359.65
+    periodförändring: 0.0
+    utgående_balans: 625359.65
+  -
+    konto: "1239"
+    benämning: "Ackumulerade avskrivningar på installationer"
+    källsida: 1
+    ingående_balans: -199934.12
+    ingående_saldo: -199934.12
+    periodförändring: 0.0
+    utgående_balans: -199934.12
+  -
+    konto: "1240"
+    benämning: "Bilar och andra transportmedel"
+    källsida: 1
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 21200.0
+    utgående_balans: 21200.0
+  -
+    konto: "1380"
+    benämning: "Andra långfristiga fordringar"
+    källsida: 1
+    ingående_balans: 126500.0
+    ingående_saldo: 126500.0
+    periodförändring: 0.0
+    utgående_balans: 126500.0
+  -
+    konto: "1510"
+    benämning: "Kundfordringar"
+    källsida: 1
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 6577.0
+    utgående_balans: 6577.0
+  -
+    konto: "1630"
+    benämning: "Avräkning för skatter och avgifter (skattekonto)"
+    källsida: 1
+    ingående_balans: 5270.0
+    ingående_saldo: 5270.0
+    periodförändring: -2463.0
+    utgående_balans: 2807.0
+  -
+    konto: "1640"
+    benämning: "Skattefordringar"
+    källsida: 1
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 2408.0
+    utgående_balans: 2408.0
+  -
+    konto: "1730"
+    benämning: "Förutbetalda försäkringspremier"
+    källsida: 1
+    ingående_balans: 157966.0
+    ingående_saldo: 157966.0
+    periodförändring: -78982.98
+    utgående_balans: 78983.02
+  -
+    konto: "1760"
+    benämning: "Upplupna ränteintäkter"
+    källsida: 1
+    ingående_balans: 34920.81
+    ingående_saldo: 34920.81
+    periodförändring: 0.0
+    utgående_balans: 34920.81
+  -
+    konto: "1786"
+    benämning: "Förutbetalda kabel-tv avgift"
+    källsida: 1
+    ingående_balans: 44223.75
+    ingående_saldo: 44223.75
+    periodförändring: -44223.75
+    utgående_balans: 0.0
+  -
+    konto: "1787"
+    benämning: "Förutbetalda kostnad bredbandsanslutning"
+    källsida: 1
+    ingående_balans: 1106.25
+    ingående_saldo: 1106.25
+    periodförändring: 43117.75
+    utgående_balans: 44224.0
+  -
+    konto: "1790"
+    benämning: "Övriga förutbetalda kostnader och upplupna intäkter"
+    källsida: 1
+    ingående_balans: 6839.0
+    ingående_saldo: 6839.0
+    periodförändring: 202742.78
+    utgående_balans: 209581.78
+  -
+    konto: "1930"
+    benämning: "Företagskonto/checkkonto/affärskonto"
+    källsida: 1
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 2696572.03
+    utgående_balans: 2696572.03
+  -
+    konto: "1932"
+    benämning: "Transaktionskonto Swedbank"
+    källsida: 1
+    ingående_balans: 744258.05
+    ingående_saldo: 744258.05
+    periodförändring: -744258.05
+    utgående_balans: 0.0
+  -
+    konto: "1941"
+    benämning: "Bankkonto Swedbank"
+    källsida: 1
+    ingående_balans: 84067.0
+    ingående_saldo: 84067.0
+    periodförändring: 10036.0
+    utgående_balans: 94103.0
+  -
+    konto: "1945"
+    benämning: "Bankkonto SBAB"
+    källsida: 1
+    ingående_balans: 293549.04
+    ingående_saldo: 293549.04
+    periodförändring: 0.0
+    utgående_balans: 293549.04
+  -
+    konto: "2071"
+    benämning: "Ändamål 1"
+    källsida: 2
+    ingående_balans: -5096043.31
+    ingående_saldo: -5096043.31
+    periodförändring: 0.0
+    utgående_balans: -5096043.31
+  -
+    konto: "2072"
+    benämning: "Ändamål 2"
+    källsida: 2
+    ingående_balans: -2082000.0
+    ingående_saldo: -2082000.0
+    periodförändring: 0.0
+    utgående_balans: -2082000.0
+  -
+    konto: "2073"
+    benämning: "Disp.ur underh.fond/yttre fond"
+    källsida: 2
+    ingående_balans: 4508255.13
+    ingående_saldo: 4508255.13
+    periodförändring: 0.0
+    utgående_balans: 4508255.13
+  -
+    konto: "2083"
+    benämning: "Medlemsinsatser"
+    källsida: 2
+    ingående_balans: -916965.0
+    ingående_saldo: -916965.0
+    periodförändring: 0.0
+    utgående_balans: -916965.0
+  -
+    konto: "2091"
+    benämning: "Balanserad vinst eller förlust"
+    källsida: 2
+    ingående_balans: -1604641.08
+    ingående_saldo: -1604641.08
+    periodförändring: 0.0
+    utgående_balans: -1604641.08
+  -
+    konto: "2099"
+    benämning: "Årets resultat"
+    källsida: 2
+    ingående_balans: 3138972.72
+    ingående_saldo: 3138972.72
+    periodförändring: 0.0
+    utgående_balans: 3138972.72
+  -
+    konto: "2350"
+    benämning: "Lån i kreditinstitut (ursprunglig kontobenämnings lånenummer utelämnat)"
+    källsida: 2
+    ingående_balans: -27962647.0
+    ingående_saldo: -27962647.0
+    periodförändring: 112500.0
+    utgående_balans: -27850147.0
+  -
+    konto: "2420"
+    benämning: "Förskott från kunder"
+    källsida: 2
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: -6241.0
+    utgående_balans: -6241.0
+  -
+    konto: "2440"
+    benämning: "Leverantörsskulder"
+    källsida: 2
+    ingående_balans: -119397.4
+    ingående_saldo: -119397.4
+    periodförändring: -93913.35
+    utgående_balans: -213310.75
+  -
+    konto: "2441"
+    benämning: "Leverantörsskulder"
+    källsida: 2
+    ingående_balans: -121262.0
+    ingående_saldo: -121262.0
+    periodförändring: 121262.0
+    utgående_balans: 0.0
+  -
+    konto: "2448"
+    benämning: "Ej reskontraförda leverantörsskulder"
+    källsida: 2
+    ingående_balans: 118678.0
+    ingående_saldo: 118678.0
+    periodförändring: -118678.0
+    utgående_balans: 0.0
+  -
+    konto: "2510"
+    benämning: "Skatteskulder"
+    källsida: 2
+    ingående_balans: -11921.0
+    ingående_saldo: -11921.0
+    periodförändring: 11921.0
+    utgående_balans: 0.0
+  -
+    konto: "2518"
+    benämning: "Betald F-skatt"
+    källsida: 2
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 109422.0
+    utgående_balans: 109422.0
+  -
+    konto: "2710"
+    benämning: "Personalskatt"
+    källsida: 2
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 559.0
+    utgående_balans: 559.0
+  -
+    konto: "2730"
+    benämning: "Lagstadgade sociala avgifter och särskild löneskatt"
+    källsida: 2
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 583.73
+    utgående_balans: 583.73
+  -
+    konto: "2960"
+    benämning: "Upplupna räntekostnader"
+    källsida: 2
+    ingående_balans: -132947.0
+    ingående_saldo: -132947.0
+    periodförändring: 160631.67
+    utgående_balans: 27684.67
+  -
+    konto: "2970"
+    benämning: "Förutbetalda intäkter"
+    källsida: 2
+    ingående_balans: -506463.0
+    ingående_saldo: -506463.0
+    periodförändring: 506463.0
+    utgående_balans: 0.0
+  -
+    konto: "2971"
+    benämning: "Förutbetalda hyresintäkter"
+    källsida: 2
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: -558577.0
+    utgående_balans: -558577.0
+  -
+    konto: "2982"
+    benämning: "Upplupna kostnader el"
+    källsida: 2
+    ingående_balans: -35078.0
+    ingående_saldo: -35078.0
+    periodförändring: 35078.0
+    utgående_balans: 0.0
+  -
+    konto: "2984"
+    benämning: "Upplupna kostnader uppvärmning"
+    källsida: 2
+    ingående_balans: -44421.0
+    ingående_saldo: -44421.0
+    periodförändring: 44421.0
+    utgående_balans: 0.0
+  -
+    konto: "2990"
+    benämning: "Övriga upplupna kostnader och förutbetalda intäkter"
+    källsida: 2
+    ingående_balans: -29410.0
+    ingående_saldo: -29410.0
+    periodförändring: 30229.0
+    utgående_balans: 819.0
+  -
+    konto: "2992"
+    benämning: "Beräknat arvode för revision"
+    källsida: 2
+    ingående_balans: -18973.75
+    ingående_saldo: -18973.75
+    periodförändring: 18973.75
+    utgående_balans: 0.0
+summor_enligt_rapport:
+  -
+    benämning: "Summa materiella anläggningstillgångar"
+    källsida: 1
+    ingående_balans: 29417563.79
+    ingående_saldo: 29417563.79
+    periodförändring: 22306.0
+    utgående_balans: 29439869.79
+  -
+    benämning: "Summa finansiella anläggningstillgångar"
+    källsida: 1
+    ingående_balans: 126500.0
+    ingående_saldo: 126500.0
+    periodförändring: 0.0
+    utgående_balans: 126500.0
+  -
+    benämning: "Summa anläggningstillgångar"
+    källsida: 1
+    ingående_balans: 29544063.79
+    ingående_saldo: 29544063.79
+    periodförändring: 22306.0
+    utgående_balans: 29566369.79
+  -
+    benämning: "Summa kortfristiga fordringar"
+    källsida: 1
+    ingående_balans: 250325.81
+    ingående_saldo: 250325.81
+    periodförändring: 129175.8
+    utgående_balans: 379501.61
+  -
+    benämning: "Summa kassa och bank"
+    källsida: 1
+    ingående_balans: 1121874.09
+    ingående_saldo: 1121874.09
+    periodförändring: 1962349.98
+    utgående_balans: 3084224.07
+  -
+    benämning: "Summa omsättningstillgångar"
+    källsida: 1
+    ingående_balans: 1372199.9
+    ingående_saldo: 1372199.9
+    periodförändring: 2091525.78
+    utgående_balans: 3463725.68
+  -
+    benämning: "SUMMA TILLGÅNGAR"
+    källsida: 1
+    ingående_balans: 30916263.69
+    ingående_saldo: 30916263.69
+    periodförändring: 2113831.78
+    utgående_balans: 33030095.47
+  -
+    benämning: "Summa eget kapital"
+    källsida: 2
+    ingående_balans: -2052421.54
+    ingående_saldo: -2052421.54
+    periodförändring: 0.0
+    utgående_balans: -2052421.54
+  -
+    benämning: "Summa långfristiga skulder"
+    källsida: 2
+    ingående_balans: -27962647.0
+    ingående_saldo: -27962647.0
+    periodförändring: 112500.0
+    utgående_balans: -27850147.0
+  -
+    benämning: "Summa kortfristiga skulder"
+    källsida: 2
+    ingående_balans: -901195.15
+    ingående_saldo: -901195.15
+    periodförändring: 262134.8
+    utgående_balans: -639060.35
+  -
+    benämning: "SUMMA EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER"
+    källsida: 2
+    ingående_balans: -30916263.69
+    ingående_saldo: -30916263.69
+    periodförändring: 374634.8
+    utgående_balans: -30541628.89
+  -
+    benämning: "BERÄKNAT RESULTAT"
+    källsida: 2
+    ingående_balans: 0.0
+    ingående_saldo: 0.0
+    periodförändring: 2488466.58
+    utgående_balans: 2488466.58
+begränsningar:
+  - "Rapportens bokföringsmässiga ögonblicksbild; inte reviderat bokslut eller fullständig kostnadsinventering."
+  - "Avskrivningskonton visar ingen periodförändring i balansrapporten; avskrivningskostnader saknas i resultatrapporten. Ingen egen justering gjord."
+  - "Resultatrapportens jämförelsekolumn är genomgående noll och ska inte tolkas som föregående års verkliga utfall."
+  - "Amorteringsavisering och novemberfaktura har inte lagts in i januari–oktoberutfallet."
+  - "Rapportbelopp summeras inte med fakturaregistrets belopp; kontokoppling för enskilda fakturor antas inte."
+  - "Kreditsaldon och övriga tecken bevaras som i originalet."
+sekretesshantering: "Original, personuppgifter, betalningskonton och lånenummer publiceras inte; låneidentifierare i kontobenämning är maskerad."

@@ -1,0 +1,39 @@
+id: "IMPORT-20261116"
+godkänd: "2026-11-16"
+källor:
+  -
+    id: "K-UNDERLAG-20261116"
+    typ: "En hantverksfaktura, en låneavi samt balans- och resultatrapport"
+    filer:
+      -
+        filnamn: "2026-11-16 08-41.pdf"
+        sha256: "92b81a78e2431eda7b651aed8002632021c56f14e90260d8306c6746dc6f3d37"
+      -
+        filnamn: "christer-o-magnus-bygg-ab-faktura-2747.pdf"
+        sha256: "fe18fbd708b0010e08b002446e11c0ca58a4e2510de4670b927ca84e7b623348"
+      -
+        filnamn: "balansrapport.pdf"
+        sha256: "3082533fb2f662792560b12126caa7828d15b8132a14585e04035be48660a404"
+      -
+        filnamn: "resultatrapport.pdf"
+        sha256: "186caae6626a22af6dd49091f6b183046d84d3576a2eb5f5452beb0e3dc19f3a"
+  -
+    id: "K-KOMPLETTERING-20261116"
+    typ: "Beställarens bekräftelse"
+    uppgifter:
+      - "Passagen är Mellangångens dörr mot skyddsrummet."
+      - "Balans och resultat är första rapporterna från den nya förvaltaren och ska sparas för framtida jämförelser."
+kontroll:
+  nya_leverantörsfakturor: 1
+  ny_fakturasumma_inklusive_moms: 5528
+  låneavier: 1
+  låneavi_ränta: 38376
+  låneavi_amortering: 37500
+  ekonomiska_rapporter: 2
+  balanskonton: 46
+  resultatkonton: 58
+avgränsningar:
+  - "Ingen betalning antagen."
+  - "Ingen dubbelräkning mellan rapporter, låneavi och fakturor."
+  - "Moms och öresavrundning kontrollerade."
+  - "Original och betalnings-/låneidentifierare publiceras inte."

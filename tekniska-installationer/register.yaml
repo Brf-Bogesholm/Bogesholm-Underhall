@@ -248,12 +248,17 @@ objekt:
       -
         typ: "located_in"
         objekt: "H-69"
+      -
+        typ: "monterad_på"
+        objekt: "DORR-MELLANGANG-SKYDDSRUM-001"
     underhållshistorik:
       - "A-2026-20180400-1"
+      - "A-2026-2747-1"
     källor:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
       - "K-DATUMREGEL-2026-11-13"
+      - "K-KOMPLETTERING-20261116"
   -
     id: "TI-TERMOSTAT-KONTOR-001"
     typ: "termostat"

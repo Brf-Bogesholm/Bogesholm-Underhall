@@ -85,3 +85,7 @@ De fyra energifakturorna är driftkostnader, inte servicehändelser. [Energiregi
 ## Toalettskylt, faktura 57551
 
 [Källor och godkänd extraktion](../inventering/importer/faktura-57551-2026-11-13.yaml) för inköp av en taktil skylt med text **Toalett RWC**, avsedd för toalettdörren i föreningslokalen på Högalidsvägen 69. Fakturan från JC Kontakter AB / JC Gravyr & Tryck AB är daterad 12 november 2026: skylt 345 kr och frakt 36 kr exklusive moms, moms 95,25 kr, totalt **476,25 kr**. Leveransdatum enligt fakturan är 16 november 2026; faktisk leverans och montering är inte bekräftade. Händelsen registreras som inköp, utan antaget monteringsdatum.
+
+## Låsreparation, faktura 2747
+
+Christer o Magnus Bygg AB:s faktura 2747, daterad 2026-11-15, avser Mellangångens ståldörr mot skyddsrummet på Högalidsvägen 69, enligt beställarens bekräftelse. Samtliga sju fakturarader bevaras, inklusive CoM-arbete, två servicebilsposter samt Heras material och låstekniker. 4 422,50 kr exklusive moms, moms 1 105,63 kr, avrundning −0,13 kr, totalt 5 528 kr. Utförandedatum enligt stående regel är fakturadatum. Befintligt motorlås och dörr har fått en reparationshändelse, utan antaget nytt låsbyte. Betalningsstatus okänd. Låneavin är registrerad separat under [ekonomi](../ekonomi/README.md).

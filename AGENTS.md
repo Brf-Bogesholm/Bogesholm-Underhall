@@ -53,3 +53,7 @@ Beställaren bekräftar 2026-11-13 att protokollen är historiska ögonblicksbil
 ## Laddpark
 
 Beställaren anger 2026-11-14 att Compleo-underlaget ska registreras tekniskt, utan priser eller ekonomiska avtalsvillkor. Två kluster på parkeringsplatsens rad 1 och rad 2; ursprungliga klusternummer inte säkert kopplade till raderna. Driftsättningsdatum 2023-04-28 är bekräftat av beställaren och ersätter den felaktiga uppgiften 2023-04-24. Caiflow har ersatt Compleo som administratör enligt beställaren. Ett generellt supportstopp i Sverige är inte verifierat. Modellens maxeffekt ska hållas skild från installationens 32 A per kluster och lastbalansering.
+
+## Ekonomiska rapporter och låneavier
+
+Beställaren bekräftar 2026-11-16 att januari–oktober 2026 är de första balans- och resultatrapporterna från den nya förvaltaren och ska sparas för kommande års jämförelser. Bevara period, utskriftsdatum, konton, tecken och källkolumner. Nollor i föregående års kolumn är inte verifierat föregående års utfall. Avskrivningskostnader saknas i denna rapportversion. Summera aldrig rapportutfall ovanpå fakturaregistrets kostnader. Låneavier hålls separata; amortering är inte räntekostnad och avisering är inte betalningsbevis. Publicera inte lånenummer/OCR eller betalningskonton. Passagen i faktura 2747 är Mellangångens dörr mot skyddsrummet enligt beställaren.

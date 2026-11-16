@@ -1,0 +1,30 @@
+version: "1.0"
+avier:
+  -
+    id: "LA-2026-SWB-20261109"
+    typ: "Betalningsavisering för lån"
+    långivare: "Swedbank Hypotek AB"
+    aviseringsdatum: "2026-11-09"
+    förfallodatum: "2026-12-03"
+    betalningsstatus: "Okänd"
+    låneobjekt: "LAN-SWB-01"
+    referenshantering: "Låne-/OCR-nummer och betalningskontouppgifter publiceras inte. Stabil intern referens används."
+    fastighetsbeteckning_enligt_avi: "Kävlinge Bågen 1 m fl"
+    skuld_före_amortering: 7487966
+    amortering: 37500
+    ränta: 38376
+    belopp_att_betala: 75876
+    räntesats_procent: 2.05
+    ränteperiod_från: "2026-09-03"
+    ränteperiod_till: "2026-12-03"
+    valuta: "SEK"
+    moms: null
+    dokument:
+      filnamn: "2026-11-16 08-41.pdf"
+      sha256: "92b81a78e2431eda7b651aed8002632021c56f14e90260d8306c6746dc6f3d37"
+      arkiv: "Föreningens dokumentarkiv"
+      arkivlänk: null
+    källor:
+      - "K-UNDERLAG-20261116"
+      - "K-KOMPLETTERING-20261116"
+    kommentar: "En avisering för ett specifikt lån. Inte föreningens totala låneskuld. Ingen betalning, faktisk amortering, ny utgående skuld eller bokföringsperiodisering antas. Ränta och amortering hålls separata. Ingen kostnad läggs till fakturaregistret."

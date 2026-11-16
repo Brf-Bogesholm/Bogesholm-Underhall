@@ -1,0 +1,508 @@
+id: "EK-2026-10-RESULTAT"
+typ: "resultatrapport"
+förening: "Brf Bogesholm"
+organisationsnummer: "716407-0059"
+räkenskapsår_från: "2026-01-01"
+räkenskapsår_till: "2026-12-31"
+period_från: "2026-01-01"
+period_till: "2026-10-31"
+utskriftsdatum: "2026-11-16"
+utskriftstid: "15:45"
+valuta: "SEK"
+dokument:
+  filnamn: "resultatrapport.pdf"
+  sha256: "186caae6626a22af6dd49091f6b183046d84d3576a2eb5f5452beb0e3dc19f3a"
+  arkiv: "Föreningens dokumentarkiv"
+  arkivlänk: null
+källor:
+  - "K-UNDERLAG-20261116"
+  - "K-KOMPLETTERING-20261116"
+rapporteringsbakgrund: "Första balans- och resultatrapporterna från nya förvaltaren enligt beställaren. Sparas som jämförelsematerial inför kommande år."
+konton:
+  -
+    konto: "3021"
+    benämning: "Årsavgift bostad"
+    källsida: 1
+    period: 4922089.24
+    ackumulerat: 4922089.24
+    period_föregående_år: 0.0
+  -
+    konto: "3072"
+    benämning: "Debiterad bredbandsavgift"
+    källsida: 1
+    period: 187980.0
+    ackumulerat: 187980.0
+    period_föregående_år: 0.0
+  -
+    konto: "3081"
+    benämning: "Hyresavdrag bostad, ej moms"
+    källsida: 1
+    period: -32128.0
+    ackumulerat: -32128.0
+    period_föregående_år: 0.0
+  -
+    konto: "3122"
+    benämning: "Debiterade förbrukningskostnader - El (ej moms)"
+    källsida: 1
+    period: 26640.0
+    ackumulerat: 26640.0
+    period_föregående_år: 0.0
+  -
+    konto: "3132"
+    benämning: "Debiterade förbrukningskostnader - Uppvärmning (ej moms)"
+    källsida: 1
+    period: 588804.36
+    ackumulerat: 588804.36
+    period_föregående_år: 0.0
+  -
+    konto: "3182"
+    benämning: "Debiterad avgift för porto"
+    källsida: 1
+    period: 2145.0
+    ackumulerat: 2145.0
+    period_föregående_år: 0.0
+  -
+    konto: "3630"
+    benämning: "Debieterad avgift pant- och överlåtelser"
+    källsida: 1
+    period: 11248.0
+    ackumulerat: 11248.0
+    period_föregående_år: 0.0
+  -
+    konto: "3651"
+    benämning: "Elintäker solceller"
+    källsida: 1
+    period: 25537.0
+    ackumulerat: 25537.0
+    period_föregående_år: 0.0
+  -
+    konto: "3690"
+    benämning: "Övriga sidointäkter (Aimo Park)"
+    källsida: 1
+    period: 17239.72
+    ackumulerat: 17239.72
+    period_föregående_år: 0.0
+  -
+    konto: "3691"
+    benämning: "Övriga sidointäkter (Lokal, släp och fjärrkontroll)"
+    källsida: 1
+    period: 12090.0
+    ackumulerat: 12090.0
+    period_föregående_år: 0.0
+  -
+    konto: "3740"
+    benämning: "Öres- och kronutjämning"
+    källsida: 1
+    period: -91.39
+    ackumulerat: -91.39
+    period_föregående_år: 0.0
+  -
+    konto: "3950"
+    benämning: "Återvunna, tidigare avskrivna kundfordringar"
+    källsida: 1
+    period: 8069.79
+    ackumulerat: 8069.79
+    period_föregående_år: 0.0
+  -
+    konto: "3994"
+    benämning: "Försäkringsersättningar"
+    källsida: 1
+    period: 64125.0
+    ackumulerat: 64125.0
+    period_föregående_år: 0.0
+  -
+    konto: "4111"
+    benämning: "Reparation av bostäder"
+    källsida: 1
+    period: -143630.0
+    ackumulerat: -143630.0
+    period_föregående_år: 0.0
+  -
+    konto: "4117"
+    benämning: "4117 Rabatt/återbäring från RB"
+    källsida: 1
+    period: 3500.0
+    ackumulerat: 3500.0
+    period_föregående_år: 0.0
+  -
+    konto: "4131"
+    benämning: "Reparation av gemensamma utrymme"
+    källsida: 1
+    period: -137305.49
+    ackumulerat: -137305.49
+    period_föregående_år: 0.0
+  -
+    konto: "4513"
+    benämning: "Utemiljö"
+    källsida: 1
+    period: -99406.03
+    ackumulerat: -99406.03
+    period_föregående_år: 0.0
+  -
+    konto: "4523"
+    benämning: "Hyra för sopcontainer"
+    källsida: 1
+    period: 10.0
+    ackumulerat: 10.0
+    period_föregående_år: 0.0
+  -
+    konto: "4549"
+    benämning: "Övriga besiktningskostnader"
+    källsida: 1
+    period: -4725.0
+    ackumulerat: -4725.0
+    period_föregående_år: 0.0
+  -
+    konto: "4560"
+    benämning: "Snöröjning"
+    källsida: 1
+    period: -138594.0
+    ackumulerat: -138594.0
+    period_föregående_år: 0.0
+  -
+    konto: "4570"
+    benämning: "Serviceavtal"
+    källsida: 1
+    period: -48232.03
+    ackumulerat: -48232.03
+    period_föregående_år: 0.0
+  -
+    konto: "4575"
+    benämning: "Systematiskt brandskyddsarbete"
+    källsida: 1
+    period: -5020.0
+    ackumulerat: -5020.0
+    period_föregående_år: 0.0
+  -
+    konto: "4580"
+    benämning: "Förbrukningsmaterial/ inventarier (drift"
+    källsida: 1
+    period: -159809.61
+    ackumulerat: -159809.61
+    period_föregående_år: 0.0
+  -
+    konto: "4590"
+    benämning: "Övrigt köpta tjänster"
+    källsida: 1
+    period: -686.3
+    ackumulerat: -686.3
+    period_föregående_år: 0.0
+  -
+    konto: "4611"
+    benämning: "Fastighetsel"
+    källsida: 1
+    period: -181444.0
+    ackumulerat: -181444.0
+    period_föregående_år: 0.0
+  -
+    konto: "4620"
+    benämning: "Uppvärmning"
+    källsida: 1
+    period: -451973.0
+    ackumulerat: -451973.0
+    period_föregående_år: 0.0
+  -
+    konto: "4630"
+    benämning: "Vatten & Avlopp"
+    källsida: 1
+    period: -276752.0
+    ackumulerat: -276752.0
+    period_föregående_år: 0.0
+  -
+    konto: "4640"
+    benämning: "Avfallshantering"
+    källsida: 1
+    period: -114490.0
+    ackumulerat: -114490.0
+    period_föregående_år: 0.0
+  -
+    konto: "4641"
+    benämning: "Tvättning av sopkärl"
+    källsida: 1
+    period: -9545.0
+    ackumulerat: -9545.0
+    period_föregående_år: 0.0
+  -
+    konto: "4711"
+    benämning: "Fastighetsförsäkringspremier"
+    källsida: 1
+    period: -78982.98
+    ackumulerat: -78982.98
+    period_föregående_år: 0.0
+  -
+    konto: "4762"
+    benämning: "Bredband/Internet"
+    källsida: 1
+    period: -132671.73
+    ackumulerat: -132671.73
+    period_föregående_år: 0.0
+  -
+    konto: "4781"
+    benämning: "Teknisk förvaltning utöver avtal"
+    källsida: 1
+    period: -110020.0
+    ackumulerat: -110020.0
+    period_föregående_år: 0.0
+  -
+    konto: "5321"
+    benämning: "Anticimex"
+    källsida: 1
+    period: -17032.9
+    ackumulerat: -17032.9
+    period_föregående_år: 0.0
+  -
+    konto: "5400"
+    benämning: "Förbrukningsinventarier & Material (IT, kontor etc)"
+    källsida: 1
+    period: -69609.44
+    ackumulerat: -69609.44
+    period_föregående_år: 0.0
+  -
+    konto: "5410"
+    benämning: "Förbrukningsinventarier"
+    källsida: 1
+    period: -9575.0
+    ackumulerat: -9575.0
+    period_föregående_år: 0.0
+  -
+    konto: "5460"
+    benämning: "Förbrukningsmaterial"
+    källsida: 2
+    period: -875.85
+    ackumulerat: -875.85
+    period_föregående_år: 0.0
+  -
+    konto: "5612"
+    benämning: "Försäkring och skatt för släp"
+    källsida: 2
+    period: -884.0
+    ackumulerat: -884.0
+    period_föregående_år: 0.0
+  -
+    konto: "6100"
+    benämning: "Kontorsmateriel och trycksaker (gruppkonto)"
+    källsida: 2
+    period: -4438.8
+    ackumulerat: -4438.8
+    period_föregående_år: 0.0
+  -
+    konto: "6230"
+    benämning: "Datakommunikation"
+    källsida: 2
+    period: -4374.25
+    ackumulerat: -4374.25
+    period_föregående_år: 0.0
+  -
+    konto: "6250"
+    benämning: "Postbefordran"
+    källsida: 2
+    period: -330.0
+    ackumulerat: -330.0
+    period_föregående_år: 0.0
+  -
+    konto: "6310"
+    benämning: "Företagsförsäkringar"
+    källsida: 2
+    period: -4240.0
+    ackumulerat: -4240.0
+    period_föregående_år: 0.0
+  -
+    konto: "6400"
+    benämning: "Förvaltningskostnader (gruppkonto)"
+    källsida: 2
+    period: -499084.0
+    ackumulerat: -499084.0
+    period_föregående_år: 0.0
+  -
+    konto: "6420"
+    benämning: "Ersättningar till revisor"
+    källsida: 2
+    period: -395.25
+    ackumulerat: -395.25
+    period_föregående_år: 0.0
+  -
+    konto: "6470"
+    benämning: "Styrelsemöte/Stämma/Medlemsdagar"
+    källsida: 2
+    period: -8378.52
+    ackumulerat: -8378.52
+    period_föregående_år: 0.0
+  -
+    konto: "6480"
+    benämning: "Arvode ekonomisk förvaltning"
+    källsida: 2
+    period: -97238.03
+    ackumulerat: -97238.03
+    period_föregående_år: 0.0
+  -
+    konto: "6490"
+    benämning: "Övriga förvaltningskostnader"
+    källsida: 2
+    period: -10459.0
+    ackumulerat: -10459.0
+    period_föregående_år: 0.0
+  -
+    konto: "6540"
+    benämning: "IT-tjänster"
+    källsida: 2
+    period: -9675.4
+    ackumulerat: -9675.4
+    period_föregående_år: 0.0
+  -
+    konto: "6550"
+    benämning: "Konsultarvoden"
+    källsida: 2
+    period: -4257.5
+    ackumulerat: -4257.5
+    period_föregående_år: 0.0
+  -
+    konto: "6570"
+    benämning: "Bankkostnader"
+    källsida: 2
+    period: -4444.0
+    ackumulerat: -4444.0
+    period_föregående_år: 0.0
+  -
+    konto: "6982"
+    benämning: "Föreningsavgifter, ej avdragsgilla"
+    källsida: 2
+    period: -2457.0
+    ackumulerat: -2457.0
+    period_föregående_år: 0.0
+  -
+    konto: "6991"
+    benämning: "Övriga externa kostnader, avdragsgilla"
+    källsida: 2
+    period: -14875.0
+    ackumulerat: -14875.0
+    period_föregående_år: 0.0
+  -
+    konto: "7210"
+    benämning: "Löner till tjänstemän"
+    källsida: 2
+    period: -4243.37
+    ackumulerat: -4243.37
+    period_föregående_år: 0.0
+  -
+    konto: "7331"
+    benämning: "Skattefria bilersättningar"
+    källsida: 2
+    period: -400.0
+    ackumulerat: -400.0
+    period_föregående_år: 0.0
+  -
+    konto: "7510"
+    benämning: "Arbetsgivaravgifter 31,42 %"
+    källsida: 2
+    period: -1333.27
+    ackumulerat: -1333.27
+    period_föregående_år: 0.0
+  -
+    konto: "8314"
+    benämning: "Skattefria ränteintäkter"
+    källsida: 2
+    period: 33.0
+    ackumulerat: 33.0
+    period_föregående_år: 0.0
+  -
+    konto: "8415"
+    benämning: "Räntekostnader för andra skulder till kreditinstitut"
+    källsida: 2
+    period: -486613.33
+    ackumulerat: -486613.33
+    period_föregående_år: 0.0
+  -
+    konto: "8422"
+    benämning: "Dröjsmålsräntor för leverantörsskulder"
+    källsida: 2
+    period: -292.06
+    ackumulerat: -292.06
+    period_föregående_år: 0.0
+  -
+    konto: "8423"
+    benämning: "Räntekostnader för skatter och avgifter"
+    källsida: 2
+    period: -32.0
+    ackumulerat: -32.0
+    period_föregående_år: 0.0
+summor_enligt_rapport:
+  -
+    benämning: "Summa nettoomsättning"
+    källsida: 1
+    period: 5761553.93
+    ackumulerat: 5761553.93
+    period_föregående_år: 0.0
+  -
+    benämning: "Summa övriga rörelseintäkter"
+    källsida: 1
+    period: 72194.79
+    ackumulerat: 72194.79
+    period_föregående_år: 0.0
+  -
+    benämning: "SUMMA RÖRELSENS INTÄKTER"
+    källsida: 1
+    period: 5833748.72
+    ackumulerat: 5833748.72
+    period_föregående_år: 0.0
+  -
+    benämning: "Summa råvaror och förnödenheter"
+    källsida: 1
+    period: -2089777.17
+    ackumulerat: -2089777.17
+    period_föregående_år: 0.0
+  -
+    benämning: "BRUTTOVINST"
+    källsida: 1
+    period: 3743971.55
+    ackumulerat: 3743971.55
+    period_föregående_år: 0.0
+  -
+    benämning: "Summa övriga externa kostnader"
+    källsida: 2
+    period: -762623.94
+    ackumulerat: -762623.94
+    period_föregående_år: 0.0
+  -
+    benämning: "Summa personalkostnader"
+    källsida: 2
+    period: -5976.64
+    ackumulerat: -5976.64
+    period_föregående_år: 0.0
+  -
+    benämning: "RÖRELSERESULTAT"
+    källsida: 2
+    period: 2975370.97
+    ackumulerat: 2975370.97
+    period_föregående_år: 0.0
+  -
+    benämning: "Summa finansiella poster"
+    källsida: 2
+    period: -486904.39
+    ackumulerat: -486904.39
+    period_föregående_år: 0.0
+  -
+    benämning: "RESULTAT EFTER FINANSIELLA POSTER"
+    källsida: 2
+    period: 2488466.58
+    ackumulerat: 2488466.58
+    period_föregående_år: 0.0
+  -
+    benämning: "SUMMA RÖRELSENS KOSTNADER"
+    källsida: 2
+    period: -3345282.14
+    ackumulerat: -3345282.14
+    period_föregående_år: 0.0
+  -
+    benämning: "BERÄKNAT RESULTAT"
+    källsida: 2
+    period: 2488466.58
+    ackumulerat: 2488466.58
+    period_föregående_år: 0.0
+begränsningar:
+  - "Rapportens bokföringsmässiga ögonblicksbild; inte reviderat bokslut eller fullständig kostnadsinventering."
+  - "Avskrivningskonton visar ingen periodförändring i balansrapporten; avskrivningskostnader saknas i resultatrapporten. Ingen egen justering gjord."
+  - "Resultatrapportens jämförelsekolumn är genomgående noll och ska inte tolkas som föregående års verkliga utfall."
+  - "Amorteringsavisering och novemberfaktura har inte lagts in i januari–oktoberutfallet."
+  - "Rapportbelopp summeras inte med fakturaregistrets belopp; kontokoppling för enskilda fakturor antas inte."
+  - "Kreditsaldon och övriga tecken bevaras som i originalet."
+sekretesshantering: "Original, personuppgifter, betalningskonton och lånenummer publiceras inte; låneidentifierare i kontobenämning är maskerad."

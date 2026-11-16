@@ -45,3 +45,27 @@ objekt:
       - "A-2026-2711-1"
     källor:
       - "K-KOMPLETTERING-2026-10-23-02"
+  -
+    id: "DORR-MELLANGANG-SKYDDSRUM-001"
+    typ: "ståldörr"
+    namn: "Mellangångens dörr mot skyddsrummet"
+    placering: "Högalidsvägen 69, Mellangången mot skyddsrummet"
+    alias:
+      - "Passagen"
+    datastatus: "Plats och identitet bekräftade av beställaren"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      installationsdatum: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "har_lås"
+        objekt: "TI-MOTORLAS-MELLANGANG-001"
+    underhållshistorik:
+      - "A-2026-20180400-1"
+      - "A-2026-2747-1"
+    källor:
+      - "K-KOMPLETTERING-20261116"
