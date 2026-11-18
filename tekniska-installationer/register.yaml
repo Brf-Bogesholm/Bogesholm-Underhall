@@ -99,6 +99,9 @@ objekt:
       garanti: null
       försäkringar:
         - "FORS-17806414119101020-2026"
+      aktuell_försäkring: "FORS-17806414119101020-2026"
+      aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
+      försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
     relationer:
       -
         typ: "located_in"
@@ -108,6 +111,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
+      - "K-ARCTIC-BETALNING-20261118"
   -
     id: "TI-VP-06414119101018"
     typ: "värmepump"
@@ -124,6 +128,9 @@ objekt:
       garanti: null
       försäkringar:
         - "FORS-17806414119101018-2026"
+      aktuell_försäkring: "FORS-17806414119101018-2026"
+      aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
+      försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
     relationer:
       -
         typ: "located_in"
@@ -133,6 +140,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
+      - "K-ARCTIC-BETALNING-20261118"
   -
     id: "TI-VP-06414119101011"
     typ: "värmepump"
@@ -149,6 +157,9 @@ objekt:
       garanti: null
       försäkringar:
         - "FORS-17806414119101011-2026"
+      aktuell_försäkring: "FORS-17806414119101011-2026"
+      aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
+      försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
     relationer:
       -
         typ: "located_in"
@@ -158,6 +169,7 @@ objekt:
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
+      - "K-ARCTIC-BETALNING-20261118"
   -
     id: "TI-PORTMOTOR-G740-FORE-20260819"
     typ: "portmotor"
@@ -737,8 +749,11 @@ objekt:
       garanti: null
       försäkringar:
         - "FORS-17806414119101001-2025"
-      aktuell_försäkringsstatus: "Okänd; underlaget avser erbjudande för 2025-06-11–2026-06-10"
+        - "FORS-17806414119101001-2026"
+      aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
       inbördes_placering: null
+      aktuell_försäkring: "FORS-17806414119101001-2026"
+      försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
     relationer:
       -
         typ: "located_in"
@@ -748,3 +763,4 @@ objekt:
     källor:
       - "K-ARCTIC-PUMP4-20261118"
       - "K-PUMP4-BEKRAFTELSE-20261118"
+      - "K-ARCTIC-BETALNING-20261118"

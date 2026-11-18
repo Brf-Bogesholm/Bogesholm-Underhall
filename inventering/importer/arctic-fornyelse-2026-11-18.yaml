@@ -1,0 +1,39 @@
+id: "IMPORT-ARCTIC-FORNYELSE-20261118"
+godkänd: "2026-11-18"
+källor:
+  -
+    id: "K-ARCTIC-FORNYELSE-20261118"
+    typ: "Fyra förnyelseerbjudanden med försäkringsbevis"
+    filer:
+      -
+        filnamn: "17806414119101001-2.pdf"
+        sha256: "3f477fe4d7ef6df5713adb4c7553c2b7bfc04b3b91d1988e7b24605026112df7"
+        försäkring: "FORS-17806414119101001-2026"
+        hantering: "Ny försäkringsperiod för befintlig pump"
+      -
+        filnamn: "17806414119101011-2(1).pdf"
+        sha256: "9b2c87c4b79770d5c30efc5be1ff2d8c61583c9d8c142dfedca6a65c9571bedc"
+        försäkring: "FORS-17806414119101011-2026"
+        hantering: "Befintlig försäkringspost uppdaterad"
+      -
+        filnamn: "17806414119101018-2(1).pdf"
+        sha256: "5b5e656d5f388c960eea2855b3a02e2333e1e0e9258830e64bdc6909db66dfc4"
+        försäkring: "FORS-17806414119101018-2026"
+        hantering: "Befintlig försäkringspost uppdaterad"
+      -
+        filnamn: "17806414119101020-2(1).pdf"
+        sha256: "357f606ecd5e1ccb75ca919f3d9ca6b1575e4459792a20ee25fe5d20eef85044"
+        försäkring: "FORS-17806414119101020-2026"
+        hantering: "Befintlig försäkringspost uppdaterad"
+  -
+    id: "K-ARCTIC-BETALNING-20261118"
+    typ: "Beställarens bekräftelse"
+    uppgift: "Samtliga fyra erbjudanden betalades och försäkringarna är gällande enligt dokumenten. Betalningsdatum inte uppgivet."
+kontroll:
+  unika_försäkringar: 4
+  period_från: "2026-06-11"
+  period_till: "2027-06-10"
+  premie_per_pump: 3180
+  summa_premier: 12720
+  valuta: "SEK"
+avgränsning: "Tre befintliga försäkringsposter uppdaterade, en ny period för fjärde pumpen tillagd. Inga nya pumpar eller leverantörsfakturor skapade. Historiskt erbjudande 2025–2026 bevarat utan antagande om dess betalning."

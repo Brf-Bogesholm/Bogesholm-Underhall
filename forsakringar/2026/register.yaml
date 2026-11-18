@@ -17,9 +17,9 @@ försäkringar:
     valuta: "SEK"
     moms: null
     momskommentar: "Moms anges inte i dokumentet; ingen moms har antagits."
-    status: "Förnyad"
-    statuskälla: "K-KOMPLETTERING-2026-10-23-03"
-    betalningsstatus: "Okänd"
+    status: "Förnyad och gällande för angiven period enligt beställaren"
+    statuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsstatus: "Betald enligt beställaren"
     förnyelsedatum: null
     ocr: "41186065219"
     erbjudande_giltigt_till: "2026-07-31"
@@ -28,10 +28,17 @@ försäkringar:
       arkiv: "SharePoint"
       arkivlänk: null
       arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+      sha256: "357f606ecd5e1ccb75ca919f3d9ca6b1575e4459792a20ee25fe5d20eef85044"
+      sidantal: 2
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
-    kommentar: "Förnyelse bekräftad av beställaren. Detta är inte en vanlig leverantörsfaktura; premien läggs inte till fakturaregistrets totalsumma."
+      - "K-ARCTIC-FORNYELSE-20261118"
+      - "K-ARCTIC-BETALNING-20261118"
+    kommentar: "Betalning och gällande försäkring bekräftade av beställaren 2026-11-18. Betalningsdatum inte uppgivet. Befintlig period uppdateras, ingen dubbelregistrering eller extra fakturakostnad. Villkor tillhör originaldokumentet; inget självständigt ersättningsbesked härleds."
+    betalningsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsdatum: null
+    bekräftelsedatum: "2026-11-18"
   -
     id: "FORS-17806414119101018-2026"
     typ: "förnyad värmepumpsförsäkring"
@@ -49,9 +56,9 @@ försäkringar:
     valuta: "SEK"
     moms: null
     momskommentar: "Moms anges inte i dokumentet; ingen moms har antagits."
-    status: "Förnyad"
-    statuskälla: "K-KOMPLETTERING-2026-10-23-03"
-    betalningsstatus: "Okänd"
+    status: "Förnyad och gällande för angiven period enligt beställaren"
+    statuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsstatus: "Betald enligt beställaren"
     förnyelsedatum: null
     ocr: "41186065110"
     erbjudande_giltigt_till: "2026-07-31"
@@ -60,10 +67,17 @@ försäkringar:
       arkiv: "SharePoint"
       arkivlänk: null
       arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+      sha256: "5b5e656d5f388c960eea2855b3a02e2333e1e0e9258830e64bdc6909db66dfc4"
+      sidantal: 2
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
-    kommentar: "Förnyelse bekräftad av beställaren. Detta är inte en vanlig leverantörsfaktura; premien läggs inte till fakturaregistrets totalsumma."
+      - "K-ARCTIC-FORNYELSE-20261118"
+      - "K-ARCTIC-BETALNING-20261118"
+    kommentar: "Betalning och gällande försäkring bekräftade av beställaren 2026-11-18. Betalningsdatum inte uppgivet. Befintlig period uppdateras, ingen dubbelregistrering eller extra fakturakostnad. Villkor tillhör originaldokumentet; inget självständigt ersättningsbesked härleds."
+    betalningsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsdatum: null
+    bekräftelsedatum: "2026-11-18"
   -
     id: "FORS-17806414119101011-2026"
     typ: "förnyad värmepumpsförsäkring"
@@ -81,9 +95,9 @@ försäkringar:
     valuta: "SEK"
     moms: null
     momskommentar: "Moms anges inte i dokumentet; ingen moms har antagits."
-    status: "Förnyad"
-    statuskälla: "K-KOMPLETTERING-2026-10-23-03"
-    betalningsstatus: "Okänd"
+    status: "Förnyad och gällande för angiven period enligt beställaren"
+    statuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsstatus: "Betald enligt beställaren"
     förnyelsedatum: null
     ocr: "41186065011"
     erbjudande_giltigt_till: "2026-07-31"
@@ -92,7 +106,49 @@ försäkringar:
       arkiv: "SharePoint"
       arkivlänk: null
       arkivstatus: "Arkivlänk saknas; arkivering ej verifierad"
+      sha256: "9b2c87c4b79770d5c30efc5be1ff2d8c61583c9d8c142dfedca6a65c9571bedc"
+      sidantal: 2
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
-    kommentar: "Förnyelse bekräftad av beställaren. Detta är inte en vanlig leverantörsfaktura; premien läggs inte till fakturaregistrets totalsumma."
+      - "K-ARCTIC-FORNYELSE-20261118"
+      - "K-ARCTIC-BETALNING-20261118"
+    kommentar: "Betalning och gällande försäkring bekräftade av beställaren 2026-11-18. Betalningsdatum inte uppgivet. Befintlig period uppdateras, ingen dubbelregistrering eller extra fakturakostnad. Villkor tillhör originaldokumentet; inget självständigt ersättningsbesked härleds."
+    betalningsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsdatum: null
+    bekräftelsedatum: "2026-11-18"
+  -
+    id: "FORS-17806414119101001-2026"
+    typ: "förnyad värmepumpsförsäkring"
+    försäkringsnummer: "17806414119101001"
+    objekt: "TI-VP-06414119101001"
+    dokumenttyp: "Förnyelseerbjudande med försäkringsbevis"
+    dokumentdatum: "2026-07-17"
+    försäkringsgivare: "Protector Försäkring"
+    försäkringsgivare_organisationsnummer: "516408-7339"
+    förmedlare_administratör: "Arctic Seals AB"
+    förmedlare_organisationsnummer: "556594-5234"
+    period_från: "2026-06-11"
+    period_till: "2027-06-10"
+    premie: 3180
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Moms anges inte; ingen moms antagen."
+    förnyelsedatum: null
+    erbjudande_giltigt_till: "2026-07-31"
+    dokument:
+      filnamn: "17806414119101001-2.pdf"
+      arkiv: "Föreningens dokumentarkiv"
+      arkivlänk: null
+      sha256: "3f477fe4d7ef6df5713adb4c7553c2b7bfc04b3b91d1988e7b24605026112df7"
+      sidantal: 2
+    källor:
+      - "K-ARCTIC-FORNYELSE-20261118"
+      - "K-ARCTIC-BETALNING-20261118"
+    status: "Förnyad och gällande för angiven period enligt beställaren"
+    statuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsstatus: "Betald enligt beställaren"
+    betalningsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+    betalningsdatum: null
+    bekräftelsedatum: "2026-11-18"
+    kommentar: "Betalning och gällande försäkring bekräftade av beställaren 2026-11-18. Betalningsdatum inte uppgivet. Befintlig period uppdateras, ingen dubbelregistrering eller extra fakturakostnad. Villkor tillhör originaldokumentet; inget självständigt ersättningsbesked härleds."
