@@ -86,7 +86,7 @@ objekt:
   -
     id: "TI-VP-06414119101020"
     typ: "värmepump"
-    namn: "Nibe F2120-20, serienummer 06414119101020"
+    namn: "VP3 – Nibe F2120-20, serienummer 06414119101020"
     datastatus: "verifierad"
     placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
     egenskaper:
@@ -102,6 +102,15 @@ objekt:
       aktuell_försäkring: "FORS-17806414119101020-2026"
       aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
       försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+      pumpnummer: 3
+      pumpnummerkälla: "K-VP-NUMMER-EL-20261118"
+      elanslutning:
+        elcentral: "A1"
+        grupp: "G13"
+        avsäkring_A: 16
+        kabelarea_mm2: 2.5
+        källa: "K-VP-NUMMER-EL-20261118"
+        kommentar: "Uppgifter bekräftade av beställaren; ledartyp och antal ledare inte angivna."
     relationer:
       -
         typ: "located_in"
@@ -112,10 +121,11 @@ objekt:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
       - "K-ARCTIC-BETALNING-20261118"
+      - "K-VP-NUMMER-EL-20261118"
   -
     id: "TI-VP-06414119101018"
     typ: "värmepump"
-    namn: "Nibe F2120-20, serienummer 06414119101018"
+    namn: "VP1 – Nibe F2120-20, serienummer 06414119101018"
     datastatus: "verifierad"
     placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
     egenskaper:
@@ -131,6 +141,15 @@ objekt:
       aktuell_försäkring: "FORS-17806414119101018-2026"
       aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
       försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+      pumpnummer: 1
+      pumpnummerkälla: "K-VP-NUMMER-EL-20261118"
+      elanslutning:
+        elcentral: "A1"
+        grupp: "G10"
+        avsäkring_A: 16
+        kabelarea_mm2: 2.5
+        källa: "K-VP-NUMMER-EL-20261118"
+        kommentar: "Uppgifter bekräftade av beställaren; ledartyp och antal ledare inte angivna."
     relationer:
       -
         typ: "located_in"
@@ -141,10 +160,11 @@ objekt:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
       - "K-ARCTIC-BETALNING-20261118"
+      - "K-VP-NUMMER-EL-20261118"
   -
     id: "TI-VP-06414119101011"
     typ: "värmepump"
-    namn: "Nibe F2120-20, serienummer 06414119101011"
+    namn: "VP4 – Nibe F2120-20, serienummer 06414119101011"
     datastatus: "verifierad"
     placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
     egenskaper:
@@ -160,6 +180,15 @@ objekt:
       aktuell_försäkring: "FORS-17806414119101011-2026"
       aktuell_försäkringsstatus: "Gällande 2026-06-11–2027-06-10 enligt beställarens betalnings- och giltighetsbekräftelse 2026-11-18"
       försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+      pumpnummer: 4
+      pumpnummerkälla: "K-VP-NUMMER-EL-20261118"
+      elanslutning:
+        elcentral: "A1"
+        grupp: "G14"
+        avsäkring_A: 16
+        kabelarea_mm2: 2.5
+        källa: "K-VP-NUMMER-EL-20261118"
+        kommentar: "Uppgifter bekräftade av beställaren; ledartyp och antal ledare inte angivna."
     relationer:
       -
         typ: "located_in"
@@ -170,6 +199,7 @@ objekt:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
       - "K-ARCTIC-BETALNING-20261118"
+      - "K-VP-NUMMER-EL-20261118"
   -
     id: "TI-PORTMOTOR-G740-FORE-20260819"
     typ: "portmotor"
@@ -736,7 +766,7 @@ objekt:
   -
     id: "TI-VP-06414119101001"
     typ: "värmepump"
-    namn: "Nibe F2120-20, serienummer 06414119101001"
+    namn: "VP2 – Nibe F2120-20, serienummer 06414119101001"
     datastatus: "verifierad"
     placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
     egenskaper:
@@ -754,6 +784,15 @@ objekt:
       inbördes_placering: null
       aktuell_försäkring: "FORS-17806414119101001-2026"
       försäkringsstatuskälla: "K-ARCTIC-BETALNING-20261118"
+      pumpnummer: 2
+      pumpnummerkälla: "K-VP-NUMMER-EL-20261118"
+      elanslutning:
+        elcentral: "A1"
+        grupp: "G11"
+        avsäkring_A: 16
+        kabelarea_mm2: 2.5
+        källa: "K-VP-NUMMER-EL-20261118"
+        kommentar: "Uppgifter bekräftade av beställaren; ledartyp och antal ledare inte angivna."
     relationer:
       -
         typ: "located_in"
@@ -764,3 +803,4 @@ objekt:
       - "K-ARCTIC-PUMP4-20261118"
       - "K-PUMP4-BEKRAFTELSE-20261118"
       - "K-ARCTIC-BETALNING-20261118"
+      - "K-VP-NUMMER-EL-20261118"

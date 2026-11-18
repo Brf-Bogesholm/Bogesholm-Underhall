@@ -1,0 +1,41 @@
+id: "IMPORT-VP-NUMMER-EL-20261118"
+godkänd: "2026-11-18"
+källor:
+  -
+    id: "K-VP-NUMMER-EL-20261118"
+    typ: "Beställarens uttryckliga pumpnumrering och elanslutningar"
+    uppgift: "VP1 och VP2 kopplade till serienummer; elcentral, grupp, avsäkring och kabelarea angivna för alla fyra. VP3/VP4-serienummer stöds även av service- och skadeunderlagen och bibehålls från den genomgången."
+pumpar:
+  -
+    pumpnummer: 1
+    objekt: "TI-VP-06414119101018"
+    serienummer: "06414119101018"
+    elcentral: "A1"
+    grupp: "G10"
+    avsäkring_A: 16
+    kabelarea_mm2: 2.5
+  -
+    pumpnummer: 2
+    objekt: "TI-VP-06414119101001"
+    serienummer: "06414119101001"
+    elcentral: "A1"
+    grupp: "G11"
+    avsäkring_A: 16
+    kabelarea_mm2: 2.5
+  -
+    pumpnummer: 3
+    objekt: "TI-VP-06414119101020"
+    serienummer: "06414119101020"
+    elcentral: "A1"
+    grupp: "G13"
+    avsäkring_A: 16
+    kabelarea_mm2: 2.5
+  -
+    pumpnummer: 4
+    objekt: "TI-VP-06414119101011"
+    serienummer: "06414119101011"
+    elcentral: "A1"
+    grupp: "G14"
+    avsäkring_A: 16
+    kabelarea_mm2: 2.5
+avgränsning: "Pumpnummer är identitetsbeteckning, inte antagen fysisk ordning från vänster till höger. Ingen kabeltyp eller elektrisk säkerhetsbedömning härleds. Inga kostnader eller servicefakturor registreras genom denna identitetskomplettering."

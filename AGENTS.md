@@ -61,3 +61,7 @@ Beställaren bekräftar 2026-11-16 att januari–oktober 2026 är de första bal
 ## Platsbenämningar och skyltar
 
 Beställarens bekräftelse 2026-11-18: S1 är miljöhuset på 50-gården och S2 på 60-gården. Garageförrådet är ett eget utrymme mellan garagebyggnad 2 och 3 enligt områdeskartan; byggnadernas nummer får inte förväxlas med de individuella garageplatserna 1–71 (701–771). Kvartershus, lokalen och föreningslokalen avser byggnaden Högalidsvägen 69. Kontor och övriga delutrymmen hålls separata. Hjärtstartaren finns på byggnadens yttervägg; skyltfakturan är inte dess inköpsunderlag. Montering av skyltarna i faktura 57640 är inte bekräftad.
+
+## Värmepumparnas numrering och elanslutning
+
+Bekräftat av beställaren 2026-11-18: VP1=06414119101018, A1/G10; VP2=06414119101001, A1/G11; VP3=06414119101020, A1/G13; VP4=06414119101011, A1/G14. Samtliga 16 A och kabelarea 2,5 mm². Numren är inte en fastställd fysisk vänster–högerordning. Använd dessa kopplingar vid serviceregistrering; fråga inte igen om samma numrering utan konkret motstridigt underlag.
