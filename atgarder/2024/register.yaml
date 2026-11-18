@@ -121,3 +121,40 @@ version: "1.0"
       - "K-SBA-20261113"
       - "K-SBA-KOPPLING-20261113"
     kommentar: "Kontroll och uppföljning enligt protokollet; återgivna äldre anmärkningar är inte nya konstaterade fynd."
+  -
+    id: "A-2024-TK-10266"
+    datum: "2024-02-12"
+    åtgärd: "Byte av fläktmotor och grundkort"
+    objekt:
+      - "TI-VP-06414119101001"
+    placering: "Utomhus vid undercentralen, Högalidsvägen 69"
+    utförare: "Termoklimat Skåne AB"
+    faktura: "F-2024-TK-10266"
+    fakturarader:
+      - "F-2024-TK-10266-R1"
+      - "F-2024-TK-10266-R2"
+      - "F-2024-TK-10266-R3"
+      - "F-2024-TK-10266-R4"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Felsökning, defekt fläkt och grundkort; byte av delar samt inläsning av mjukvara enligt fakturan. Pumpkoppling VP2 uttryckligen bekräftad av beställaren."
+    datumkälla: "Leveransdatum enligt faktura"
+  -
+    id: "A-2024-TK-10289"
+    datum: "2024-02-12"
+    åtgärd: "Felsökning och byte av fläktmotor"
+    objekt:
+      - "TI-VP-06414119101001"
+    placering: "Utomhus vid undercentralen, Högalidsvägen 69"
+    utförare: "Termoklimat Skåne AB"
+    faktura: "F-2024-TK-10289"
+    fakturarader:
+      - "F-2024-TK-10289-R1"
+      - "F-2024-TK-10289-R2"
+      - "F-2024-TK-10289-R3"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Återbesök och byte av fläkt efter felsökning. Separat fakturanummer och order från 10266; inte dubblett. Båda kopplas till VP2 enligt beställaren."
+    datumkälla: "Leveransdatum enligt faktura"

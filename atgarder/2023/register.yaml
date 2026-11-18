@@ -134,3 +134,22 @@ version: "1.0"
     källor:
       - "K-COMPLEO-TEKNIK-20261114"
       - "K-LADDPARK-KOMPLETTERING-20261114"
+  -
+    id: "A-2023-TK-7379"
+    datum: "2023-02-01"
+    åtgärd: "Felsökning efter lågtryckslarm"
+    objekt:
+      - "TI-VP-06414119101001"
+    placering: "Utomhus vid undercentralen, Högalidsvägen 69"
+    utförare: "Termoklimat Skåne AB"
+    faktura: "F-2023-TK-7379"
+    fakturarader:
+      - "F-2023-TK-7379-R1"
+      - "F-2023-TK-7379-R2"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+      - "K-DATUMREGEL-2026-11-13"
+    kommentar: "Enligt fakturan tidigare motorbyte cirka två veckor före besöket. Maskinen genomgången och kyl-läckage kontrollerat, inget fel konstaterat. Det tidigare motorbytet är endast en hänvisning, inte en ytterligare registrerad åtgärd."
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    datumkommentar: "Fakturadatum används enligt beställarens stående regel; inte observerat utförandedatum."

@@ -1,0 +1,48 @@
+version: "1.0"
+registreringsomgångar:
+  - "2026-11-18-VPSERVICE"
+fakturor:
+  -
+    id: "F-2023-TK-7379"
+    fakturanummer: "7379"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2023-02-01"
+    förfallodatum: "2023-03-03"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 2380
+    moms: 595
+    öresavrundning: 0
+    att_betala: 2975
+    ordernummer: "3815"
+    rader:
+      -
+        benämning: "Servicebesök/Felsökning"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1680
+        artikelnummer: "1"
+        belopp_exklusive_moms: 1680.0
+        id: "F-2023-TK-7379-R1"
+      -
+        benämning: "Kilometer"
+        antal: 70
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 700.0
+        id: "F-2023-TK-7379-R2"
+    åtgärder:
+      - "A-2023-TK-7379"
+    objekt:
+      - "TI-VP-06414119101001"
+    dokument:
+      källa: "K-VPS-D003"
+      arkivsökväg: "2024-02-12 Fläktmotor VP2\\Faktura byte fläktmotor.pdf"
+      sha256: "5c24b9ee2b43a6983e6c65b9278193484f4d45648e81d71b075d68f3ca8383cb"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Enligt fakturan tidigare motorbyte cirka två veckor före besöket. Maskinen genomgången och kyl-läckage kontrollerat, inget fel konstaterat. Det tidigare motorbytet är endast en hänvisning, inte en ytterligare registrerad åtgärd."

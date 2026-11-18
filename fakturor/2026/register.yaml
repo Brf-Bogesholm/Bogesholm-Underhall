@@ -10,6 +10,7 @@ registreringsomgångar:
   - "2026-11-13-08"
   - "2026-11-16-09"
   - "2026-11-18-10"
+  - "2026-11-18-VPSERVICE"
 fakturor:
   -
     id: "F-2026-7150"
@@ -2318,3 +2319,117 @@ fakturor:
       - "K-SKYLTAR-PLATSER-20261118"
     datastatus: "verifierad"
     kommentar: "Skyltarnas avsedda placering bekräftad av beställaren. Montering inte bekräftad och inga monteringsdatum antas. Två identiska aluminiumskyltrader bevaras utan godtycklig radfördelning på S1/S2."
+  -
+    id: "F-2026-TK-15219"
+    fakturanummer: "15219"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2026-02-05"
+    förfallodatum: "2026-03-07"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 16405
+    moms: 4101.25
+    öresavrundning: -0.25
+    att_betala: 20506
+    ordernummer: null
+    rader:
+      -
+        benämning: "Timmar"
+        antal: 8
+        enhet: "h"
+        à_pris_exklusive_moms: 890
+        artikelnummer: "2"
+        belopp_exklusive_moms: 7120.0
+        id: "F-2026-TK-15219-R1"
+      -
+        benämning: "Kilometer"
+        antal: 180
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 1800.0
+        id: "F-2026-TK-15219-R2"
+      -
+        benämning: "FLÄKTMOTOR 81FW RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 2275
+        artikelnummer: "918598"
+        belopp_exklusive_moms: 2275.0
+        id: "F-2026-TK-15219-R3"
+      -
+        benämning: "GRUNDKORT F21XX RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 5210
+        artikelnummer: "718663"
+        belopp_exklusive_moms: 5210.0
+        id: "F-2026-TK-15219-R4"
+    åtgärder:
+      - "A-2026-TK-15219"
+    objekt:
+      - "TI-VP-06414119101020"
+      - "TI-VP-06414119101011"
+    dokument:
+      källa: "K-VPS-D016"
+      arkivsökväg: "2026-02-05 Fläktmotor VP3\\2026-02-12 16-16.pdf"
+      sha256: "293eef12c7102a9e8705c9bbb06efc3e8e1f637a2a9bb554050dc27cb14a39df"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Byte av fläkt i slav 3; grundkort konstaterades bränt och byttes. Felsökning av slav 4: dålig temperatur i bufferttank till varmvatten, lägst 8 grader; slav 3 och 4 avfrostade inte på grund av larm om avbruten avfrostning via LP-vakt. Avlarmning/åtgärd beskriven som OK. Gemensam arbets-/resekostnad fördelas inte godtyckligt på pumparna."
+  -
+    id: "F-2026-TK-15586"
+    fakturanummer: "15586"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2026-03-09"
+    förfallodatum: "2026-04-08"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 5845
+    moms: 1461.25
+    öresavrundning: -0.25
+    att_betala: 7306
+    ordernummer: "9941"
+    rader:
+      -
+        benämning: "Timmar"
+        antal: 3
+        enhet: "h"
+        à_pris_exklusive_moms: 890
+        artikelnummer: "2"
+        belopp_exklusive_moms: 2670.0
+        id: "F-2026-TK-15586-R1"
+      -
+        benämning: "Kilometer"
+        antal: 90
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 900.0
+        id: "F-2026-TK-15586-R2"
+      -
+        benämning: "FLÄKTMOTOR 81FW RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 2275
+        artikelnummer: "918598"
+        belopp_exklusive_moms: 2275.0
+        id: "F-2026-TK-15586-R3"
+    åtgärder:
+      - "A-2026-TK-15586"
+    objekt:
+      - "TI-VP-06414119101011"
+    dokument:
+      källa: "K-VPS-D017"
+      arkivsökväg: "2026-02-10 Fläktmotor VP4\\2026-03-12 08-43.pdf"
+      sha256: "addacbabdf93b8868f5be5cc5466e250f956d10984a3c0c9da7f521f6cd5bc9f"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "VP4 larmade för fläktfel; byte av fläktmotor enligt fakturan. Angivet leveransdatum används före fakturadatum."
+    leveransdatum: "2026-02-10"

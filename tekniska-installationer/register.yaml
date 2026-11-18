@@ -116,12 +116,15 @@ objekt:
         typ: "located_in"
         objekt: "H-69"
     underhållshistorik:
-      []
+      - "A-2025-TK-14592"
+      - "A-2026-TK-15219"
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
       - "K-ARCTIC-BETALNING-20261118"
       - "K-VP-NUMMER-EL-20261118"
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
   -
     id: "TI-VP-06414119101018"
     typ: "värmepump"
@@ -194,12 +197,16 @@ objekt:
         typ: "located_in"
         objekt: "H-69"
     underhållshistorik:
-      []
+      - "A-2025-TK-13654"
+      - "A-2026-TK-15219"
+      - "A-2026-TK-15586"
     källor:
       - "K-FAKTUROR-2026-10-23-03"
       - "K-KOMPLETTERING-2026-10-23-03"
       - "K-ARCTIC-BETALNING-20261118"
       - "K-VP-NUMMER-EL-20261118"
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
   -
     id: "TI-PORTMOTOR-G740-FORE-20260819"
     typ: "portmotor"
@@ -798,9 +805,13 @@ objekt:
         typ: "located_in"
         objekt: "H-69"
     underhållshistorik:
-      []
+      - "A-2023-TK-7379"
+      - "A-2024-TK-10266"
+      - "A-2024-TK-10289"
     källor:
       - "K-ARCTIC-PUMP4-20261118"
       - "K-PUMP4-BEKRAFTELSE-20261118"
       - "K-ARCTIC-BETALNING-20261118"
       - "K-VP-NUMMER-EL-20261118"
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"

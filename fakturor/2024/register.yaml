@@ -1,0 +1,118 @@
+version: "1.0"
+registreringsomgångar:
+  - "2026-11-18-VPSERVICE"
+fakturor:
+  -
+    id: "F-2024-TK-10266"
+    fakturanummer: "10266"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2024-02-12"
+    förfallodatum: "2024-03-13"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 11085
+    moms: 2771.25
+    öresavrundning: -0.25
+    att_betala: 13856
+    ordernummer: "5549"
+    rader:
+      -
+        benämning: "Timmar"
+        antal: 4
+        enhet: "h"
+        à_pris_exklusive_moms: 790
+        artikelnummer: "2"
+        belopp_exklusive_moms: 3160.0
+        id: "F-2024-TK-10266-R1"
+      -
+        benämning: "Kilometer"
+        antal: 90
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 900.0
+        id: "F-2024-TK-10266-R2"
+      -
+        benämning: "FLÄKTMOTOR 81FW RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 2135
+        artikelnummer: "918598"
+        belopp_exklusive_moms: 2135.0
+        id: "F-2024-TK-10266-R3"
+      -
+        benämning: "GRUNDKORT F21XX RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 4890
+        artikelnummer: "718663"
+        belopp_exklusive_moms: 4890.0
+        id: "F-2024-TK-10266-R4"
+    åtgärder:
+      - "A-2024-TK-10266"
+    objekt:
+      - "TI-VP-06414119101001"
+    dokument:
+      källa: "K-VPS-D001"
+      arkivsökväg: "2024-02-12 Fläktmotor VP2\\Byte av fläktmotor 2024-02-12 -fläkt 2.pdf"
+      sha256: "321f9c6430c1479e78a5f6f41666603684534367b4f8f0e7b238c160a9335381"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Felsökning, defekt fläkt och grundkort; byte av delar samt inläsning av mjukvara enligt fakturan. Pumpkoppling VP2 uttryckligen bekräftad av beställaren."
+    leveransdatum: "2024-02-12"
+  -
+    id: "F-2024-TK-10289"
+    fakturanummer: "10289"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2024-02-12"
+    förfallodatum: "2024-03-13"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 7885
+    moms: 1971.25
+    öresavrundning: -0.25
+    att_betala: 9856
+    ordernummer: "5456"
+    rader:
+      -
+        benämning: "Timmar"
+        antal: 5
+        enhet: "h"
+        à_pris_exklusive_moms: 790
+        artikelnummer: "2"
+        belopp_exklusive_moms: 3950.0
+        id: "F-2024-TK-10289-R1"
+      -
+        benämning: "Kilometer"
+        antal: 180
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 1800.0
+        id: "F-2024-TK-10289-R2"
+      -
+        benämning: "FLÄKTMOTOR 81FW RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 2135
+        artikelnummer: "918598"
+        belopp_exklusive_moms: 2135.0
+        id: "F-2024-TK-10289-R3"
+    åtgärder:
+      - "A-2024-TK-10289"
+    objekt:
+      - "TI-VP-06414119101001"
+    dokument:
+      källa: "K-VPS-D002"
+      arkivsökväg: "2024-02-12 Fläktmotor VP2\\Byte av fläktmotor 2024-02-12.pdf"
+      sha256: "47a2ab263f22d9386668574d88a73bbf55722a9a395de721fc668adef5dbf668"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Återbesök och byte av fläkt efter felsökning. Separat fakturanummer och order från 10266; inte dubblett. Båda kopplas till VP2 enligt beställaren."
+    leveransdatum: "2024-02-12"

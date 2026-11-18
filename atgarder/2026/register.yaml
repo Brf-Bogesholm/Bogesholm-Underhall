@@ -1109,3 +1109,43 @@ version: "1.0"
       - "K-FAKTURA-57640"
       - "K-SKYLTAR-PLATSER-20261118"
     kommentar: "Inköp, inte bekräftad monteringsåtgärd. Fakturans kostnad räknas en gång."
+  -
+    id: "A-2026-TK-15219"
+    datum: "2026-02-05"
+    åtgärd: "Fläkt- och grundkortsbyte på VP3 samt felsökning av VP4"
+    objekt:
+      - "TI-VP-06414119101020"
+      - "TI-VP-06414119101011"
+    placering: "Utomhus vid undercentralen, Högalidsvägen 69"
+    utförare: "Termoklimat Skåne AB"
+    faktura: "F-2026-TK-15219"
+    fakturarader:
+      - "F-2026-TK-15219-R1"
+      - "F-2026-TK-15219-R2"
+      - "F-2026-TK-15219-R3"
+      - "F-2026-TK-15219-R4"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+      - "K-DATUMREGEL-2026-11-13"
+    kommentar: "Byte av fläkt i slav 3; grundkort konstaterades bränt och byttes. Felsökning av slav 4: dålig temperatur i bufferttank till varmvatten, lägst 8 grader; slav 3 och 4 avfrostade inte på grund av larm om avbruten avfrostning via LP-vakt. Avlarmning/åtgärd beskriven som OK. Gemensam arbets-/resekostnad fördelas inte godtyckligt på pumparna."
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    datumkommentar: "Fakturadatum används enligt beställarens stående regel; inte observerat utförandedatum."
+  -
+    id: "A-2026-TK-15586"
+    datum: "2026-02-10"
+    åtgärd: "Byte av fläktmotor på VP4"
+    objekt:
+      - "TI-VP-06414119101011"
+    placering: "Utomhus vid undercentralen, Högalidsvägen 69"
+    utförare: "Termoklimat Skåne AB"
+    faktura: "F-2026-TK-15586"
+    fakturarader:
+      - "F-2026-TK-15586-R1"
+      - "F-2026-TK-15586-R2"
+      - "F-2026-TK-15586-R3"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "VP4 larmade för fläktfel; byte av fläktmotor enligt fakturan. Angivet leveransdatum används före fakturadatum."
+    datumkälla: "Leveransdatum enligt faktura"

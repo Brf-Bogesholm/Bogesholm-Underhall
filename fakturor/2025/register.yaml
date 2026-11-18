@@ -1,0 +1,224 @@
+version: "1.0"
+registreringsomgångar:
+  - "2026-11-18-VPSERVICE"
+fakturor:
+  -
+    id: "F-2025-TK-13654"
+    fakturanummer: "13654"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2025-06-24"
+    förfallodatum: "2025-07-24"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 59307
+    moms: 14826.75
+    öresavrundning: 0.25
+    att_betala: 74134
+    ordernummer: "8266"
+    rader:
+      -
+        benämning: "KOMPRESSOR 16/20 F21XX RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 18742
+        artikelnummer: "089888"
+        belopp_exklusive_moms: 18742.0
+        id: "F-2025-TK-13654-R1"
+      -
+        benämning: "TORKFILTER RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 454
+        artikelnummer: "624938"
+        belopp_exklusive_moms: 454.0
+        id: "F-2025-TK-13654-R2"
+      -
+        benämning: "BYPASS 16/20 KPL M EEV RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 900
+        artikelnummer: "060103"
+        belopp_exklusive_moms: 900.0
+        id: "F-2025-TK-13654-R3"
+      -
+        benämning: "HARMONICS FILTER 16/20KW RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 9438
+        artikelnummer: "060117"
+        belopp_exklusive_moms: 9438.0
+        id: "F-2025-TK-13654-R4"
+      -
+        benämning: "INVERTERMODUL RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 11699
+        artikelnummer: "718328"
+        belopp_exklusive_moms: 11699.0
+        id: "F-2025-TK-13654-R5"
+      -
+        benämning: "R410a"
+        antal: 3
+        enhet: "st"
+        à_pris_exklusive_moms: 1848
+        artikelnummer: "29"
+        belopp_exklusive_moms: 5544.0
+        id: "F-2025-TK-13654-R6"
+      -
+        benämning: "Lödgas/Lod"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 450
+        artikelnummer: "11"
+        belopp_exklusive_moms: 450.0
+        id: "F-2025-TK-13654-R7"
+      -
+        benämning: "Kvävgas, Läcksökningsmtrl."
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 200
+        artikelnummer: "81"
+        belopp_exklusive_moms: 200.0
+        id: "F-2025-TK-13654-R8"
+      -
+        benämning: "Kilometer"
+        antal: 180
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 1800.0
+        id: "F-2025-TK-13654-R9"
+      -
+        benämning: "Timmar"
+        antal: 2
+        enhet: "h"
+        à_pris_exklusive_moms: 840
+        artikelnummer: "2"
+        belopp_exklusive_moms: 1680.0
+        id: "F-2025-TK-13654-R10"
+      -
+        benämning: "Fastpris Kompressorbyte Luft/vatten"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 8400
+        artikelnummer: "22"
+        belopp_exklusive_moms: 8400.0
+        id: "F-2025-TK-13654-R11"
+    åtgärder:
+      - "A-2025-TK-13654"
+    objekt:
+      - "TI-VP-06414119101011"
+    dokument:
+      källa: "K-VPS-D008"
+      arkivsökväg: "2025-06-10 Kompressorfel VP4\\faktura-200002162 Termoklimat.pdf"
+      sha256: "a592c9445e3a2c169921cd5dc235e8d809295f5183a8ea212fba318401e7cb75"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Byte av inverter, harmonicsfilter, kompressor, torkfilter och bypassrör enligt fakturan. Serienummer via Arctics skadeärende 419995. Offert 772 avser samma belopp och är inte en extra kostnad. Order 8174 är felsökningsbakgrund, inte nytt fakturabelopp. Köldmedium behåller fakturans enhet st; ingen enhetsomvandling antas."
+    leveransdatum: "2025-06-24"
+  -
+    id: "F-2025-TK-14592"
+    fakturanummer: "14592"
+    leverantör: "Termoklimat Skåne AB"
+    organisationsnummer: "559178-5232"
+    fakturadatum: "2025-11-25"
+    förfallodatum: "2025-12-25"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 53010.6
+    moms: 13252.65
+    öresavrundning: -0.25
+    att_betala: 66263
+    ordernummer: "8945"
+    rader:
+      -
+        benämning: "Servicebesök/Felsökning"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 2265
+        artikelnummer: "1"
+        belopp_exklusive_moms: 2265.0
+        id: "F-2025-TK-14592-R1"
+      -
+        benämning: "Kilometer"
+        antal: 270
+        enhet: "km"
+        à_pris_exklusive_moms: 10
+        artikelnummer: "3"
+        belopp_exklusive_moms: 2700.0
+        id: "F-2025-TK-14592-R2"
+      -
+        benämning: "Fastpris evi-byte 2120"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 7120
+        artikelnummer: "20"
+        belopp_exklusive_moms: 7120.0
+        id: "F-2025-TK-14592-R3"
+      -
+        benämning: "EVIRÖR/DÄMP F21XX16/20KW RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 395
+        artikelnummer: "225753"
+        belopp_exklusive_moms: 395.0
+        id: "F-2025-TK-14592-R4"
+      -
+        benämning: "R410a"
+        antal: 6
+        enhet: "st"
+        à_pris_exklusive_moms: 1847.6
+        artikelnummer: "29"
+        belopp_exklusive_moms: 11085.6
+        id: "F-2025-TK-14592-R5"
+      -
+        benämning: "TORKFILTER RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 472
+        artikelnummer: "624938"
+        belopp_exklusive_moms: 472.0
+        id: "F-2025-TK-14592-R6"
+      -
+        benämning: "KOMPRESSOR 16/20 F21XX RES.D"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 19473
+        artikelnummer: "089888"
+        belopp_exklusive_moms: 19473.0
+        id: "F-2025-TK-14592-R7"
+      -
+        benämning: "Lödgas/Lod Stor"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 600
+        artikelnummer: "107"
+        belopp_exklusive_moms: 600.0
+        id: "F-2025-TK-14592-R8"
+      -
+        benämning: "Fastpris Kompressorbyte Luft/vatten"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 8900
+        artikelnummer: "22"
+        belopp_exklusive_moms: 8900.0
+        id: "F-2025-TK-14592-R9"
+    åtgärder:
+      - "A-2025-TK-14592"
+    objekt:
+      - "TI-VP-06414119101020"
+    dokument:
+      källa: "K-VPS-D013"
+      arkivsökväg: "2025-11-01 Kompressorfel VP3\\faktura-200002292.pdf"
+      sha256: "cf06a16b1cd5784cd95eb13acf7a54e04b409dc227ac3c5df6826f83c3619b38"
+    källor:
+      - "K-VP-SERVICE-20261118"
+      - "K-VP-SERVICE-KOPPLING-20261118"
+    kommentar: "Felsökning visade sprucket EVI-rör; vid igångkörning efter rörbyte konstaterades defekt kompressor, därefter byte av kompressor och torkfilter. Serienummer 06414119101020 i reparatörsrapporter. Fakturans leveransdatum 2025-11-03 föregår skadeanmälans skadedatum 2025-11-18. Ingen säker arbetsdag väljs mellan motstridiga uppgifter."
+    leveransdatum: "2025-11-03"
+    skadedatum_enligt_anmälan: "2025-11-18"
+    datumavvikelse: "Felsökning visade sprucket EVI-rör; vid igångkörning efter rörbyte konstaterades defekt kompressor, därefter byte av kompressor och torkfilter. Serienummer 06414119101020 i reparatörsrapporter. Fakturans leveransdatum 2025-11-03 föregår skadeanmälans skadedatum 2025-11-18. Ingen säker arbetsdag väljs mellan motstridiga uppgifter."

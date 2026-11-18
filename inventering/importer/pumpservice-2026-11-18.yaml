@@ -1,0 +1,97 @@
+id: "IMPORT-VPSERVICE-20261118"
+godkänd: "2026-11-18"
+källor:
+  -
+    id: "K-VP-SERVICE-20261118"
+    typ: "Service- och skadehandlingar för värmepumpar"
+    filer:
+      -
+        id: "K-VPS-D001"
+        arkivsökväg: "2024-02-12 Fläktmotor VP2\\Byte av fläktmotor 2024-02-12 -fläkt 2.pdf"
+        sha256: "321f9c6430c1479e78a5f6f41666603684534367b4f8f0e7b238c160a9335381"
+      -
+        id: "K-VPS-D002"
+        arkivsökväg: "2024-02-12 Fläktmotor VP2\\Byte av fläktmotor 2024-02-12.pdf"
+        sha256: "47a2ab263f22d9386668574d88a73bbf55722a9a395de721fc668adef5dbf668"
+      -
+        id: "K-VPS-D003"
+        arkivsökväg: "2024-02-12 Fläktmotor VP2\\Faktura byte fläktmotor.pdf"
+        sha256: "5c24b9ee2b43a6983e6c65b9278193484f4d45648e81d71b075d68f3ca8383cb"
+      -
+        id: "K-VPS-D004"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\419995_Skadeanmälan.pdf"
+        sha256: "2fe1a462a243239460ab4fefd6758660ad924ddbc62a151e28e79ad79c0a3b22"
+      -
+        id: "K-VPS-D005"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Avseende skadeärende_ Försäkringsnummer_ 17806414119101011 _ Skadenummer_ 419995.msg"
+        sha256: "11be68ef02933f3d901521a1b81eb444326de7dc675a2dd9800a792ea8a9e34c"
+      -
+        id: "K-VPS-D006"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Bilagor.pdf"
+        sha256: "5d0e6987b9a3f5c73a4c00f53c892ea20eb121b38819e5e0b8d32d6daa897937"
+      -
+        id: "K-VPS-D007"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Bogesholm 419995_Skadeanmälan.pdf"
+        sha256: "70ca57e5de2afcf9243196d817a4e7aa7de7f52d72bc3bb38a5dc7ac7750625a"
+      -
+        id: "K-VPS-D008"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\faktura-200002162 Termoklimat.pdf"
+        sha256: "a592c9445e3a2c169921cd5dc235e8d809295f5183a8ea212fba318401e7cb75"
+      -
+        id: "K-VPS-D009"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\FF092533066S-20250704.pdf"
+        sha256: "e9f3b284711b489870079a6807fb20fcb674aec0f74f9623690348969bd19b81"
+      -
+        id: "K-VPS-D010"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Offert Bogesholm kompressorhaveri.pdf"
+        sha256: "0efb917f477b8b0b7b90a59b5df07006eed4970d71fb5dfa37a95af9a3f78b9c"
+      -
+        id: "K-VPS-D011"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Order_8174.pdf"
+        sha256: "f940b546ee15807de43ec9f3165630e3323fe22db3487f9f3949fa0940697ad2"
+      -
+        id: "K-VPS-D012"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\Ersättningsbekräftelse försäkringsärende 429924.eml"
+        sha256: "6f424799fa54d5cb30974958d0f4574d2a441544fce41ea6e938f25ae0b1411b"
+      -
+        id: "K-VPS-D013"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\faktura-200002292.pdf"
+        sha256: "cf06a16b1cd5784cd95eb13acf7a54e04b409dc227ac3c5df6826f83c3619b38"
+      -
+        id: "K-VPS-D014"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\Skadeanmälan.pdf"
+        sha256: "74cc254eabf7b379eb07acd9200de0f0e8f16319d721f2ebf29a7955d4d6c3af"
+      -
+        id: "K-VPS-D015"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\skannaBogesholmKävlinge.pdf"
+        sha256: "ce55525be0d9476f0724133b10d6e2478d8aa334bb0b015dafa6d097a2fd0383"
+      -
+        id: "K-VPS-D016"
+        arkivsökväg: "2026-02-05 Fläktmotor VP3\\2026-02-12 16-16.pdf"
+        sha256: "293eef12c7102a9e8705c9bbb06efc3e8e1f637a2a9bb554050dc27cb14a39df"
+      -
+        id: "K-VPS-D017"
+        arkivsökväg: "2026-02-10 Fläktmotor VP4\\2026-03-12 08-43.pdf"
+        sha256: "addacbabdf93b8868f5be5cc5466e250f956d10984a3c0c9da7f521f6cd5bc9f"
+  -
+    id: "K-VP-SERVICE-KOPPLING-20261118"
+    typ: "Beställarens koppling"
+    uppgifter:
+      - "7379, 10266 och 10289 kopplas samtliga till VP2."
+      - "Befintlig bekräftad numrering används för övriga pumpkopplingar."
+kontroll:
+  unika_fakturor: 7
+  summa_inklusive_moms: 194896
+  fakturor_per_år:
+    2023: 1
+    2024: 2
+    2025: 2
+    2026: 2
+avgränsningar:
+  - "Fakturor, offert, order, reparatörsrapport och försäkringsbeslut är olika dokumenttyper och inte extra kostnader för samma arbete."
+  - "7379 har faktiskt fakturadatum 2023-02-01 trots mappnamn 2024."
+  - "15586 har fakturadatum 2026-03-09 och leveransdatum 2026-02-10."
+  - "14592 har motstridiga datum; inget säkert arbetsdatum antas."
+  - "15219 omfattar VP3 och VP4; kostnad inte fördelad."
+  - "Köldmedium behåller fakturans st-enhet."
+  - "Original, personuppgifter, privata kontakt-/bankuppgifter och Fortnox-åtkomstkoder publiceras inte."

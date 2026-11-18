@@ -1,0 +1,98 @@
+version: "1.0"
+ärenden:
+  -
+    id: "SKADA-VP4-419995"
+    objekt: "TI-VP-06414119101011"
+    skadenummer_Arctic: "419995"
+    faktura: "F-2025-TK-13654"
+    reparationsbelopp: 74134
+    underlag:
+      -
+        källa: "K-VPS-D004"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\419995_Skadeanmälan.pdf"
+        sha256: "2fe1a462a243239460ab4fefd6758660ad924ddbc62a151e28e79ad79c0a3b22"
+      -
+        källa: "K-VPS-D005"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Avseende skadeärende_ Försäkringsnummer_ 17806414119101011 _ Skadenummer_ 419995.msg"
+        sha256: "11be68ef02933f3d901521a1b81eb444326de7dc675a2dd9800a792ea8a9e34c"
+      -
+        källa: "K-VPS-D006"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Bilagor.pdf"
+        sha256: "5d0e6987b9a3f5c73a4c00f53c892ea20eb121b38819e5e0b8d32d6daa897937"
+      -
+        källa: "K-VPS-D007"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Bogesholm 419995_Skadeanmälan.pdf"
+        sha256: "70ca57e5de2afcf9243196d817a4e7aa7de7f52d72bc3bb38a5dc7ac7750625a"
+      -
+        källa: "K-VPS-D008"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\faktura-200002162 Termoklimat.pdf"
+        sha256: "a592c9445e3a2c169921cd5dc235e8d809295f5183a8ea212fba318401e7cb75"
+      -
+        källa: "K-VPS-D009"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\FF092533066S-20250704.pdf"
+        sha256: "e9f3b284711b489870079a6807fb20fcb674aec0f74f9623690348969bd19b81"
+      -
+        källa: "K-VPS-D010"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Offert Bogesholm kompressorhaveri.pdf"
+        sha256: "0efb917f477b8b0b7b90a59b5df07006eed4970d71fb5dfa37a95af9a3f78b9c"
+      -
+        källa: "K-VPS-D011"
+        arkivsökväg: "2025-06-10 Kompressorfel VP4\\Order_8174.pdf"
+        sha256: "f940b546ee15807de43ec9f3165630e3323fe22db3487f9f3949fa0940697ad2"
+    försäkringsreferens: "17806414119101011"
+    ersättningar:
+      -
+        givare: "Folksam"
+        beslutsdatum: "2025-07-04"
+        belopp: 15089
+        status: "Försäkringsgivaren uppger utbetalt; bankmottagande inte separat verifierat"
+        åldersavdrag: 29645
+        självrisk: 29400
+        referens: "FF092533066S"
+        dokument:
+          källa: "K-VPS-D009"
+          arkivsökväg: "2025-06-10 Kompressorfel VP4\\FF092533066S-20250704.pdf"
+          sha256: "e9f3b284711b489870079a6807fb20fcb674aec0f74f9623690348969bd19b81"
+    Arctic_ersättningsstatus: "Ingen ersättningsbekräftelse i leveransen. Anmälningsblanketterna saknar ifyllda uppgifter och bevisar inte färdig reglering."
+  -
+    id: "SKADA-VP3-429924"
+    objekt: "TI-VP-06414119101020"
+    skadenummer_Arctic: "429924"
+    försäkringsreferens: "17806414119101020"
+    faktura: "F-2025-TK-14592"
+    reparationsbelopp: 66263
+    underlag:
+      -
+        källa: "K-VPS-D012"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\Ersättningsbekräftelse försäkringsärende 429924.eml"
+        sha256: "6f424799fa54d5cb30974958d0f4574d2a441544fce41ea6e938f25ae0b1411b"
+      -
+        källa: "K-VPS-D013"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\faktura-200002292.pdf"
+        sha256: "cf06a16b1cd5784cd95eb13acf7a54e04b409dc227ac3c5df6826f83c3619b38"
+      -
+        källa: "K-VPS-D014"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\Skadeanmälan.pdf"
+        sha256: "74cc254eabf7b379eb07acd9200de0f0e8f16319d721f2ebf29a7955d4d6c3af"
+      -
+        källa: "K-VPS-D015"
+        arkivsökväg: "2025-11-01 Kompressorfel VP3\\skannaBogesholmKävlinge.pdf"
+        sha256: "ce55525be0d9476f0724133b10d6e2478d8aa334bb0b015dafa6d097a2fd0383"
+    skadedatum_enligt_anmälan: "2025-11-18"
+    datumavvikelse: "Leveransdatum 2025-11-03 på fakturan föregår skadedatum. Reparatörsrapporter daterade 2025-11-26 och 2025-12-23 anger samma utbyten och serienummer. Rapporterna är inte separata kompressorbyten."
+    ersättningar:
+      -
+        givare: "Arctic/Protector"
+        belopp: 57291
+        status: "Beslutad ersättning; betalning utlovad inom 30 dagar, mottagen betalning inte verifierad"
+        ersatt_självrisk_enligt_brev: 29400
+        ersatt_åldersavdrag_enligt_brev: 30891
+        Arctic_självrisk_enligt_brev: 3000
+        beräkningskontroll: "29400 + 30891 - 3000 = 57291"
+        begränsning_köldmedium_enligt_brev: "Högst 1250 kr + moms per kilo enligt beslutets kommentar; ingen egen omräkning görs."
+        dokument:
+          källa: "K-VPS-D012"
+          arkivsökväg: "2025-11-01 Kompressorfel VP3\\Ersättningsbekräftelse försäkringsärende 429924.eml"
+          sha256: "6f424799fa54d5cb30974958d0f4574d2a441544fce41ea6e938f25ae0b1411b"
+    Folksam_ersättningsstatus: "Separat ersättningsbeslut från Folksam saknas för denna skada; ingen sådan ersättning beräknas genom subtraktion."
+kostnadsprincip: "Reparationsbelopp hämtas från fakturaregistret. Ersättning redovisas separat, kvittas inte automatiskt och summeras inte som ny reparationskostnad."
