@@ -13,3 +13,41 @@ objekt:
       - "A-2025-757025140596-3"
     källor:
       - "K-KOMPLETTERING-2026-10-23-03"
+  -
+    id: "GL-2"
+    typ: "garagebyggnad"
+    namn: "Garagebyggnad 2"
+    alias:
+      - "Garage 2 enligt områdeskartan"
+      - "Garagelänga 2"
+    placering: "Parkerings-/garageområdet enligt områdeskartan"
+    datastatus: "Byggnadsbeteckning bekräftad av beställaren"
+    egenskaper:
+      ingående_garageplatser: null
+      kommentar: "Byggnadsnummer, inte enskild garageplats. Ingen fördelning av platser 701–771 antas."
+    relationer:
+      []
+    underhållshistorik:
+      []
+    källor:
+      - "K-SKYLTAR-PLATSER-20261118"
+      - "K-OMRADESKARTA-20261118"
+  -
+    id: "GL-3"
+    typ: "garagebyggnad"
+    namn: "Garagebyggnad 3"
+    alias:
+      - "Garage 3 enligt områdeskartan"
+      - "Garagelänga 3"
+    placering: "Parkerings-/garageområdet enligt områdeskartan"
+    datastatus: "Byggnadsbeteckning bekräftad av beställaren"
+    egenskaper:
+      ingående_garageplatser: null
+      kommentar: "Byggnadsnummer, inte enskild garageplats. Ingen fördelning av platser 701–771 antas."
+    relationer:
+      []
+    underhållshistorik:
+      []
+    källor:
+      - "K-SKYLTAR-PLATSER-20261118"
+      - "K-OMRADESKARTA-20261118"

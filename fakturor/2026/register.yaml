@@ -9,6 +9,7 @@ registreringsomgångar:
   - "2026-11-13-07"
   - "2026-11-13-08"
   - "2026-11-16-09"
+  - "2026-11-18-10"
 fakturor:
   -
     id: "F-2026-7150"
@@ -2251,3 +2252,69 @@ fakturor:
       - "K-KOMPLETTERING-20261116"
     datastatus: "verifierad"
     kommentar: "Passagen är Mellangångens dörr mot skyddsrummet enligt beställaren. Två servicebilsrader och uppdelningen CoM/Heras bevaras. Underleverantörsrader är inte ytterligare fakturor. Nytt motorlås eller hela dörren har inte antagits utbytta."
+  -
+    id: "F-2026-57640"
+    fakturanummer: "57640"
+    ocr: "5764071"
+    leverantör: "JC Kontakter AB / JC Gravyr & Tryck AB"
+    organisationsnummer: "556669-2249"
+    fakturadatum: "2026-11-18"
+    förfallodatum: "2026-12-18"
+    betalningsstatus: "Okänd"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 1218
+    moms: 304.5
+    öresavrundning: 0
+    att_betala: 1522.5
+    leveransdatum: "2026-11-16"
+    leveransdatumkälla: "Fakturan"
+    faktisk_leverans_bekräftad: false
+    leveransadress: "Högalidsvägen 69, Kävlinge"
+    ordernummer: "57159"
+    kundens_ordernummer: "107534"
+    dokument:
+      filnamn: "Faktura_57640.pdf"
+      sha256: "6a6ecfeb774c4af08150f2c91c2df9d7cd89c4cefcf9a9174cbd7ee582255852"
+      arkiv: "Föreningens dokumentarkiv"
+      arkivlänk: null
+    rader:
+      -
+        id: "F-2026-57640-R1"
+        artikelnummer: "jcgt2"
+        benämning: "Aluminiumskyltar 238 x 120 mm"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 259
+        belopp_exklusive_moms: 259
+      -
+        id: "F-2026-57640-R2"
+        artikelnummer: "jcgt2"
+        benämning: "Aluminiumskyltar 238 x 120 mm"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 259
+        belopp_exklusive_moms: 259
+      -
+        id: "F-2026-57640-R3"
+        artikelnummer: "jcgt1299"
+        benämning: "Flaggskylt Hjärtstartare 150 x 150 mm"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 325
+        belopp_exklusive_moms: 325
+      -
+        id: "F-2026-57640-R4"
+        artikelnummer: "jcgt1483.2"
+        benämning: "Varningsskylt Elcentral Livsfarlig spänning"
+        antal: 3
+        enhet: null
+        à_pris_exklusive_moms: 125
+        belopp_exklusive_moms: 375
+    åtgärder:
+      - "A-2026-57640-1"
+    källor:
+      - "K-FAKTURA-57640"
+      - "K-SKYLTAR-PLATSER-20261118"
+    datastatus: "verifierad"
+    kommentar: "Skyltarnas avsedda placering bekräftad av beställaren. Montering inte bekräftad och inga monteringsdatum antas. Två identiska aluminiumskyltrader bevaras utan godtycklig radfördelning på S1/S2."

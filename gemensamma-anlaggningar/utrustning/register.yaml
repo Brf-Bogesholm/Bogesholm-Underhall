@@ -166,3 +166,165 @@ objekt:
     källor:
       - "K-FAKTURA-57551"
       - "K-KOMPLETTERING-57551-20261113"
+  -
+    id: "UT-SKYLT-57640-MILJO-S1"
+    typ: "skylt"
+    namn: "Aluminiumskylt till miljöhus S1"
+    datastatus: "Inköp och avsedd placering verifierade; montering inte bekräftad"
+    placering: "Avsedd för Miljöhus S1 på 50-gården"
+    egenskaper:
+      antal: 1
+      mått: "238 x 120 mm"
+      inköpsdatum: "2026-11-18"
+      inköpsfaktura: "F-2026-57640"
+      fakturarader:
+        - "F-2026-57640-R1"
+        - "F-2026-57640-R2"
+      leveransdatum_enligt_faktura: "2026-11-16"
+      monteringsdatum: null
+      monteringsstatus: "Avsedd för montering; utförande inte bekräftat"
+      garanti: null
+      kostnadskommentar: "Kostnad summeras endast från fakturan. Raderna för S1/S2 är identiska och bevaras som gemensam radreferens; varningsskyltarnas gemensamma rad har fördelningen 2+1 enligt beställaren."
+    relationer:
+      -
+        typ: "avsedd_placering"
+        objekt: "U-MILJOHUS-50"
+    underhållshistorik:
+      - "A-2026-57640-1"
+    källor:
+      - "K-FAKTURA-57640"
+      - "K-SKYLTAR-PLATSER-20261118"
+  -
+    id: "UT-SKYLT-57640-MILJO-S2"
+    typ: "skylt"
+    namn: "Aluminiumskylt till miljöhus S2"
+    datastatus: "Inköp och avsedd placering verifierade; montering inte bekräftad"
+    placering: "Avsedd för Miljöhus S2 på 60-gården"
+    egenskaper:
+      antal: 1
+      mått: "238 x 120 mm"
+      inköpsdatum: "2026-11-18"
+      inköpsfaktura: "F-2026-57640"
+      fakturarader:
+        - "F-2026-57640-R1"
+        - "F-2026-57640-R2"
+      leveransdatum_enligt_faktura: "2026-11-16"
+      monteringsdatum: null
+      monteringsstatus: "Avsedd för montering; utförande inte bekräftat"
+      garanti: null
+      kostnadskommentar: "Kostnad summeras endast från fakturan. Raderna för S1/S2 är identiska och bevaras som gemensam radreferens; varningsskyltarnas gemensamma rad har fördelningen 2+1 enligt beställaren."
+    relationer:
+      -
+        typ: "avsedd_placering"
+        objekt: "U-MILJOHUS-60"
+    underhållshistorik:
+      - "A-2026-57640-1"
+    källor:
+      - "K-FAKTURA-57640"
+      - "K-SKYLTAR-PLATSER-20261118"
+  -
+    id: "UT-SKYLT-57640-HJARTSTARTARE-69"
+    typ: "skylt"
+    namn: "Flaggskylt Hjärtstartare"
+    datastatus: "Inköp och avsedd placering verifierade; montering inte bekräftad"
+    placering: "Avsedd för Vid hjärtstartaren på kvartershusets yttervägg, Högalidsvägen 69"
+    egenskaper:
+      antal: 1
+      mått: "150 x 150 mm"
+      inköpsdatum: "2026-11-18"
+      inköpsfaktura: "F-2026-57640"
+      fakturarader:
+        - "F-2026-57640-R3"
+      leveransdatum_enligt_faktura: "2026-11-16"
+      monteringsdatum: null
+      monteringsstatus: "Avsedd för montering; utförande inte bekräftat"
+      garanti: null
+      kostnadskommentar: "Kostnad summeras endast från fakturan. Raderna för S1/S2 är identiska och bevaras som gemensam radreferens; varningsskyltarnas gemensamma rad har fördelningen 2+1 enligt beställaren."
+    relationer:
+      -
+        typ: "avsedd_placering"
+        objekt: "H-69"
+      -
+        typ: "skyltar_för"
+        objekt: "UT-HJARTSTARTARE-69-001"
+    underhållshistorik:
+      - "A-2026-57640-1"
+    källor:
+      - "K-FAKTURA-57640"
+      - "K-SKYLTAR-PLATSER-20261118"
+  -
+    id: "UT-SKYLT-57640-EL-MELLANGANG"
+    typ: "skyltgrupp"
+    namn: "Varningsskyltar Elcentral Livsfarlig spänning"
+    datastatus: "Inköp och avsedd placering verifierade; montering inte bekräftad"
+    placering: "Avsedd för Två elskåp i Mellangången"
+    egenskaper:
+      antal: 2
+      mått: null
+      inköpsdatum: "2026-11-18"
+      inköpsfaktura: "F-2026-57640"
+      fakturarader:
+        - "F-2026-57640-R4"
+      leveransdatum_enligt_faktura: "2026-11-16"
+      monteringsdatum: null
+      monteringsstatus: "Avsedd för montering; utförande inte bekräftat"
+      garanti: null
+      kostnadskommentar: "Kostnad summeras endast från fakturan. Raderna för S1/S2 är identiska och bevaras som gemensam radreferens; varningsskyltarnas gemensamma rad har fördelningen 2+1 enligt beställaren."
+    relationer:
+      -
+        typ: "avsedd_placering"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-2026-57640-1"
+    källor:
+      - "K-FAKTURA-57640"
+      - "K-SKYLTAR-PLATSER-20261118"
+  -
+    id: "UT-SKYLT-57640-EL-GARAGEFORRAD"
+    typ: "skylt"
+    namn: "Varningsskylt Elcentral Livsfarlig spänning"
+    datastatus: "Inköp och avsedd placering verifierade; montering inte bekräftad"
+    placering: "Avsedd för Elskåp i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      antal: 1
+      mått: null
+      inköpsdatum: "2026-11-18"
+      inköpsfaktura: "F-2026-57640"
+      fakturarader:
+        - "F-2026-57640-R4"
+      leveransdatum_enligt_faktura: "2026-11-16"
+      monteringsdatum: null
+      monteringsstatus: "Avsedd för montering; utförande inte bekräftat"
+      garanti: null
+      kostnadskommentar: "Kostnad summeras endast från fakturan. Raderna för S1/S2 är identiska och bevaras som gemensam radreferens; varningsskyltarnas gemensamma rad har fördelningen 2+1 enligt beställaren."
+    relationer:
+      -
+        typ: "avsedd_placering"
+        objekt: "U-GARAGEFORRAD-GL2-GL3"
+    underhållshistorik:
+      - "A-2026-57640-1"
+    källor:
+      - "K-FAKTURA-57640"
+      - "K-SKYLTAR-PLATSER-20261118"
+  -
+    id: "UT-HJARTSTARTARE-69-001"
+    typ: "hjärtstartare"
+    namn: "Hjärtstartare på kvartershusets yttervägg"
+    datastatus: "Förekomst och placering enligt beställaren"
+    placering: "Ytterväggen på föreningslokalen/kvartershuset, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      serienummer: null
+      installationsdatum: null
+      inköpsfaktura: null
+      garanti: null
+      kommentar: "Skyltfakturan gäller endast skylt, inte inköp eller installation av hjärtstartaren."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-SKYLTAR-PLATSER-20261118"

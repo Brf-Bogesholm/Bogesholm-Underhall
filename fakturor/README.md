@@ -89,3 +89,7 @@ De fyra energifakturorna är driftkostnader, inte servicehändelser. [Energiregi
 ## Låsreparation, faktura 2747
 
 Christer o Magnus Bygg AB:s faktura 2747, daterad 2026-11-15, avser Mellangångens ståldörr mot skyddsrummet på Högalidsvägen 69, enligt beställarens bekräftelse. Samtliga sju fakturarader bevaras, inklusive CoM-arbete, två servicebilsposter samt Heras material och låstekniker. 4 422,50 kr exklusive moms, moms 1 105,63 kr, avrundning −0,13 kr, totalt 5 528 kr. Utförandedatum enligt stående regel är fakturadatum. Befintligt motorlås och dörr har fått en reparationshändelse, utan antaget nytt låsbyte. Betalningsstatus okänd. Låneavin är registrerad separat under [ekonomi](../ekonomi/README.md).
+
+## Skyltar till miljöhus, hjärtstartare och elskåp – 57640
+
+Faktura 57640 från JC Gravyr & Tryck, 2026-11-18, avser två aluminiumskyltar till S1/50-gården och S2/60-gården, en hjärtstartarflagga vid kvartershusets yttervägg samt tre varningsskyltar till elskåp: två i Mellangången och en i garageförrådet mellan garagebyggnad 2 och 3. Totalt sex skyltar, 1 522,50 kr inklusive moms. Leveransdatum enligt fakturan är 2026-11-16; faktisk leverans och montering är inte bekräftade. Förfallodatum 2026-12-18; betalningsstatus okänd. [Källor och platskopplingar](../inventering/importer/faktura-57640-2026-11-18.yaml).

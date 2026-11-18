@@ -88,8 +88,10 @@ utrymmen:
     alias:
       - "Miljöhus"
       - "Miljörum"
+      - "S1"
     källor:
       - "K-SBA-KOPPLING-20261113"
+      - "K-SKYLTAR-PLATSER-20261118"
     brandskyddshistorik:
       - "B-SBA-20250324"
       - "B-SBA-20250929"
@@ -110,8 +112,10 @@ utrymmen:
     alias:
       - "Miljöhus"
       - "Miljörum"
+      - "S2"
     källor:
       - "K-SBA-KOPPLING-20261113"
+      - "K-SKYLTAR-PLATSER-20261118"
     brandskyddshistorik:
       - "B-SBA-20250324"
       - "B-SBA-20250929"
@@ -146,3 +150,22 @@ utrymmen:
       - "B-SBA-20230427"
       - "B-SBA-20240529"
     kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."
+  -
+    id: "U-GARAGEFORRAD-GL2-GL3"
+    typ: "gemensamt förrådsutrymme"
+    namn: "Garageförrådet"
+    placering: "Utrymmet mellan garagebyggnad 2 och garagebyggnad 3 enligt beställaren och områdeskartan"
+    adress: null
+    alias:
+      - "Garageförrådet (arbetsnamn)"
+    relationer:
+      -
+        typ: "mellan"
+        objekt: "GL-2"
+      -
+        typ: "mellan"
+        objekt: "GL-3"
+    kommentar: "Skilt från individuella garageplatser 701–771 och föreningens garage 771."
+    källor:
+      - "K-SKYLTAR-PLATSER-20261118"
+      - "K-OMRADESKARTA-20261118"

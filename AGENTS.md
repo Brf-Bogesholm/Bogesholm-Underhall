@@ -57,3 +57,7 @@ Beställaren anger 2026-11-14 att Compleo-underlaget ska registreras tekniskt, u
 ## Ekonomiska rapporter och låneavier
 
 Beställaren bekräftar 2026-11-16 att januari–oktober 2026 är de första balans- och resultatrapporterna från den nya förvaltaren och ska sparas för kommande års jämförelser. Bevara period, utskriftsdatum, konton, tecken och källkolumner. Nollor i föregående års kolumn är inte verifierat föregående års utfall. Avskrivningskostnader saknas i denna rapportversion. Summera aldrig rapportutfall ovanpå fakturaregistrets kostnader. Låneavier hålls separata; amortering är inte räntekostnad och avisering är inte betalningsbevis. Publicera inte lånenummer/OCR eller betalningskonton. Passagen i faktura 2747 är Mellangångens dörr mot skyddsrummet enligt beställaren.
+
+## Platsbenämningar och skyltar
+
+Beställarens bekräftelse 2026-11-18: S1 är miljöhuset på 50-gården och S2 på 60-gården. Garageförrådet är ett eget utrymme mellan garagebyggnad 2 och 3 enligt områdeskartan; byggnadernas nummer får inte förväxlas med de individuella garageplatserna 1–71 (701–771). Kvartershus, lokalen och föreningslokalen avser byggnaden Högalidsvägen 69. Kontor och övriga delutrymmen hålls separata. Hjärtstartaren finns på byggnadens yttervägg; skyltfakturan är inte dess inköpsunderlag. Montering av skyltarna i faktura 57640 är inte bekräftad.

@@ -1,0 +1,26 @@
+id: "IMPORT-57640-20261118"
+godkänd: "2026-11-18"
+källor:
+  -
+    id: "K-FAKTURA-57640"
+    filnamn: "Faktura_57640.pdf"
+    sha256: "6a6ecfeb774c4af08150f2c91c2df9d7cd89c4cefcf9a9174cbd7ee582255852"
+  -
+    id: "K-OMRADESKARTA-20261118"
+    filnamn: "Brf Bogesholm - Områdeskarta - Vektoriserad.pdf"
+    sha256: "32b362ac9eaf3abd31e2636ff053d77865e419f235a872657579cb80d583362a"
+    typ: "Områdeskarta; byggnadsbeteckningar Garage 2 och Garage 3 samt Kvartershus 69"
+  -
+    id: "K-SKYLTAR-PLATSER-20261118"
+    typ: "Beställarens platsuppgifter"
+    uppgifter:
+      - "S1 är miljöhuset på 50-gården och S2 miljöhuset på 60-gården."
+      - "Garageförrådet är utrymmet mellan garagebyggnad 2 och 3; inte en individuell garageplats."
+      - "Två varningsskyltar avsedda för elskåp i Mellangången och en för elskåp i garageförrådet."
+      - "Hjärtstartaren är placerad på kvartershusets yttervägg."
+      - "Kvartershus, lokalen och föreningslokalen syftar på samma byggnad på Högalidsvägen 69."
+kontroll:
+  fakturor: 1
+  belopp_inklusive_moms: 1522.5
+  skyltar: 6
+avgränsning: "Ingen montering eller faktisk leverans antas bekräftad. Hjärtstartarens inköps-/installationsdatum härleds inte från skyltfakturan. Originaldokument och personuppgifter publiceras inte."

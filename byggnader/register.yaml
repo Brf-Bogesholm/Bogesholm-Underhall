@@ -101,6 +101,10 @@ byggnader:
     kommentar: Föreningslokalen enligt befintlig objektslista.
     takbesiktningar:
       - "B-TAK-20121114-28"
+    benämning_på_områdeskarta: "Kvartershus"
+    alternativa_benämningar: ["Kvartershus", "Lokalen", "Föreningslokalen"]
+    benämningskälla: "K-SKYLTAR-PLATSER-20261118"
+    benämningskommentar: "Benämningarna syftar på samma byggnad på Högalidsvägen 69 enligt beställaren. Kontor och andra delutrymmen behåller separata poster."
   - id: H-71
     typ: byggnad
     namn: Hus 71
