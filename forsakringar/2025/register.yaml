@@ -1,0 +1,32 @@
+version: "1.0"
+försäkringar:
+  -
+    id: "FORS-17806414119101001-2025"
+    typ: "erbjudande om förnyad värmepumpsförsäkring"
+    försäkringsnummer: "17806414119101001"
+    objekt: "TI-VP-06414119101001"
+    dokumenttyp: "Förnyelseerbjudande Påminnelse/Annullation med försäkringsbevis"
+    dokumentdatum: "2025-06-16"
+    försäkringsgivare: "Protector Försäkring"
+    försäkringsgivare_organisationsnummer: "516408-7339"
+    förmedlare_administratör: "Arctic Seals AB"
+    förmedlare_organisationsnummer: "556594-5234"
+    period_från: "2025-06-11"
+    period_till: "2026-06-10"
+    premie: 2604
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Moms anges inte; ingen moms antagen."
+    status: "Förnyelse och betalning inte bekräftade"
+    aktuell_försäkringsstatus: "Okänd; ingen handling för perioden efter 2026-06-10 har tillhandahållits"
+    betalningsstatus: "Okänd"
+    erbjudande_giltigt_till: "2025-06-30"
+    dokument:
+      filnamn: "Arctic bet 4.pdf"
+      sha256: "293eed659bc56645e14c9569c017ee93205c1d9a1037078e056e8a6ad4137eee"
+      arkiv: "Föreningens dokumentarkiv"
+      arkivlänk: null
+    källor:
+      - "K-ARCTIC-PUMP4-20261118"
+      - "K-PUMP4-BEKRAFTELSE-20261118"
+    kommentar: "Beställaren har bekräftat pumpens identitet och placering, inte betalning eller förnyelse. Ingen vanlig leverantörsfaktura och ingen extra kostnad i fakturaregistret."

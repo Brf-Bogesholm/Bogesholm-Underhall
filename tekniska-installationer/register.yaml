@@ -721,3 +721,30 @@ objekt:
     källor:
       - "K-COMPLEO-TEKNIK-20261114"
       - "K-LADDPARK-KOMPLETTERING-20261114"
+  -
+    id: "TI-VP-06414119101001"
+    typ: "värmepump"
+    namn: "Nibe F2120-20, serienummer 06414119101001"
+    datastatus: "verifierad"
+    placering: "Utomhus i anslutning till undercentralen, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Nibe"
+      modell: "F2120-20 3X400V"
+      serienummer: "06414119101001"
+      installationsdatum: "2019-06-11"
+      installationsdatumkälla: "FORS-17806414119101001-2025"
+      inköpskostnad: null
+      garanti: null
+      försäkringar:
+        - "FORS-17806414119101001-2025"
+      aktuell_försäkringsstatus: "Okänd; underlaget avser erbjudande för 2025-06-11–2026-06-10"
+      inbördes_placering: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-ARCTIC-PUMP4-20261118"
+      - "K-PUMP4-BEKRAFTELSE-20261118"

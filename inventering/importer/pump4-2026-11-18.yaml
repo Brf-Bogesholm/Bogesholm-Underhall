@@ -1,0 +1,23 @@
+id: "IMPORT-PUMP4-20261118"
+godkänd: "2026-11-18"
+källor:
+  -
+    id: "K-ARCTIC-PUMP4-20261118"
+    filnamn: "Arctic bet 4.pdf"
+    sha256: "293eed659bc56645e14c9569c017ee93205c1d9a1037078e056e8a6ad4137eee"
+    sida: 1
+  -
+    id: "K-PUMP4-BEKRAFTELSE-20261118"
+    typ: "Beställarens godkännande"
+    uppgifter:
+      - "Modell Nibe F2120-20 3X400V och serienummer 06414119101001 bekräftade."
+      - "Installationsdatum 2019-06-11 enligt underlaget."
+      - "Pumpen står med övriga pumpar utomhus vid undercentralen på Högalidsvägen 69."
+kontroll:
+  nya_värmepumpar: 1
+  totalt_registrerade_värmepumpar: 4
+avgränsningar:
+  - "Försäkringsunderlaget avser perioden 2025-06-11–2026-06-10, inte innevarande försäkringsperiod."
+  - "Förnyelse, betalning och nuvarande försäkringsstatus okända."
+  - "Ingen inbördes fysisk placering eller servicehistorik gissas."
+  - "Original och betalningsuppgifter publiceras inte."
