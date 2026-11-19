@@ -65,3 +65,7 @@ Beställarens bekräftelse 2026-11-18: S1 är miljöhuset på 50-gården och S2 
 ## Värmepumparnas numrering och elanslutning
 
 Bekräftat av beställaren 2026-11-18: VP1=06414119101018, A1/G10; VP2=06414119101001, A1/G11; VP3=06414119101020, A1/G13; VP4=06414119101011, A1/G14. Samtliga 16 A och kabelarea 2,5 mm². Numren är inte en fastställd fysisk vänster–högerordning. Använd dessa kopplingar vid serviceregistrering; fråga inte igen om samma numrering utan konkret motstridigt underlag.
+
+## Gaspannornas installationsunderlag
+
+Komplettering godkänd 2026-11-19: pannor 1–3 vänster till höger i pannrummet, Vaillant ecoTEC plus, installationsår 2014. Modell/individuella nummer enligt installationsprotokollet bevaras i utrustningsregistret. Två uniSTOR VIH R 500, ett stort Armatec-expansionskärl, en AT7420A-kallvattenmätare och en TTM-shuntgrupp enligt beställaren. Cirkulationspumparnas antal är osäkert, troligen en av varje dokumenterad modell. Injusteringsventiler dokumenteras endast som STAD/STAF-typer, utan antal. Ingen allmän manualinventering eller antagna aktuella driftinställningar. Kringutrustningens årtal är dokumentationsår, inte säkert individuellt installationsår.

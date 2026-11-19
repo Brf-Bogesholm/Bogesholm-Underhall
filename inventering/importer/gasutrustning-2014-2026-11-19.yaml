@@ -1,0 +1,152 @@
+id: "IMPORT-GASUTRUSTNING-2014-20261119"
+godkänd: "2026-11-19"
+källor:
+  -
+    id: "K-GAS-INSTALLATION-2014-20261119"
+    typ: "Installationspärm 2014, byte av gaspannor, Imtech"
+    projekt: "350-10-34555"
+    filer:
+      -
+        id: "K-GAS2014-D001"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 0 Registerförteckning/Registerförteckning.pdf"
+        sha256: "150ea02f30949c427f9cf9fd1ebf97110df3afd7f4694bfdf9a4b6249b0df1a5"
+        antal_sidor: 1
+      -
+        id: "K-GAS2014-D002"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 1 Innehållsförteckning/Innehållsförteckning.pdf"
+        sha256: "b583a60b33ea00c541f710590857798aee6a2c404a6a0843946739beeb4154c8"
+        antal_sidor: 1
+      -
+        id: "K-GAS2014-D003"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 2 Allmän Orientering/Allmän orientering.pdf"
+        sha256: "3e1172e8080ed1cb8f092bcdf46908a9553322c312fcb8a51c89b7a24af1c718"
+        antal_sidor: 1
+      -
+        id: "K-GAS2014-D004"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 3 Adresser/Adresser.pdf"
+        sha256: "9eed81147722fb1e705673bf09fb6125350cdba1b012061698f58c90fc27c82e"
+        antal_sidor: 1
+      -
+        id: "K-GAS2014-D005"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+        sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+        antal_sidor: 8
+      -
+        id: "K-GAS2014-D006"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.0 Produktdokumentationsförteckning/Produktdokumentationsförteckning.pdf"
+        sha256: "377206e0a1de2a8bcce6f3a70508d2c9b54baa99cc3088bc585920b37a6b47eb"
+        antal_sidor: 1
+      -
+        id: "K-GAS2014-D007"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.1 Vailant Gaspannor ECOTEC PLUS/5.1 Vailant Gaspannor ECOTEC PLUS.pdf"
+        sha256: "4ff60750e9d1f285844c5007229a32b11c294351bcbb8687eed6c93c5b4379a1"
+        antal_sidor: 64
+      -
+        id: "K-GAS2014-D008"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.10 TTM/5.10 TTM.pdf"
+        sha256: "d2c2f1f4a99acbaaa7cce501dcff524c8a1678f60f6d4d0d6db16f8166bc7587"
+        antal_sidor: 11
+      -
+        id: "K-GAS2014-D009"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.2 Vailant VVB UNISTOR VIH R 500/Vailant VVB UNISTOR VIH R 500.pdf"
+        sha256: "d06c0fbb007f66be584534bc4f5f880d47a43bfb292553736f793cac76be9895"
+        antal_sidor: 20
+      -
+        id: "K-GAS2014-D010"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.3 Armatec EXP AT8321C800/5.3 Armatec EXP AT8321C800.pdf"
+        sha256: "d745ed33fd9e7faed4dde4bf428852de92299825519e864b01cb3ff313667a23"
+        antal_sidor: 7
+      -
+        id: "K-GAS2014-D011"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.4 Armatec AT7420A/5.4 Armatec AT7420A.pdf"
+        sha256: "b12502153e4e110853fb4a89e750faf7f2a7c651c19e94530fa5985108977c5b"
+        antal_sidor: 9
+      -
+        id: "K-GAS2014-D012"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.5 Grundfors Magna3 25-80N/5.5 Grundfors Magna3 25-80N.pdf"
+        sha256: "489b6ecbd490fcd4119215156857f5cfb8bdce6d32504e2e9b1519c82b830934"
+        antal_sidor: 27
+      -
+        id: "K-GAS2014-D013"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.6 Grundfors Magna3 32-100N/5.6 Grundfors Magna3 32-100N.pdf"
+        sha256: "1c3697b3989f72f90368d0cfb58f03514f860f08f31acde968f18681e6a943f5"
+        antal_sidor: 25
+      -
+        id: "K-GAS2014-D014"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.7 Grundfors Magna3 50-120F/5.7 Grundfors Magna3 50-120F.pdf"
+        sha256: "090e336c143c4eeb26b8e652664ab466a33b989e38e36e97a9028a015b602aa6"
+        antal_sidor: 22
+      -
+        id: "K-GAS2014-D015"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.8 TA Stad/5.8 TA Stad.pdf"
+        sha256: "1ee074728e896f16d4df29719a277be9a89904d7a656b79dd4e12dd2a47b43e6"
+        antal_sidor: 55
+      -
+        id: "K-GAS2014-D016"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.9 TA Staf/5.9 TA Staf.pdf"
+        sha256: "ef2b3f1c847ffaa451e0ace4d1cee76451fa11f4d50a7dc954a901d981a00248"
+        antal_sidor: 46
+  -
+    id: "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+    typ: "Beställarens godkännande och mängduppgifter"
+    uppgifter:
+      - "Panna 1, 2 och 3 från vänster till höger i pannrummet, Högalidsvägen 69."
+      - "Två varmvattenberedare, ett expansionskärl, en kallvattenmätare och en shuntgrupp."
+      - "Troligen en cirkulationspump av varje modell, men antal osäkert."
+      - "För injusteringsventiler registreras endast typ, inte antal."
+      - "Fokus på ägd utrustning, modell, serienummer, installationsår och grundegenskaper."
+pannidentiteter:
+  -
+    objekt: "TI-GASPANNA-69-001"
+    läge: "vänster"
+    modell: "VC DK 1206/5-5 R2"
+    serienummer: "21132500100107830001005000N9"
+    installationsår: 2014
+    dokument:
+      källa: "K-GAS2014-D005"
+      arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+      sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+      sidor:
+        - 3
+  -
+    objekt: "TI-GASPANNA-69-002"
+    läge: "mitten"
+    modell: "VC DK 1206/5-5 R3"
+    serienummer: "21141900100107830001005001N8"
+    installationsår: 2014
+    dokument:
+      källa: "K-GAS2014-D005"
+      arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+      sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+      sidor:
+        - 3
+  -
+    objekt: "TI-GASPANNA-69-003"
+    läge: "höger"
+    modell: "VC DK 1206/5-5 R3"
+    serienummer: "21141900100107830001005000N2"
+    installationsår: 2014
+    dokument:
+      källa: "K-GAS2014-D005"
+      arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+      sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+      sidor:
+        - 4
+kringutrustning:
+  grupp_eller_typobjekt:
+    - "TI-VVB-69-UNISTOR-500"
+    - "TI-KALLVATTENMATARE-69-001"
+    - "TI-SHUNTGRUPP-69-TTM-001"
+    - "TI-CIRKPUMP-69-25-80N"
+    - "TI-CIRKPUMP-69-32-100N"
+    - "TI-CIRKPUMP-69-50-120F"
+    - "TI-INJUSTERINGSVENTIL-69-STAD"
+    - "TI-INJUSTERINGSVENTIL-69-STAF"
+  befintligt_expansionskärl: "TI-EXPANSIONSKARL-69-VARME-001"
+avgränsningar:
+  - "Ingen kopiering av generella manualtabeller, dimensionering, felsöknings- eller driftsinstruktioner."
+  - "Installationsår 2014 gäller pannbytet; kringutrustningen märks som dokumenterad i 2014 års underlag, inte med antagen exakt installationsdag."
+  - "Expansionskärlet kompletterar det befintliga stora kärlet, inte avgasarens lilla kärl."
+  - "Aktuella börvärden och driftsmätningar härleds inte från historiska mätprotokoll eller manualer."
+  - "Gamla kontroll-/serviceanmärkningar stängs inte genom utrustningskompletteringen."
+  - "Inga kostnader, personuppgifter eller originaldokument publicerade."

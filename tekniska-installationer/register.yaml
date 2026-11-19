@@ -417,13 +417,25 @@ objekt:
     egenskaper:
       pannnummer: 1
       läge_sett_framifrån: "vänster"
-      lägeskopplingkälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      lägeskopplingkälla: "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
       fabrikat: "Vaillant"
       typ_enligt_brandskyddsprotokoll_2024: "ECO TEC"
-      serienummer: null
+      serienummer: "21132500100107830001005000N9"
       installationsdatum: null
       garanti: null
-      identitetskommentar: "Objektet följer pannnummer/position. Utan serienummer och utbyteshistorik är det inte verifierat att samma fysiska panna funnits under hela kontrollhistoriken. Fullständig modellvariant är inte fastställd."
+      identitetskommentar: "Modell och individuellt nummer enligt E.ON:s installationsprotokoll 2014-07-02, kopplat till vänster/mitten/höger. Ingen senare fysisk utbyteskontroll har gjorts. Tidigare historiska källbenämningar bevaras separat."
+      modellserie: "ecoTEC plus"
+      modell: "VC DK 1206/5-5 R2"
+      serienummerkälla:
+        källa: "K-GAS2014-D005"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+        sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+        sidor:
+          - 3
+      installationsår: 2014
+      installationsårkälla: "K-GAS-INSTALLATION-2014-20261119"
+      grundtyp: "Modulerande kondenserande gaspanna"
+      installatör: "Imtech VS-teknik AB"
     relationer:
       -
         typ: "located_in"
@@ -444,6 +456,8 @@ objekt:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
       - "K-LACKSOKNING-KOMPLETTERING-20261113"
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
   -
     id: "TI-GASPANNA-69-002"
     typ: "gaspanna"
@@ -453,13 +467,25 @@ objekt:
     egenskaper:
       pannnummer: 2
       läge_sett_framifrån: "mitten"
-      lägeskopplingkälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      lägeskopplingkälla: "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
       fabrikat: "Vaillant"
       typ_enligt_brandskyddsprotokoll_2024: "ECO TEC PLUS"
-      serienummer: null
+      serienummer: "21141900100107830001005001N8"
       installationsdatum: null
       garanti: null
-      identitetskommentar: "Objektet följer pannnummer/position. Utan serienummer och utbyteshistorik är det inte verifierat att samma fysiska panna funnits under hela kontrollhistoriken. Fullständig modellvariant är inte fastställd."
+      identitetskommentar: "Modell och individuellt nummer enligt E.ON:s installationsprotokoll 2014-07-02, kopplat till vänster/mitten/höger. Ingen senare fysisk utbyteskontroll har gjorts. Tidigare historiska källbenämningar bevaras separat."
+      modellserie: "ecoTEC plus"
+      modell: "VC DK 1206/5-5 R3"
+      serienummerkälla:
+        källa: "K-GAS2014-D005"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+        sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+        sidor:
+          - 3
+      installationsår: 2014
+      installationsårkälla: "K-GAS-INSTALLATION-2014-20261119"
+      grundtyp: "Modulerande kondenserande gaspanna"
+      installatör: "Imtech VS-teknik AB"
     relationer:
       -
         typ: "located_in"
@@ -480,6 +506,8 @@ objekt:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
       - "K-LACKSOKNING-KOMPLETTERING-20261113"
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
   -
     id: "TI-GASPANNA-69-003"
     typ: "gaspanna"
@@ -489,13 +517,25 @@ objekt:
     egenskaper:
       pannnummer: 3
       läge_sett_framifrån: "höger"
-      lägeskopplingkälla: "K-GASPANNOR-KOMPLETTERING-20261113"
+      lägeskopplingkälla: "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
       fabrikat: "Vaillant"
       typ_enligt_brandskyddsprotokoll_2024: "ECO TEC PLUS"
-      serienummer: null
+      serienummer: "21141900100107830001005000N2"
       installationsdatum: null
       garanti: null
-      identitetskommentar: "Objektet följer pannnummer/position. Utan serienummer och utbyteshistorik är det inte verifierat att samma fysiska panna funnits under hela kontrollhistoriken. Fullständig modellvariant är inte fastställd."
+      identitetskommentar: "Modell och individuellt nummer enligt E.ON:s installationsprotokoll 2014-07-02, kopplat till vänster/mitten/höger. Ingen senare fysisk utbyteskontroll har gjorts. Tidigare historiska källbenämningar bevaras separat."
+      modellserie: "ecoTEC plus"
+      modell: "VC DK 1206/5-5 R3"
+      serienummerkälla:
+        källa: "K-GAS2014-D005"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 4 Intyg/Intyg.pdf"
+        sha256: "d6d1f7e9efd923334b900eff67070f7d1510e5dde3c58b6e445eaaf12e8d97bf"
+        sidor:
+          - 4
+      installationsår: 2014
+      installationsårkälla: "K-GAS-INSTALLATION-2014-20261119"
+      grundtyp: "Modulerande kondenserande gaspanna"
+      installatör: "Imtech VS-teknik AB"
     relationer:
       -
         typ: "located_in"
@@ -516,6 +556,8 @@ objekt:
       - "K-GASPANNOR-ZIP-20261113"
       - "K-GASPANNOR-KOMPLETTERING-20261113"
       - "K-LACKSOKNING-KOMPLETTERING-20261113"
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
   -
     id: "TI-GASKANAL-LUCKA-69-001"
     typ: "lucka"
@@ -550,12 +592,20 @@ objekt:
       funktion: "Expansion i värmesystemet"
       storlek_enligt_beställaren: "Stora kärlet"
       volym_liter: null
-      fabrikat: null
-      modell: null
+      fabrikat: "Armatec"
+      modell: "AT8321C800"
       serienummer: null
       installationsdatum: null
-      identitetskommentar: "Objektet samlar historiken för värmesystemets stora expansionskärl. Fysiska byten och kontinuitet över hela perioden är inte verifierade. Äldre protokolls adressavvikelse bevaras."
+      identitetskommentar: "Modell och antal kompletterade enligt installationspärmen och beställaren. Befintlig historik bevarad; byte och fysisk kontinuitet under tidigare år är inte fastställda."
       kommentar: "Skilt från det lilla expansionskärlet till Spirotech S400. Historiska förtrycksvärden och läckageobservationer är inte verifierade aktuella värden eller tillstånd."
+      antal: 1
+      modellkälla:
+        källa: "K-GAS2014-D006"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.0 Produktdokumentationsförteckning/Produktdokumentationsförteckning.pdf"
+        sha256: "377206e0a1de2a8bcce6f3a70508d2c9b54baa99cc3088bc585920b37a6b47eb"
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkommentar: "Beteckning enligt projektets produktförteckning. Volym lämnas öppen: modellbeteckningens 800 har inte omtolkats till en verifierad kärlvolym."
+      grundtyp: "Slutet förtryckt expansionskärl med bälg enligt modellens produktblad"
     relationer:
       -
         typ: "located_in"
@@ -592,6 +642,8 @@ objekt:
     källor:
       - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
       - "K-GASPANNOR-ZIP-20261113"
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
   -
     id: "TI-VARMESYSTEM-BOGESHOLM-001"
     typ: "värmesystem"
@@ -815,3 +867,271 @@ objekt:
       - "K-VP-NUMMER-EL-20261118"
       - "K-VP-SERVICE-20261118"
       - "K-VP-SERVICE-KOPPLING-20261118"
+  -
+    id: "TI-VVB-69-UNISTOR-500"
+    typ: "varmvattenberedare, grupp"
+    namn: "Två Vaillant uniSTOR VIH R 500"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "Vaillant"
+      modell: "uniSTOR VIH R 500"
+      antal: 2
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D009"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.2 Vailant VVB UNISTOR VIH R 500/Vailant VVB UNISTOR VIH R 500.pdf"
+        sha256: "d06c0fbb007f66be584534bc4f5f880d47a43bfb292553736f793cac76be9895"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      gruppkommentar: "Två individuella beredare; interna nummer och serienummer saknas. Gruppobjekt används tills enheterna kan särskiljas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-KALLVATTENMATARE-69-001"
+    typ: "kallvattenmätare"
+    namn: "Armatec AT7420A"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "Armatec"
+      modell: "AT7420A"
+      antal: 1
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D011"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.4 Armatec AT7420A/5.4 Armatec AT7420A.pdf"
+        sha256: "b12502153e4e110853fb4a89e750faf7f2a7c651c19e94530fa5985108977c5b"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      grundtyp: "Ringkolvsmätare för kallvatten enligt produktblad"
+      dimension: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-SHUNTGRUPP-69-TTM-001"
+    typ: "shuntgrupp"
+    namn: "TTM Shuntopac, värmeshuntgrupp"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "TTM"
+      modell: "Shuntopac, exakt variant okänd"
+      antal: 1
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D008"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.10 TTM/5.10 TTM.pdf"
+        sha256: "d2c2f1f4a99acbaaa7cce501dcff524c8a1678f60f6d4d0d6db16f8166bc7587"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      modellkommentar: "Bifogad manual gäller serien 65–100 V; exakt installerad storlek/variant inte identifierad."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-CIRKPUMP-69-25-80N"
+    typ: "cirkulationspump, modellreferens"
+    namn: "Grundfos MAGNA 25-80 N"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "Grundfos"
+      modell: "MAGNA 25-80 N"
+      antal: null
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D012"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.5 Grundfors Magna3 25-80N/5.5 Grundfors Magna3 25-80N.pdf"
+        sha256: "489b6ecbd490fcd4119215156857f5cfb8bdce6d32504e2e9b1519c82b830934"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      produktnummer_enligt_bifogat_datablad: "97924338"
+      antal_bedömning_enligt_beställaren: 1
+      antalstatus: "Osäkert: beställaren tror en av varje modell. Inte bekräftat antal fysiska pumpar."
+      modellavvikelse: "Produktförteckning/mapp säger MAGNA3 25-80N, men modellbladets rubrik säger MAGNA 25-80 N. Skillnaden är inte utjämnad."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-CIRKPUMP-69-32-100N"
+    typ: "cirkulationspump, modellreferens"
+    namn: "Grundfos MAGNA3 32-100 N"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "Grundfos"
+      modell: "MAGNA3 32-100 N"
+      antal: null
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D013"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.6 Grundfors Magna3 32-100N/5.6 Grundfors Magna3 32-100N.pdf"
+        sha256: "1c3697b3989f72f90368d0cfb58f03514f860f08f31acde968f18681e6a943f5"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      produktnummer_enligt_bifogat_datablad: "97924344"
+      antal_bedömning_enligt_beställaren: 1
+      antalstatus: "Osäkert: beställaren tror en av varje modell. Inte bekräftat antal fysiska pumpar."
+      modellavvikelse: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-CIRKPUMP-69-50-120F"
+    typ: "cirkulationspump, modellreferens"
+    namn: "Grundfos MAGNA3 50-120 F"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "Grundfos"
+      modell: "MAGNA3 50-120 F"
+      antal: null
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D014"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.7 Grundfors Magna3 50-120F/5.7 Grundfors Magna3 50-120F.pdf"
+        sha256: "090e336c143c4eeb26b8e652664ab466a33b989e38e36e97a9028a015b602aa6"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      produktnummer_enligt_bifogat_datablad: "97924284"
+      antal_bedömning_enligt_beställaren: 1
+      antalstatus: "Osäkert: beställaren tror en av varje modell. Inte bekräftat antal fysiska pumpar."
+      modellavvikelse: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-INJUSTERINGSVENTIL-69-STAD"
+    typ: "injusteringsventil, typreferens"
+    namn: "TA STAD"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "TA"
+      modell: "STAD"
+      antal: null
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D015"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.8 TA Stad/5.8 TA Stad.pdf"
+        sha256: "1ee074728e896f16d4df29719a277be9a89904d7a656b79dd4e12dd2a47b43e6"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      antalstatus: "Antal efterfrågas inte enligt beställarens avgränsning."
+      dimension: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-INJUSTERINGSVENTIL-69-STAF"
+    typ: "injusteringsventil, typreferens"
+    namn: "TA STAF"
+    placering: "Undercentralen/pannrummet, Högalidsvägen 69"
+    datastatus: "Modellreferens enligt installationsunderlag; omfattning enligt beställaren"
+    egenskaper:
+      fabrikat: "TA"
+      modell: "STAF"
+      antal: null
+      serienummer: null
+      installationsdatum: null
+      installationsår: null
+      dokumenterat_i_installationsunderlag_år: 2014
+      modellkälla:
+        källa: "K-GAS2014-D016"
+        arkivsökväg: "2014 Gaspannor Imtech_Vailant/Flik 5 Produkter/5.9 TA Staf/5.9 TA Staf.pdf"
+        sha256: "ef2b3f1c847ffaa451e0ace4d1cee76451fa11f4d50a7dc954a901d981a00248"
+      kommentar: "Utrustningstyp enligt installationspärmens produktförteckning, inte en aktuell besiktning eller inventering av märkskyltar. Exakt installationsår för kringutrustningen är inte individuellt verifierat."
+      antalstatus: "Antal efterfrågas inte enligt beställarens avgränsning."
+      dimension: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+    underhållshistorik:
+      []
+    källor:
+      - "K-GAS-INSTALLATION-2014-20261119"
+      - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
