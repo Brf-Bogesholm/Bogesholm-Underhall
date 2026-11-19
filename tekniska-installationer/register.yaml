@@ -1219,3 +1219,48 @@ objekt:
       []
     källor:
       - "K-BASTEC-20261119"
+  -
+    id: "TI-INHAGNAD-VP-69-001"
+    typ: "stängsel med gånggrind"
+    namn: "Inhägnad runt värmepumparna"
+    placering: "Utomhus runt värmepumparna vid undercentralen, Högalidsvägen 69"
+    datastatus: "Bekräftad av beställaren 2026-11-19"
+    egenskaper:
+      leverantör: "Heras AB"
+      monteringsår: 2019
+      monteringsdatum: null
+      material: "Stålnätspaneler"
+      kulör: "Svart"
+      kulörkod: null
+      höjd_m: 2
+      längd_lpm_enligt_order: 11.5
+      paneler: 5
+      stolpar: 7
+      grindar: 1
+      grindbredd_m: 1
+      grindmodell: "EG 2000-1000-90 sv assa"
+      cylinderstatus: "Ingick inte i ordern; installerad cylinder inte identifierad"
+      dokumentation: "byggnadsdelar/stangsel-varmepumpar/inhagnad-2019.yaml"
+      inköpsfaktura: null
+      serienummer: null
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "H-69"
+      -
+        typ: "inhägnar"
+        objekt: "TI-VP-06414119101020"
+      -
+        typ: "inhägnar"
+        objekt: "TI-VP-06414119101018"
+      -
+        typ: "inhägnar"
+        objekt: "TI-VP-06414119101011"
+      -
+        typ: "inhägnar"
+        objekt: "TI-VP-06414119101001"
+    underhållshistorik:
+      - "A-INHAGNAD-VP-2019"
+    källor:
+      - "K-STANGSEL-VP-ORDER-20190529"
+      - "K-STANGSEL-VP-BEKRAFTELSE-20261119"

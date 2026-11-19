@@ -1,0 +1,16 @@
+id: "K-STANGSEL-VP-ORDER-20190529"
+registrerad: "2026-11-19"
+objekt: "TI-INHAGNAD-VP-69-001"
+dokument:
+  -
+    fil: "doc01774920190528053127.pdf"
+    sha256: "5123f5ca2082eea76661c166bef68bec5667e41666f34b1e40c617e55b12c8a7"
+  -
+    fil: "Orderbekräftelse 26252.pdf"
+    sha256: "8b38f3fe0400260474202a9f32decc05ecd0c2bee90475c5cecb9464a619ba70"
+beställarbekräftelse:
+  id: "K-STANGSEL-VP-BEKRAFTELSE-20261119"
+  monteringsår: 2019
+  uppgifter_godkända: true
+avgränsning: "Order och skiss bevaras separat. Generella montagevillkor är inte relationsritning eller belägg för motorgrind/elstängsellarm. Orderbelopp är inte faktura/betalning. Original och personliga kontakt-/bankuppgifter överförs inte."
+original_publicerade: false

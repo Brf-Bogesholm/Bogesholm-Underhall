@@ -1,0 +1,76 @@
+status: "Registrerad efter beställarens granskning 2026-11-19"
+placering: "Runt värmepumparna vid undercentralen, Högalidsvägen 69 enligt beställaren och tidigare platsuppgifter"
+leverantör: "Heras AB"
+order: "FO2-026252"
+orderdatum: "2019-05-29"
+preliminär_utleverans: "2019-07-01"
+planerad_montering: "Vecka 27–29, 2019"
+faktiskt_monteringsdatum: null
+stängsel:
+  längd_lpm_enligt_order: 11.5
+  nominell_höjd_m: 2
+  kulör: "Svart"
+  kulörkod: null
+  material: "Stålnätspaneler"
+  paneler:
+    antal: 5
+    artikel: "PTL420256"
+    beteckning: "2030x2510x6/5 sv"
+    tolkning: "Produktbeteckning bevarad; inte säkert monterad totalsumma"
+  stolpar:
+    -
+      antal: 5
+      artikel: "KSPTM42060"
+      beteckning: "M-2000-60 sv"
+    -
+      antal: 2
+      artikel: "KSPTH42060"
+      beteckning: "H-2000-60 sv"
+grind:
+  antal: 1
+  nominell_bredd_m: 1
+  nominell_höjd_m: 2
+  beteckning: "EG 2000-1000-90 sv assa"
+  utförande: "Profilfylld gånggrind"
+  lås: "Assa; exakt låshusmodell ej angiven"
+  cylinder: "Ingick inte i ordern"
+  motoriserad: null
+  motoriseringskommentar: "Beställd gånggrind; ingen motorisering dokumenterad."
+montage_enligt_order:
+  betong_m3: 1
+  grävning_gjutning_timmar: 12
+  montering_timmar: 8
+  status: "Beställda mängder, inte tidrapport eller bevis för utfört arbete"
+  återställning_asfalt: "Ingick inte"
+skiss:
+  mått_original:
+    - "3 m"
+    - "3 m"
+    - "1 m"
+    - "1 m"
+    - "1 m gånggrind"
+  avvikelse: "Fyra angivna fasta delsträckor summerar till 8 m, respektive 9 m inklusive 1 m grind. Skissen anger inte en komplett sluten kontur; detta har inte likställts med orderns 11,5 lpm eller korrigerat den."
+garanti:
+  år: 2
+  start: "Från besiktning enligt allmänna montagevillkor"
+  besiktningsdatum: null
+  status: "Historiskt beställningsvillkor, ingen aktuell giltighet verifierad"
+kostnad:
+  order_inkl_moms: 38875
+  order_exkl_moms: 31100
+  moms: 7775
+  status: "Orderbelopp, inte faktura eller verifierat betalt belopp"
+källor:
+  -
+    fil: "doc01774920190528053127.pdf"
+    sha256: "5123f5ca2082eea76661c166bef68bec5667e41666f34b1e40c617e55b12c8a7"
+  -
+    fil: "Orderbekräftelse 26252.pdf"
+    sha256: "8b38f3fe0400260474202a9f32decc05ecd0c2bee90475c5cecb9464a619ba70"
+avgränsning: "Allmänna villkor om motorgrind och elstängsellarm bevisar inte installerad motor eller larm. Cylinder, RAL/NCS och monteringsdatum okända."
+id: "TI-INHAGNAD-VP-69-001"
+monteringsår: 2019
+monteringsårkälla: "K-STANGSEL-VP-BEKRAFTELSE-20261119"
+källor_registrering:
+  - "K-STANGSEL-VP-ORDER-20190529"
+  - "K-STANGSEL-VP-BEKRAFTELSE-20261119"

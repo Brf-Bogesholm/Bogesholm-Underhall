@@ -227,3 +227,22 @@ version: "1.0"
       - "K-INJUSTERING-BEKRAFTELSE-20261119"
     datumkommentar: "Arbetet planerades 4–22 mars; efterkontroll 2–4 december 2019. Exakt installationsdag per radiator inte känd."
     kommentar: "Fem lägenheter saknade tillträde vid temperaturkontroll. Senare kontroll okänd. Särskilda avvikelser i 67H,61C,59D hålls öppna med okänt senare utfall."
+  -
+    id: "A-INHAGNAD-VP-2019"
+    datum: null
+    år: 2019
+    åtgärd: "Uppsättning av svart stålnätstängsel och gånggrind runt värmepumparna"
+    objekt:
+      - "TI-INHAGNAD-VP-69-001"
+      - "TI-VP-06414119101020"
+      - "TI-VP-06414119101018"
+      - "TI-VP-06414119101011"
+      - "TI-VP-06414119101001"
+    placering: "Värmepumparna vid undercentralen, Högalidsvägen 69"
+    utförare: "Heras AB"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-STANGSEL-VP-ORDER-20190529"
+      - "K-STANGSEL-VP-BEKRAFTELSE-20261119"
+    datumkommentar: "Monteringsår 2019 bekräftat av beställaren. Orderdatum, preliminär utleverans och planerade veckor är inte exakt installationsdatum."

@@ -47,3 +47,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Toaletten i lokalen
 
 [Ombyggnad 2017](toalett-lokalen/README.md) – undertecknad beställning, produktbilaga och uppgifter om slutdokumentation.
+
+## Värmepumparnas inhägnad
+
+[Stängsel och gånggrind, monterade 2019](stangsel-varmepumpar/README.md) – Heras, svart stålnät och separat bevarade order-/skissmått.
