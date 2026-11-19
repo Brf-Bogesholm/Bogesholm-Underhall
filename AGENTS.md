@@ -69,3 +69,7 @@ Bekräftat av beställaren 2026-11-18: VP1=06414119101018, A1/G10; VP2=064141191
 ## Gaspannornas installationsunderlag
 
 Komplettering godkänd 2026-11-19: pannor 1–3 vänster till höger i pannrummet, Vaillant ecoTEC plus, installationsår 2014. Modell/individuella nummer enligt installationsprotokollet bevaras i utrustningsregistret. Två uniSTOR VIH R 500, ett stort Armatec-expansionskärl, en AT7420A-kallvattenmätare och en TTM-shuntgrupp enligt beställaren. Cirkulationspumparnas antal är osäkert, troligen en av varje dokumenterad modell. Injusteringsventiler dokumenteras endast som STAD/STAF-typer, utan antal. Ingen allmän manualinventering eller antagna aktuella driftinställningar. Kringutrustningens årtal är dokumentationsår, inte säkert individuellt installationsår.
+
+## BASTEC
+
+Beställaren godkänner 2026-11-19 historiskt BASTEC-underlag 2014–2015. Se tekniska-installationer/bastec/README.md. Ingen nyare dokumentation känd; aktuell konfiguration ännu inte hämtad. Bevara beteckningskonflikter, okända serienummer och skillnaden mellan generella instruktioner och installerad funktion. Tom historisk Modbus-objekttabell innebär inte att extern slavåtkomst saknas. Publicera inte råexportens användare, anslutningsuppgifter eller eventuella lösenord. Blanda inte 5600-EXP1 (stora värmekärlet) med avgasarens lilla kärl. Dokumentationen föregår värmepumparnas installation 2019.

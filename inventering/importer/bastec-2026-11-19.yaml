@@ -1,0 +1,172 @@
+id: "K-BASTEC-20261119"
+registrerat: "2026-11-19"
+godkänt_av_beställaren: true
+underlag: "BASTEC, installationspärmen 2014 Gaspannor styrsystem"
+historiskt: true
+aktuellt_underlag: "Beställaren känner inte till nyare dokumentation. Aktuell konfiguration kan eventuellt exporteras för jämförelse; ännu inte hämtad."
+dokument:
+  -
+    id: "K-BASTEC-D00"
+    fil: "1.Adresser\\1.0.pdf"
+    sha256: "9faae3c3e04f4997f931cdfe3ca4c6b10944b08103575dfdc5bc8047e2f94ef4"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D01"
+    fil: "1.Adresser\\Adresser.pdf"
+    sha256: "efa3f7ca90823a22c585cbc67e6c4265df772f6a7d746b368f0a044dfdf00d9f"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D02"
+    fil: "10.Tidur\\10.0.pdf"
+    sha256: "b329d57983aae8ebb8b9da636931a72ad8b5c7def6b0e8b23970a5679d4b788c"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D03"
+    fil: "11.Protokoll.mm\\11.pdf"
+    sha256: "ec97cc38b01e352a5f8f3a114463753fec5db3b8acb703d24f94fbc67e6e557c"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D04"
+    fil: "11.Protokoll.mm\\BAS2 XL och XP CE-märkningsintyg.pdf"
+    sha256: "9bdbeae050569c90d73a9c80567ac3684d003e0e3d0e20acc91bc6e01b45e4f7"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D05"
+    fil: "12. Information BAS2 Styrsystem\\12.0.pdf"
+    sha256: "b4315f9e5496f1d70f03707d672a85e9306e661144105038da04b6d8264b0adb"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D06"
+    fil: "12. Information BAS2 Styrsystem\\12.1 Info_BAS2_BASTEC.pdf"
+    sha256: "5eb7113645da1b2e2980578cf8dac4d8c464927180c2997bcb8b0079e378f1f6"
+    antal_sidor: 6
+  -
+    id: "K-BASTEC-D07"
+    fil: "13.Manualer\\13.0.pdf"
+    sha256: "c5c16abc0617abaa0305da65dc85b4ce2a72404fd26a41087fcdf93247e985ae"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D08"
+    fil: "13.Manualer\\BAS2 Styr Användarmanual ver 7.1.pdf"
+    sha256: "b55104608866121448b81b966fe57d0abd03d65dbb58627c30f28a20d230421e"
+    antal_sidor: 72
+  -
+    id: "K-BASTEC-D09"
+    fil: "2.Materialspecifikation & Produktblad\\2.0.pdf"
+    sha256: "e4a4e52b40923d77f855509b40b6441399a46838afb1f01fe46e7e2c9802699c"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D10"
+    fil: "2.Materialspecifikation & Produktblad\\BAS2 E16 Datablad.pdf"
+    sha256: "2fb5899aef7c3df61443d6992d88543802010d6b980f903dee4418e152f6c7f3"
+    antal_sidor: 2
+  -
+    id: "K-BASTEC-D11"
+    fil: "2.Materialspecifikation & Produktblad\\BAS2 OP-FG15W1 Datablad.pdf"
+    sha256: "7b0661759d57c9d1d517a461e708d0bd61e10b2e1d97594519e0185128193fa6"
+    antal_sidor: 2
+  -
+    id: "K-BASTEC-D12"
+    fil: "2.Materialspecifikation & Produktblad\\BAS2 XE16-COM Datablad.pdf"
+    sha256: "2c8488a3441e7f99938211ca8367ed66e220a7590c81a59cf01a7a63877c61b7"
+    antal_sidor: 2
+  -
+    id: "K-BASTEC-D13"
+    fil: "2.Materialspecifikation & Produktblad\\TEP_Anliggn.1174.08S.pdf"
+    sha256: "01376224fc93ccd15765fb57f8a16638f867070031d1332d0beb30a8f7a3bfbd"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D14"
+    fil: "2.Materialspecifikation & Produktblad\\TF25 Bulbgivare.pdf"
+    sha256: "3ef4fe4cba23ec314c9d991ef8f9903213e4624958747dba1c10410d9c60cda3"
+    antal_sidor: 2
+  -
+    id: "K-BASTEC-D15"
+    fil: "3.Flödesschemor & Funktionsbeskrivningar\\3.0.pdf"
+    sha256: "d617a8819dc49a8f75250e777c9ffcf5e55dadf46fe4d0066b3747ed1b0c2d7c"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D16"
+    fil: "3.Flödesschemor & Funktionsbeskrivningar\\3.1 Flödesbild UC01.pdf"
+    sha256: "57ac0bc47477d30768a03cfb6b6bbf592015fb26014872856ea006bdbd5547ce"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D17"
+    fil: "3.Flödesschemor & Funktionsbeskrivningar\\3.2 Funktionsbeskrivning UC01.pdf"
+    sha256: "879d757adcd5e12842159237b7e91bb774bc9452e4d20824c4526c096f345625"
+    antal_sidor: 2
+  -
+    id: "K-BASTEC-D18"
+    fil: "4.Idrifttagningsprotokoll\\4.0.pdf"
+    sha256: "980126691376c154bed7c8eea8945c7fea4a32235fc1500894e767ab626e74bd"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D19"
+    fil: "4.Idrifttagningsprotokoll\\4.1 DUC1.pdf"
+    sha256: "23845a3f18783a1f4acbe72da4f766aa9ec05cd9913a71dc8e87fc0c624364f0"
+    antal_sidor: 17
+  -
+    id: "K-BASTEC-D20"
+    fil: "5.Elscheman\\5.0.pdf"
+    sha256: "e81b1f6fe3604f9feaf514a45a05f20662a9511dc1329b76f01a121a4b254422"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D21"
+    fil: "5.Elscheman\\5.1 AS01.pdf"
+    sha256: "b605efc810e97387f777586e0fcf9442edcb941415753d0deabceb05f26dc650"
+    antal_sidor: 24
+  -
+    id: "K-BASTEC-D22"
+    fil: "6.Plintlistor DUC\\6.0.pdf"
+    sha256: "f1a37ae288635ea3f99c3bbd6e0730ad6643ac014268b87c799e8aaa055895bd"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D23"
+    fil: "6.Plintlistor DUC\\6.1 DUC1.pdf"
+    sha256: "a30d236f7795bba395e32c15cd2cc9743488e69fd6a590059775b35cfa565bb4"
+    antal_sidor: 3
+  -
+    id: "K-BASTEC-D24"
+    fil: "7.Underhålls & felsökningsinstruktioner\\7.pdf"
+    sha256: "8c6a429d593da53ca19275b8b29b1b4273b442cd16e9b0a5000623ce4f616df6"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D25"
+    fil: "7.Underhålls & felsökningsinstruktioner\\Felsökningsinstruktioner.pdf"
+    sha256: "4bb60a9f4d646bd838a01f7838680d99e92ca49d01d2c935c90117d44742cee5"
+    antal_sidor: 2
+  -
+    id: "K-BASTEC-D26"
+    fil: "7.Underhålls & felsökningsinstruktioner\\Underhållsinstruktioner.pdf"
+    sha256: "721c643a1b34cedca4076244abce8405980d6838909bc28a97c1498ea95bede8"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D27"
+    fil: "8.Larm\\8.0.pdf"
+    sha256: "7b81fb38eb12d8f218522ef0dc01e8c6bbe13c1a82b44b9091cc220050cd7160"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D28"
+    fil: "8.Larm\\8.1 DUC1.pdf"
+    sha256: "a564aa2b8e31518ef6c79b9929edd34e389589f10bd1f58b58ef023c792a05b5"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D29"
+    fil: "9.Regulatorer\\9.0.pdf"
+    sha256: "a7a588181e5bec5812aa7b6ae5c8b9695febca2593872ecdfbb41aaf140011f1"
+    antal_sidor: 1
+  -
+    id: "K-BASTEC-D30"
+    fil: "9.Regulatorer\\9.1 DUC1.pdf"
+    sha256: "b76fb5587229903c2f04ecd9b0a37451022b4b843502ff6cb30cea7e6367228e"
+    antal_sidor: 8
+konfiguration:
+  fil: "BAS2_Bogesholm.txt"
+  sha256: "69c363b1c58ee0c258b71b55df2198a822b7a9e04430cca4160984445820647f"
+  format: "ZIP trots filändelsen .txt"
+original_publicerade: false
+begränsningar:
+  - "Individuella serienummer saknas"
+  - "Exakt installerad panelmodell inte verifierad av enbart bifogat datablad"
+  - "Handskrivna idrifttagningsvärden och alla elritningsblad inte fullständigt transkriberade"
+  - "Ingen aktuell Modbus-registerkarta verifierad"

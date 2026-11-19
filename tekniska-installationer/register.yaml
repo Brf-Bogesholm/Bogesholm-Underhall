@@ -1135,3 +1135,87 @@ objekt:
     källor:
       - "K-GAS-INSTALLATION-2014-20261119"
       - "K-GAS-UTRUSTNING-BEKRAFTELSE-20261119"
+  -
+    id: "TI-BASTEC-69-DUC1"
+    typ: "styrsystem"
+    namn: "BASTEC DUC1"
+    placering: "Apparatskåp AS1/AS-DUC1 i pannrummet, Högalidsvägen 69"
+    datastatus: "Historisk relationshandling 2014 och BAS2-underlag 2015; aktuell konfiguration inte verifierad"
+    egenskaper:
+      fabrikat: "BASTEC"
+      modell: "BAS2 XE16-COM"
+      antal: 1
+      serienummer: null
+      installationsdatum: null
+      dokumentationsår:
+        - 2014
+        - 2015
+      modellkälla: "K-BASTEC-D21"
+      serienummerstatus: "Inget individuellt serienummer identifierat i underlaget"
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-BASTEC-20261119"
+  -
+    id: "TI-BASTEC-69-E16-1"
+    typ: "I/O-expansionsmodul"
+    namn: "BASTEC DUC1:1"
+    placering: "Apparatskåp AS1/AS-DUC1 i pannrummet, Högalidsvägen 69"
+    datastatus: "Historisk relationshandling 2014 och BAS2-underlag 2015; aktuell konfiguration inte verifierad"
+    egenskaper:
+      fabrikat: "BASTEC"
+      modell: "BAS2 E16"
+      antal: 1
+      serienummer: null
+      installationsdatum: null
+      dokumentationsår:
+        - 2014
+        - 2015
+      modellkälla: "K-BASTEC-D21"
+      serienummerstatus: "Inget individuellt serienummer identifierat i underlaget"
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-BASTEC-20261119"
+  -
+    id: "TI-BASTEC-69-E16-2"
+    typ: "I/O-expansionsmodul"
+    namn: "BASTEC DUC1:2"
+    placering: "Apparatskåp AS1/AS-DUC1 i pannrummet, Högalidsvägen 69"
+    datastatus: "Historisk relationshandling 2014 och BAS2-underlag 2015; aktuell konfiguration inte verifierad"
+    egenskaper:
+      fabrikat: "BASTEC"
+      modell: "BAS2 E16"
+      antal: 1
+      serienummer: null
+      installationsdatum: null
+      dokumentationsår:
+        - 2014
+        - 2015
+      modellkälla: "K-BASTEC-D21"
+      serienummerstatus: "Inget individuellt serienummer identifierat i underlaget"
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-UC-69-001"
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    underhållshistorik:
+      []
+    källor:
+      - "K-BASTEC-20261119"

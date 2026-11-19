@@ -1,0 +1,78 @@
+status: "Historiskt underlag"
+dokument:
+  -
+    källa: "K-BASTEC-D17"
+    fil: "3.Flödesschemor & Funktionsbeskrivningar\\3.2 Funktionsbeskrivning UC01.pdf"
+    sidor:
+      -
+        sida: 1
+        text: "Bogesholm 2015-04-13 14:52:42 BAS2\nUndercentral\nSYSTEM 5601,5201\nBetjänar: Fastigheter med värme.\nPlacering: DUC1 sitter i AS1 i Pannrum\nApparatskåp: AS1\n********************************************************\n5600-REGLERING\n********************************************************\nFramledningstemperaturgivare 5600-GT11 reglerar via DUC\nframledningstemperaturen till inställt värde enligt\nutetemperaturberoende kurva (GT41) med gaspannor 1-3.\nVid laddning av varmvatten ställs börvärdet för\nframledningstemperaturen 5600-GT11 till ett inställbart\nmanuellt värde (65°C). Vid uppnådd temperatur i\nvarmvattenberedare (över 59°C) återgår normal börvärde.\nGivare för att starta och stoppa laddning av\nvarmvattenberedare är max temperatur av givare\n5201-VVB-GT11 och 5201-VVB-GT12, temperaturer för\nstart/stopp är inställbara.\n********************************************************\n5601-REGLERING\n********************************************************\nFramledningstemperaturgivare 5601-GT11 reglerar via DUC\nframledningstemperaturen till inställt värde enligt\nutetemperaturberoende kurva (GT10) med ventilställdon\n5601-SV11.\n********************************************************\n5601-PUMPSTYRNING\n********************************************************\nCirkulationspump P1(Värme)\nPumpen är i drift vid låg utetemp (hysteresstyrning).\nMotionering vid pumpstopp via tidsschema.\n********************************************************\n5201-REGLERING\n********************************************************\nFramledningstemperaturgivare GT51 reglerar via DUC\nframledningstemperaturen till inställt värde med\ncirkulationspump P2, samt gaspannor 1-3.\n********************************************************\n5201-PUMPSTYRNING\n********************************************************\nCirkulationspump P1(Värme)\nPumpen är i drift vid framledningstemperaturen är lägre\nän inställt börvärde.\nMotionering vid pumpstopp via tidsschema."
+      -
+        sida: 2
+        text: "Cirkulationspump P2(Laddning av varmvatten)\nCirkulationspump P2 startar/stoppar utifrån den aktuella\ntemperaturen i varmvattenberedaren.\nLaddpumpen startar då temperaturen\nsjunker under (54°C) och stoppar då temperaturen\növerstiger (59°C). Inställningar för varmvattenladdning\ngörs i manöverbild.\n********************************************************\nKatastrofskydd\n********************************************************\nVid strömavbrott, omkopplare för gasbrännare vid dörr\neller utlöst högtrycksvakt kommer katastrofskyddsrelä\natt lösa ut. Relä finns i apparatskåpet, denna bryter\nmatning för samtliga gaspannor."
+  -
+    källa: "K-BASTEC-D23"
+    fil: "6.Plintlistor DUC\\6.1 DUC1.pdf"
+    sidor:
+      -
+        sida: 1
+        text: "Bogesholm 2015-04-13 14:53:43 BAS2\nDUC bestyckning\n===============\nDUC nummer : 1\nDUC typ : XE16\nDUC betjänar : Bogesholm\nDUC placering : Undercentral\nUniversal in\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n1:1 1 5600-Gaspanna 1 Summalarm (Digital in)\n1:2 2 5600-Gaspanna 2 Summalarm (Digital in)\n1:3 3 5600-Gaspanna 3 Summalarm (Digital in)\n1:4 4 5600-EXP1 Exp. Lågt/Högt Tryck (Digital in)\n1:5 5 5601-RAD-P1 omk.Läge Auto (Digital in)\n1:6 6 5601-RAD-P1 Driftindikering (Digital in)\n1:7 7 5602-LADD-P1 omk.Läge Auto (Digital in)\n1:8 8 5602-LADD-P1 Driftindikering (Digital in)\nDigital ut\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n1:1 1 5601-RAD-P1 Manöver\n1:2 2 5602-LADD-P1 Manöver\n1:3 3 5201-VVC-P1 Manöver\n1:4 4 Reserv\nAnalog ut\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n1:1 1 5600-Gaspanna 1 Styrsignal\n1:2 2 5600-Gaspanna 2 Styrsignal\n1:3 3 5600-Gaspanna 3 Styrsignal\n1:4 4 5601-RAD-SV11 Ventilställdon"
+      -
+        sida: 2
+        text: "Bogesholm 2015-04-13 14:53:44 BAS2\nDUC bestyckning\n===============\nDUC nummer : 1\nDUC typ : E16 modul 1\nUniversal in\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n2:1 9 5201-VVC-P1 omk.Läge Auto (Digital in)\n2:2 10 5201-VVC-P1 Driftindikering (Digital in)\n2:3 11 5600-GT10 Utetemperaturgivare, (Analog in, Passiv)\n2:4 12 5600-GT11 Framledningstemp.givare, (Analog in, Passiv)\n2:5 13 5601-RAD-GT11 Framledningstemp.givare, (Analog in, Passiv)\n2:6 14 5600-GT21 Returledningstemp.givare, (Analog in, Passiv)\n2:7 15 5601-RAD-GT21 Returledningstemp.givare, (Analog in, Passiv)\n2:8 16 5201-VVB-GT11 Temperaturgivare VVB-Tank2, (Analog in, Passiv)\nDigital ut\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n2:1 5 Ej använd\n2:2 6 Ej använd\n2:3 7 Ej använd\n2:4 8 Ej använd\nAnalog ut\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n2:1 5 5201-VV-SV11 Ventilställdon\n2:2 6 Ej använd\n2:3 7 Ej använd\n2:4 8 Ej använd"
+      -
+        sida: 3
+        text: "Bogesholm 2015-04-13 14:53:46 BAS2\nDUC bestyckning\n===============\nDUC nummer : 1\nDUC typ : E16 modul 2\nUniversal in\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n3:1 17 5201-VV-GT11 Framledningstemp.givare, (Analog in, Passiv)\n3:2 18 5201-VVC-GT21 Returledningstemp.givare, (Analog in, Passiv)\n3:3 19 5201-VVB-GT12 Temperaturgivare VVB-Tank1, (Analog in, Passiv)\n3:4 20 Ej använd\n3:5 21 Ej använd\n3:6 22 Ej använd\n3:7 23 Ej använd\n3:8 24 Ej använd\nDigital ut\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n3:1 9 Ej använd\n3:2 10 Ej använd\n3:3 11 Ej använd\n3:4 12 Ej använd\nAnalog ut\nPlint nr. I/O-kanal Betjänar\n========= ========= ========\n3:1 9 Ej använd\n3:2 10 Ej använd\n3:3 11 Ej använd\n3:4 12 Ej använd"
+  -
+    källa: "K-BASTEC-D25"
+    fil: "7.Underhålls & felsökningsinstruktioner\\Felsökningsinstruktioner.pdf"
+    sidor:
+      -
+        sida: 1
+        text: "Felsökningsinstruktioner\nDriftfel / Fläktvakt / Motorskydd\nOrsak: ”Driftfel / Fläktvakt / Motorskydd” innebär att det aktuella objektet (motorn) är i ett\ndriftläge som inte överensstämmer med det föreskrivna driftläget.\nKontrollera: 1. Kontrollera motorskyddsbrytaren, alternativt då motorn styrs via frekvensomformare,\nsäkringen för objektet. Om brytaren /säkringen löst ut, återställs denna genom att trycka\nin aktuell återställningsknapp /dvärgbrytare för objektet.\nOm motorskyddsbrytaren /säkringen löser ut igen skall motorn kontrolleras så att fel\ninte föreligger på denna.\n2. Kontrollera att säkerhetsbrytaren ej är frånslagen. Säkerställ att arbete på objektet inte\npågår före eventuellt tillslag av säkerhetsbrytaren.\n3. Kontrollera säkring för manöverspänning 24V.\n4. Kontrollera att inte fläktremmen är för slak eller har brustit.\n5. Om inget fel återfinns i motorn kan inställningarna vara felaktiga, kontakta erforderlig\npersonal.\n6. Kontrollera att regulatorn reglerar motorns varvtal via frekvensomformare så att inställt\nbörvärde för kanaltryck erhålles.\nFrysskydd\nOrsak: \"Frysskydd\" innebär att returtemperaturen från ventilationsanläggningens värmebatteri\när för låg, och att risk för sönderfrysning föreligger.\nKontrollera: 1. Kontrollera att aktuell returtemperatur visar rimliga värden och att inställda\ngränsvärden för aktiv och passiv frysskyddstemperatur är korrekt.\n2. Kontrollera på plats att cirkulationspump för värme är i drift.\n3. Kontrollera på plats att det finns värme fram till batteriet.\n4. Återställ frysskyddet via regulatorn i BAS2. Kontrollera hur frysskyddstemperaturen\nvarierar under uppstart.\n5. Kontrollera om DUC:ens analoga utgång för värmeventilen står i läge \"Manuell\".\nUndersök orsak - ändra till \"Auto\" och kontrollera att den öppnar."
+      -
+        sida: 2
+        text: "Felsökningsinstruktioner\nAvvikelselarm\nOrsak: \"Temperaturavvikelse / Tryckavvikelse\" innebär att ärvärdet för temperatur alternativt\ntryck avviker från inställt börvärde.\nKontrollera: 1. Kontrollera om larm \"Driftfel / fläktvakt / motorskydd\" föreligger. Undersök orsak -\nåtgärda.\n2. Kontrollera att aktuell temperatur alternativt tryck visar rimliga värden och att gräns för\navvikelselarm är korrekt inställd i regulatorn i BAS2 (inställningar\\driftfall).\n3. Kontrollera om DUC:ens analoga utgång för det aktuella ställdonet står i läge\n\"Manuell\". Undersök orsak - ändra till \"Auto\".\n4. Kontrollera att regulatorn reglerar ställdonet så att inställt börvärde erhålles."
+  -
+    källa: "K-BASTEC-D26"
+    fil: "7.Underhålls & felsökningsinstruktioner\\Underhållsinstruktioner.pdf"
+    sidor:
+      -
+        sida: 1
+        text: "Underhållsinstruktioner\nRökdetektorer\nBeroende på graden av nedsmutsning används följande alternativ:\n1. Med dammsugare tar man bort torra partiklar.\n2. Med fuktad trasa avlägsnas annan smuts.\n3. Om intern rengöring behövs (rengöring av detektorkammaren), skall detektorinsatsen\nreturneras till leverantören.\n4. För att underlätta ett snabbt byte av moduler vid service bör detektorinsatser och\nkontrollenheter hållas i reserv.\nVid rengöring av detektorn skall även venturiröret demonteras och rengöras.\nEfter rengöring återmonteras röret till ursprungligt läge.\nOBS! Efter rengöring, kontrollera att alla anslutningar är täta och att adapterlocket sluter tätt samt\natt flödesindikatorn gör utslag. Kontrollera även att gummipluggen för testhålet är återinsatt, efter\ndet att detektorn är testad med rök eller aerosol (RDP-300)\nFuktgivare\nFuktgivare kontrolleras med hänsyn till mätvärde.\nSpjällställdon\nStälldon kontrolleras att det öppnar och stänger med fulla slag, att det tätar i stängt läge och att\nställdonet är ordentligt fastsatt på spjällaxeln.\nVentilställdon\nStälldon kontrolleras att det öppnar och stänger med fulla slag, att det tätar i stängt läge och att\ndet är ordentligt fastsatt på spindeln och ventilhus."
+  -
+    källa: "K-BASTEC-D28"
+    fil: "8.Larm\\8.1 DUC1.pdf"
+    sidor:
+      -
+        sida: 1
+        text: "Bogesholm 2015-04-13 14:54:05 BAS2\nLarm i DUC nummer 1\nObjekt Larmtext Grupp Fördröjning Kvitt.typ\n1 5600-GT11 Avikande temp. Framl. Het 2 7200 sek Standard\n2 5601-GT11 Avikande temp. Framl. Rad 2 3600 sek Standard\n3 5201-GT11 Avikande temp. Framl. VV 2 3600 sek Standard\n4 5600-GT11 Givarfel 3 60 sek Standard\n5 5600-GT21 Givarfel 3 60 sek Standard\n6 5601-GT11 Givarfel 3 60 sek Standard\n7 5601-GT21 Givarfel 3 60 sek Standard\n8 5201-GT11 Givarfel 2 60 sek Standard\n9 5201-GT21 Givarfel 3 60 sek Standard\n10 5201-VVB-GT11 Givarfel 1 60 sek Standard\n11 5600-Gaspanna 1 Summalarm 1 30 sek Standard\n12 5600-Gaspanna 2 Summalarm 1 30 sek Standard\n13 5600-Gaspanna 3 Summalarm 1 30 sek Standard\n14 5600-EXP1 Exp. Lågt/Högt Tryck utl. 2 60 sek Standard\n15 5601-RAD-P1 Omk. EJ Läge Auto 2 3600 sek Standard\n16 5602-LADD-P1 Omk. EJ Läge Auto 2 3600 sek Standard\n17 5201-VVC-P1 Omk. EJ Läge Auto 2 3600 sek Standard\n18 5601-RAD-P1 Driftfel 2 60 sek Standard\n19 5602-LADD-P1 Driftfel 2 60 sek Standard\n20 5201-VVC-P1 Driftfel 2 60 sek Standard"
+  -
+    källa: "K-BASTEC-D30"
+    fil: "9.Regulatorer\\9.1 DUC1.pdf"
+    sidor:
+      -
+        sida: 1
+        text: "Bogesholm 2015-04-13 14:54:23 BAS2\nReserv\nRak reglering med användar definierat börvärde\nDUC 1, obj.nr 1\nSekvens:\nSteg 1\nEj använd\nSteg 2\nEj använd\nSteg 3\nEj använd\nSteg 4\nEj använd\nSteg 5\nEj använd\nSteg 6\nEj använd\nSteg 7\nEj använd\nSteg 8\nEj använd\nBörvärde = 20.0 °C\nFilterkonstanter:\nHuvudregulator : Ingen filtrering"
+      -
+        sida: 2
+        text: "Bogesholm 2015-04-13 14:54:24 BAS2\nReserv\nRak reglering med användar definierat börvärde\nDUC 1, obj.nr 2\nSekvens:\nSteg 1\nEj använd\nSteg 2\nEj använd\nSteg 3\nEj använd\nSteg 4\nEj använd\nSteg 5\nEj använd\nSteg 6\nEj använd\nSteg 7\nEj använd\nSteg 8\nEj använd\nBörvärde = 20.0 °C\nFilterkonstanter:\nHuvudregulator : Ingen filtrering"
+      -
+        sida: 3
+        text: "Bogesholm 2015-04-13 14:54:24 BAS2\nReserv\nRak reglering med användar definierat börvärde\nDUC 1, obj.nr 3\nSekvens:\nSteg 1\nEj använd\nSteg 2\nEj använd\nSteg 3\nEj använd\nSteg 4\nEj använd\nSteg 5\nEj använd\nSteg 6\nEj använd\nSteg 7\nEj använd\nSteg 8\nEj använd\nBörvärde = 20.0 °C\nFilterkonstanter:\nHuvudregulator : Ingen filtrering"
+      -
+        sida: 4
+        text: "Bogesholm 2015-04-13 14:54:24 BAS2\n5600 Värmereglering Gaspannor\nRak reglering med externt börvärde\nDUC 1, obj.nr 4\nSekvens:\nSteg 1 5600-Gaspanna 1\nAnalog\nSteg 2 5600-Gaspanna 2\nAnalog\nSteg 3 5600-Gaspanna 3\nAnalog\nSteg 4 Högdrift för Pannor\nAnalog\nSteg 5\nEj använd\nSteg 6\nEj använd\nSteg 7\nEj använd\nSteg 8\nEj använd\nFilterkonstanter:\nHuvudregulator : Ingen filtrering"
+      -
+        sida: 5
+        text: "Driftsfall: 1, Normaldrift\nP-band = 60.0 °C, I-tid = 300 sekunder, D-tid = 0 sekunder.\nAvvikelsgräns = 3.0 °C\n100%\n0% 100%\nSteg 1 5600-Gaspanna 1\nIntervall: Min 0%, Max 15%\nBegränsningar: Min 0%, Max 40%, behåller maxvärdet efter max intervall gräns.\nSteg 2 5600-Gaspanna 2\nIntervall: Min 15%, Max 30%\nBegränsningar: Min 0%, Max 40%, behåller maxvärdet efter max intervall gräns.\nSteg 3 5600-Gaspanna 3\nIntervall: Min 30%, Max 45%\nBegränsningar: Min 0%, Max 40%, behåller maxvärdet efter max intervall gräns.\nSteg 4 Högdrift för Pannor\nIntervall: Min 45%, Max 100%\nBegränsningar: Min 0%, Max 100%, behåller maxvärdet efter max intervall gräns."
+      -
+        sida: 6
+        text: "Bogesholm 2015-04-13 14:54:26 BAS2\n5601 Värmereglering Rad\nRak reglering med börvärdeskurva\nDUC 1, obj.nr 5\nSekvens:\nSteg 1 5601-SV11\nAnalog\nSteg 2\nEj använd\nSteg 3\nEj använd\nSteg 4\nEj använd\nSteg 5\nEj använd\nSteg 6\nEj använd\nSteg 7\nEj använd\nSteg 8\nEj använd\nBörvärdeskurva:\nPunkt 1 : -16.0, 62.5 Punkt 2 : -6.5, 56.0 Punkt 3 : -1.7, 50.2\nPunkt 4 : 3.0, 43.5 Punkt 5 : 6.7, 37.8 Punkt 6 : 10.8, 31.2\nPunkt 7 : 15.0, 23.5\nFilterkonstanter:\nUtegivare : Ingen filtrering\nHuvudregulator : Ingen filtrering"
+      -
+        sida: 7
+        text: "Driftsfall: 1, Normaldrift\nP-band = 25.0 °C, I-tid = 300 sekunder, D-tid = 0 sekunder.\nAvvikelsgräns = 3.0 °C\n100%\n0% 100%\nSteg 1 5601-SV11\nIntervall: Min 0%, Max 100%\nBegränsningar: Min 0%, Max 100%, behåller maxvärdet efter max intervall gräns."
+      -
+        sida: 8
+        text: "Bogesholm 2015-04-13 14:54:26 BAS2\n5201 Värmereglering VVC\nRak reglering med användar definierat börvärde\nDUC 1, obj.nr 6\nSekvens:\nSteg 1 5201-VV-SV11\nAnalog\nSteg 2\nEj använd\nSteg 3\nEj använd\nSteg 4\nEj använd\nSteg 5\nEj använd\nSteg 6\nEj använd\nSteg 7\nEj använd\nSteg 8\nEj använd\nBörvärde = 55.0 °C\nFilterkonstanter:\nHuvudregulator : Ingen filtrering"
+avgränsning: "Maskinextraherad text med originalbeteckningar; tabellkolumner kontrolleras mot original vid användning. Kopplingsscheman och handskrivna kontroller inte fullständigt transkriberade."
