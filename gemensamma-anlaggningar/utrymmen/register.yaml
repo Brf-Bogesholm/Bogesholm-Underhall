@@ -10,6 +10,8 @@ utrymmen:
       - "Lokal"
     källor:
       - "K-SBA-KOPPLING-20261113"
+      - "K-TOALETT-BESTALLNING-20170309"
+      - "K-TOALETT-KOMPLETTERING-20261119"
     brandskyddshistorik:
       - "B-SBA-20250324"
       - "B-SBA-20250929"
@@ -22,6 +24,8 @@ utrymmen:
       - "B-SBA-20221017"
       - "B-SBA-20230427"
       - "B-SBA-20240529"
+    ombyggnadsprojekt:
+      - "P-TOALETT-LOKAL-2017"
   -
     id: "U-KONTOR-69"
     typ: "utrymme"

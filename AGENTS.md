@@ -85,3 +85,7 @@ Beställaren bekräftar 2026-11-19 att mossan inte försvann på förrådstak ba
 ## Garageportar 2016
 
 Beställaren bekräftar 2026-11-19: 70 portar byttes 2016, garage 1–70 = G-701–G-770. Garage 71 (registernummer 771, stabilt ID P-771) undantogs; hade redan elport av annan modell. Behåll ID P-771 och klassificering garage. SOMMER S 9060 base+/S 9080 base+ är manualreferens, inte verifierad individuell variant. Portbladens modell och vit NCS/RAL är okända. Senare Aperto-motor i garage 740 hålls separat. Inget utfärdat slutbesked finns i bifogad fil; tom begäran är inte slutbesked. Se byggnadsdelar/garageportar/README.md.
+
+## Toaletten i lokalen 2017
+
+Beställaren anger 2026-11-19: registrera endast beställningen och dess entreprenörs-/produktbilagor, inte ursprunglig offertförfrågan (även återgiven inne i beställningsfilen). Utfört år 2017 enligt beställaren. Planerat slut 2017-05-26 är inte verifierad färdigdag. Produkter enligt bilagd DittNyaBadrum-offert är beställda, inte individuellt leveransverifierade. Tio års arbetsgaranti enligt entreprenörens offert; start/giltighet inte verifierade. Utlovade BKR-/besiktningsdokument är inte utfärdade dokument i detta underlag. Se byggnadsdelar/toalett-lokalen/README.md.

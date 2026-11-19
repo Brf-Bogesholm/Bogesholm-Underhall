@@ -1,0 +1,28 @@
+id: "K-TOALETT-BESTALLNING-20170309"
+registrerad: "2026-11-19"
+projekt: "P-TOALETT-LOKAL-2017"
+dokument:
+  -
+    fil: "Beställning Badrumsproffsen.pdf"
+    sha256: "0e983ac1a2b647ab71320a8768b29103b4ef5ca399c4d863403562dbe34d17f1"
+använda_pdf_sidor:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 24
+avgränsning_enligt_beställaren: "Endast beställningen. Separat offertförfrågan och dess återgivna innehåll på PDF-sidor 5–15 utelämnas."
+bekräftelse:
+  id: "K-TOALETT-KOMPLETTERING-20261119"
+  utfört_år: 2017
+  registrera: "Beställning och dess bilagor, inte offertförfrågan"
+original_publicerade: false
+personliga_kontaktuppgifter_importerade: false
+kostnader_till_fakturaregister: false

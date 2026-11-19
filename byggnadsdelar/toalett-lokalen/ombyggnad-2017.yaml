@@ -1,0 +1,126 @@
+id: "P-TOALETT-LOKAL-2017"
+status: "Registrerad enligt beställarens anvisning 2026-11-19"
+år_utfört: 2017
+årkälla: "K-TOALETT-KOMPLETTERING-20261119"
+plats: "Toalett med dusch, föreningslokalen, Högalidsvägen 69"
+objekt:
+  - "U-LOKAL-69"
+  - "H-69"
+beställning:
+  datum: "2017-03-09"
+  undertecknad_av_båda_parter: true
+  entreprenör: "Badrumsproffsen Skåne AB"
+  organisationsnummer: "556908-2422"
+  projektledning: "Riksbyggen"
+  omfattning: "Integrera angränsande toalett till en gemensam tillgänglighetsanpassad toalett och dusch"
+  planerad_start: "April 2017"
+  planerat_färdigt: "2017-05-26"
+  faktiskt_färdigdatum: null
+  kontraktssumma_inkl_moms: 183355
+  beloppsstatus: "Beställningsbelopp, inte faktura eller verifierad betald slutkostnad"
+  källsidor:
+    - 1
+    - 2
+    - 4
+produktreferens:
+  källa: "Beställning Badrumsproffsen.pdf, PDF-sida 24, DittNyaBadrum offert 1654, 2017-02-15"
+  status: "Bilagd produktlista, inte leverans-/relationsverifierad inventering"
+  produkter:
+    -
+      byggnadsdel: "Väggplattor"
+      produkt: "WHITE MATT 150×150"
+      artikelnummer: "B12408"
+      antal: 24
+      enhet: "m²"
+    -
+      byggnadsdel: "Golvplattor"
+      produkt: "LIMESTONE LIGHT GREY 147×1… (sista måttet otydligt)"
+      artikelnummer: "B36204"
+      antal: 6
+      enhet: "m²"
+    -
+      byggnadsdel: "Spegel"
+      produkt: "450×600 mm med aluminiumlist"
+      artikelnummer: null
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Spegelbelysning"
+      produkt: "Dio LED"
+      artikelnummer: "AST7101"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Taklampa"
+      produkt: "Dakota Plus 300, krom"
+      artikelnummer: "AST0565"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Duschhörna"
+      produkt: "LINC Angel, Frost, Borst 1000×1000"
+      artikelnummer: "51210911"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Toalettstol"
+      produkt: "Ifö Sign 6861 limning hög soft-close"
+      artikelnummer: "7856963"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Armstöd"
+      produkt: "IFÖ support armstöd"
+      artikelnummer: "7972798"
+      antal: 1
+      enhet: "post"
+    -
+      byggnadsdel: "Tvättställ"
+      produkt: "Ifö Cera 2362, 60 cm, bultmonteras"
+      artikelnummer: "7606430"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Golvbrunnsdel"
+      produkt: "Blücher Klinkerset K200-V 200×200"
+      artikelnummer: "7122054"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Tvättställsblandare"
+      produkt: "9000E med lyftventil"
+      artikelnummer: "823 34 56"
+      antal: 1
+      enhet: "st"
+    -
+      byggnadsdel: "Duschpaket"
+      produkt: "9000E II takduschpaket 160 c/c"
+      artikelnummer: "837 73 70"
+      antal: 1
+      enhet: "st"
+material_enligt_entreprenörens_bilaga:
+  källa: "Beställning Badrumsproffsen.pdf, PDF-sida 20"
+  material:
+    - "Gips, reglar och OSB"
+    - "Flyt-/fall-/våtrumsspackel"
+    - "Tätskiktskomponenter, tätskiktsfolie, remsor, hörn, manschetter och lim"
+    - "Fix, fog, silikon/latex och takfärg"
+  tätskiktsfabrikat: null
+  status: "Generisk beställd materiallista; exakt tätskiktssystem inte identifierat"
+garanti_enligt_entreprenörens_bilaga:
+  år: 10
+  omfattning: "Arbetet enligt entreprenörens offert 2017-02-15, PDF-sida 16"
+  startdatum: null
+  giltighet_idag: "Inte verifierad"
+slutdokumentation:
+  utlovat:
+    - "BKR-kvalitetsdokument efter färdigställande"
+    - "Entreprenörens slutbesiktningsdokument"
+  finns_i_underlaget: false
+  kommentar: "Löfte om senare dokument är inte ett utfärdat kvalitets-/besiktningsdokument"
+utförandestatus: "Ombyggnad genomförd 2017 enligt beställaren. Produkter anges som beställda enligt bilaga, inte individuellt verifierad leverans."
+åtgärd: "A-TOALETT-LOKAL-2017"
+källor:
+  - "K-TOALETT-BESTALLNING-20170309"
+  - "K-TOALETT-KOMPLETTERING-20261119"
+avgränsning: "Endast den undertecknade beställningen och dess entreprenörs-/produktbilagor registreras. Ursprungligt förfrågningsunderlag utelämnas även där det finns återgivet i beställningsfilen. Kontraktssumma hålls skild från faktiska fakturerade eller betalda kostnader."

@@ -43,3 +43,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Garageportar
 
 [Byte av garageportar 2016](garageportar/README.md) – 70 vita automatiska portar, undantaget garage 71 och SOMMER-manual som modellreferens.
+
+## Toaletten i lokalen
+
+[Ombyggnad 2017](toalett-lokalen/README.md) – undertecknad beställning, produktbilaga och uppgifter om slutdokumentation.

@@ -1729,3 +1729,20 @@ version: "1.0"
     källor:
       - "K-LAGENHETSBESIKTNING-20261113"
       - "K-LAGENHETSBESIKTNING-GODKANNANDE-20261113"
+  -
+    id: "A-TOALETT-LOKAL-2017"
+    datum: null
+    år: 2017
+    åtgärd: "Ombyggnad till gemensam tillgänglighetsanpassad toalett med dusch genom integrering av angränsande toalett"
+    objekt:
+      - "U-LOKAL-69"
+      - "H-69"
+    placering: "Föreningslokalen, Högalidsvägen 69"
+    utförare: "Badrumsproffsen Skåne AB"
+    projekt: "P-TOALETT-LOKAL-2017"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-TOALETT-BESTALLNING-20170309"
+      - "K-TOALETT-KOMPLETTERING-20261119"
+    datumkommentar: "2017 enligt beställaren; beställning 2017-03-09 och planerad slutdag 2017-05-26 är inte exakt utförandedag."
