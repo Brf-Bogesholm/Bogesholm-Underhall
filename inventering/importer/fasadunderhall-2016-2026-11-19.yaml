@@ -1,0 +1,38 @@
+id: "K-FASADUNDERHALL-2016-20261119"
+registrerad: "2026-11-19"
+projekt: "P-FASADUNDERHALL-2016"
+dokument:
+  -
+    fil: "Anteckningar BM1.docx"
+    sha256: "d5cb5799032f8f6cc99137f2d2f8400364b3ed0156f5e59187515b63f5d0652f"
+  -
+    fil: "Förslag på ändringar.docx"
+    sha256: "2d7158098ad95d15fdb87b35ab4ab173d0cd6c93e902e64d402e63a55355b854"
+  -
+    fil: "GB1_20210810_Bogesholm.pdf"
+    sha256: "6b6d3f04cd3ebaed5cb29d687eb1fe5953d44b2cfeea9a27cbc87cab72c4ec6a"
+  -
+    fil: "Handling 06.1 Brf Bogesholm.pdf"
+    sha256: "9706b7f42821738639c6bec81a66a2173fac78b293322f831988fb093f7662f4"
+  -
+    fil: "Handling 06.2 Brf Bogesholm.pdf"
+    sha256: "7d6f90507dd5a90571d3f329821ebb9966aef57507e0dbb877d24696159bf483"
+  -
+    fil: "Handling 06.3 Brf Bogesholm.pdf"
+    sha256: "4b39a88e642f335c3fc12c746c075f1d83f2997d27469a8ee49311d7994d3857"
+  -
+    fil: "Handling 07.1 Brf Bogesholm.pdf"
+    sha256: "aea992cde79af27850960e72a696a3dd41614c9bf9ef9916dae98ac263e056e1"
+  -
+    fil: "Materialförteckning (Färgkoder).pdf"
+    sha256: "35a8b9778a18aed63b4c8ae26693cc4b5f813968aeaa7f3bdd57c103649d3843"
+  -
+    fil: "Målningsentreprenaden.docx"
+    sha256: "6eee0abefe1fb50d4cca6892347327dd12925fae389e501b34ba45f3e4648406"
+beställaruppgifter:
+  id: "K-FASAD-KOMPLETTERING-20261119"
+  mossa: "Försvann inte på de ifrågasatta taken 67,71,73,77; ska behandlas igen"
+  hus53: "Kvalificerad gissning, inte verifierad kontraktsrättelse"
+original_publicerade: false
+personliga_kontaktuppgifter_importerade: false
+kostnader_importerade: false

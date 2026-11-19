@@ -1,0 +1,81 @@
+åtgärder:
+  -
+    id: "PLAN-GRONFRI-H67"
+    status: "planerad, ej utförd"
+    åtgärd: "Ombehandling mot mossa/alger på tak"
+    objekt:
+      - "H-67"
+    byggnadsdel: "Förrådstak baksida"
+    projekt_historik: "P-FASADUNDERHALL-2016"
+    besiktningsreferens: "GB1_20210810_Bogesholm.pdf, sida 2"
+    bakgrund: "Mossa/alger vid garantibesiktningen 2021-08-10. Beställaren uppger 2026-11-19 att mossan inte försvann och att dessa tak ska behandlas igen."
+    planeringsdatum: "2026-11-19"
+    utförandedatum: null
+    planerat_utförandedatum: null
+    utförare: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FASADUNDERHALL-2016-20261119"
+      - "K-FASAD-KOMPLETTERING-20261119"
+    avgränsning: "Gäller angiven takdel, inte automatiskt hela husets tak. Ingen säker orsak till utebliven effekt fastställd."
+  -
+    id: "PLAN-GRONFRI-H71"
+    status: "planerad, ej utförd"
+    åtgärd: "Ombehandling mot mossa/alger på tak"
+    objekt:
+      - "H-71"
+    byggnadsdel: "Entrétak"
+    projekt_historik: "P-FASADUNDERHALL-2016"
+    besiktningsreferens: "GB1_20210810_Bogesholm.pdf, sida 2"
+    bakgrund: "Mossa/alger vid garantibesiktningen 2021-08-10. Beställaren uppger 2026-11-19 att mossan inte försvann och att dessa tak ska behandlas igen."
+    planeringsdatum: "2026-11-19"
+    utförandedatum: null
+    planerat_utförandedatum: null
+    utförare: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FASADUNDERHALL-2016-20261119"
+      - "K-FASAD-KOMPLETTERING-20261119"
+    avgränsning: "Gäller angiven takdel, inte automatiskt hela husets tak. Ingen säker orsak till utebliven effekt fastställd."
+  -
+    id: "PLAN-GRONFRI-H73"
+    status: "planerad, ej utförd"
+    åtgärd: "Ombehandling mot mossa/alger på tak"
+    objekt:
+      - "H-73"
+    byggnadsdel: "Entrétak"
+    projekt_historik: "P-FASADUNDERHALL-2016"
+    besiktningsreferens: "GB1_20210810_Bogesholm.pdf, sida 2"
+    bakgrund: "Mossa/alger vid garantibesiktningen 2021-08-10. Beställaren uppger 2026-11-19 att mossan inte försvann och att dessa tak ska behandlas igen."
+    planeringsdatum: "2026-11-19"
+    utförandedatum: null
+    planerat_utförandedatum: null
+    utförare: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FASADUNDERHALL-2016-20261119"
+      - "K-FASAD-KOMPLETTERING-20261119"
+    avgränsning: "Gäller angiven takdel, inte automatiskt hela husets tak. Ingen säker orsak till utebliven effekt fastställd."
+  -
+    id: "PLAN-GRONFRI-H77"
+    status: "planerad, ej utförd"
+    åtgärd: "Ombehandling mot mossa/alger på tak"
+    objekt:
+      - "H-77"
+    byggnadsdel: "Entrétak"
+    projekt_historik: "P-FASADUNDERHALL-2016"
+    besiktningsreferens: "GB1_20210810_Bogesholm.pdf, sida 2"
+    bakgrund: "Mossa/alger vid garantibesiktningen 2021-08-10. Beställaren uppger 2026-11-19 att mossan inte försvann och att dessa tak ska behandlas igen."
+    planeringsdatum: "2026-11-19"
+    utförandedatum: null
+    planerat_utförandedatum: null
+    utförare: null
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FASADUNDERHALL-2016-20261119"
+      - "K-FASAD-KOMPLETTERING-20261119"
+    avgränsning: "Gäller angiven takdel, inte automatiskt hela husets tak. Ingen säker orsak till utebliven effekt fastställd."

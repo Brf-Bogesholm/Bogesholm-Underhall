@@ -13,6 +13,7 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-53
     typ: byggnad
     namn: Hus 53
@@ -24,6 +25,7 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-55
     typ: byggnad
     namn: Hus 55
@@ -34,6 +36,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-57
     typ: byggnad
     namn: Hus 57
@@ -45,6 +48,7 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-59
     typ: byggnad
     namn: Hus 59
@@ -55,6 +59,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-61
     typ: byggnad
     namn: Hus 61
@@ -66,6 +71,7 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-63
     typ: byggnad
     namn: Hus 63
@@ -76,6 +82,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-65
     typ: byggnad
     namn: Hus 65
@@ -87,6 +94,7 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-67
     typ: byggnad
     namn: Hus 67
@@ -97,6 +105,8 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
+    planerad_takbehandling: "PLAN-GRONFRI-H67"
   - id: H-69
     typ: byggnad
     namn: Hus 69
@@ -110,6 +120,7 @@ byggnader:
     alternativa_benämningar: ["Kvartershus", "Lokalen", "Föreningslokalen"]
     benämningskälla: "K-SKYLTAR-PLATSER-20261118"
     benämningskommentar: "Benämningarna syftar på samma byggnad på Högalidsvägen 69 enligt beställaren. Kontor och andra delutrymmen behåller separata poster."
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-71
     typ: byggnad
     namn: Hus 71
@@ -120,6 +131,8 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
+    planerad_takbehandling: "PLAN-GRONFRI-H71"
   - id: H-73
     typ: byggnad
     namn: Hus 73
@@ -131,6 +144,8 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
+    planerad_takbehandling: "PLAN-GRONFRI-H73"
   - id: H-75
     typ: byggnad
     namn: Hus 75
@@ -141,6 +156,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
   - id: H-77
     typ: byggnad
     namn: Hus 77
@@ -152,6 +168,8 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"
+    planerad_takbehandling: "PLAN-GRONFRI-H77"
   - id: H-79
     typ: byggnad
     namn: Hus 79
@@ -163,3 +181,4 @@ byggnader:
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
     vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+    fasadunderhåll_2016: "P-FASADUNDERHALL-2016"

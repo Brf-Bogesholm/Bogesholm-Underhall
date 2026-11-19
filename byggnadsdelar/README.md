@@ -35,3 +35,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Vindar
 
 [Vindsrenovering och tilläggsisolering 2015](vindar/README.md) – 38 fyrarumslägenheter, 300 mm tilläggsisolering och historiska energikalkyler.
+
+## Fasader och färger
+
+[Fasadunderhåll 2016](fasader/README.md) – färgkoder, material, garantibesiktning och planerad ombehandling av tak vid 67, 71, 73 och 77.

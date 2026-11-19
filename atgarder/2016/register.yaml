@@ -158,3 +158,34 @@ version: "1.0"
       - "K-LACK-VARME-D011"
       - "K-LACKSOKNING-KOMPLETTERING-20261113"
     kommentar: "Historisk händelse; se ärenderegistret för resultat, begränsningar och underlag. Ingen kostnad härleds från protokollet."
+  -
+    id: "A-FASADUNDERHALL-2016"
+    datum: null
+    år: 2016
+    åtgärd: "Utvändigt fasadunderhåll, målning och tillhörande bygg-/plåtarbeten i området"
+    objekt:
+      - "H-51"
+      - "H-53"
+      - "H-55"
+      - "H-57"
+      - "H-59"
+      - "H-61"
+      - "H-63"
+      - "H-65"
+      - "H-67"
+      - "H-69"
+      - "H-71"
+      - "H-73"
+      - "H-75"
+      - "H-77"
+      - "H-79"
+    utförare: "Sandå Sverige AB"
+    projekt: "P-FASADUNDERHALL-2016"
+    dokumentation: "byggnadsdelar/fasader/underhall-2016.yaml"
+    entreprenad_godkänd: "2016-08-17"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FASADUNDERHALL-2016-20261119"
+      - "K-FASAD-KOMPLETTERING-20261119"
+    kommentar: "Områdesprojekt enligt beställaren; exakt arbete och behandlade ytor per hus inte generellt verifierade. Förfrågningsunderlag hålls skilt från materialförteckning och senare observationer."

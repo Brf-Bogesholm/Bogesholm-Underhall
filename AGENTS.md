@@ -77,3 +77,7 @@ Beställaren godkänner 2026-11-19 historiskt BASTEC-underlag 2014–2015. Se te
 ## Vindsrenovering 2015
 
 Godkänt 2026-11-19: 38 fyrarumslägenheter i H-51, H-53, H-57, H-61, H-65, H-73, H-77 och H-79. Beställaren bekräftar 300 mm tilläggsisolering; det är inte total isoleringstjocklek. Isocell-cellulosa och 2936 m² bevaras som offertuppgifter. Övriga lägenheter har ingen inredd vind enligt beställaren. Slutmöte 2015-11-26: godkänd med fel; senare avhjälpande okänt. Energibesparing är teoretisk, Excel innehåller flera alternativ och inkonsekvent rad 34. Planerade datum, diskuterad gipsbeklädnad och offerter är inte individuellt verifierat utförande eller fakturerade kostnader. Se byggnadsdelar/vindar/README.md. BAS2 nås via BAS2-programmet på dator enligt beställaren; aktuell konfiguration hämtas senare.
+
+## Fasadunderhåll 2016 och takbehandling
+
+Beställaren bekräftar 2026-11-19 att mossan inte försvann på förrådstak baksida H-67 och entrétak H-71, H-73, H-77; dessa ska behandlas igen. Se byggnadsdelar/fasader/planerad-takbehandling.yaml. Planerat, inte utfört; ingen tid bestämd. H-53 i stället för H-55 är beställarens kvalificerade gissning vid motstridiga tilläggsprisuppgifter, inte verifierad rättelse eller bevis för utförd högdelsbehandling. Bevara skillnaden högdel/entrétak. Lekställningskulörernas färgnamn/koder motsäger varandra i materiallistan; rätta inte tyst. Fem års faktisk garanti enligt 2021 års protokoll hålls skild från tre år i förfrågningsunderlaget. Senare avhjälpande av färgfel inte verifierat.
