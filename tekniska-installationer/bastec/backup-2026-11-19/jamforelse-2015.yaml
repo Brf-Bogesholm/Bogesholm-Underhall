@@ -1,0 +1,111 @@
+källa: "K-BASTEC-DUC-BACKUP-20261119"
+jämförelse: "Historisk dokumenterad BAS2-export 2015 mot DUC-backup 2026-11-19"
+tabeller:
+  -
+    fil: "ANAIN1.bup"
+    antal_numrerade_objekt_2015: 9
+    antal_numrerade_objekt_backup: 10
+    olika_datarader: 11
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "ANAMEM1.bup"
+    antal_numrerade_objekt_2015: 33
+    antal_numrerade_objekt_backup: 38
+    olika_datarader: 17
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "ANAOUT1.bup"
+    antal_numrerade_objekt_2015: 5
+    antal_numrerade_objekt_backup: 5
+    olika_datarader: 5
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "CONTR1.bup"
+    antal_numrerade_objekt_2015: 6
+    antal_numrerade_objekt_backup: 8
+    olika_datarader: 5
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "DELAY1.bup"
+    antal_numrerade_objekt_2015: 7
+    antal_numrerade_objekt_backup: 2
+    olika_datarader: 7
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "DIGIN1.bup"
+    antal_numrerade_objekt_2015: 10
+    antal_numrerade_objekt_backup: 10
+    olika_datarader: 0
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "DIGMEM1.bup"
+    antal_numrerade_objekt_2015: 26
+    antal_numrerade_objekt_backup: 35
+    olika_datarader: 13
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "DIGOUT1.bup"
+    antal_numrerade_objekt_2015: 4
+    antal_numrerade_objekt_backup: 5
+    olika_datarader: 4
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "DUTY1.bup"
+    antal_numrerade_objekt_2015: 0
+    antal_numrerade_objekt_backup: 0
+    olika_datarader: 1
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "LOGDEF1.bup"
+    antal_numrerade_objekt_2015: 128
+    antal_numrerade_objekt_backup: 128
+    olika_datarader: 15
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "PLC1.bup"
+    antal_numrerade_objekt_2015: 0
+    antal_numrerade_objekt_backup: 0
+    olika_datarader: 178
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "PULSE1.bup"
+    antal_numrerade_objekt_2015: 1
+    antal_numrerade_objekt_backup: 1
+    olika_datarader: 1
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "PUMP1.bup"
+    antal_numrerade_objekt_2015: 3
+    antal_numrerade_objekt_backup: 3
+    olika_datarader: 0
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "SWNITE1.bup"
+    antal_numrerade_objekt_2015: 0
+    antal_numrerade_objekt_backup: 0
+    olika_datarader: 0
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "TIMER1.bup"
+    antal_numrerade_objekt_2015: 24
+    antal_numrerade_objekt_backup: 24
+    olika_datarader: 9
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "ALARM1.bup"
+    antal_numrerade_objekt_2015: 26
+    antal_numrerade_objekt_backup: 33
+    olika_datarader: 26
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "MODBUS1.bup"
+    antal_numrerade_objekt_2015: 0
+    antal_numrerade_objekt_backup: 41
+    olika_datarader: null
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."
+  -
+    fil: "MBUS1.bup"
+    antal_numrerade_objekt_2015: 0
+    antal_numrerade_objekt_backup: 2
+    olika_datarader: null
+    kommentar: "Antal definierade objekt, inte antal aktiva eller felfria signaler; reservobjekt och loggplatser kan ingå. PLC-rader saknar objektnummer."

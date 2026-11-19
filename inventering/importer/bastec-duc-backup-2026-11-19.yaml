@@ -1,0 +1,297 @@
+id: "K-BASTEC-DUC-BACKUP-20261119"
+registrerad: "2026-11-19"
+backup_översikt: "Backup från DUC - 261119 20:40"
+backup_tid: "2026-11-19T20:40:00+01:00"
+beställarbekräftelse:
+  id: "K-BASTEC-BACKUP-BEKRAFTELSE-20261119"
+  uppgift: "Backup gjord precis nu enligt beställaren; registrering och uppladdning uttryckligen beställd"
+källor:
+  -
+    fil: "Bup/ALARM1.001"
+    sha256: "cda4e32ebee7c5cc1e30f7a0335dfc4e9f7a8cfb482227cb4ee2443df69f496d"
+    storlek_byte: 7607
+  -
+    fil: "Bup/ALARM1.002"
+    sha256: "adb1a9faf5b8db0cdab2efddc9738dafe91f44f875a2b2d2c02d001775af8f54"
+    storlek_byte: 7607
+  -
+    fil: "Bup/ALARM1.bup"
+    sha256: "0f96b263c467e641b1c7674a883db176858a91b3656bdb844b7b6d2203485a76"
+    storlek_byte: 7607
+  -
+    fil: "Bup/ALARMGRP.001"
+    sha256: "7bbc81bf24b5beb897ed47a4cc9b6917a9a4d0ebf7f297507f8d5a86dc246d53"
+    storlek_byte: 1280
+  -
+    fil: "Bup/ALARMGRP.bup"
+    sha256: "163ea7d4f3124f0294d985b177450b0d922d2b69606a7e5d1ffcd5d7beacd2d8"
+    storlek_byte: 1280
+  -
+    fil: "Bup/ANAIN1.bup"
+    sha256: "b61c3886e3f05164dbbfcd150293ff360ea9e760b5308daaca7b32ef7d74645e"
+    storlek_byte: 1060
+  -
+    fil: "Bup/ANAMEM1.bup"
+    sha256: "252779a4e47529afea1f78aaf673ee8a691aa7fb34e9fcac3de214d537014790"
+    storlek_byte: 1646
+  -
+    fil: "Bup/ANAOUT1.bup"
+    sha256: "dcc50d36a4db96784d99a35cb0af6386d932fbeef176460a4ab2ee906537aa66"
+    storlek_byte: 426
+  -
+    fil: "Bup/Bup.htm"
+    sha256: "15d31687d39437c27eb191c0078fbdc0abd49c00b9598561082d7b2831635a56"
+    storlek_byte: 620
+  -
+    fil: "Bup/COM.001"
+    sha256: "392fc259d5b23fc42316675e6b9ea66d2e478c723f5f6539f689cc4ac9e84b70"
+    storlek_byte: 3470
+  -
+    fil: "Bup/COM.002"
+    sha256: "392fc259d5b23fc42316675e6b9ea66d2e478c723f5f6539f689cc4ac9e84b70"
+    storlek_byte: 3470
+  -
+    fil: "Bup/COM.003"
+    sha256: "392fc259d5b23fc42316675e6b9ea66d2e478c723f5f6539f689cc4ac9e84b70"
+    storlek_byte: 3470
+  -
+    fil: "Bup/COM.004"
+    sha256: "392fc259d5b23fc42316675e6b9ea66d2e478c723f5f6539f689cc4ac9e84b70"
+    storlek_byte: 3470
+  -
+    fil: "Bup/COM.bup"
+    sha256: "392fc259d5b23fc42316675e6b9ea66d2e478c723f5f6539f689cc4ac9e84b70"
+    storlek_byte: 3470
+  -
+    fil: "Bup/CONTR1.001"
+    sha256: "1aee981936fcc789be890cd10e1dd8833d20e4cbedf5419c3e3874904c0d0170"
+    storlek_byte: 9918
+  -
+    fil: "Bup/CONTR1.bup"
+    sha256: "0f2302067a828f9be4d0b8938fba35c59d27402067341fda28ef96b3294f8f67"
+    storlek_byte: 9918
+  -
+    fil: "Bup/DELAY1.bup"
+    sha256: "8584e305e45fdc935a55ae922856e9f618d0c50db688a759e6734a90755783c6"
+    storlek_byte: 288
+  -
+    fil: "Bup/DIGIN1.001"
+    sha256: "ae277c25d918e0ed491d29c5202edbc924932fd361584076c668977581a2dc87"
+    storlek_byte: 544
+  -
+    fil: "Bup/DIGIN1.bup"
+    sha256: "1629f6893edfecce3e6a976fad9ff3d16d1b12c1237d9d1fd7d497cafa8fdecb"
+    storlek_byte: 544
+  -
+    fil: "Bup/DIGMEM1.bup"
+    sha256: "49d87e5fd12134d7c05c33b3f70a1460a95dac4e6ffd590cbb957aa4411050e6"
+    storlek_byte: 1472
+  -
+    fil: "Bup/DIGOUT1.bup"
+    sha256: "8df082c0cee692705bafedfb063f1eee36b0a3c9b7de6d8cf826f2602f55f100"
+    storlek_byte: 324
+  -
+    fil: "Bup/DUCCON1.bup"
+    sha256: "2807e3b1e635dc49299a60fa91e128b09273c6f41ce0717b7e9fefc63498788b"
+    storlek_byte: 275
+  -
+    fil: "Bup/DUCVAR1.bup"
+    sha256: "03567c11fb347738ab9641b289990df6f0a6f01d34fe126fe00e8d8692092ada"
+    storlek_byte: 412
+  -
+    fil: "Bup/DUTY1.bup"
+    sha256: "ca6200eb1713a5e041d86ccff9ddc1996c14d01e304a32a94a9738da3a737138"
+    storlek_byte: 135
+  -
+    fil: "Bup/EXPORT1.bup"
+    sha256: "00d330f5a2465a2d4018a04b1c638bc0c5e640951450a6f3d150fa7e3662027d"
+    storlek_byte: 32
+  -
+    fil: "Bup/LOGDEF1.bup"
+    sha256: "1b7087b17f4c488a0848deb14483e1af68b399835afb1d052ec38ff600e57a25"
+    storlek_byte: 3318
+  -
+    fil: "Bup/MBUS1.001"
+    sha256: "ac0045299440c468e204d501aae87b7dd04b9ce54af3d50d542fdf50ef643098"
+    storlek_byte: 1681
+  -
+    fil: "Bup/MBUS1.002"
+    sha256: "c1b550c7e05cff0c5b941885db5d8049c4f3a1dbfe9287e52f12979ebde1dd85"
+    storlek_byte: 1694
+  -
+    fil: "Bup/MBUS1.bup"
+    sha256: "d2e6e1a3f3f36bb093dc51c5430b5c1ad4b6377ec1807e925f4a94bd446bf705"
+    storlek_byte: 1722
+  -
+    fil: "Bup/MODBUS1.001"
+    sha256: "015c0a8e08a08bbd5564b26bce3cb1114d3daf6bec11a9fe11e3b14089cf67f1"
+    storlek_byte: 3617
+  -
+    fil: "Bup/MODBUS1.bup"
+    sha256: "7b7729f73afc6f7a82d6bf29b909be7219ebb2b7e5f464c57735f9a225fa75c4"
+    storlek_byte: 3615
+  -
+    fil: "Bup/NTP.001"
+    sha256: "bbf809ead8d35f81a069152040fb94d4bd297cf1d6110b27947d6105386ab68e"
+    storlek_byte: 99
+  -
+    fil: "Bup/NTP.002"
+    sha256: "bbf809ead8d35f81a069152040fb94d4bd297cf1d6110b27947d6105386ab68e"
+    storlek_byte: 99
+  -
+    fil: "Bup/NTP.003"
+    sha256: "bbf809ead8d35f81a069152040fb94d4bd297cf1d6110b27947d6105386ab68e"
+    storlek_byte: 99
+  -
+    fil: "Bup/NTP.004"
+    sha256: "bbf809ead8d35f81a069152040fb94d4bd297cf1d6110b27947d6105386ab68e"
+    storlek_byte: 99
+  -
+    fil: "Bup/NTP.bup"
+    sha256: "bbf809ead8d35f81a069152040fb94d4bd297cf1d6110b27947d6105386ab68e"
+    storlek_byte: 99
+  -
+    fil: "Bup/OPERLOG1.001"
+    sha256: "3547501d4ac29d5f83da5a2a6319768f9b49bd201009d6dc1523f4bc802fe324"
+    storlek_byte: 27871
+  -
+    fil: "Bup/OPERLOG1.002"
+    sha256: "f169768fe25d97cf70e68f0085150641e47f667e7c9877e06d580801c342eb6a"
+    storlek_byte: 27868
+  -
+    fil: "Bup/OPERLOG1.bup"
+    sha256: "16066baf2730605ef39c1e6bca6095ea8f2b31d29d50cd49aca195a1bcecb06e"
+    storlek_byte: 27626
+  -
+    fil: "Bup/OPPANEL1.bup"
+    sha256: "4c569ffbafd074de3c9d0749b79b899584872ab60a65bc9cb051546c63629680"
+    storlek_byte: 1416
+  -
+    fil: "Bup/PLC1.bup"
+    sha256: "1f37dbf14ef34e6756d60b38eef1599d64ce2144ee3e5910712df5ef15a541fc"
+    storlek_byte: 7298
+  -
+    fil: "Bup/PULSE1.001"
+    sha256: "68e99ca959fb7db3fbc1a9db941cbee326dc2d641b0603939e8d7d7a09d2b350"
+    storlek_byte: 688
+  -
+    fil: "Bup/PULSE1.002"
+    sha256: "5d34f3872c75336e752da2bd98fd3e8e7cb9e663332723c2e8008a40a38c0751"
+    storlek_byte: 688
+  -
+    fil: "Bup/PULSE1.003"
+    sha256: "e7c7cf636d33168355e6be1e9d4451e5bd7ddede12d5542eba983317c1d79248"
+    storlek_byte: 688
+  -
+    fil: "Bup/PULSE1.004"
+    sha256: "158d6792437639eb03750989cbbac698f5791c3cc0aadcc1fa9084e936e069d9"
+    storlek_byte: 688
+  -
+    fil: "Bup/PULSE1.bup"
+    sha256: "7d6cd1b4ba5e2fe7f0a34155280e9cb4cc56192b3df4c996efcffef802d4118c"
+    storlek_byte: 688
+  -
+    fil: "Bup/PUMP1.bup"
+    sha256: "2e7b3cda3e8f4e3f72862c386101b6cc450ffdd6a920dc58ee22d98f716f23ad"
+    storlek_byte: 706
+  -
+    fil: "Bup/SWNITE1.bup"
+    sha256: "ba19bf9a0a2a51386f1981ddf4f845170c7286c8c3eafdad737904b72f6e7dcd"
+    storlek_byte: 177
+  -
+    fil: "Bup/TIMER1.bup"
+    sha256: "ee7ab2042380dbdfca3593080e57457e89817663014e61ca44975dc9eebcc9fc"
+    storlek_byte: 2433
+  -
+    fil: "Bup/USERS.001"
+    sha256: "513e195247a20255ed457bd89fa415f3616deaed7e8ce96258c421cb42ebb3e3"
+    storlek_byte: 3592
+  -
+    fil: "Bup/USERS.bup"
+    sha256: "f6d6b602439b6cfca96ffa2e8a0b398dd8a6c7961f04c73392219bc522e0d20e"
+    storlek_byte: 4477
+  -
+    fil: "Bup/VERLOCK.001"
+    sha256: "6a6052d0703eab54cd46277a3886bce556a9063810fb629913ad4f7849ca0bba"
+    storlek_byte: 105
+  -
+    fil: "Bup/VERLOCK.002"
+    sha256: "6a6052d0703eab54cd46277a3886bce556a9063810fb629913ad4f7849ca0bba"
+    storlek_byte: 105
+  -
+    fil: "Bup/VERLOCK.003"
+    sha256: "6a6052d0703eab54cd46277a3886bce556a9063810fb629913ad4f7849ca0bba"
+    storlek_byte: 105
+  -
+    fil: "Bup/VERLOCK.004"
+    sha256: "6a6052d0703eab54cd46277a3886bce556a9063810fb629913ad4f7849ca0bba"
+    storlek_byte: 105
+  -
+    fil: "Bup/VERLOCK.bup"
+    sha256: "6a6052d0703eab54cd46277a3886bce556a9063810fb629913ad4f7849ca0bba"
+    storlek_byte: 105
+  -
+    fil: "Bup/261119 204048/bas2logo_rgb.png"
+    sha256: "9d36f7f63cd3369a047977303940462f313f553edbac7ff9a8ed91cf5d565a16"
+    storlek_byte: 17116
+  -
+    fil: "Bup/261119 204048/Bastec Loga.jpg"
+    sha256: "fad7f2eb57dd36a17e26f7f92b2d5ea310f6f1a18d6428eaf77cc7331b84c8ce"
+    storlek_byte: 8058
+  -
+    fil: "Bup/261119 204048/Energi.txt"
+    sha256: "2b82a2bbfc27273e3b9814b95a69ecae2f9c060f23748703877deb017a6da42a"
+    storlek_byte: 17407
+  -
+    fil: "Bup/261119 204048/Flödesbild Undercentral.pic"
+    sha256: "707735013d6781f1bc06ff0963c3ff7025423e53b23e01b27ce162dd3e6819b2"
+    storlek_byte: 109817
+  -
+    fil: "Bup/261119 204048/Manöverbild Undercentral.pic"
+    sha256: "799dc25b645e50e97c616f3c44dacdcdf00aff46b4afe4a0255a7ef3f26c7d04"
+    storlek_byte: 46393
+  -
+    fil: "Bup/261119 204048/Riksbyggen.jpg"
+    sha256: "f1fc764cbadfd328e1a816b9a48fa85590c389dbee4ca6c0f02c403b8d968e93"
+    storlek_byte: 245334
+  -
+    fil: "Bup/261119 204048/Riksbyggen.txt"
+    sha256: "04447abff4f9036166fe83f8be3427a74853525e7a1c57ca39946924b15fb3df"
+    storlek_byte: 372
+  -
+    fil: "Bup/261119 204048/Spirovent S400.pic"
+    sha256: "f1dde3a6825758f140a8b2753549461fc79b2b41b4222aa0c4bd7c71b8c9bd21"
+    storlek_byte: 2965
+  -
+    fil: "Bup/261119 204048/start.pic"
+    sha256: "a75a19fc36f6f118323aeb1a2a2d306eae0966992bf066369fa5be433cc482a0"
+    storlek_byte: 29017
+  -
+    fil: "Bup/261119 204048/Undercentral.txt"
+    sha256: "ef50335e955020a32488ef6b89b6bc87c0713b59c436d8ae51ed1da8666ecff0"
+    storlek_byte: 3355
+  -
+    fil: "Bup/261119 204048/VMP Larmlista.txt"
+    sha256: "0b3b832934003b4e961406019c314adfb8cadc60ba23fbbbe0a18421689bcd63"
+    storlek_byte: 1426
+  -
+    fil: "Bup/261119 204048/VVM.pic"
+    sha256: "66b450a1ecefe9052a1e60b921f2d42a6c1954cddbc4cbb2e17794ca6723f7b2"
+    storlek_byte: 955
+  -
+    fil: "Bup/261119 204048/Värmepumpar.pic"
+    sha256: "f73c47b7e580f684fe9bb5b52c5570d259a2270c415e1ece5c927ee0a6470d8f"
+    storlek_byte: 71681
+tidigare_paketerad_export:
+  fil: "BAS2_Brf  Bogesholm.txt"
+  sha256: "89dadcde4a064ca3e7180c70ce698be4a35f6e6bb148fdba51674e5c16179423"
+  status: "Jämförelsekälla; ersätter inte de färska .bup-filerna"
+energi_txt:
+  format: "ZIP med MDB-databas"
+  innehåll:
+    -
+      fil: "Energi.mdb"
+      storlek_byte: 401408
+  status: "Databasinnehåll inte tolkat eller publicerat"
+original_publicerade: false
+publiceringsavgränsning: "Utvalda funktionstabeller, registerkarta utan IP/TCP-port, säkra versionsskillnader, bildindex och funktionsbeskrivningar. Användare, larmmottagare, kommunikationsuppgifter, operatörslogg, NTP och rådatabas utelämnas. Komplett originalbackup ska behållas i föreningens dokumentarkiv. Detta är inte en återställningsbar BAS2-backup."

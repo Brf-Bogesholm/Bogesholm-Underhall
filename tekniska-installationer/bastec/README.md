@@ -1,5 +1,7 @@
 # BASTEC – styrsystem i undercentralen
 
+**Ny dokumenterad DUC-backup:** [19 november 2026 kl. 20.40](backup-2026-11-19/README.md), bekräftad av beställaren. Den används för aktuell konfigurationshistorik. Nedanstående avsnitt beskriver det äldre underlaget 2014–2015 och har inte skrivits över.
+
 Undercentral/pannrum, Högalidsvägen 69. Detta är **historisk dokumentation från 2014–2015**, godkänd för registrering av beställaren 2026-11-19. Nyare dokumentation är inte känd. Dagens konfiguration är ännu inte hämtad eller verifierad. Underlaget föregår värmepumparna från 2019.
 
 ## Utrustning och identitet

@@ -1152,6 +1152,8 @@ objekt:
         - 2015
       modellkälla: "K-BASTEC-D21"
       serienummerstatus: "Inget individuellt serienummer identifierat i underlaget"
+      senast_dokumenterad_duc_backup: "2026-11-19T20:40:00+01:00"
+      aktuell_backup_dokumentation: "tekniska-installationer/bastec/backup-2026-11-19/README.md"
     relationer:
       -
         typ: "part_of"
@@ -1163,6 +1165,8 @@ objekt:
       []
     källor:
       - "K-BASTEC-20261119"
+      - "K-BASTEC-DUC-BACKUP-20261119"
+      - "K-BASTEC-BACKUP-BEKRAFTELSE-20261119"
   -
     id: "TI-BASTEC-69-E16-1"
     typ: "I/O-expansionsmodul"
