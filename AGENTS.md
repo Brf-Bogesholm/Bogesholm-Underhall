@@ -89,3 +89,7 @@ Beställaren bekräftar 2026-11-19: 70 portar byttes 2016, garage 1–70 = G-701
 ## Toaletten i lokalen 2017
 
 Beställaren anger 2026-11-19: registrera endast beställningen och dess entreprenörs-/produktbilagor, inte ursprunglig offertförfrågan (även återgiven inne i beställningsfilen). Utfört år 2017 enligt beställaren. Planerat slut 2017-05-26 är inte verifierad färdigdag. Produkter enligt bilagd DittNyaBadrum-offert är beställda, inte individuellt leveransverifierade. Tio års arbetsgaranti enligt entreprenörens offert; start/giltighet inte verifierade. Utlovade BKR-/besiktningsdokument är inte utfärdade dokument i detta underlag. Se byggnadsdelar/toalett-lokalen/README.md.
+
+## Radiatorinjustering 2019
+
+Registrering godkänd 2026-11-19. 578 dimensioneringsposter och 584 temperatur-/kontrollrader, inte säkert antal installerade EB-don eller termostatbyten. 71H,75E,67G,63A,57D låsta vid temperaturkontroll; senare kontroll och datum okända enligt beställaren. Dra inte slutsatsen att hela injusteringen uteblev. 67H 217 S: EB-don ej monterat; 61C 207 S och 59D 114 ENT: skiftat tillopp/retur. Senare avhjälpande okänt. Historiska pumpvärden, flöde och effekt är inte dagens verifierade drift. Två Excel med identiska cellvärden importeras en gång. Se tekniska-installationer/radiatorer/README.md.

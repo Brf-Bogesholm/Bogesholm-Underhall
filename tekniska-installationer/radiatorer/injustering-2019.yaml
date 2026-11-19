@@ -1,0 +1,898 @@
+status: "Registrerad, beställaren godkänner 2026-11-19"
+projektår: 2019
+entreprenör: "EBmetoden AB"
+underentreprenör: "A.G. Malmströms Rör AB"
+planerat_arbete: "2019-03-04–2019-03-22"
+funktionskontroll:
+  - "2019-12-02"
+  - "2019-12-03"
+  - "2019-12-04"
+antal_temperaturrader: 584
+antal_dimensioneringsrader: 578
+lägenheter: 78
+övrig_plats: "Kvartershuset, Högalidsvägen 69"
+pump_enligt_lista: "GRUNDFOS MAGNA 3 50-120 INST 80 KPA"
+systemdata_enligt_lista:
+  totalflöde_l_h: 14337
+  total_effekt_kw: 254
+  delta_t_radiatorluft: 50
+  delta_t_radiator: 20
+  anmärkning: "Dimensionerings-/injusteringsuppgifter, inte verifierat uppmätt liveflöde/effekt. RPM-fält 0 får inte tolkas som avstängd pump."
+fynd:
+  -
+    lägenhet: "67H"
+    rum: "217 S"
+    fynd: "Radiator inbyggd/ej åtkomlig; EB-don ej monterat"
+    senare_status: "okänd"
+  -
+    lägenhet: "61C"
+    rum: "207 S"
+    fynd: "Tillopp och retur skiftad/bör åtgärdas"
+    senare_status: "okänd"
+  -
+    lägenhet: "59D"
+    rum: "114 ENT"
+    fynd: "Tillopp och retur skiftad/bör åtgärdas"
+    senare_status: "okänd"
+låsta:
+  - "71H"
+  - "75E"
+  - "67G"
+  - "63A"
+  - "57D"
+renspolningsnoteringar: 11
+datumundantag: "59A: uttryckligen kontrollerad 3/12 trots husgruppen annars 4/12"
+versionskontroll: "Två XLSX har samma sparade cellvärden på alla fem blad, olika binärfiler. Kopior av tre PDF-förvaltningshandlingar byte-identiska. Byggmöte 1.1 ändrar rådet om handdukstork till att motsvarande effekt måste säkerställas; bevara versionshistorik."
+ritningar:
+  antal_sidor: 31
+  översikt: "Sida 1 områdeskulvert, 2 sektioner/detaljer, 3 kvartershus och överstrukna äldre centraldiagram; 4–31 hus A–N med radiator-/lägenhetsmarkeringar"
+  husbokstäver:
+    A: 79
+    B: 77
+    C: 71
+    D: 75
+    E: 73
+    F: 65
+    G: 67
+    H: 63
+    I: 61
+    J: 59
+    K: 57
+    L: 55
+    M: 53
+    N: 51
+  begränsning: "Visuellt genomgångna i översikt. Inte alla små texter, dimensioner och handskrivna markeringar transkriberade. Överstrukna äldre diagram får inte bli aktuellt kopplingsschema."
+driftinstruktioner:
+  - "Nya eller bytta radiatorer ska förses med EB-don enligt projektets instruktion"
+  - "Vid byte av cirkulationspump: säkerställ rätt flöde och tryck genom kontakt med EBmetoden enligt historisk driftinstruktion"
+  - "Generell uppgift att alla radiatorer har EB-don hålls skild från det uttryckliga undantaget i 67H"
+källor:
+  -
+    fil: "EBR VS-ritning.pdf"
+    sha256: "a907ab4656b56cc56b0b5d72da218b93c3616ee4289ac7f647bd0559f09a612e"
+    dubblett: false
+  -
+    fil: "Information lägenhetsinnehvare efter injustering EBmetoden.pdf"
+    sha256: "871646aea2b4477524a65dfdb97242804d4a53722802344a229505513e7d72c1"
+    dubblett: false
+  -
+    fil: "Information till Drift och underhållspersonal inom denna Fastighet.pdf"
+    sha256: "4081c7544973954e195518c6dee2cd2592e1ed30f24f7fbf65bcd0205a50aac1"
+    dubblett: false
+  -
+    fil: "RIKSBYGGEN BRF BOGESHOLM SYSTEM RADIATORER KÄVLINGE_T.1.xlsx"
+    sha256: "2020671dc164c151841b5869fa195a6d3f8f6b6d1a6b60701c2af72bd3f83a93"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\2019-02-14 Information från Brf Bogesholm.docx"
+    sha256: "12a15f4f3ff6e0b5089238f3d5bcbb9538ca5370c44f6f7e3177d3a8893a469a"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\2019-02-14 Information från Brf Bogesholm.pdf"
+    sha256: "cc5f1a4548d9867e9cbb9775ada686925454d0f83a15165539b0117aad56cdd8"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Byggmötesprotokoll\\Byggmöte 1.0 2019-02-05.docx"
+    sha256: "7f228a02bd3793be3163a5ac11f2c4a83a028549a266f680032e7814776a7922"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Byggmötesprotokoll\\Byggmöte 1.0 2019-02-05.pdf"
+    sha256: "e103c7cf33fd6d33cab60c9bb8dd914f924949bc3f5d089c097648c4b71e0d59"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Byggmötesprotokoll\\Byggmöte 1.1 2019-02-05.pdf"
+    sha256: "69b7c723771224834811badbb4ca6a8a8664286c821412626ecfd798e4c7788f"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Förvaltningshandlingar\\EBR VS-ritning.pdf"
+    sha256: "a907ab4656b56cc56b0b5d72da218b93c3616ee4289ac7f647bd0559f09a612e"
+    dubblett: true
+  -
+    fil: "Injusteringsupphandling\\Förvaltningshandlingar\\RIKSBYGGEN BRF BOGESHOLM SYSTEM RADIATORER KÄVLINGE_T.1.xlsx"
+    sha256: "3c832c26a988e8e9744884e144913cd57f6a805846b12df9f1fe68beb05b4e1c"
+    dubblett: false
+säkerhet: "Historisk ögonblicksbild; okända senare ändringar. Tomma mätfält är inte noll. Rumsbeteckningar bevaras utan att nuvarande rumsläge gissas."
+id: "P-INJUSTERING-RADIATORER-2019"
+källor_registrering:
+  - "K-INJUSTERING-2019-20261119"
+  - "K-INJUSTERING-BEKRAFTELSE-20261119"
+låsta_uppföljning:
+  -
+    adress: "71H"
+    lägenhet: "L-118-1-0019"
+    kontrolldatum: "2019-12-03"
+    orsak: "Låst enligt temperaturlistan"
+    senare_kontrolldatum: null
+    senare_status: "Okänd enligt beställaren"
+    avgränsning: "Ingen slutsats att hela injusteringen i lägenheten uteblev"
+  -
+    adress: "75E"
+    lägenhet: "L-118-1-0021"
+    kontrolldatum: "2019-12-03"
+    orsak: "Låst enligt temperaturlistan"
+    senare_kontrolldatum: null
+    senare_status: "Okänd enligt beställaren"
+    avgränsning: "Ingen slutsats att hela injusteringen i lägenheten uteblev"
+  -
+    adress: "67G"
+    lägenhet: "L-118-1-0042"
+    kontrolldatum: "2019-12-03"
+    orsak: "Låst enligt temperaturlistan"
+    senare_kontrolldatum: null
+    senare_status: "Okänd enligt beställaren"
+    avgränsning: "Ingen slutsats att hela injusteringen i lägenheten uteblev"
+  -
+    adress: "63A"
+    lägenhet: "L-118-1-0049"
+    kontrolldatum: "2019-12-04"
+    orsak: "Låst enligt temperaturlistan"
+    senare_kontrolldatum: null
+    senare_status: "Okänd enligt beställaren"
+    avgränsning: "Ingen slutsats att hela injusteringen i lägenheten uteblev"
+  -
+    adress: "57D"
+    lägenhet: "L-118-1-0063"
+    kontrolldatum: "2019-12-04"
+    orsak: "Låst enligt temperaturlistan"
+    senare_kontrolldatum: null
+    senare_status: "Okänd enligt beställaren"
+    avgränsning: "Ingen slutsats att hela injusteringen i lägenheten uteblev"
+försättsblad:
+  -
+    blad: "Försättsblad 2019 12 02"
+    celler:
+      -
+        rad: 2
+        kolumn: 1
+        värde: "Funktionskontroll efter montering av EB don."
+      -
+        rad: 4
+        kolumn: 1
+        värde: "Objektfil:"
+      -
+        rad: 6
+        kolumn: 1
+        värde: "Objekt: "
+      -
+        rad: 6
+        kolumn: 2
+        värde: "RIKSBYGGEN BRF.BOGESHOLM SYSTEM RAD"
+      -
+        rad: 7
+        kolumn: 1
+        värde: "Adress:"
+      -
+        rad: 7
+        kolumn: 2
+        värde: "HÖGALIDSVÄGEN 77 A-E, 79 A-F KÄVLINGE"
+      -
+        rad: 8
+        kolumn: 1
+        värde: "Protokoll nr:"
+      -
+        rad: 8
+        kolumn: 3
+        värde: "T.1"
+      -
+        rad: 9
+        kolumn: 1
+        värde: "Datum:"
+      -
+        rad: 9
+        kolumn: 3
+        värde: "2019 12 02"
+      -
+        rad: 11
+        kolumn: 1
+        värde: "Utetemperatur kl.08:00"
+      -
+        rad: 11
+        kolumn: 3
+        värde: "4o"
+      -
+        rad: 12
+        kolumn: 1
+        värde: "Utetemperatur kl."
+      -
+        rad: 13
+        kolumn: 1
+        värde: "Vindstyrka:"
+      -
+        rad: 13
+        kolumn: 3
+        värde: "3-5 m/s"
+      -
+        rad: 14
+        kolumn: 1
+        värde: "Vindriktning:"
+      -
+        rad: 14
+        kolumn: 3
+        värde: "Väst"
+      -
+        rad: 15
+        kolumn: 1
+        värde: "anm:"
+      -
+        rad: 17
+        kolumn: 1
+        värde: "Värmeproduktion VP"
+      -
+        rad: 17
+        kolumn: 4
+        värde: "Tillopp t"
+      -
+        rad: 17
+        kolumn: 5
+        värde: "Retur t"
+      -
+        rad: 17
+        kolumn: 6
+        värde: "delta t"
+      -
+        rad: 18
+        kolumn: 1
+        värde: "Fjärrvärme/vvx"
+      -
+        rad: 19
+        kolumn: 1
+        värde: "Oljepanna"
+      -
+        rad: 20
+        kolumn: 1
+        värde: "Gaspanna"
+      -
+        rad: 21
+        kolumn: 1
+        värde: "Värmepump"
+      -
+        rad: 22
+        kolumn: 1
+        värde: "Annan"
+      -
+        rad: 22
+        kolumn: 4
+        värde: 66
+      -
+        rad: 22
+        kolumn: 5
+        värde: 37
+      -
+        rad: 22
+        kolumn: 6
+        värde: 29
+      -
+        rad: 24
+        kolumn: 1
+        värde: "Värme sekundär VS"
+      -
+        rad: 24
+        kolumn: 4
+        värde: "Tillopp t"
+      -
+        rad: 24
+        kolumn: 5
+        värde: "Retur t"
+      -
+        rad: 24
+        kolumn: 6
+        värde: "delta t"
+      -
+        rad: 26
+        kolumn: 4
+        värde: 41
+      -
+        rad: 26
+        kolumn: 5
+        värde: 37
+      -
+        rad: 26
+        kolumn: 6
+        värde: 4
+      -
+        rad: 28
+        kolumn: 1
+        värde: "Reglercentral fabr/typ:"
+      -
+        rad: 29
+        kolumn: 1
+        värde: "Inställd kurva/börvärde RC:"
+      -
+        rad: 30
+        kolumn: 1
+        värde: "-15 utetemp."
+      -
+        rad: 31
+        kolumn: 1
+        värde: "-10 utetemp."
+      -
+        rad: 32
+        kolumn: 1
+        värde: "+-0 utetemp."
+      -
+        rad: 33
+        kolumn: 1
+        värde: "    5 utetemp."
+      -
+        rad: 34
+        kolumn: 1
+        värde: "  10 utetemp."
+      -
+        rad: 35
+        kolumn: 1
+        värde: "  15 utetemp."
+      -
+        rad: 37
+        kolumn: 1
+        värde: "Nattsänkning mellan:"
+      -
+        rad: 38
+        kolumn: 1
+        värde: "kl"
+      -
+        rad: 39
+        kolumn: 1
+        värde: "kl"
+      -
+        rad: 40
+        kolumn: 2
+        värde: "Tilloppstemperatur ger ca "
+      -
+        rad: 40
+        kolumn: 5
+        värde: "sänkning av rumstemperaturen"
+      -
+        rad: 42
+        kolumn: 1
+        värde: "Korrigerad kurva/börvärde RC (rek. inställning)"
+      -
+        rad: 43
+        kolumn: 1
+        värde: "-15 utetemp."
+      -
+        rad: 44
+        kolumn: 1
+        värde: "-10 utetemp."
+      -
+        rad: 45
+        kolumn: 1
+        värde: "+-0 utetemp."
+      -
+        rad: 46
+        kolumn: 1
+        värde: "    5 utetemp."
+      -
+        rad: 47
+        kolumn: 1
+        värde: "  10 utetemp."
+      -
+        rad: 48
+        kolumn: 1
+        värde: "  15 utetemp."
+      -
+        rad: 49
+        kolumn: 1
+        värde: "anm: "
+  -
+    blad: "Försättsblad 2019 12 03"
+    celler:
+      -
+        rad: 2
+        kolumn: 1
+        värde: "Funktionskontroll efter montering av EB don."
+      -
+        rad: 4
+        kolumn: 1
+        värde: "Objektfil:"
+      -
+        rad: 6
+        kolumn: 1
+        värde: "Objekt: "
+      -
+        rad: 6
+        kolumn: 2
+        värde: "RIKSBYGGEN BRF.BOGESHOLM SYSTEM RAD"
+      -
+        rad: 7
+        kolumn: 1
+        värde: "Adress:"
+      -
+        rad: 7
+        kolumn: 2
+        värde: "HÖGALIDSVÄGEN 65-67, 71-73-75 KÄVLINGE"
+      -
+        rad: 8
+        kolumn: 1
+        värde: "Protokoll nr:"
+      -
+        rad: 8
+        kolumn: 3
+        värde: "T.1"
+      -
+        rad: 9
+        kolumn: 1
+        värde: "Datum:"
+      -
+        rad: 9
+        kolumn: 3
+        värde: "2019 12 03"
+      -
+        rad: 11
+        kolumn: 1
+        värde: "Utetemperatur kl.08:00"
+      -
+        rad: 11
+        kolumn: 3
+        värde: " -3o"
+      -
+        rad: 12
+        kolumn: 1
+        värde: "Utetemperatur kl.12:00"
+      -
+        rad: 12
+        kolumn: 3
+        värde: "2o"
+      -
+        rad: 13
+        kolumn: 1
+        värde: "Vindstyrka:"
+      -
+        rad: 13
+        kolumn: 3
+        värde: "1-3 m/s"
+      -
+        rad: 14
+        kolumn: 1
+        värde: "Vindriktning:"
+      -
+        rad: 14
+        kolumn: 3
+        värde: "Syd"
+      -
+        rad: 15
+        kolumn: 1
+        värde: "anm:"
+      -
+        rad: 17
+        kolumn: 1
+        värde: "Värmeproduktion VP"
+      -
+        rad: 17
+        kolumn: 4
+        värde: "Tillopp t"
+      -
+        rad: 17
+        kolumn: 5
+        värde: "Retur t"
+      -
+        rad: 17
+        kolumn: 6
+        värde: "delta t"
+      -
+        rad: 18
+        kolumn: 1
+        värde: "Fjärrvärme/vvx"
+      -
+        rad: 19
+        kolumn: 1
+        värde: "Oljepanna"
+      -
+        rad: 20
+        kolumn: 1
+        värde: "Gaspanna"
+      -
+        rad: 21
+        kolumn: 1
+        värde: "Värmepump"
+      -
+        rad: 22
+        kolumn: 1
+        värde: "Annan"
+      -
+        rad: 22
+        kolumn: 4
+        värde: 61
+      -
+        rad: 22
+        kolumn: 5
+        värde: 42
+      -
+        rad: 22
+        kolumn: 6
+        värde: 19
+      -
+        rad: 24
+        kolumn: 1
+        värde: "Värme sekundär VS"
+      -
+        rad: 24
+        kolumn: 4
+        värde: "Tillopp t"
+      -
+        rad: 24
+        kolumn: 5
+        värde: "Retur t"
+      -
+        rad: 24
+        kolumn: 6
+        värde: "delta t"
+      -
+        rad: 26
+        kolumn: 3
+        värde: "kl 08:00"
+      -
+        rad: 26
+        kolumn: 4
+        värde: 48
+      -
+        rad: 26
+        kolumn: 5
+        värde: 42
+      -
+        rad: 26
+        kolumn: 6
+        värde: 6
+      -
+        rad: 26
+        kolumn: 7
+        värde: "71 A-H, 73 A-E, 75 A-F"
+      -
+        rad: 27
+        kolumn: 3
+        värde: "kl 12:00"
+      -
+        rad: 27
+        kolumn: 4
+        värde: 42
+      -
+        rad: 27
+        kolumn: 5
+        värde: 38
+      -
+        rad: 27
+        kolumn: 6
+        värde: 4
+      -
+        rad: 27
+        kolumn: 7
+        värde: "65 A-E, 67 A-H"
+      -
+        rad: 28
+        kolumn: 1
+        värde: "Reglercentral fabr/typ:"
+      -
+        rad: 29
+        kolumn: 1
+        värde: "Inställd kurva/börvärde RC:"
+      -
+        rad: 30
+        kolumn: 1
+        värde: "-15 utetemp."
+      -
+        rad: 31
+        kolumn: 1
+        värde: "-10 utetemp."
+      -
+        rad: 32
+        kolumn: 1
+        värde: "+-0 utetemp."
+      -
+        rad: 33
+        kolumn: 1
+        värde: "    5 utetemp."
+      -
+        rad: 34
+        kolumn: 1
+        värde: "  10 utetemp."
+      -
+        rad: 35
+        kolumn: 1
+        värde: "  15 utetemp."
+      -
+        rad: 37
+        kolumn: 1
+        värde: "Nattsänkning mellan:"
+      -
+        rad: 38
+        kolumn: 1
+        värde: "kl"
+      -
+        rad: 39
+        kolumn: 1
+        värde: "kl"
+      -
+        rad: 40
+        kolumn: 2
+        värde: "Tilloppstemperatur ger ca "
+      -
+        rad: 40
+        kolumn: 5
+        värde: "sänkning av rumstemperaturen"
+      -
+        rad: 42
+        kolumn: 1
+        värde: "Korrigerad kurva/börvärde RC (rek. inställning)"
+      -
+        rad: 43
+        kolumn: 1
+        värde: "-15 utetemp."
+      -
+        rad: 44
+        kolumn: 1
+        värde: "-10 utetemp."
+      -
+        rad: 45
+        kolumn: 1
+        värde: "+-0 utetemp."
+      -
+        rad: 46
+        kolumn: 1
+        värde: "    5 utetemp."
+      -
+        rad: 47
+        kolumn: 1
+        värde: "  10 utetemp."
+      -
+        rad: 48
+        kolumn: 1
+        värde: "  15 utetemp."
+      -
+        rad: 49
+        kolumn: 1
+        värde: "anm: "
+  -
+    blad: "Försättsblad 2019 12 04"
+    celler:
+      -
+        rad: 2
+        kolumn: 1
+        värde: "Funktionskontroll efter montering av EB don."
+      -
+        rad: 4
+        kolumn: 1
+        värde: "Objektfil:"
+      -
+        rad: 6
+        kolumn: 1
+        värde: "Objekt: "
+      -
+        rad: 6
+        kolumn: 2
+        värde: "RIKSBYGGEN BRF.BOGESHOLM SYSTEM RAD"
+      -
+        rad: 7
+        kolumn: 1
+        värde: "Adress:"
+      -
+        rad: 7
+        kolumn: 2
+        värde: "HÖGALIDSVÄGEN 51-53-55-57-59-61-63 KÄVLINGE"
+      -
+        rad: 8
+        kolumn: 1
+        värde: "Protokoll nr:"
+      -
+        rad: 8
+        kolumn: 3
+        värde: "T.1"
+      -
+        rad: 9
+        kolumn: 1
+        värde: "Datum:"
+      -
+        rad: 9
+        kolumn: 3
+        värde: "2019 12 04"
+      -
+        rad: 11
+        kolumn: 1
+        värde: "Utetemperatur kl.08:00"
+      -
+        rad: 11
+        kolumn: 3
+        värde: "7o"
+      -
+        rad: 12
+        kolumn: 1
+        värde: "Utetemperatur kl."
+      -
+        rad: 13
+        kolumn: 1
+        värde: "Vindstyrka:"
+      -
+        rad: 13
+        kolumn: 3
+        värde: "3 5"
+      -
+        rad: 14
+        kolumn: 1
+        värde: "Vindriktning:"
+      -
+        rad: 14
+        kolumn: 3
+        värde: "väst"
+      -
+        rad: 15
+        kolumn: 1
+        värde: "anm:"
+      -
+        rad: 17
+        kolumn: 1
+        värde: "Värmeproduktion VP"
+      -
+        rad: 17
+        kolumn: 4
+        värde: "Tillopp t"
+      -
+        rad: 17
+        kolumn: 5
+        värde: "Retur t"
+      -
+        rad: 17
+        kolumn: 6
+        värde: "delta t"
+      -
+        rad: 18
+        kolumn: 1
+        värde: "Fjärrvärme/vvx"
+      -
+        rad: 19
+        kolumn: 1
+        värde: "Oljepanna"
+      -
+        rad: 20
+        kolumn: 1
+        värde: "Gaspanna"
+      -
+        rad: 21
+        kolumn: 1
+        värde: "Värmepump"
+      -
+        rad: 22
+        kolumn: 1
+        värde: "Annan"
+      -
+        rad: 22
+        kolumn: 4
+        värde: 66
+      -
+        rad: 22
+        kolumn: 5
+        värde: 37
+      -
+        rad: 22
+        kolumn: 6
+        värde: 29
+      -
+        rad: 24
+        kolumn: 1
+        värde: "Värme sekundär VS"
+      -
+        rad: 24
+        kolumn: 4
+        värde: "Tillopp t"
+      -
+        rad: 24
+        kolumn: 5
+        värde: "Retur t"
+      -
+        rad: 24
+        kolumn: 6
+        värde: "delta t"
+      -
+        rad: 26
+        kolumn: 4
+        värde: 37
+      -
+        rad: 26
+        kolumn: 5
+        värde: 34
+      -
+        rad: 26
+        kolumn: 6
+        värde: 3
+      -
+        rad: 28
+        kolumn: 1
+        värde: "Reglercentral fabr/typ:"
+      -
+        rad: 29
+        kolumn: 1
+        värde: "Inställd kurva/börvärde RC:"
+      -
+        rad: 30
+        kolumn: 1
+        värde: "-15 utetemp."
+      -
+        rad: 31
+        kolumn: 1
+        värde: "-10 utetemp."
+      -
+        rad: 32
+        kolumn: 1
+        värde: "+-0 utetemp."
+      -
+        rad: 33
+        kolumn: 1
+        värde: "    5 utetemp."
+      -
+        rad: 34
+        kolumn: 1
+        värde: "  10 utetemp."
+      -
+        rad: 35
+        kolumn: 1
+        värde: "  15 utetemp."
+      -
+        rad: 37
+        kolumn: 1
+        värde: "Nattsänkning mellan:"
+      -
+        rad: 38
+        kolumn: 1
+        värde: "kl"
+      -
+        rad: 39
+        kolumn: 1
+        värde: "kl"
+      -
+        rad: 40
+        kolumn: 2
+        värde: "Tilloppstemperatur ger ca "
+      -
+        rad: 40
+        kolumn: 5
+        värde: "sänkning av rumstemperaturen"
+      -
+        rad: 42
+        kolumn: 1
+        värde: "Korrigerad kurva/börvärde RC (rek. inställning)"
+      -
+        rad: 43
+        kolumn: 1
+        värde: "-15 utetemp."
+      -
+        rad: 44
+        kolumn: 1
+        värde: "-10 utetemp."
+      -
+        rad: 45
+        kolumn: 1
+        värde: "+-0 utetemp."
+      -
+        rad: 46
+        kolumn: 1
+        värde: "    5 utetemp."
+      -
+        rad: 47
+        kolumn: 1
+        värde: "  10 utetemp."
+      -
+        rad: 48
+        kolumn: 1
+        värde: "  15 utetemp."
+      -
+        rad: 49
+        kolumn: 1
+        värde: "anm: "
+försättsblad_kommentar: "Källfilens interna dator-/databassökväg utelämnad. Annan på produktionsraden har inte omtolkats till en viss värmekälla; oifyllda kurv-/nattsänkningsfält förblir okända."

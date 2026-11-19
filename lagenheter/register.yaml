@@ -39,6 +39,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015096"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0002
   typ: lägenhet
   namn: lgh 02
@@ -74,6 +76,8 @@ lägenheter:
     - "B-LGH-2017-16-015097"
     - "B-LGH-2017-17-000753"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0003
   typ: lägenhet
   namn: lgh 03
@@ -108,6 +112,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015098"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0004
   typ: lägenhet
   namn: lgh 04
@@ -142,6 +148,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015099"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0005
   typ: lägenhet
   namn: lgh 05
@@ -177,6 +185,8 @@ lägenheter:
     - "B-LGH-2017-16-015100"
     - "B-LGH-2017-17-000621"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0006
   typ: lägenhet
   namn: lgh 06
@@ -212,6 +222,8 @@ lägenheter:
     - "B-LGH-2017-16-015101"
     - "B-LGH-2017-17-000622"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0007
   typ: lägenhet
   namn: lgh 07
@@ -246,6 +258,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015102"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0008
   typ: lägenhet
   namn: lgh 08
@@ -281,6 +295,8 @@ lägenheter:
     - "B-LGH-2017-16-015103"
     - "B-LGH-2017-17-000623"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0009
   typ: lägenhet
   namn: lgh 09
@@ -316,6 +332,8 @@ lägenheter:
     - "B-LGH-2017-16-015104"
     - "B-LGH-SKADA-20090730-77C"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0010
   typ: lägenhet
   namn: lgh 10
@@ -350,6 +368,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015105"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0011
   typ: lägenhet
   namn: lgh 11
@@ -384,6 +404,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015106"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0012
   typ: lägenhet
   namn: lgh 12
@@ -419,6 +441,8 @@ lägenheter:
     - "B-FORRAD-20071126-71A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015107"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0013
   typ: lägenhet
   namn: lgh 13
@@ -453,6 +477,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015108"
     - "B-LGH-2017-17-000624"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0014
   typ: lägenhet
   namn: lgh 14
@@ -487,6 +513,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015109"
     - "B-LGH-2017-17-000625"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0015
   typ: lägenhet
   namn: lgh 15
@@ -522,6 +550,8 @@ lägenheter:
     - "B-FORRAD-20071126-71D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015110"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0016
   typ: lägenhet
   namn: lgh 16
@@ -557,6 +587,8 @@ lägenheter:
     - "B-FORRAD-20071126-71E"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015111"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0017
   typ: lägenhet
   namn: lgh 17
@@ -591,6 +623,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015112"
     - "B-LGH-2017-17-000626"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0018
   typ: lägenhet
   namn: lgh 18
@@ -624,6 +658,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-71G"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015113"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0019
   typ: lägenhet
   namn: lgh 19
@@ -659,6 +695,9 @@ lägenheter:
     - "B-FORRAD-20071126-71H"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015114"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
+    temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
 - id: L-118-1-0020
   typ: lägenhet
   namn: lgh 20
@@ -695,6 +734,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015115"
     - "B-LGH-2017-17-000627"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0021
   typ: lägenhet
   namn: lgh 21
@@ -728,6 +769,9 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-75E"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015116"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
+    temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
 - id: L-118-1-0022
   typ: lägenhet
   namn: lgh 22
@@ -763,6 +807,8 @@ lägenheter:
     - "B-FORRAD-20071126-75D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015117"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0023
   typ: lägenhet
   namn: lgh 23
@@ -796,6 +842,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-75C"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015118"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0024
   typ: lägenhet
   namn: lgh 24
@@ -829,6 +877,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-75B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015119"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0025
   typ: lägenhet
   namn: lgh 25
@@ -864,6 +914,8 @@ lägenheter:
     - "B-FORRAD-20071126-75A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015120"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0026
   typ: lägenhet
   namn: lgh 26
@@ -899,6 +951,8 @@ lägenheter:
     - "B-LGH-2017-16-015121"
     - "B-LGH-2017-17-000628"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0027
   typ: lägenhet
   namn: lgh 27
@@ -933,6 +987,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015122"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0028
   typ: lägenhet
   namn: lgh 28
@@ -968,6 +1024,8 @@ lägenheter:
     - "B-LGH-2017-16-015123"
     - "B-LGH-2017-17-000629"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0029
   typ: lägenhet
   namn: lgh 29
@@ -1003,6 +1061,8 @@ lägenheter:
     - "B-LGH-2017-16-015124"
     - "B-LGH-2017-17-000630"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0030
   typ: lägenhet
   namn: lgh 30
@@ -1038,6 +1098,8 @@ lägenheter:
     - "B-LGH-2017-16-015125"
     - "B-LGH-2017-17-000631"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0031
   typ: lägenhet
   namn: lgh 31
@@ -1074,6 +1136,8 @@ lägenheter:
     - "B-LGH-2017-17-000632"
     - "B-LGH-SKADA-20090427-65D"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0032
   typ: lägenhet
   namn: lgh 32
@@ -1109,6 +1173,8 @@ lägenheter:
     - "B-LGH-2017-16-015127"
     - "B-LGH-SKADA-20090427-65D"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0033
   typ: lägenhet
   namn: lgh 33
@@ -1144,6 +1210,8 @@ lägenheter:
     - "B-LGH-2017-16-015128"
     - "B-LGH-2017-17-000633"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0034
   typ: lägenhet
   namn: lgh 34
@@ -1178,6 +1246,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015129"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0035
   typ: lägenhet
   namn: lgh 35
@@ -1213,6 +1283,8 @@ lägenheter:
     - "B-LGH-2017-16-015130"
     - "B-LGH-2017-17-000754"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0036
   typ: lägenhet
   namn: lgh 36
@@ -1248,6 +1320,8 @@ lägenheter:
     - "B-FORRAD-20071126-67A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015131"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0037
   typ: lägenhet
   namn: lgh 37
@@ -1281,6 +1355,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-67B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015132"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0038
   typ: lägenhet
   namn: lgh 38
@@ -1314,6 +1390,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-67C"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015133"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0039
   typ: lägenhet
   namn: lgh 39
@@ -1350,6 +1428,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015134"
     - "B-LGH-2017-17-000679"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0040
   typ: lägenhet
   namn: lgh 40
@@ -1386,6 +1466,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015135"
     - "B-LGH-2017-17-000590"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0041
   typ: lägenhet
   namn: lgh 41
@@ -1419,6 +1501,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-67F"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015136"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0042
   typ: lägenhet
   namn: lgh 42
@@ -1455,6 +1539,9 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015137"
     - "B-LGH-2017-17-000591"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
+    temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
 - id: L-118-1-0043
   typ: lägenhet
   namn: lgh 43
@@ -1489,6 +1576,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015138"
     - "B-LGH-2017-17-000592"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0044
   typ: lägenhet
   namn: lgh 44
@@ -1522,6 +1611,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-63F"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015139"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0045
   typ: lägenhet
   namn: lgh 45
@@ -1558,6 +1649,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015140"
     - "B-LGH-2017-17-000593"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0046
   typ: lägenhet
   namn: lgh 46
@@ -1594,6 +1687,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015141"
     - "B-LGH-2017-17-000594"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0047
   typ: lägenhet
   namn: lgh 47
@@ -1628,6 +1723,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015142"
     - "B-LGH-2017-17-000595"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0048
   typ: lägenhet
   namn: lgh 48
@@ -1661,6 +1758,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-63B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015143"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0049
   typ: lägenhet
   namn: lgh 49
@@ -1696,6 +1795,9 @@ lägenheter:
     - "B-FORRAD-20071126-63A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015144"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
+    temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
 - id: L-118-1-0050
   typ: lägenhet
   namn: lgh 50
@@ -1731,6 +1833,8 @@ lägenheter:
     - "B-LGH-2017-16-015145"
     - "B-LGH-2017-17-000596"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0051
   typ: lägenhet
   namn: lgh 51
@@ -1765,6 +1869,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015146"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0052
   typ: lägenhet
   namn: lgh 52
@@ -1799,6 +1905,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015147"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0053
   typ: lägenhet
   namn: lgh 53
@@ -1833,6 +1941,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015148"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0054
   typ: lägenhet
   namn: lgh 54
@@ -1868,6 +1978,8 @@ lägenheter:
     - "B-FORRAD-20071126-59F"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015149"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0055
   typ: lägenhet
   namn: lgh 55
@@ -1901,6 +2013,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-59E"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015150"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0056
   typ: lägenhet
   namn: lgh 56
@@ -1936,6 +2050,8 @@ lägenheter:
     - "B-FORRAD-20071126-59D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015151"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0057
   typ: lägenhet
   namn: lgh 57
@@ -1970,6 +2086,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015152"
     - "B-LGH-2017-17-000597"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0058
   typ: lägenhet
   namn: lgh 58
@@ -2004,6 +2122,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015153"
     - "B-LGH-2017-17-000598"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0059
   typ: lägenhet
   namn: lgh 59
@@ -2039,6 +2159,8 @@ lägenheter:
     - "B-FORRAD-20071126-59A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015154"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0060
   typ: lägenhet
   namn: lgh 60
@@ -2073,6 +2195,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015155"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0061
   typ: lägenhet
   namn: lgh 61
@@ -2107,6 +2231,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015156"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0062
   typ: lägenhet
   namn: lgh 62
@@ -2142,6 +2268,8 @@ lägenheter:
     - "B-LGH-2017-16-015157"
     - "B-LGH-2017-17-000599"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0063
   typ: lägenhet
   namn: lgh 63
@@ -2176,6 +2304,9 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015158"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
+    temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
 - id: L-118-1-0064
   typ: lägenhet
   namn: lgh 64
@@ -2209,6 +2340,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-55F"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015159"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0065
   typ: lägenhet
   namn: lgh 65
@@ -2245,6 +2378,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015160"
     - "B-LGH-2017-17-001591"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0066
   typ: lägenhet
   namn: lgh 66
@@ -2281,6 +2416,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015161"
     - "B-LGH-2017-17-000600"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0067
   typ: lägenhet
   namn: lgh 67
@@ -2314,6 +2451,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-55C"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015162"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0068
   typ: lägenhet
   namn: lgh 68
@@ -2347,6 +2486,8 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-55B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015163"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0069
   typ: lägenhet
   namn: lgh 69
@@ -2383,6 +2524,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015164"
     - "B-LGH-2017-17-000601"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0070
   typ: lägenhet
   namn: lgh 70
@@ -2417,6 +2560,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015165"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0071
   typ: lägenhet
   namn: lgh 71
@@ -2451,6 +2596,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015166"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0072
   typ: lägenhet
   namn: lgh 72
@@ -2485,6 +2632,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015167"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0073
   typ: lägenhet
   namn: lgh 73
@@ -2520,6 +2669,8 @@ lägenheter:
     - "B-LGH-2017-16-015168"
     - "B-LGH-2017-17-000602"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0074
   typ: lägenhet
   namn: lgh 74
@@ -2554,6 +2705,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015169"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0075
   typ: lägenhet
   namn: lgh 75
@@ -2588,6 +2741,8 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015170"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0076
   typ: lägenhet
   namn: lgh 76
@@ -2623,6 +2778,8 @@ lägenheter:
     - "B-LGH-2017-16-015171"
     - "B-LGH-2017-17-000680"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0077
   typ: lägenhet
   namn: lgh 77
@@ -2658,6 +2815,8 @@ lägenheter:
     - "B-LGH-2017-16-015172"
     - "B-LGH-2017-17-000681"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"
 - id: L-118-1-0078
   typ: lägenhet
   namn: lgh 78
@@ -2692,3 +2851,5 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015173"
   vindsrenovering_2015: "P-VINDSRENOVERING-2015"
+  radiatorinjustering_2019:
+    projekt: "P-INJUSTERING-RADIATORER-2019"

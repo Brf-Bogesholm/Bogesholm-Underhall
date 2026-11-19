@@ -1,0 +1,62 @@
+id: "K-INJUSTERING-2019-20261119"
+registrerad: "2026-11-19"
+projekt: "P-INJUSTERING-RADIATORER-2019"
+dokument:
+  -
+    fil: "EBR VS-ritning.pdf"
+    sha256: "a907ab4656b56cc56b0b5d72da218b93c3616ee4289ac7f647bd0559f09a612e"
+    dubblett: false
+  -
+    fil: "Information lägenhetsinnehvare efter injustering EBmetoden.pdf"
+    sha256: "871646aea2b4477524a65dfdb97242804d4a53722802344a229505513e7d72c1"
+    dubblett: false
+  -
+    fil: "Information till Drift och underhållspersonal inom denna Fastighet.pdf"
+    sha256: "4081c7544973954e195518c6dee2cd2592e1ed30f24f7fbf65bcd0205a50aac1"
+    dubblett: false
+  -
+    fil: "RIKSBYGGEN BRF BOGESHOLM SYSTEM RADIATORER KÄVLINGE_T.1.xlsx"
+    sha256: "2020671dc164c151841b5869fa195a6d3f8f6b6d1a6b60701c2af72bd3f83a93"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\2019-02-14 Information från Brf Bogesholm.docx"
+    sha256: "12a15f4f3ff6e0b5089238f3d5bcbb9538ca5370c44f6f7e3177d3a8893a469a"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\2019-02-14 Information från Brf Bogesholm.pdf"
+    sha256: "cc5f1a4548d9867e9cbb9775ada686925454d0f83a15165539b0117aad56cdd8"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Byggmötesprotokoll\\Byggmöte 1.0 2019-02-05.docx"
+    sha256: "7f228a02bd3793be3163a5ac11f2c4a83a028549a266f680032e7814776a7922"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Byggmötesprotokoll\\Byggmöte 1.0 2019-02-05.pdf"
+    sha256: "e103c7cf33fd6d33cab60c9bb8dd914f924949bc3f5d089c097648c4b71e0d59"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Byggmötesprotokoll\\Byggmöte 1.1 2019-02-05.pdf"
+    sha256: "69b7c723771224834811badbb4ca6a8a8664286c821412626ecfd798e4c7788f"
+    dubblett: false
+  -
+    fil: "Injusteringsupphandling\\Förvaltningshandlingar\\EBR VS-ritning.pdf"
+    sha256: "a907ab4656b56cc56b0b5d72da218b93c3616ee4289ac7f647bd0559f09a612e"
+    dubblett: true
+  -
+    fil: "Injusteringsupphandling\\Förvaltningshandlingar\\RIKSBYGGEN BRF BOGESHOLM SYSTEM RADIATORER KÄVLINGE_T.1.xlsx"
+    sha256: "3c832c26a988e8e9744884e144913cd57f6a805846b12df9f1fe68beb05b4e1c"
+    dubblett: false
+beställarbekräftelse:
+  id: "K-INJUSTERING-BEKRAFTELSE-20261119"
+  senare_kontroll_fem_lägenheter: "Okänd; inga senare datum kända"
+kontroller:
+  dimensioneringsrader: 578
+  temperaturrader: 584
+  lägenhetskopplingar: 78
+  excelversioner: "Samma sparade cellvärden på samtliga fem blad; importeras en gång"
+original_publicerade: false
+personliga_kontaktuppgifter_importerade: false
+begränsningar:
+  - "31 ritningssidor översiktligt visuellt granskade, inte fullständig dimensionstranskription"
+  - "Mätrader, radiatorposter och installerade EB-don är olika saker"
+  - "Inga kostnader eller nya fakturor skapade"
