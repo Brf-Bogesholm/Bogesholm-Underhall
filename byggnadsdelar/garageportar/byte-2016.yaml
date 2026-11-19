@@ -1,0 +1,147 @@
+status: "Registrerat efter beställarens granskning 2026-11-19"
+bygglov:
+  diarienummer: "2016-0976"
+  beslutsdatum: "2016-07-15"
+  fastighet_enligt_beslut: "Bågen 2"
+  fastigheter_enligt_ansökan: "Bågen 1 och 2"
+  ansökningsdatum: "2016-07-13"
+  ankomst: "2016-07-15"
+  åtgärd: "Byte från gula manuella garageportar till vita automatiska garageportar"
+  antal_enligt_ansökan: 70
+  provmontage: "En port redan provmonterad enligt ansökan"
+  planerad_byggstart: "2016-09-09"
+  planerad_byggtid_månader: 1
+  startbesked: true
+  slutbesked: "Saknas i bifogade handlingar; tom begäran om slutbesked är inte utfärdat slutbesked"
+  kulör: "Vit, NCS/RAL saknas"
+  portfabrikat: null
+  portmodell: null
+  utfört_installationsdatum: null
+  källsidor:
+    beslut:
+      - 1
+      - 2
+    ansökan:
+      - 5
+      - 6
+    foto:
+      - 9
+manual:
+  fabrikat: "SOMMER"
+  utrustning: "Garageportsdrivenhet, inte portblad"
+  modeller:
+    - "S 9060 base+"
+    - "S 9080 base+"
+  installerad_variant: "Inte fastställd"
+  omfattning: "Omslag och originalsidor 34–36, kapitel 9 idrifttagning"
+  innehåll:
+    - "Programmering av ändlägen och manöverkraft"
+    - "Hinder under kraftprogrammeringskörning"
+    - "Mekanisk efterjustering av ändlägen"
+    - "Montering av anvisnings-/varningsskylt samt hänvisning till hinderregistreringstest"
+  begränsningar:
+    - "Utdraget innehåller inte ett fullständigt underhållsprogram"
+    - "Hänvisat test av hinderregistrering kapitel 12.1 ingår inte"
+    - "Ingen säker individuell modell/serienummer per garage identifierad; omslagsetikett inte tolkad som serienummer"
+    - "Manualens tryckdatum är inte portarnas installationsdatum"
+  koppling: "Referens för projektet; inte en säker individuell motorvariant. Garage 771 är undantaget. Senare utbyten kan ha andra modeller."
+källor:
+  -
+    fil: "Bygglov.Garageportar.färgbyte.pdf"
+    sha256: "7a3d18491a05da9bd9a6865cf7e7434117128cf6b3426d47ccfc37812479ec80"
+  -
+    fil: "Manual kortversion.pdf"
+    sha256: "686538b5c948bba6d5a1d14f8599ed8b042a7dfa51487504248fe13a22e4af37"
+avgränsning: "Ingen omtolkning av beslutets juridiska status idag, inga kostnader importerade; befintligt motorbyte i garage 740 hålls separat från ursprungligt projekt."
+id: "P-GARAGEPORTAR-2016"
+installationsår: 2016
+installationsårkälla: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+omfattning:
+  antal_bytta: 70
+  garage:
+    - "G-701"
+    - "G-702"
+    - "G-703"
+    - "G-704"
+    - "G-705"
+    - "G-706"
+    - "G-707"
+    - "G-708"
+    - "G-709"
+    - "G-710"
+    - "G-711"
+    - "G-712"
+    - "G-713"
+    - "G-714"
+    - "G-715"
+    - "G-716"
+    - "G-717"
+    - "G-718"
+    - "G-719"
+    - "G-720"
+    - "G-721"
+    - "G-722"
+    - "G-723"
+    - "G-724"
+    - "G-725"
+    - "G-726"
+    - "G-727"
+    - "G-728"
+    - "G-729"
+    - "G-730"
+    - "G-731"
+    - "G-732"
+    - "G-733"
+    - "G-734"
+    - "G-735"
+    - "G-736"
+    - "G-737"
+    - "G-738"
+    - "G-739"
+    - "G-740"
+    - "G-741"
+    - "G-742"
+    - "G-743"
+    - "G-744"
+    - "G-745"
+    - "G-746"
+    - "G-747"
+    - "G-748"
+    - "G-749"
+    - "G-750"
+    - "G-751"
+    - "G-752"
+    - "G-753"
+    - "G-754"
+    - "G-755"
+    - "G-756"
+    - "G-757"
+    - "G-758"
+    - "G-759"
+    - "G-760"
+    - "G-761"
+    - "G-762"
+    - "G-763"
+    - "G-764"
+    - "G-765"
+    - "G-766"
+    - "G-767"
+    - "G-768"
+    - "G-769"
+    - "G-770"
+  undantag:
+    garage: "P-771"
+    orsak: "Hade redan en eldriven port av annan modell"
+    installationsår: null
+    portmodell: null
+    motormodell: null
+källor_registrering:
+  - "K-GARAGEPORTAR-2016-20261119"
+  - "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+senare_historik:
+  -
+    garage: "G-740"
+    ny_motor: "TI-PORTMOTOR-G740-20260819"
+    modell: "Aperto A 550 L S3"
+    datum: "2026-08-19"
+    kommentar: "Befintligt separat motorbyte bevarat. Tilldela inte denna motor en SOMMER-modell eller portens installationsår 2016."

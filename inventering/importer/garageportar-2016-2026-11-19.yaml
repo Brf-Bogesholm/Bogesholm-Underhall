@@ -1,0 +1,19 @@
+id: "K-GARAGEPORTAR-2016-20261119"
+registrerad: "2026-11-19"
+projekt: "P-GARAGEPORTAR-2016"
+dokument:
+  -
+    fil: "Bygglov.Garageportar.färgbyte.pdf"
+    sha256: "7a3d18491a05da9bd9a6865cf7e7434117128cf6b3426d47ccfc37812479ec80"
+  -
+    fil: "Manual kortversion.pdf"
+    sha256: "686538b5c948bba6d5a1d14f8599ed8b042a7dfa51487504248fe13a22e4af37"
+beställarbekräftelse:
+  id: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+  år: 2016
+  antal: 70
+  garage: "1–70 = 701–770"
+  undantag: "71 = 771, hade elport av annan modell"
+original_publicerade: false
+kostnader_importerade: false
+metod: "Samtliga 9 sidor bygglov och 4 sidor manual visuellt lästa. PDF:erna saknar maskinläsbar text."

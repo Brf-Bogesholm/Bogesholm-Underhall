@@ -39,3 +39,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Fasader och färger
 
 [Fasadunderhåll 2016](fasader/README.md) – färgkoder, material, garantibesiktning och planerad ombehandling av tak vid 67, 71, 73 och 77.
+
+## Garageportar
+
+[Byte av garageportar 2016](garageportar/README.md) – 70 vita automatiska portar, undantaget garage 71 och SOMMER-manual som modellreferens.

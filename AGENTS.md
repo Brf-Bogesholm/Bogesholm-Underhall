@@ -81,3 +81,7 @@ Godkänt 2026-11-19: 38 fyrarumslägenheter i H-51, H-53, H-57, H-61, H-65, H-73
 ## Fasadunderhåll 2016 och takbehandling
 
 Beställaren bekräftar 2026-11-19 att mossan inte försvann på förrådstak baksida H-67 och entrétak H-71, H-73, H-77; dessa ska behandlas igen. Se byggnadsdelar/fasader/planerad-takbehandling.yaml. Planerat, inte utfört; ingen tid bestämd. H-53 i stället för H-55 är beställarens kvalificerade gissning vid motstridiga tilläggsprisuppgifter, inte verifierad rättelse eller bevis för utförd högdelsbehandling. Bevara skillnaden högdel/entrétak. Lekställningskulörernas färgnamn/koder motsäger varandra i materiallistan; rätta inte tyst. Fem års faktisk garanti enligt 2021 års protokoll hålls skild från tre år i förfrågningsunderlaget. Senare avhjälpande av färgfel inte verifierat.
+
+## Garageportar 2016
+
+Beställaren bekräftar 2026-11-19: 70 portar byttes 2016, garage 1–70 = G-701–G-770. Garage 71 (registernummer 771, stabilt ID P-771) undantogs; hade redan elport av annan modell. Behåll ID P-771 och klassificering garage. SOMMER S 9060 base+/S 9080 base+ är manualreferens, inte verifierad individuell variant. Portbladens modell och vit NCS/RAL är okända. Senare Aperto-motor i garage 740 hålls separat. Inget utfärdat slutbesked finns i bifogad fil; tom begäran är inte slutbesked. Se byggnadsdelar/garageportar/README.md.

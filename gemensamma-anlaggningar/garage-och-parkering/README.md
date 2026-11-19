@@ -21,3 +21,7 @@ Tilldelningen är kopplad till respektive lägenhets objekt-ID.
 Föreningens garage, tidigare benämnt garage 71, är Garage 771 (`P-771`). Det tillfälliga objekt-ID:t `G-FORENING-71` i utrustningsregistret behålls som historiskt alias och räknas inte som ytterligare garage. Släpvagnens förvaring hänvisar nu till `P-771`.
 
 [Garagelängor](garagelangor.yaml) registreras separat från enskilda garage. Garagelänga 4 har belysning på områdesskylten på gaveln; vilka garage som ingår är inte fastställt.
+
+## Portbyte 2016
+
+Garage 1–70 (G-701–G-770) fick nya vita automatiska portar 2016. Garage 71 (771, stabilt ID P-771) undantogs eftersom det redan hade elport av annan modell. Se [portprojektet](../../byggnadsdelar/garageportar/README.md).

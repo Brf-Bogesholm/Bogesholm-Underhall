@@ -11,12 +11,22 @@ platser:
     platsnummer: 701
     tillhör_lägenhet: L-118-1-0001
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-702
     typ: garage
     namn: Garage 702
     platsnummer: 702
     tillhör_lägenhet: L-118-1-0002
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-741
     typ: garage
     namn: Garage 741
@@ -30,18 +40,33 @@ platser:
       - "B-SBA-20220420-N14"
       - "B-SBA-20221017-N14"
       - "B-SBA-20240529-N06"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-740
     typ: garage
     namn: Garage 740
     platsnummer: 740
     tillhör_lägenhet: L-118-1-0004
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-705
     typ: garage
     namn: Garage 705
     platsnummer: 705
     tillhör_lägenhet: L-118-1-0005
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-733
     typ: garage
     namn: Garage 733
@@ -50,6 +75,11 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20250324-N11"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-707
     typ: garage
     namn: Garage 707
@@ -61,30 +91,55 @@ platser:
       - "B-SBA-20211123-N07"
       - "B-SBA-20220420-N07"
       - "B-SBA-20221017-N07"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-716
     typ: garage
     namn: Garage 716
     platsnummer: 716
     tillhör_lägenhet: L-118-1-0008
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-717
     typ: garage
     namn: Garage 717
     platsnummer: 717
     tillhör_lägenhet: L-118-1-0009
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-719
     typ: garage
     namn: Garage 719
     platsnummer: 719
     tillhör_lägenhet: L-118-1-0010
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-720
     typ: garage
     namn: Garage 720
     platsnummer: 720
     tillhör_lägenhet: L-118-1-0011
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-715
     typ: garage
     namn: Garage 715
@@ -96,6 +151,11 @@ platser:
       - "B-SBA-20211123-N10"
       - "B-SBA-20220420-N10"
       - "B-SBA-20221017-N10"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-708
     typ: garage
     namn: Garage 708
@@ -105,12 +165,22 @@ platser:
     brandskyddshistorik:
       - "B-SBA-20250324-N08"
       - "B-SBA-20240529-N09"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-709
     typ: garage
     namn: Garage 709
     platsnummer: 709
     tillhör_lägenhet: L-118-1-0014
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-710
     typ: garage
     namn: Garage 710
@@ -126,18 +196,33 @@ platser:
       - "B-SBA-20221017-N08"
       - "B-SBA-20230427-N04"
       - "B-SBA-20240529-N08"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-765
     typ: garage
     namn: Garage 765
     platsnummer: 765
     tillhör_lägenhet: L-118-1-0016
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-712
     typ: garage
     namn: Garage 712
     platsnummer: 712
     tillhör_lägenhet: L-118-1-0017
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-713
     typ: garage
     namn: Garage 713
@@ -146,12 +231,22 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20250324-N10"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-714
     typ: garage
     namn: Garage 714
     platsnummer: 714
     tillhör_lägenhet: L-118-1-0019
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-721
     typ: garage
     namn: Garage 721
@@ -160,12 +255,22 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20230427-N05"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-722
     typ: garage
     namn: Garage 722
     platsnummer: 722
     tillhör_lägenhet: L-118-1-0021
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-723
     typ: garage
     namn: Garage 723
@@ -174,12 +279,22 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20200514-N08"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-724
     typ: garage
     namn: Garage 724
     platsnummer: 724
     tillhör_lägenhet: L-118-1-0023
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: P-910
     typ: parkeringsplats
     namn: Parkeringsplats 910
@@ -198,12 +313,22 @@ platser:
     platsnummer: 725
     tillhör_lägenhet: L-118-1-0026
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-749
     typ: garage
     namn: Garage 749
     platsnummer: 749
     tillhör_lägenhet: L-118-1-0027
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-727
     typ: garage
     namn: Garage 727
@@ -215,18 +340,33 @@ platser:
       - "B-SBA-20211123-N11"
       - "B-SBA-20220420-N11"
       - "B-SBA-20221017-N11"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-728
     typ: garage
     namn: Garage 728
     platsnummer: 728
     tillhör_lägenhet: L-118-1-0029
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-729
     typ: garage
     namn: Garage 729
     platsnummer: 729
     tillhör_lägenhet: L-118-1-0030
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-734
     typ: garage
     namn: Garage 734
@@ -235,6 +375,11 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20200514-N10"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-735
     typ: garage
     namn: Garage 735
@@ -246,18 +391,33 @@ platser:
       - "B-SBA-20211123-N12"
       - "B-SBA-20220420-N12"
       - "B-SBA-20221017-N12"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-770
     typ: garage
     namn: Garage 770
     platsnummer: 770
     tillhör_lägenhet: L-118-1-0033
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-737
     typ: garage
     namn: Garage 737
     platsnummer: 737
     tillhör_lägenhet: L-118-1-0034
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-738
     typ: garage
     namn: Garage 738
@@ -269,18 +429,33 @@ platser:
       - "B-SBA-20211123-N13"
       - "B-SBA-20220420-N13"
       - "B-SBA-20221017-N13"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-730
     typ: garage
     namn: Garage 730
     platsnummer: 730
     tillhör_lägenhet: L-118-1-0036
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-718
     typ: garage
     namn: Garage 718
     platsnummer: 718
     tillhör_lägenhet: L-118-1-0037
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-762
     typ: garage
     namn: Garage 762
@@ -292,12 +467,22 @@ platser:
       - "B-SBA-20211123-N20"
       - "B-SBA-20220420-N20"
       - "B-SBA-20221017-N20"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-731
     typ: garage
     namn: Garage 731
     platsnummer: 731
     tillhör_lägenhet: L-118-1-0039
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-761
     typ: garage
     namn: Garage 761
@@ -306,6 +491,11 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20230427-N06"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-763
     typ: garage
     namn: Garage 763
@@ -318,12 +508,22 @@ platser:
       - "B-SBA-20211123-N21"
       - "B-SBA-20220420-N21"
       - "B-SBA-20221017-N21"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-764
     typ: garage
     namn: Garage 764
     platsnummer: 764
     tillhör_lägenhet: L-118-1-0042
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-706
     typ: garage
     namn: Garage 706
@@ -336,6 +536,11 @@ platser:
       - "B-SBA-20211123-N06"
       - "B-SBA-20220420-N06"
       - "B-SBA-20221017-N06"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: P-912
     typ: parkeringsplats
     namn: Parkeringsplats 912
@@ -354,6 +559,11 @@ platser:
     platsnummer: 739
     tillhör_lägenhet: L-118-1-0046
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-704
     typ: garage
     namn: Garage 704
@@ -365,6 +575,11 @@ platser:
       - "B-SBA-20211123-N05"
       - "B-SBA-20220420-N05"
       - "B-SBA-20221017-N05"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-703
     typ: garage
     namn: Garage 703
@@ -376,12 +591,22 @@ platser:
       - "B-SBA-20211123-N04"
       - "B-SBA-20220420-N04"
       - "B-SBA-20221017-N04"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-742
     typ: garage
     namn: Garage 742
     platsnummer: 742
     tillhör_lägenhet: L-118-1-0049
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-743
     typ: garage
     namn: Garage 743
@@ -390,18 +615,33 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20200514-N12"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-744
     typ: garage
     namn: Garage 744
     platsnummer: 744
     tillhör_lägenhet: L-118-1-0051
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-745
     typ: garage
     namn: Garage 745
     platsnummer: 745
     tillhör_lägenhet: L-118-1-0052
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-746
     typ: garage
     namn: Garage 746
@@ -413,6 +653,11 @@ platser:
       - "B-SBA-20211123-N15"
       - "B-SBA-20220420-N15"
       - "B-SBA-20221017-N15"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: P-905
     typ: parkeringsplats
     namn: Parkeringsplats 905
@@ -437,24 +682,44 @@ platser:
       - "B-SBA-20211123-N16"
       - "B-SBA-20220420-N16"
       - "B-SBA-20221017-N16"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-736
     typ: garage
     namn: Garage 736
     platsnummer: 736
     tillhör_lägenhet: L-118-1-0057
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-769
     typ: garage
     namn: Garage 769
     platsnummer: 769
     tillhör_lägenhet: L-118-1-0058
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-768
     typ: garage
     namn: Garage 768
     platsnummer: 768
     tillhör_lägenhet: L-118-1-0059
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-767
     typ: garage
     namn: Garage 767
@@ -463,12 +728,22 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20250324-N12"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-766
     typ: garage
     namn: Garage 766
     platsnummer: 766
     tillhör_lägenhet: L-118-1-0061
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-711
     typ: garage
     namn: Garage 711
@@ -480,6 +755,11 @@ platser:
       - "B-SBA-20211123-N09"
       - "B-SBA-20220420-N09"
       - "B-SBA-20221017-N09"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-748
     typ: garage
     namn: Garage 748
@@ -491,6 +771,11 @@ platser:
       - "B-SBA-20211123-N17"
       - "B-SBA-20220420-N17"
       - "B-SBA-20221017-N17"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: P-911
     typ: parkeringsplats
     namn: Parkeringsplats 911
@@ -509,12 +794,22 @@ platser:
     platsnummer: 726
     tillhör_lägenhet: L-118-1-0066
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-750
     typ: garage
     namn: Garage 750
     platsnummer: 750
     tillhör_lägenhet: L-118-1-0067
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-751
     typ: garage
     namn: Garage 751
@@ -526,24 +821,44 @@ platser:
       - "B-SBA-20211123-N18"
       - "B-SBA-20220420-N18"
       - "B-SBA-20221017-N18"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-752
     typ: garage
     namn: Garage 752
     platsnummer: 752
     tillhör_lägenhet: L-118-1-0069
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-753
     typ: garage
     namn: Garage 753
     platsnummer: 753
     tillhör_lägenhet: L-118-1-0070
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-754
     typ: garage
     namn: Garage 754
     platsnummer: 754
     tillhör_lägenhet: L-118-1-0071
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-755
     typ: garage
     namn: Garage 755
@@ -552,18 +867,33 @@ platser:
     datastatus: verifierad
     brandskyddshistorik:
       - "B-SBA-20250324-N05"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-756
     typ: garage
     namn: Garage 756
     platsnummer: 756
     tillhör_lägenhet: L-118-1-0073
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-757
     typ: garage
     namn: Garage 757
     platsnummer: 757
     tillhör_lägenhet: L-118-1-0074
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-758
     typ: garage
     namn: Garage 758
@@ -575,18 +905,33 @@ platser:
       - "B-SBA-20211123-N19"
       - "B-SBA-20220420-N19"
       - "B-SBA-20221017-N19"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-759
     typ: garage
     namn: Garage 759
     platsnummer: 759
     tillhör_lägenhet: L-118-1-0076
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-760
     typ: garage
     namn: Garage 760
     platsnummer: 760
     tillhör_lägenhet: L-118-1-0077
     datastatus: verifierad
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: G-732
     typ: garage
     namn: Garage 732
@@ -596,6 +941,11 @@ platser:
     brandskyddshistorik:
       - "B-SBA-20200514-N09"
       - "B-SBA-20240529-N07"
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: true
+      installationsår: 2016
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
   - id: P-771
     typ: garage
     namn: Garage 771
@@ -603,3 +953,9 @@ platser:
     tillhör: BRF
     datastatus: verifierad
     kommentar: Markerad BRF i underlaget. Klassad som garage enligt beställarens rättelse 2026-10-23. Befintligt objekt-ID P-771 behålls för historik och hänvisningar.
+    garageporthistorik:
+      projekt: "P-GARAGEPORTAR-2016"
+      ingick_i_byte_2016: false
+      installationsår: null
+      källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+      kommentar: "Undantagen 2016: hade redan elport av annan modell. Modell och installationsår okända."
