@@ -328,3 +328,71 @@ objekt:
       []
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
+  -
+    id: "UT-URNA-KUNGSAN-001"
+    typ: "blomsterurna"
+    namn: "Kungsan gjutjärnsurna 1"
+    placering: "Innanför grindarna"
+    datastatus: "Produktuppgifter, antal, inköpsår och placering bekräftade av beställaren 2026-11-19"
+    egenskaper:
+      fabrikat: "GH Form"
+      modell: "Kungsan Blomsterkumme"
+      artikelnummer: "MG123023"
+      material: "Gjutjärn"
+      ytbehandling: "Oljad med svart pigment"
+      diameter_mm: 990
+      höjd_mm: 650
+      inköpsår: 2017
+      inköpsdatum: null
+      installationsdatum: null
+      serienummer: null
+      inköpskostnad: null
+      tillbehör:
+        -
+          typ: "bevattningsinsats"
+          artikelnummer: "GH131055"
+          material: "Plast"
+          utförande: "Dubbelbotten med vattningsrör"
+          antal: 1
+      identitetskommentar: "Löpnummer för registeridentitet; ingen vänster/höger-position eller fysisk märkning fastställd."
+    relationer:
+      []
+    underhållshistorik:
+      []
+    källor:
+      - "K-URNOR-OFFERT-20171011"
+      - "K-URNOR-BEKRAFTELSE-20261119"
+  -
+    id: "UT-URNA-KUNGSAN-002"
+    typ: "blomsterurna"
+    namn: "Kungsan gjutjärnsurna 2"
+    placering: "Innanför grindarna"
+    datastatus: "Produktuppgifter, antal, inköpsår och placering bekräftade av beställaren 2026-11-19"
+    egenskaper:
+      fabrikat: "GH Form"
+      modell: "Kungsan Blomsterkumme"
+      artikelnummer: "MG123023"
+      material: "Gjutjärn"
+      ytbehandling: "Oljad med svart pigment"
+      diameter_mm: 990
+      höjd_mm: 650
+      inköpsår: 2017
+      inköpsdatum: null
+      installationsdatum: null
+      serienummer: null
+      inköpskostnad: null
+      tillbehör:
+        -
+          typ: "bevattningsinsats"
+          artikelnummer: "GH131055"
+          material: "Plast"
+          utförande: "Dubbelbotten med vattningsrör"
+          antal: 1
+      identitetskommentar: "Löpnummer för registeridentitet; ingen vänster/höger-position eller fysisk märkning fastställd."
+    relationer:
+      []
+    underhållshistorik:
+      []
+    källor:
+      - "K-URNOR-OFFERT-20171011"
+      - "K-URNOR-BEKRAFTELSE-20261119"

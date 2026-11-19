@@ -1,0 +1,20 @@
+id: "K-URNOR-OFFERT-20171011"
+registrerad: "2026-11-19"
+dokument:
+  fil: "14521 Offert Sag 10449 (Sverige Kävlinge Brf Bogesholm Larsson).pdf"
+  sha256: "ed79202a64d72bd44935afa6052f67d16243ac01538881a8ad9e3320ccfd5dee"
+  typ: "Offert"
+  nummer: "14521-1"
+  datum: "2017-10-11"
+  leverantör: "GH form ApS"
+beställarbekräftelse:
+  id: "K-URNOR-BEKRAFTELSE-20261119"
+  inköpsår: 2017
+  antal: 2
+  placering: "Innanför grindarna"
+  produkter_och_insatser_bekräftade: true
+objekt:
+  - "UT-URNA-KUNGSAN-001"
+  - "UT-URNA-KUNGSAN-002"
+avgränsning: "Offerten används som produktreferens, inte som faktura eller bevis för betalning. Exakt leveransdag och inköpskostnad okända. Offertdatum är inte installationsdatum."
+original_publicerade: false
