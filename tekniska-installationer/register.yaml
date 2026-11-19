@@ -1264,3 +1264,2419 @@ objekt:
     källor:
       - "K-STANGSEL-VP-ORDER-20190529"
       - "K-STANGSEL-VP-BEKRAFTELSE-20261119"
+  -
+    id: "TI-FTX-79F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 79F"
+    placering: "Köket, Högalidsvägen 79F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0001"
+      -
+        typ: "located_in"
+        objekt: "H-79"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-79E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 79E"
+    placering: "Köket, Högalidsvägen 79E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: null
+      modellfamilj: null
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Fullständig individuell typkod saknas; för 79E är tidigare levererad modell inte separat verifierad"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: null
+      ingick_i_aggregatbyte_2020_2021: false
+      tidigare_utbytt: true
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: null
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0002"
+      -
+        typ: "located_in"
+        objekt: "H-79"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-79D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 79D"
+    placering: "Köket, Högalidsvägen 79D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0003"
+      -
+        typ: "located_in"
+        objekt: "H-79"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-79C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 79C"
+    placering: "Köket, Högalidsvägen 79C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0004"
+      -
+        typ: "located_in"
+        objekt: "H-79"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-79B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 79B"
+    placering: "Köket, Högalidsvägen 79B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0005"
+      -
+        typ: "located_in"
+        objekt: "H-79"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-79A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 79A"
+    placering: "Köket, Högalidsvägen 79A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0006"
+      -
+        typ: "located_in"
+        objekt: "H-79"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-77E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 77E"
+    placering: "Köket, Högalidsvägen 77E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0007"
+      -
+        typ: "located_in"
+        objekt: "H-77"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-77D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 77D"
+    placering: "Köket, Högalidsvägen 77D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0008"
+      -
+        typ: "located_in"
+        objekt: "H-77"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-77C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 77C"
+    placering: "Köket, Högalidsvägen 77C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0009"
+      -
+        typ: "located_in"
+        objekt: "H-77"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-77B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 77B"
+    placering: "Köket, Högalidsvägen 77B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0010"
+      -
+        typ: "located_in"
+        objekt: "H-77"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-77A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 77A"
+    placering: "Köket, Högalidsvägen 77A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0011"
+      -
+        typ: "located_in"
+        objekt: "H-77"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71A"
+    placering: "Köket, Högalidsvägen 71A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0012"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71B"
+    placering: "Köket, Högalidsvägen 71B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0013"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71C"
+    placering: "Köket, Högalidsvägen 71C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0014"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71D"
+    placering: "Köket, Högalidsvägen 71D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0015"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71E"
+    placering: "Köket, Högalidsvägen 71E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0016"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71F"
+    placering: "Köket, Högalidsvägen 71F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0017"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71G"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71G"
+    placering: "Köket, Högalidsvägen 71G"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0018"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-71H"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 71H"
+    placering: "Köket, Högalidsvägen 71H"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0019"
+      -
+        typ: "located_in"
+        objekt: "H-71"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-75F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 75F"
+    placering: "Köket, Högalidsvägen 75F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0020"
+      -
+        typ: "located_in"
+        objekt: "H-75"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-75E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 75E"
+    placering: "Köket, Högalidsvägen 75E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0021"
+      -
+        typ: "located_in"
+        objekt: "H-75"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-75D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 75D"
+    placering: "Köket, Högalidsvägen 75D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0022"
+      -
+        typ: "located_in"
+        objekt: "H-75"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-75C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 75C"
+    placering: "Köket, Högalidsvägen 75C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0023"
+      -
+        typ: "located_in"
+        objekt: "H-75"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-75B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 75B"
+    placering: "Köket, Högalidsvägen 75B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0024"
+      -
+        typ: "located_in"
+        objekt: "H-75"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-75A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 75A"
+    placering: "Köket, Högalidsvägen 75A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0025"
+      -
+        typ: "located_in"
+        objekt: "H-75"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-73E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 73E"
+    placering: "Köket, Högalidsvägen 73E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0026"
+      -
+        typ: "located_in"
+        objekt: "H-73"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-73D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 73D"
+    placering: "Köket, Högalidsvägen 73D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0027"
+      -
+        typ: "located_in"
+        objekt: "H-73"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-73C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 73C"
+    placering: "Köket, Högalidsvägen 73C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0028"
+      -
+        typ: "located_in"
+        objekt: "H-73"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-73B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 73B"
+    placering: "Köket, Högalidsvägen 73B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0029"
+      -
+        typ: "located_in"
+        objekt: "H-73"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-73A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 73A"
+    placering: "Köket, Högalidsvägen 73A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0030"
+      -
+        typ: "located_in"
+        objekt: "H-73"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-65E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 65E"
+    placering: "Köket, Högalidsvägen 65E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0031"
+      -
+        typ: "located_in"
+        objekt: "H-65"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-65D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 65D"
+    placering: "Köket, Högalidsvägen 65D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0032"
+      -
+        typ: "located_in"
+        objekt: "H-65"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-65C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 65C"
+    placering: "Köket, Högalidsvägen 65C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0033"
+      -
+        typ: "located_in"
+        objekt: "H-65"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-65B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 65B"
+    placering: "Köket, Högalidsvägen 65B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0034"
+      -
+        typ: "located_in"
+        objekt: "H-65"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-65A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 65A"
+    placering: "Köket, Högalidsvägen 65A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0035"
+      -
+        typ: "located_in"
+        objekt: "H-65"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67A"
+    placering: "Köket, Högalidsvägen 67A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0036"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67B"
+    placering: "Köket, Högalidsvägen 67B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0037"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67C"
+    placering: "Köket, Högalidsvägen 67C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0038"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67D"
+    placering: "Köket, Högalidsvägen 67D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0039"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67E"
+    placering: "Köket, Högalidsvägen 67E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0040"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67F"
+    placering: "Köket, Högalidsvägen 67F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0041"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67G"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67G"
+    placering: "Köket, Högalidsvägen 67G"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0042"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-67H"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 67H"
+    placering: "Köket, Högalidsvägen 67H"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0043"
+      -
+        typ: "located_in"
+        objekt: "H-67"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-63F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 63F"
+    placering: "Köket, Högalidsvägen 63F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0044"
+      -
+        typ: "located_in"
+        objekt: "H-63"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-63E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 63E"
+    placering: "Köket, Högalidsvägen 63E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0045"
+      -
+        typ: "located_in"
+        objekt: "H-63"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-63D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 63D"
+    placering: "Köket, Högalidsvägen 63D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0046"
+      -
+        typ: "located_in"
+        objekt: "H-63"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-63C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 63C"
+    placering: "Köket, Högalidsvägen 63C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0047"
+      -
+        typ: "located_in"
+        objekt: "H-63"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-63B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 63B"
+    placering: "Köket, Högalidsvägen 63B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0048"
+      -
+        typ: "located_in"
+        objekt: "H-63"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-63A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 63A"
+    placering: "Köket, Högalidsvägen 63A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0049"
+      -
+        typ: "located_in"
+        objekt: "H-63"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-61A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 61A"
+    placering: "Köket, Högalidsvägen 61A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0050"
+      -
+        typ: "located_in"
+        objekt: "H-61"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-61B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 61B"
+    placering: "Köket, Högalidsvägen 61B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0051"
+      -
+        typ: "located_in"
+        objekt: "H-61"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-61C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 61C"
+    placering: "Köket, Högalidsvägen 61C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0052"
+      -
+        typ: "located_in"
+        objekt: "H-61"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-61D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 61D"
+    placering: "Köket, Högalidsvägen 61D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0053"
+      -
+        typ: "located_in"
+        objekt: "H-61"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-59F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 59F"
+    placering: "Köket, Högalidsvägen 59F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0054"
+      -
+        typ: "located_in"
+        objekt: "H-59"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-59E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 59E"
+    placering: "Köket, Högalidsvägen 59E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0055"
+      -
+        typ: "located_in"
+        objekt: "H-59"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-59D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 59D"
+    placering: "Köket, Högalidsvägen 59D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0056"
+      -
+        typ: "located_in"
+        objekt: "H-59"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-59C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 59C"
+    placering: "Köket, Högalidsvägen 59C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0057"
+      -
+        typ: "located_in"
+        objekt: "H-59"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-59B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 59B"
+    placering: "Köket, Högalidsvägen 59B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0058"
+      -
+        typ: "located_in"
+        objekt: "H-59"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-59A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 59A"
+    placering: "Köket, Högalidsvägen 59A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0059"
+      -
+        typ: "located_in"
+        objekt: "H-59"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-57A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 57A"
+    placering: "Köket, Högalidsvägen 57A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0060"
+      -
+        typ: "located_in"
+        objekt: "H-57"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-57B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 57B"
+    placering: "Köket, Högalidsvägen 57B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0061"
+      -
+        typ: "located_in"
+        objekt: "H-57"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-57C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 57C"
+    placering: "Köket, Högalidsvägen 57C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0062"
+      -
+        typ: "located_in"
+        objekt: "H-57"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-57D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 57D"
+    placering: "Köket, Högalidsvägen 57D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0063"
+      -
+        typ: "located_in"
+        objekt: "H-57"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-55F"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 55F"
+    placering: "Köket, Högalidsvägen 55F"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0064"
+      -
+        typ: "located_in"
+        objekt: "H-55"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-55E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 55E"
+    placering: "Köket, Högalidsvägen 55E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0065"
+      -
+        typ: "located_in"
+        objekt: "H-55"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-55D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 55D"
+    placering: "Köket, Högalidsvägen 55D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0066"
+      -
+        typ: "located_in"
+        objekt: "H-55"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-55C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 55C"
+    placering: "Köket, Högalidsvägen 55C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0067"
+      -
+        typ: "located_in"
+        objekt: "H-55"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-55B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 55B"
+    placering: "Köket, Högalidsvägen 55B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0068"
+      -
+        typ: "located_in"
+        objekt: "H-55"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-55A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 55A"
+    placering: "Köket, Högalidsvägen 55A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Höger"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0069"
+      -
+        typ: "located_in"
+        objekt: "H-55"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-53E"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 53E"
+    placering: "Köket, Högalidsvägen 53E"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0070"
+      -
+        typ: "located_in"
+        objekt: "H-53"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-53D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 53D"
+    placering: "Köket, Högalidsvägen 53D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0071"
+      -
+        typ: "located_in"
+        objekt: "H-53"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-53C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 53C"
+    placering: "Köket, Högalidsvägen 53C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0072"
+      -
+        typ: "located_in"
+        objekt: "H-53"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-53B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 53B"
+    placering: "Köket, Högalidsvägen 53B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0073"
+      -
+        typ: "located_in"
+        objekt: "H-53"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-53A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 53A"
+    placering: "Köket, Högalidsvägen 53A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0074"
+      -
+        typ: "located_in"
+        objekt: "H-53"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-51D"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 51D"
+    placering: "Köket, Högalidsvägen 51D"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0075"
+      -
+        typ: "located_in"
+        objekt: "H-51"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-51C"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 51C"
+    placering: "Köket, Högalidsvägen 51C"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0076"
+      -
+        typ: "located_in"
+        objekt: "H-51"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-51B"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 51B"
+    placering: "Köket, Högalidsvägen 51B"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0077"
+      -
+        typ: "located_in"
+        objekt: "H-51"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"
+  -
+    id: "TI-FTX-51A"
+    typ: "FTX-aggregat"
+    namn: "Lägenhetsaggregat 51A"
+    placering: "Köket, Högalidsvägen 51A"
+    datastatus: "Historiskt underlag och beställarens omfattningsbekräftelse"
+    egenskaper:
+      fabrikat: "FläktGroup / Fläkt Woods"
+      modellfamilj: "MiniMASTER RDKS"
+      modellreferens: "MiniMASTER RDKS, projektets underlag"
+      modellstatus: "Modellfamilj enligt projektdokumentation; fullständig individuell typkod saknas"
+      serienummer: null
+      installationsdatum: null
+      installationsperiod: "2020–2021"
+      ingick_i_aggregatbyte_2020_2021: true
+      tidigare_utbytt: false
+      dokumentation: "tekniska-installationer/ftx-lagenheter/README.md"
+      utförande_enligt_projekt: "Vänster"
+    relationer:
+      -
+        typ: "serves"
+        objekt: "L-118-1-0078"
+      -
+        typ: "located_in"
+        objekt: "H-51"
+    underhållshistorik:
+      - "A-FTX-PROJEKT-2020-2021"
+      - "A-FTX-SERVICE-2024-01"
+    källor:
+      - "K-FTX-ARKIV-20261119"
+      - "K-FTX-KOMPLETTERING-20261119"

@@ -1,0 +1,547 @@
+id: "K-FTX-ARKIV-20261119"
+registrerad: "2026-11-19"
+projekt: "P-FTX-LAGENHETER-2020-2021"
+dokument:
+  -
+    fil: "Beställning 90 cm front.xlsx"
+    sha256: "684c847893b383e1814110b7fa071e44f2547ef29709f0a97813c7f8e81511f2"
+  -
+    fil: "Entreprenaduppföljning.xlsx"
+    sha256: "9b6b9a1fa5db0984bb166829597d0087deef5d28c352fdbc8a3f6bb0956449ee"
+  -
+    fil: "FG_CPDD CPDL Montering och skötsel_installation-operation-maintenance-commissioning_UN.pdf"
+    sha256: "aeaac5a68d1bf964b00519fd3a3ddb8f28b6fd081d3edea3b6c21cd329433b01"
+  -
+    fil: "FG_MiniMASTER RDKS Produktblad.pdf"
+    sha256: "f1bcfd0b6ca1efe52fd06dc1f1e90aa59be1d7f47aeac0395992d1716f19af51"
+  -
+    fil: "Information till boende_Ömangruppen_uppdaterad 20200917.pdf"
+    sha256: "66ef96961b4f95a40b8b785faa234cf4c06592ddb1dc1c6116f46776742f41e9"
+  -
+    fil: "Inför slutbesiktning av Fläktarna.docx"
+    sha256: "e1011cfec2078b1b1c33cf6125009d740bb08f402e01891009e37bedc4b01d50"
+  -
+    fil: "LV200590 - Bogesholm äta_uppdaterad 20210628 (002).xlsx"
+    sha256: "6fa5ca3a0b5c0c0dc54027822f5a3c20b2f726c825d5a78a54114af14f44d12e"
+  -
+    fil: "NLM 10.pdf"
+    sha256: "0f8c540fb7733d8d94139ae4b7594c70f4182a4659258f3f3a60fdcbd3fbe8f9"
+  -
+    fil: "OV200018 FTX aggregat.pdf"
+    sha256: "aabdd18c6138e1aef53afe6e6f84f2628b082dbb22e74d4c1767162cb0d9832c"
+  -
+    fil: "Preliminär tidplan.xlsx"
+    sha256: "b2b2470db5e17a48ab97fe7d42aa048953b3b98d21a6eaeb45fd6c0f66325da2"
+  -
+    fil: "RDKS_Instruktion-v.204_oktober_2014.pdf"
+    sha256: "4f727e3922fbc7df0d59cfcad2661e25591f57d268980a6da072952df0c786d2"
+  -
+    fil: "Viktigt gällande fläktutbytet.docx"
+    sha256: "b5ca28f224878b2929aec84680e4abeb2f26e0a0d2e42fbe18b6314c612a56ee"
+  -
+    fil: "Viktigt gällande fläktutbytet.pdf"
+    sha256: "261c2e320707af4e5a7651a13b5fc1c660afc64c0d7deb57c9380d5dd235008a"
+  -
+    fil: "Service 2024 Januari\\Garantiservice.docx"
+    sha256: "76a00f5607bcbab384fbb82b475cb4a680affe25a2cb48693bccb080ba27862b"
+  -
+    fil: "Slutbesiktning\\Boendesynpunkter på installation.xlsx"
+    sha256: "7805f358f48663d4e10a1056563d8a15567deea768ce02d7944263433822ac47"
+  -
+    fil: "Slutbesiktning\\FG_MiniMASTER RDKS Produktblad_salesleaflet_UN.pdf"
+    sha256: "59a237a0ef7c235f1d439dd4fc40469d41e4ec0800eaf497f19f67054bf969ce"
+  -
+    fil: "Slutbesiktning\\FG_MiniMASTER RDKS Teknisk katalog_technical_UN.pdf"
+    sha256: "4ccf6ac5f85d5ae35c781f66ee9959a7e81f13e2d4b89fe3a5a2b7f2c94f317f"
+  -
+    fil: "Slutbesiktning\\FG_RDKS Byggvarudeklaration_declarationofmanufacture_sv.pdf"
+    sha256: "5913edf440973df5dfbefa8521b6521e95c9aed00a367bbd86d5ca9f386c844c"
+  -
+    fil: "Slutbesiktning\\RDKR-99 Reservdelar.pdf"
+    sha256: "a726a031d7772232604083c55e460fd99c5b78772bbdaac79e01ed3ab11ed947"
+  -
+    fil: "Ersättningsunderlag, privat mappnamn utelämnat/51A Beräkningsunderlag.xlsx"
+    sha256: "2e57846e84922f9189cb03b743c2a6548e73d7fef7f4897c6590d6521a1b7871"
+  -
+    fil: "Ersättningsunderlag, privat mappnamn utelämnat/Uppdragsredovisning_ovrig.docx"
+    sha256: "a114215044e4abf321ddc819e193d4d2f07a849a21c43f466c0a2e72bd94ed29"
+  -
+    fil: "Ersättningsunderlag, privat mappnamn utelämnat/51B Beräkningsunderlag.xlsx"
+    sha256: "88815e31f8c3bfed95ce48c717f896cd6329b42f3a63da49a82717f831a49e23"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 51 A.xlsx"
+    sha256: "b9bcaf621d21137ac1b1fa934eece476df3a380fa9af346aa821e000c74f22d1"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 51 B.xlsx"
+    sha256: "41f021f0dd40de6d73e414bf598dedcb8d367d7ccc20b92f5c3ca6a933b7914a"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 51 C.xlsx"
+    sha256: "0cefaf4d26f1bedac2151394ebfeeba93b5ef166521c03a08b43e62f4d02eee6"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 51 D.xlsx"
+    sha256: "a329f230d95f0a6599d83e5f52f42c5ca9907164c58518360169a913edcf6486"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 53 A.xlsx"
+    sha256: "0b4b459fa68d1134631bf9eb8e57e64923aa33a29824ec1589c1d1aed371e7cf"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 53 B.xlsx"
+    sha256: "7c2ab1fabc0592fa831da617a7457401c309b4a4bc542d6dc174befb905768a7"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 53 C.xlsx"
+    sha256: "48454b77cf48e932503a3b5819bd1f77fd6cd7acd428db2edf8ed1af2f62d9cb"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 53 D.xlsx"
+    sha256: "20911c001a2678dab19506d9d686851c3dff07458ae99380ad61496982a50d52"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 55 A.xlsx"
+    sha256: "d52479388f3285bd0c4a4c6bdf8376bc22aa1938512b3a4f25dd3d46849b5c15"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 55 B.xlsx"
+    sha256: "7008c12263dad71b77b115dc15fa686e41e401ad2ae10558224fca92ffd8b8fc"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 55 C.xlsx"
+    sha256: "4fb31626b921f3f02c5417d4053a9da756ec9733f6037e58123a8ac50893fdd3"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 55 D.xlsx"
+    sha256: "420a608af375f0788d4bffa8e7ef92fad750e7bbfc37b460765b70d5948be1d1"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 55 E.xlsx"
+    sha256: "ad64f16e2e01c7b9032d14ced3ba6d5c1f727cf7c3c102136e91fa8ffe6f63da"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 55 F.xlsx"
+    sha256: "734b341b61bf789e1b921e63288eedd5e7101288ece6396b1f9b5397001f93aa"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 57 A.xlsx"
+    sha256: "27599b1a8f1b15c1b23a7e31267c29504a9151dec8422f5c1579bd9051da3276"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 57 B.xlsx"
+    sha256: "a75c264b4178d3bbd159631ebbd2e0c520816cdabacb168c61196e9f6eedd59c"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 57 C.xlsx"
+    sha256: "0be1b662f635e908dd21524540277d7e940eb487a652790a6cd48ebd0a396223"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 57 D.xlsx"
+    sha256: "de03165083153588340970d9e759e84c9a7884660e68962d6d510e9a8bf77ebb"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 59 A.xlsx"
+    sha256: "3e95e83dcfe2d8b5ca0de45176ed1d85cee71e130ae7f31d061884af5ed9966b"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 59 B.xlsx"
+    sha256: "aabe97b62c38f54b9e54be5a508d50fb6cc698be191b76b52a6bb31b0ec16643"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 59 C.xlsx"
+    sha256: "737935e9782cea0143729fef78a51d97425d62bf5b7e2f755b9a91c597b72042"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 59 D.xlsx"
+    sha256: "9d4064fe9f4ad1ea8615cd87ef92d23ea03cc5d38e21203250415d928d04d238"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 59 E.xlsx"
+    sha256: "abdecfefb0cc191275f09a7a2f65d4de0a8ad27ca94729336272d1eb1937396e"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 59 F.xlsx"
+    sha256: "00056d7db848968b4e9b38198d11e25aefff08083500f06b6f8d887d6c7f4114"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 61 A.xlsx"
+    sha256: "aa6b6655667ea20a9a2e78c79c324100918736f47c13a9949ff3d730ec43ab2f"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 61 B.xlsx"
+    sha256: "bff4ad1bcfc3318188f99dc96af8cf38518c0105e24d295e71b3e48827d18df3"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 61 C.xlsx"
+    sha256: "1fe7fd38763d2cef72349d910b42547b830d31ba5bccde7488e54cad158c77e0"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 61 D.xlsx"
+    sha256: "7dfadf3dbca4fdc7c40a70694285697760e8e93d1d7b579186d81b87f3cd3f31"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 63 A.xlsx"
+    sha256: "7bf0f0bcd05504225c4e00367661fb26105af54f21ad1293236362202e9ac2a1"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 63 B.xlsx"
+    sha256: "4016503879d1bc5b8d23a1c2a3406d3601a4be26466aaf0426582777a4f12109"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 63 C.xlsx"
+    sha256: "7f313c9a82911f46276a962edbb958eb54078e8adbee69096a859b901a9bf6e5"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 63 D.xlsx"
+    sha256: "2818feb772cf0d1895663ecade1958a3335fcdc6c69786bfc2db59ae4b117307"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 63 E.xlsx"
+    sha256: "1f78d4c51074016122b2a49f9459a867c8e6dfb4fba983c0b76f44c49f6a4daa"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 63 F.xlsx"
+    sha256: "5bd049217b1db64fd348c5d211046061a320dd5be3f81b6ea93a3865f0956f3e"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 65 A.xlsx"
+    sha256: "43e9c83b93a150a8df7a067db05ef8fdbe2340457c9410734b39a7026bb87e5c"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 65 B.xlsx"
+    sha256: "65d43a4adcafbab855dd7497e112c329f2727271a7f76ffe7bcae43f4ed003be"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 65 C.xlsx"
+    sha256: "468261924ee869760aefcf9859d50a4efa616fec39979f9ce392a329f29cfa9b"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 65 D.xlsx"
+    sha256: "4d27016a8beeaa56c540c8080dc4efedb3811fe16b346b470fb9f8323601c5c2"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 65 E.xlsx"
+    sha256: "3c76bbde84134e21cef0e493b460ef6c9416db35696e1ef9d7d4079f2f6be227"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 A.xlsx"
+    sha256: "7d87de80e4f55e9b5785dc3bf35252939c3b75990bc92bf43c1168b21e0f3ba9"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 B.xlsx"
+    sha256: "4e18809c6b6b5f6d8a257f806f51bb20756e70d811f2fa4df69a4f635306c7e3"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 C.xlsx"
+    sha256: "4c64aaffbe98aa55d439a4dbdf840c29138f56b68c821ed0ca233efad83bdc3f"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 D.xlsx"
+    sha256: "ed417623ce95b07ce3b43d15ed9416a94dbcd94e8fce4e9d61748a460138fd1c"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 E.xlsx"
+    sha256: "2b51de5fe05ed20fe96d980240343030d576fe7df645af30c3a2319919725654"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 F.xlsx"
+    sha256: "07f8551e9462c8bf0c360b9642494f729259b11f6979b70c7c6ede5dc4dcd896"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 G.xlsx"
+    sha256: "30061c5f92445a010aa75749f048b70a11f840515ed92614d88418ae63a92f1b"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 67 H.xlsx"
+    sha256: "c10ac85bbf9b3b37abe4012069f25f2e5fdc8a8408ad465d06e21b0d3ca2e2f9"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 A.xlsx"
+    sha256: "fb1c732358213e409310a67e4a9223452c6959df0e9b278b39f92e55129ef6bd"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 B.xlsx"
+    sha256: "143e029e50d30494f98370c87b8f84985e25032d54a9325fc23207b729225703"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 C.xlsx"
+    sha256: "fb89fe1e22f84050c26e362b6a5fa3fd92198bae12ed06d19f304ccc6d087b96"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 D.xlsx"
+    sha256: "a8b76378d06d85274e3b9949b38dac18b48c213decbcc534c623b5f5858d82a6"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 E.xlsx"
+    sha256: "f910092d8d4c3e0bffe4b4ff3f6c467e9d5d52e579d64a8ae874b0d9edde8588"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 F.xlsx"
+    sha256: "ea57772e81eaddab4039cc728959347afda24121309e3bc8343840fdf67802e5"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 G.xlsx"
+    sha256: "1f3528fc9db16c3f67e604585fcfad6f3ff292ed2590916502696158d7d9eaf6"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 71 H.xlsx"
+    sha256: "7ed4742f5a29aed7fea9b506bc3a25c28a5cf596f68ccd285037ee252b143abd"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 73 A.xlsx"
+    sha256: "176a0d33a74b34676680df437fe9d9c6baabe964ff14c3bae47eeac42d001721"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 73 B.xlsx"
+    sha256: "3f958cf2c0e3b0d9ab05babe9440311d693b449763c53fbb5e040265f20b198a"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 73 C.xlsx"
+    sha256: "f4b3da8ac236aee3ef9c87be23f4c942f9fde362c7db5c67be8a41af86e47b66"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 73 D.xlsx"
+    sha256: "d4ab3e74dd241dc1558066612b212dd9e2b42cdff437ed3f962d7b5e71b98f30"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 73 E.xlsx"
+    sha256: "64e2547e7dea09d38dfc3d03875e01a90e295fb505f1b0218fd87d8e76028a44"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 75 A.xlsx"
+    sha256: "cf4179520d935629d704068b611c1a33cc9e0a2c699e25acb9b8c8d582ecef13"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 75 B.xlsx"
+    sha256: "d3183f7c07f22d0d3b050fbf6b5699014fafbf23e257abe9c86dcf68eed466d6"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 75 C.xlsx"
+    sha256: "d406f2eb33841f34ea3a2ac8ba458b8ac0e0ffe60d150bdff0febbaf3a73915c"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 75 D.xlsx"
+    sha256: "49d49efbc4b3d652e84d6d47d7c5e128bc7885077a14ceaf65d51e39af97bf2b"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 75 E.xlsx"
+    sha256: "1c3f79edd5ba429a15ceb380752b975b3d233b22a19551f94fb8d5a36cf2d500"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 75 F.xlsx"
+    sha256: "a6162dad76cca94f07261d7d5ed13def0e6720b0920b0d9f89fcdc9a94d4808b"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 77 A.xlsx"
+    sha256: "e37348280dcd8e2ada9d5e4f846f9fe862d67af35d78f399cbabae2f8e3f8550"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 77 B.xlsx"
+    sha256: "050dad23f7438498e9dff4c5aea0f5fd86986ad88a6bfa49b73d0796c0f5dac0"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 77 C.xlsx"
+    sha256: "80323f479cdb481b98d8f9278b1900613025d7cd4219453ff271e6606f918a02"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 77 D.xlsx"
+    sha256: "6383f730e64ea4fe6dc10c8246aa2a046f7712ab139f10544fc71a8c6a2b46db"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 77 E.xlsx"
+    sha256: "f473168565f15e6dd761a28cfc3be7eb01998159db1181f895b67ac66bed6b22"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 79 A.xlsx"
+    sha256: "928fbf01bb00fe28964e832e3108e64e5109587ae4ca48f98b6f110fc21d8f80"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 79 B.xlsx"
+    sha256: "ecdcfc9557d02470f9bf9c9067293396f2ed7bcc68c5a202c586974462a962b6"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 79 C.xlsx"
+    sha256: "b5b5682f93bf214d0a7a702d0da2c186be0aa53ca38bd6ab14dc12f1d539daec"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 79 D.xlsx"
+    sha256: "01646708e90bb9648b7bd1ffeb613f2645c1f83d23e1ff5df78bd08e38223dc5"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 79 E.xlsx"
+    sha256: "e169e30313f6adb756788cfe3c4ad4f4c90ae8aa6d70ea00cf9f2b95f0cc93f1"
+  -
+    fil: "Slutbesiktning\\Bogesholm Injustering\\Högalidsvägen 79 F.xlsx"
+    sha256: "50990049d7856dd4f52276543009d41954e3114b51f398b3f840ed922bd5c6e6"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 51 A.docx"
+    sha256: "e85329d5639002ca183a6a9f92ee1c3a309839e12c75bfa8a4c25b0bae160fe6"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 51 B.docx"
+    sha256: "02026cbd6431bca0b87a24d79f58379fe2d1b545511b9ca3922b31ab3117609d"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 51 C.docx"
+    sha256: "4b694272802547546bb55c8dc594bf4ed236a5aca71071f3cfb23ca6464d1796"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 51 D.docx"
+    sha256: "46345fc27f6ed12de1f27d5601ab27e1279f4b85e215cd80fbeeef5bf7d23a6e"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 53 A.docx"
+    sha256: "f6408ce58c60b9d572f15637870ea38cd600c0f85008934268bd674a745acfd4"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 53 B.docx"
+    sha256: "40ef790f1e14f7cfec270f18d3835a06e6692eb5e0ff490bb6090a959352db9e"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 53 C.docx"
+    sha256: "65103c8528ba0b3bd834f57bb96a02be406b64b30130d60556ff6d3710213b50"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 53 D.docx"
+    sha256: "0cfbe5d329352cc009d50710e3e927082f1f9eacfbd312bbf903cd7c2dd019c9"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 53 E.docx"
+    sha256: "c2672099d06d8bd416dc80af265f44526c055e9bb595eff56895482851120f76"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 55 A.docx"
+    sha256: "e5af8a7f713cfc59fb1aca494e46b711b7cbb78c0e6ad221c20cea1acf0525ab"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 55 B.docx"
+    sha256: "842f203859136cac7845a9abc4cd7b70a200aafad87074de74f1def17e819228"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 55 C.docx"
+    sha256: "0d9cd3c9e283ba722b0d1056d64c14315796d83d1df6867f465acbc61014f91a"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 55 D.docx"
+    sha256: "af386bcac4937b0154e1d30c3d2dcce3b6718cfed0aab00dbcf5c2588e432c97"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 55 E.docx"
+    sha256: "898ad151415f73c8bbaebb49a95e9e2502d2787303fb1eea14148b50ccbbaa69"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 55 F.docx"
+    sha256: "294248d1b687a40888e63dcdd73e0443ca565a4f8d92d5f8be01967b7558e0d5"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 57 A.docx"
+    sha256: "8f244ce5cd8e6d2bd1f071fd615ed01e7c1cacec21e6a1bb94fb67d4332aa5ca"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 57 B.docx"
+    sha256: "2f1c435d198843592e394b8e7ec9ca53db12423d150c16d556564f0f10019788"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 57 C.docx"
+    sha256: "9357d59a6dd643d75fe0dd928e957ada539ea57599f4168b0c9825d6cc11c8ab"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 57 D.docx"
+    sha256: "8f2f74763ea8c686590eee2a13a4858a8cc1cf80591b1ab962433a4d037c6d9c"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 59 A.docx"
+    sha256: "936f4012590d1e1d2542bf2478b366b0fcbaa1f3cbab25bb357a4ab3f187a114"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 59 B.docx"
+    sha256: "2730f4f278b555e725a04f8497acbceccb6204d97bddfdd10ad904ab3057781e"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 59 C.docx"
+    sha256: "530d4d394b8e6e4dd972a20eace90a4df7cc513ff5ec9edbd8ad6ec5a7b562df"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 59 D.docx"
+    sha256: "6b6bbd16ca53c6f993fa3a59c0b558a516f4a6b23608d51477656ce615cf92d7"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 59 E.docx"
+    sha256: "5c91f90bb052ba049b0c2a2dfc0189a67d86214478622085e3e4579e7910e0cc"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 59 F.docx"
+    sha256: "b60562483c79cb07634972ea267ae5fe01a065222f95765b80a9477d4580d680"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 61 A.docx"
+    sha256: "57d30337b33a9c554e403151c298903eb882c87ce33b07fd5cf54eafd46af750"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 61 B.docx"
+    sha256: "9883bdb06c2b1b0bdc614f07f6cf7aae975c53bbf008fae376b6dd32822aa5e1"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 61 C.docx"
+    sha256: "29506af5aa529f2b2283a47d19a07d4b98fa77d8e0ef58084fa0f0e152614b68"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 61 D.docx"
+    sha256: "a94b247e074e6f97c2052bc6da7fa5bbec86717439ddd1389f48b3aa40c85ae6"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 63 A.docx"
+    sha256: "f8eb7af79190e94d69d1679370412d9fe0a6de5d265bad1c877a5a239b401af2"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 63 B.docx"
+    sha256: "f312cb688e22407ea7d66bcb75be2d7e0d1cdd8b3bb93988d7f74e2cd4a4cf91"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 63 C.docx"
+    sha256: "4a5f18ced06fdbf3d409d3755ff581adff0024df332814fc3af1c556ea165c99"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 63 D.docx"
+    sha256: "f3732c84e4ca6f620c00cb396c5e71b801652607acdd2b680ddd6077c16043f8"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 63 E.docx"
+    sha256: "0a15865de0fbe731dfe69f7df68798523a416675b81406a74acc51bac7366ad3"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 63 F.docx"
+    sha256: "37dc4a409d7e478cddca92cf91133af9ba3cd1368902dfc8550c644d99b4be69"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 65 A.docx"
+    sha256: "85cc5904c8beaf1272a00481263d9e0075ffec27abd10233e3b728d26eb7a61d"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 65 B.docx"
+    sha256: "5af5aaffe3819a66c4a37797e427f4ab032f05438f51884efdf60d94eb8ce970"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 65 C.docx"
+    sha256: "f408140a647e89f141161c96f5d25aec35584b71cd437b7aa10a62cae332b77a"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 65 D.docx"
+    sha256: "e68abf7ce5f941336ac28295d78cdaa6a7b16987564477b3fbdb6012e711298c"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 65 E.docx"
+    sha256: "67ec34e966f6245fc11c31d6d32ea1e0f2e16f0ec8f7061b01d9ae4400b711fa"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 A.docx"
+    sha256: "b6c02204372d621498ec6110e19d21875866c427e6dc650e7f1b13cc0c21a54c"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 B.docx"
+    sha256: "ad713cf71cbb03a55969d2b46c3020c8856efaec3d1c5163ef88fbfcfb42e2e5"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 C.docx"
+    sha256: "4b4e40000c7be6fae0083dbf1c6df3ebf5d3bb0f7af1f5696ed4884227225fa2"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 D.docx"
+    sha256: "9a89a2860789cf7492b362dfb9499f2be06c7e2883a3b75806ae7508c9aa7fb7"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 E.docx"
+    sha256: "ae218977fbf842172f9a537b0b8b4f8376217d4b67c6216322106629337a4a4a"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 F.docx"
+    sha256: "3d2709491a4af1ffd4915fcf14eaee24aa77b577a9793554e17becb643abc267"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 G.docx"
+    sha256: "a4155614a8af739f6e414fd282e149f43bd50a4c5182573c161a84932feca527"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 67 H.docx"
+    sha256: "680e15563c251cc98f36cd445372c61c10029fd170d7e815f6847b604e45ec91"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 A.docx"
+    sha256: "e941cdfd87187b65e4335ccadb3a915f6ba072a6af7683217f17f5673669da27"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 B.docx"
+    sha256: "88b59c707fe88e22806b48f9a942e2aaf3b5d26a2670d7a966a52e43a4b242b9"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 C.docx"
+    sha256: "afc5d5b331143c3c6bef294f3bedd17a538113bc27cbb9a28c7a5f256949aa4e"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 D.docx"
+    sha256: "169e1788b1df4d9cb0ae7014f0a8083f7f991d03ec9ea9ee68725479b54561f3"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 E.docx"
+    sha256: "951d64eb572eae9ce8b3eb2cae8b5d600fb5ba63e159d68dddb3857a246592bb"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 F.docx"
+    sha256: "e509a2f05c7ff557f42564e1b571cbf17cb82ec64317cc0cb6b46b40c8dcef33"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 G.docx"
+    sha256: "35ec81bf6613a833bc87fe231470a3a010d25f42ffced6061b9ed6954d7d5bfa"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 71 H.docx"
+    sha256: "7fd076ee056e7a3c0f5cd972cffe853000c7e062f7861f829f681eef4dd265a1"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 73 A.docx"
+    sha256: "8e9fac20653a16ab8f7fc3ed1ce4b405f8dfae6919df2a7519e7fff7d044e005"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 73 B.docx"
+    sha256: "4e7e10c4161a99cbf49451b3fd9446973364c2bde6da9da61af8545c27dd17f9"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 73 C.docx"
+    sha256: "120bd4737e1016e88273a91e56eecf061e6bf5daefa87b1edebd44f05412fa1e"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 73 D.docx"
+    sha256: "c5216e416046a9e239fb854fefa01b384588d3a5fae3798e6540207406555a57"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 73 E.docx"
+    sha256: "f67c40a2b349bacc5efd6bdecd3d05223173fc688492d4c5e9fa52c13ab7fbcd"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 75 A.docx"
+    sha256: "6a679e19dd653193ae8a3f34682634c991a0e8f13a29336cbc6acb956336c6b3"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 75 B.docx"
+    sha256: "19078d65b9a5c9051d4ec6b7fe5550256c72d325ac865c85ffe6e95bfea4d9ca"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 75 C.docx"
+    sha256: "c25e559914bf00850b95a9bf48d97ea7a73029296c09958f4549adb82e8d915c"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 75 D.docx"
+    sha256: "0bb692ba16e6ed7f15690db20c1e8ea516d814cd9479d3062bae886e6780ae40"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 75 E.docx"
+    sha256: "4d07ca0da64a10a64175194b3631770ee7ee3c75075bb30496b88addae5749c9"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 75 F.docx"
+    sha256: "a984fa5211e2f33937191ed28f2d626693576aaf4d16289946556d4e6708228f"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 77 A.docx"
+    sha256: "ff2ebb7cd462d6df183e2ec81b77527c5866e96d42a9a96f6c1c844a53afff8a"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 77 B.docx"
+    sha256: "14e096fb721cf72cc98f2045beaa1de156cefa2d3f7877fc22f793b96654b882"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 77 C.docx"
+    sha256: "12fa8b6504aaa5b56c200b641e55353bc0b8c42571aa1b7ae7c146fc3e6b71a4"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 77 D.docx"
+    sha256: "3cf187cefa56a4823377652be0bd5ef901e41e414cb37d4c725e419ee9b3e5fd"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 77 E.docx"
+    sha256: "5dcb12243eaf1136123c909a7f26d9e1e9509df668013b049b98e56f18c003f5"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 79 A.docx"
+    sha256: "5f4f2b4deac19bc322171d17ee9b4f51a8f1381970a62a02fe4b5f5d4c73c603"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 79 B.docx"
+    sha256: "ec28e386d6ad456dbf7bc51a49c4dee39bb069fde4476644c64caa4b6d06cf7f"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 79 C.docx"
+    sha256: "aa525281378ef8d58e575a41b2e58435ef81a05841ace96677667b65f665d536"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 79 D.docx"
+    sha256: "7e990bd0e21ec3220b44d612262598a516fae66239c289756adbda5437a04ef3"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 79 E.docx"
+    sha256: "e076930ee7ef833c4326caa0fb267221a4a7430808e91935b6fd242897709ca4"
+  -
+    fil: "Slutbesiktning\\Egenkontroller\\Högalidsvägen 79 F.docx"
+    sha256: "e85b75ed50bf9babbc5f9d093e85d1b27de0879a1f817a5c55cd1903d4ebadab"
+beställarbekräftelse:
+  id: "K-FTX-KOMPLETTERING-20261119"
+  undantag: "79E hade bytt tidigare och drogs av"
+  projektbyten: 77
+kontroller:
+  egenkontroller: 78
+  injusteringsprotokoll: 77
+  mätpunkter: 605
+  serviceposter_2024: 76
+  lägenheter: 78
+avgränsning: "Inga personnamn/e-post, bankuppgifter eller originalhandlingar publicerade. Individuella ersättningsblanketter och ekonomiska beräkningar är inte fakturor. Manualtillval och modellgeneration inte antagna installerade. Ärvda orelaterade Word-sidhuvuden uteslutna."
+original_publicerade: false

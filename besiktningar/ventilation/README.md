@@ -21,3 +21,7 @@ Se [rensningsregistret](rensning-2014.yaml) och respektive lägenhets ventilatio
 För **övriga 74 lägenheter** är genomförd totalrensning och godkänt resultat registrerat **enligt beställarens uttryckliga bekräftelse**, grundad på avvikelselistan. Huvudprotokollet saknas och individuella godkännandeprotokoll har inte granskats. Rapportdatum används som utförandedatum enligt beställaren. Detta är rensningshistorik, inte OVK av lägenheterna.
 
 Originalen finns i föreningens dokumentarkiv och publiceras inte här. Kostnader har inte lagts till. Se [importmanifestet](../../inventering/importer/ovk-2026-11-13.yaml).
+
+## Lägenheternas FTX-projekt
+
+[FTX-byte 2020–2021, injustering och service 2024](../../tekniska-installationer/ftx-lagenheter/README.md) är separat från OVK. 79E hade bytt tidigare; 77 aggregat byttes i projektet.

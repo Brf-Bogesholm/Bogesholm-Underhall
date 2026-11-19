@@ -1,0 +1,338 @@
+projekt: "P-FTX-LAGENHETER-2020-2021"
+datum: null
+år_enligt_sammanhang: 2021
+temanyckel:
+  5: "Trasig fläktkåpa"
+  6: "Ljud"
+  7: "Galler"
+  8: "Köksinredning"
+  9: "90 cm kåpa"
+  10: "Annat"
+noteringar:
+  -
+    adress: "51A"
+    lägenhet: "L-118-1-0078"
+    källrad: 2
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Inte hemma"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "51B"
+    lägenhet: "L-118-1-0077"
+    källrad: 3
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      10: 1
+    kommentar: "Inledande defekter och störningar promt åtgärdade. Dock: Direkt efter installatione har elförbrukninge dubblerats från tidigare ca 250/300kWh/mån tilldan nov 550/600 KwH/mån utan någon övrig extra förbrukning tillkommit"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "51C"
+    lägenhet: "L-118-1-0076"
+    källrad: 4
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "53B"
+    lägenhet: "L-118-1-0073"
+    källrad: 5
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "53C"
+    lägenhet: "L-118-1-0072"
+    källrad: 6
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      6: 1
+    kommentar: "Jag tycker att ljudet är högt både inne och ute."
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "53E"
+    lägenhet: "L-118-1-0070"
+    källrad: 7
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Inga anmärkningar. Vi är nöjda"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "55C"
+    lägenhet: "L-118-1-0067"
+    källrad: 8
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Helt utan anmärkning"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "55D"
+    lägenhet: "L-118-1-0066"
+    källrad: 9
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Jag är nöjd och har inga klagomål"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "55E"
+    lägenhet: "L-118-1-0065"
+    källrad: 10
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Inte hemma"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "57A"
+    lägenhet: "L-118-1-0060"
+    källrad: 11
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      5: 1
+      8: 1
+    kommentar: "Plåten under fläktkåpan mot väggen är dåligt monterad"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "57B"
+    lägenhet: "L-118-1-0061"
+    källrad: 12
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: null
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "59C"
+    lägenhet: "L-118-1-0057"
+    källrad: 13
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Jag är positiv till ett bra drag pga förbättrad luftkvalitet. Men när fläkten är på forcerat läge \"stormar\" det i vardagsrum och sovrum (båda). I kök och badrum verkar draget vara mindre, där det behövs."
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "61C"
+    lägenhet: "L-118-1-0052"
+    källrad: 14
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "61D"
+    lägenhet: "L-118-1-0053"
+    källrad: 15
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "63D"
+    lägenhet: "L-118-1-0046"
+    källrad: 16
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "63E"
+    lägenhet: "L-118-1-0045"
+    källrad: 17
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Inget att klaga på"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "63F"
+    lägenhet: "L-118-1-0044"
+    källrad: 18
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "65A"
+    lägenhet: "L-118-1-0035"
+    källrad: 19
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Vi har inget att klaga på. Duktiga killar som fixade allt snabbt och bra. Bra jobbat!!! MvH Christel & Thomas"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "65D"
+    lägenhet: "L-118-1-0032"
+    källrad: 20
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Bra och kunnigt bemötande av montörerna"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "65E"
+    lägenhet: "L-118-1-0031"
+    källrad: 21
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "67A"
+    lägenhet: "L-118-1-0036"
+    källrad: 22
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "90cm kåpan är lös mot skåpsidorna och tak"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "67D"
+    lägenhet: "L-118-1-0039"
+    källrad: 23
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Inga problem!"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "67E"
+    lägenhet: "L-118-1-0040"
+    källrad: 24
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Jag tycker det fungerar bra"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "67G"
+    lägenhet: "L-118-1-0042"
+    källrad: 25
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      10: 1
+    kommentar: "Styrelsens anteckning: Ej monterat beställd 90 cm frontplåt. (Oklart när beställning verkligen gjordes). Ny beställning är skickad 1/6."
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "71A"
+    lägenhet: "L-118-1-0012"
+    källrad: 26
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      8: 1
+      10: 1
+    kommentar: "Kåpa till lampa gick sönder i garderoben/klädkammaren. Ibland när man har igång fläkten på 120min-läget så luktar det cigarettrök i hela lägenheten"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "71E"
+    lägenhet: "L-118-1-0016"
+    källrad: 27
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Fungerar mycket bra!"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "71G"
+    lägenhet: "L-118-1-0018"
+    källrad: 28
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Inget att anmärka"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "71H"
+    lägenhet: "L-118-1-0019"
+    källrad: 29
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Vet inte hur det varit tidigare, vi har precis flyttat hit"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "73D"
+    lägenhet: "L-118-1-0027"
+    källrad: 30
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      6: 1
+    kommentar: null
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "75D"
+    lägenhet: "L-118-1-0022"
+    källrad: 31
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      10: 1
+    kommentar: "Fläkten är helt sönder. Det är någon slags rem som är sönder. Den har varit ur funktion ett antal veckor nu. Det skulle åtgärdas skyndssamt!!!!"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "75E"
+    lägenhet: "L-118-1-0021"
+    källrad: 32
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      6: 1
+      10: 1
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "77B"
+    lägenhet: "L-118-1-0010"
+    källrad: 33
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Har inga problem eller anmärkningar"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "77C"
+    lägenhet: "L-118-1-0009"
+    källrad: 34
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "77D"
+    lägenhet: "L-118-1-0008"
+    källrad: 35
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "79D"
+    lägenhet: "L-118-1-0003"
+    källrad: 36
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      8: 1
+    kommentar: "Liten lackskada på stomen till köksskåp till höger om fläkten. Obs ej hemma 8/6"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "57C"
+    lägenhet: "L-118-1-0062"
+    källrad: 37
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      10: 1
+    kommentar: "ventilerna sitter inte fast/ tätt mot väggen längre, vilket de gjorde tidigare."
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "53D"
+    lägenhet: "L-118-1-0071"
+    källrad: 38
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar:
+      10: 1
+    kommentar: "Plåten under fläktkåpan mot väggen är dåligt monterad"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "61B"
+    lägenhet: "L-118-1-0051"
+    källrad: 39
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: "Har inga problem med fläkten, blåser inte för mycket eller för lite"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+  -
+    adress: "57D"
+    lägenhet: "L-118-1-0063"
+    källrad: 40
+    typ: "Boendesynpunkt, inte besiktningsutlåtande"
+    temamarkeringar: null
+    kommentar: " -"
+    senare_åtgärdsstatus: "Okänd; senare servicebedömning är en separat daterad källa"
+kommentar: "Kallelse nämner besiktning 8 juni. Noteringen att anmärkningar ska vara klara 9 juli är inte bevis för avhjälpande eller formellt godkännande. Namn och kontaktuppgifter utelämnade."

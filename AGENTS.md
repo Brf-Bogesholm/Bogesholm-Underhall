@@ -93,3 +93,7 @@ Beställaren anger 2026-11-19: registrera endast beställningen och dess entrepr
 ## Radiatorinjustering 2019
 
 Registrering godkänd 2026-11-19. 578 dimensioneringsposter och 584 temperatur-/kontrollrader, inte säkert antal installerade EB-don eller termostatbyten. 71H,75E,67G,63A,57D låsta vid temperaturkontroll; senare kontroll och datum okända enligt beställaren. Dra inte slutsatsen att hela injusteringen uteblev. 67H 217 S: EB-don ej monterat; 61C 207 S och 59D 114 ENT: skiftat tillopp/retur. Senare avhjälpande okänt. Historiska pumpvärden, flöde och effekt är inte dagens verifierade drift. Två Excel med identiska cellvärden importeras en gång. Se tekniska-installationer/radiatorer/README.md.
+
+## Lägenheternas FTX 2020–2021
+
+Beställaren bekräftar 2026-11-19 att 79E hade bytt tidigare och är aggregatet som drogs av. 77 byten i projektet, 78 egenkontroller, 77 injusteringsprotokoll (53E saknas), 605 mätpunkter. Egenkontrollernas standardtext får inte skapa ett extra byte i 79E. Dess tidigare installationsdag/modell okända. Uppföljningslistans årtal skiljer sig från protokollen; bevara original och håll plan/kontroll/installationsdatum isär. Lägenhetsprojektet är inte OVK; OVK-raden omarkerad. Service 2024-01 har 76 poster, saknar 59F/67G; 71D tom, 75F/77D/79D ej åtkomliga. OK stänger inte generellt äldre reklamationer. Individuella serienummer och installerade Modbus-/styrtillval inte verifierade. Se tekniska-installationer/ftx-lagenheter/README.md.

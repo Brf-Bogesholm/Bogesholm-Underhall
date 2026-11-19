@@ -1,0 +1,1487 @@
+projekt: "P-FTX-LAGENHETER-2020-2021"
+källor:
+  - "K-FTX-ARKIV-20261119"
+  - "K-FTX-KOMPLETTERING-20261119"
+lägenheter:
+  -
+    adress: "79F"
+    lägenhet: "L-118-1-0001"
+    objekt: "TI-FTX-79F"
+    uppföljningsdatum_original: "2020-10-16 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-10-16"
+    mätdatum: "2020-10-16"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: "ok"
+    levererat_markering: "ok"
+    klart_markering: "ok"
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "79E"
+    lägenhet: "L-118-1-0002"
+    objekt: "TI-FTX-79E"
+    uppföljningsdatum_original: "2020-11-27 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-27"
+    mätdatum: "2020-11-27"
+    vänster_höger_enligt_uppföljning: null
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Tidigare utbytt aggregat; avdraget från projektets aggregatleverans enligt beställaren"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "79D"
+    lägenhet: "L-118-1-0003"
+    objekt: "TI-FTX-79D"
+    uppföljningsdatum_original: "2020-11-27 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-30"
+    mätdatum: "2020-11-30"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "79C"
+    lägenhet: "L-118-1-0004"
+    objekt: "TI-FTX-79C"
+    uppföljningsdatum_original: "2020-11-26 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-12-10"
+    mätdatum: "2020-12-10"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "79B"
+    lägenhet: "L-118-1-0005"
+    objekt: "TI-FTX-79B"
+    uppföljningsdatum_original: "2020-11-26 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-27"
+    mätdatum: "2020-11-27"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "79A"
+    lägenhet: "L-118-1-0006"
+    objekt: "TI-FTX-79A"
+    uppföljningsdatum_original: "2020-11-25 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-26"
+    mätdatum: "2020-11-26"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "77E"
+    lägenhet: "L-118-1-0007"
+    objekt: "TI-FTX-77E"
+    uppföljningsdatum_original: "2020-11-25 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-26"
+    mätdatum: "2020-11-23"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "77D"
+    lägenhet: "L-118-1-0008"
+    objekt: "TI-FTX-77D"
+    uppföljningsdatum_original: "2020-11-24 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-25"
+    mätdatum: "2021-01-25"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "77C"
+    lägenhet: "L-118-1-0009"
+    objekt: "TI-FTX-77C"
+    uppföljningsdatum_original: "2020-11-24 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-24"
+    mätdatum: "2020-11-24"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "77B"
+    lägenhet: "L-118-1-0010"
+    objekt: "TI-FTX-77B"
+    uppföljningsdatum_original: "2020-11-23 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-24"
+    mätdatum: "2020-11-24"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "77A"
+    lägenhet: "L-118-1-0011"
+    objekt: "TI-FTX-77A"
+    uppföljningsdatum_original: "2020-11-23 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-23"
+    mätdatum: "2020-11-19"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71A"
+    lägenhet: "L-118-1-0012"
+    objekt: "TI-FTX-71A"
+    uppföljningsdatum_original: "2020-02-04 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-16"
+    mätdatum: "2021-02-16"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71B"
+    lägenhet: "L-118-1-0013"
+    objekt: "TI-FTX-71B"
+    uppföljningsdatum_original: "2020-02-05 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-17"
+    mätdatum: "2021-02-17"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71C"
+    lägenhet: "L-118-1-0014"
+    objekt: "TI-FTX-71C"
+    uppföljningsdatum_original: "2020-02-08 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-17"
+    mätdatum: "2021-02-17"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71D"
+    lägenhet: "L-118-1-0015"
+    objekt: "TI-FTX-71D"
+    uppföljningsdatum_original: "2020-02-08 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-26"
+    mätdatum: "2021-02-26"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71E"
+    lägenhet: "L-118-1-0016"
+    objekt: "TI-FTX-71E"
+    uppföljningsdatum_original: "2020-02-09 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-18"
+    mätdatum: "2021-02-18"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 0
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: 0
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71F"
+    lägenhet: "L-118-1-0017"
+    objekt: "TI-FTX-71F"
+    uppföljningsdatum_original: "2020-02-09 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-19"
+    mätdatum: "2021-02-19"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71G"
+    lägenhet: "L-118-1-0018"
+    objekt: "TI-FTX-71G"
+    uppföljningsdatum_original: "2020-02-10 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-19"
+    mätdatum: "2021-02-19"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "71H"
+    lägenhet: "L-118-1-0019"
+    objekt: "TI-FTX-71H"
+    uppföljningsdatum_original: "2020-02-10 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-23"
+    mätdatum: "2021-02-23"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "75F"
+    lägenhet: "L-118-1-0020"
+    objekt: "TI-FTX-75F"
+    uppföljningsdatum_original: "2020-02-16 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-26"
+    mätdatum: "2021-02-26"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "75E"
+    lägenhet: "L-118-1-0021"
+    objekt: "TI-FTX-75E"
+    uppföljningsdatum_original: "2020-02-15 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-25"
+    mätdatum: "2021-02-25"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "75D"
+    lägenhet: "L-118-1-0022"
+    objekt: "TI-FTX-75D"
+    uppföljningsdatum_original: "2020-02-15 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-25"
+    mätdatum: "2021-02-25"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "75C"
+    lägenhet: "L-118-1-0023"
+    objekt: "TI-FTX-75C"
+    uppföljningsdatum_original: "2020-02-12 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-24"
+    mätdatum: "2021-02-24"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "75B"
+    lägenhet: "L-118-1-0024"
+    objekt: "TI-FTX-75B"
+    uppföljningsdatum_original: "2020-02-11 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-24"
+    mätdatum: "2021-02-24"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "75A"
+    lägenhet: "L-118-1-0025"
+    objekt: "TI-FTX-75A"
+    uppföljningsdatum_original: "2020-02-11 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-23"
+    mätdatum: "2021-02-23"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "73E"
+    lägenhet: "L-118-1-0026"
+    objekt: "TI-FTX-73E"
+    uppföljningsdatum_original: "2020-11-20 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-20"
+    mätdatum: "2020-11-20"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "73D"
+    lägenhet: "L-118-1-0027"
+    objekt: "TI-FTX-73D"
+    uppföljningsdatum_original: "2020-11-19 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-19"
+    mätdatum: "2020-11-19"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "73C"
+    lägenhet: "L-118-1-0028"
+    objekt: "TI-FTX-73C"
+    uppföljningsdatum_original: "2020-11-19 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-19"
+    mätdatum: "2020-11-19"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "73B"
+    lägenhet: "L-118-1-0029"
+    objekt: "TI-FTX-73B"
+    uppföljningsdatum_original: "2020-11-18 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-18"
+    mätdatum: "2020-11-18"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "73A"
+    lägenhet: "L-118-1-0030"
+    objekt: "TI-FTX-73A"
+    uppföljningsdatum_original: "2020-11-18 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-18"
+    mätdatum: "2020-11-18"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "65E"
+    lägenhet: "L-118-1-0031"
+    objekt: "TI-FTX-65E"
+    uppföljningsdatum_original: "2020-11-17 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-17"
+    mätdatum: "2020-11-17"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "65D"
+    lägenhet: "L-118-1-0032"
+    objekt: "TI-FTX-65D"
+    uppföljningsdatum_original: "2020-11-16 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-16"
+    mätdatum: "2020-11-16"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "65C"
+    lägenhet: "L-118-1-0033"
+    objekt: "TI-FTX-65C"
+    uppföljningsdatum_original: "2020-11-16 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-16"
+    mätdatum: "2020-11-16"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "65B"
+    lägenhet: "L-118-1-0034"
+    objekt: "TI-FTX-65B"
+    uppföljningsdatum_original: "2020-11-13 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-13"
+    mätdatum: "2020-11-13"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "65A"
+    lägenhet: "L-118-1-0035"
+    objekt: "TI-FTX-65A"
+    uppföljningsdatum_original: "2020-11-12 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-12"
+    mätdatum: "2020-11-12"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67A"
+    lägenhet: "L-118-1-0036"
+    objekt: "TI-FTX-67A"
+    uppföljningsdatum_original: "2020-02-01 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-10"
+    mätdatum: "2021-02-10"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67B"
+    lägenhet: "L-118-1-0037"
+    objekt: "TI-FTX-67B"
+    uppföljningsdatum_original: "2020-02-01 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-10"
+    mätdatum: "2021-02-10"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67C"
+    lägenhet: "L-118-1-0038"
+    objekt: "TI-FTX-67C"
+    uppföljningsdatum_original: "2020-02-02 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-11"
+    mätdatum: "2021-02-11"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67D"
+    lägenhet: "L-118-1-0039"
+    objekt: "TI-FTX-67D"
+    uppföljningsdatum_original: "2020-02-02 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-11"
+    mätdatum: "2021-02-11"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67E"
+    lägenhet: "L-118-1-0040"
+    objekt: "TI-FTX-67E"
+    uppföljningsdatum_original: "2020-02-03 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-12"
+    mätdatum: "2021-02-12"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67F"
+    lägenhet: "L-118-1-0041"
+    objekt: "TI-FTX-67F"
+    uppföljningsdatum_original: "2020-02-03 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-12"
+    mätdatum: "2021-02-12"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67G"
+    lägenhet: "L-118-1-0042"
+    objekt: "TI-FTX-67G"
+    uppföljningsdatum_original: "2020-11-17 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-17"
+    mätdatum: "2020-11-17"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "67H"
+    lägenhet: "L-118-1-0043"
+    objekt: "TI-FTX-67H"
+    uppföljningsdatum_original: "2020-02-04 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-16"
+    mätdatum: "2021-02-16"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "63F"
+    lägenhet: "L-118-1-0044"
+    objekt: "TI-FTX-63F"
+    uppföljningsdatum_original: "2020-01-29 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-09"
+    mätdatum: "2021-02-09"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "63E"
+    lägenhet: "L-118-1-0045"
+    objekt: "TI-FTX-63E"
+    uppföljningsdatum_original: "2020-01-29 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-09"
+    mätdatum: "2021-02-09"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "63D"
+    lägenhet: "L-118-1-0046"
+    objekt: "TI-FTX-63D"
+    uppföljningsdatum_original: "2020-01-28 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-05"
+    mätdatum: "2021-02-05"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "63C"
+    lägenhet: "L-118-1-0047"
+    objekt: "TI-FTX-63C"
+    uppföljningsdatum_original: "2020-01-28 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-20"
+    mätdatum: "2020-11-20"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "63B"
+    lägenhet: "L-118-1-0048"
+    objekt: "TI-FTX-63B"
+    uppföljningsdatum_original: "2020-01-27 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-05"
+    mätdatum: "2021-02-05"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "63A"
+    lägenhet: "L-118-1-0049"
+    objekt: "TI-FTX-63A"
+    uppföljningsdatum_original: "2020-01-27 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-04"
+    mätdatum: "2021-02-04"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "61A"
+    lägenhet: "L-118-1-0050"
+    objekt: "TI-FTX-61A"
+    uppföljningsdatum_original: "2020-11-11 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-11"
+    mätdatum: "2020-11-11"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "61B"
+    lägenhet: "L-118-1-0051"
+    objekt: "TI-FTX-61B"
+    uppföljningsdatum_original: "2020-11-11 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-11"
+    mätdatum: "2020-11-11"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "61C"
+    lägenhet: "L-118-1-0052"
+    objekt: "TI-FTX-61C"
+    uppföljningsdatum_original: "2020-11-12 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-12"
+    mätdatum: "2020-11-12"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "61D"
+    lägenhet: "L-118-1-0053"
+    objekt: "TI-FTX-61D"
+    uppföljningsdatum_original: "2020-10-15 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-10-15"
+    mätdatum: "2020-10-15"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: "ok"
+    klart_markering: "ok"
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "59F"
+    lägenhet: "L-118-1-0054"
+    objekt: "TI-FTX-59F"
+    uppföljningsdatum_original: "2020-01-26 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-04"
+    mätdatum: "2021-02-04"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "59E"
+    lägenhet: "L-118-1-0055"
+    objekt: "TI-FTX-59E"
+    uppföljningsdatum_original: "2020-01-26 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-03"
+    mätdatum: "2021-02-03"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "59D"
+    lägenhet: "L-118-1-0056"
+    objekt: "TI-FTX-59D"
+    uppföljningsdatum_original: "2020-01-25 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-03"
+    mätdatum: "2021-02-03"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "59C"
+    lägenhet: "L-118-1-0057"
+    objekt: "TI-FTX-59C"
+    uppföljningsdatum_original: "2020-01-25 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-02"
+    mätdatum: "2021-02-02"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "59B"
+    lägenhet: "L-118-1-0058"
+    objekt: "TI-FTX-59B"
+    uppföljningsdatum_original: "2020-01-22 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-29"
+    mätdatum: "2021-01-29"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "59A"
+    lägenhet: "L-118-1-0059"
+    objekt: "TI-FTX-59A"
+    uppföljningsdatum_original: "2020-01-21 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-29"
+    mätdatum: "2021-01-29"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "57A"
+    lägenhet: "L-118-1-0060"
+    objekt: "TI-FTX-57A"
+    uppföljningsdatum_original: "2020-11-09 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-09"
+    mätdatum: "2020-11-09"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: "ok"
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "57B"
+    lägenhet: "L-118-1-0061"
+    objekt: "TI-FTX-57B"
+    uppföljningsdatum_original: "2020-11-09 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-09"
+    mätdatum: "2020-11-09"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: "ok"
+    levererat_markering: "ok"
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "57C"
+    lägenhet: "L-118-1-0062"
+    objekt: "TI-FTX-57C"
+    uppföljningsdatum_original: "2020-11-10 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-10"
+    mätdatum: "2020-11-10"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: "1 (rostfri)"
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "57D"
+    lägenhet: "L-118-1-0063"
+    objekt: "TI-FTX-57D"
+    uppföljningsdatum_original: "2020-11-10 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-10"
+    mätdatum: "2020-11-10"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "55F"
+    lägenhet: "L-118-1-0064"
+    objekt: "TI-FTX-55F"
+    uppföljningsdatum_original: "2020-01-21 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-28"
+    mätdatum: "2021-01-28"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "55E"
+    lägenhet: "L-118-1-0065"
+    objekt: "TI-FTX-55E"
+    uppföljningsdatum_original: "2020-01-20 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-27"
+    mätdatum: "2021-01-27"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "55D"
+    lägenhet: "L-118-1-0066"
+    objekt: "TI-FTX-55D"
+    uppföljningsdatum_original: "2020-01-20 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-27"
+    mätdatum: "2021-01-27"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "55C"
+    lägenhet: "L-118-1-0067"
+    objekt: "TI-FTX-55C"
+    uppföljningsdatum_original: "2020-01-19 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-02-02"
+    mätdatum: "2021-02-02"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "55B"
+    lägenhet: "L-118-1-0068"
+    objekt: "TI-FTX-55B"
+    uppföljningsdatum_original: "2020-01-19 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-26"
+    mätdatum: "2021-01-26"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "55A"
+    lägenhet: "L-118-1-0069"
+    objekt: "TI-FTX-55A"
+    uppföljningsdatum_original: "2020-01-18 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2021-01-26"
+    mätdatum: "2021-01-26"
+    vänster_höger_enligt_uppföljning: "Höger"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: null
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "53E"
+    lägenhet: "L-118-1-0070"
+    objekt: "TI-FTX-53E"
+    uppföljningsdatum_original: "2020-11-06 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-06"
+    mätdatum: null
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "53D"
+    lägenhet: "L-118-1-0071"
+    objekt: "TI-FTX-53D"
+    uppföljningsdatum_original: "2020-11-06 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-08"
+    mätdatum: "2020-11-08"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "53C"
+    lägenhet: "L-118-1-0072"
+    objekt: "TI-FTX-53C"
+    uppföljningsdatum_original: "2020-11-05 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-08"
+    mätdatum: "2020-11-08"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "53B"
+    lägenhet: "L-118-1-0073"
+    objekt: "TI-FTX-53B"
+    uppföljningsdatum_original: "2020-11-05 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-05"
+    mätdatum: "2020-11-05"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "53A"
+    lägenhet: "L-118-1-0074"
+    objekt: "TI-FTX-53A"
+    uppföljningsdatum_original: "2020-11-04 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-04"
+    mätdatum: "2020-11-04"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: 1
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: 1
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "51D"
+    lägenhet: "L-118-1-0075"
+    objekt: "TI-FTX-51D"
+    uppföljningsdatum_original: "2020-10-23 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-10-23"
+    mätdatum: "2020-10-23"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: "x"
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: "ok"
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "51C"
+    lägenhet: "L-118-1-0076"
+    objekt: "TI-FTX-51C"
+    uppföljningsdatum_original: "2020-11-03 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-03"
+    mätdatum: "2020-11-03"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "51B"
+    lägenhet: "L-118-1-0077"
+    objekt: "TI-FTX-51B"
+    uppföljningsdatum_original: "2020-11-03 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-03"
+    mätdatum: "2020-11-03"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: null
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: null
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
+  -
+    adress: "51A"
+    lägenhet: "L-118-1-0078"
+    objekt: "TI-FTX-51A"
+    uppföljningsdatum_original: "2020-11-02 00:00:00"
+    uppföljningsdatum_status: "Projektuppföljning, inte säker faktiskt installationsdag; januari/februari anges 2020 trots senare protokoll 2021"
+    kontrolldatum_egenkontroll: "2020-11-02"
+    mätdatum: "2020-11-02"
+    vänster_höger_enligt_uppföljning: "Vänster"
+    rostfri_markering_original: null
+    front60_enligt_uppföljning: 1
+    front90_enligt_uppföljning: null
+    front60_enligt_beställningslista: 1
+    front90_enligt_beställningslista: null
+    beställt_markering: "ok"
+    levererat_markering: null
+    klart_markering: null
+    utförandestatus: "Omfattas av projektets 77 aggregatbyten enligt beställarens förtydligande"
+    tolkningsregel: "Tom markering är okänd, inte automatiskt vitt eller 60 cm. Vänster/höger är listuppgift; fullständig beställningskod saknas."
