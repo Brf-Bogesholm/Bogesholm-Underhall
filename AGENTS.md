@@ -73,3 +73,7 @@ Komplettering godkänd 2026-11-19: pannor 1–3 vänster till höger i pannrumme
 ## BASTEC
 
 Beställaren godkänner 2026-11-19 historiskt BASTEC-underlag 2014–2015. Se tekniska-installationer/bastec/README.md. Ingen nyare dokumentation känd; aktuell konfiguration ännu inte hämtad. Bevara beteckningskonflikter, okända serienummer och skillnaden mellan generella instruktioner och installerad funktion. Tom historisk Modbus-objekttabell innebär inte att extern slavåtkomst saknas. Publicera inte råexportens användare, anslutningsuppgifter eller eventuella lösenord. Blanda inte 5600-EXP1 (stora värmekärlet) med avgasarens lilla kärl. Dokumentationen föregår värmepumparnas installation 2019.
+
+## Vindsrenovering 2015
+
+Godkänt 2026-11-19: 38 fyrarumslägenheter i H-51, H-53, H-57, H-61, H-65, H-73, H-77 och H-79. Beställaren bekräftar 300 mm tilläggsisolering; det är inte total isoleringstjocklek. Isocell-cellulosa och 2936 m² bevaras som offertuppgifter. Övriga lägenheter har ingen inredd vind enligt beställaren. Slutmöte 2015-11-26: godkänd med fel; senare avhjälpande okänt. Energibesparing är teoretisk, Excel innehåller flera alternativ och inkonsekvent rad 34. Planerade datum, diskuterad gipsbeklädnad och offerter är inte individuellt verifierat utförande eller fakturerade kostnader. Se byggnadsdelar/vindar/README.md. BAS2 nås via BAS2-programmet på dator enligt beställaren; aktuell konfiguration hämtas senare.

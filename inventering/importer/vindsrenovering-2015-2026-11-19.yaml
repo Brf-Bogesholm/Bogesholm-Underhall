@@ -1,0 +1,40 @@
+id: "K-VINDSRENOVERING-2015-20261119"
+registrerad: "2026-11-19"
+granskad_av_beställaren: true
+komplettering:
+  id: "K-VIND-BEKRAFTELSE-20261119"
+  tilläggstjocklek_mm: 300
+  källa: "Beställarens bekräftelse: ja, det är 300mm"
+  övrigt: "Omfattning samtliga fyrarumshus enligt beställaren. Övriga lägenheter saknar inredd vind."
+dokument:
+  -
+    fil: "Energibesparing tillägggsisolering.xls"
+    sha256: "02b7a990d6aff340253fd5f3a23bee7fe002a4d7235f71727b8b382df1cbcd09"
+  -
+    fil: "Information om tilläggsisolering och ombyggnad av vindarna2015.doc"
+    sha256: "fa2890146f0ce4f6f5cb906b62402c7ea1619030af0a9d87059c9df072e6ab6e"
+  -
+    fil: "Information om tilläggsisolering och ombyggnad av vindarna2015.docx"
+    sha256: "eedc3eeed1bbe2f5eb19b4c70c5040a5efab49e25bee645276f08b8716f01322"
+  -
+    fil: "Offert Cremab.pdf"
+    sha256: "cad0dc69d704b69fe2d2642788316272213cc7fdd804bd2cba19947a34b24827"
+  -
+    fil: "Slutmöte NIMAB.pdf"
+    sha256: "10247b2fd6f346cd74bded33ee3291ffa40db4e01ab9274d3d62d51e449c79d6"
+  -
+    fil: "Slutmöte.pdf"
+    sha256: "10247b2fd6f346cd74bded33ee3291ffa40db4e01ab9274d3d62d51e449c79d6"
+  -
+    fil: "Svar på frågor.doc"
+    sha256: "ed34d144daf939f1025c0302ade1e9fe864947a4a3573625bc9c84ef51976f57"
+  -
+    fil: "Svar på frågor.docx"
+    sha256: "d3c1201e3411502fcff0b550e0fdfc06448a38316dd154dccf467f9608c3feee"
+dubbletter:
+  - "Slutmöte.pdf och Slutmöte NIMAB.pdf byte-identiska"
+  - "Svar på frågor.doc/docx samma normaliserade text"
+versionsskillnad: "Informationsbrev .doc och .docx har mindre textskillnader och olika timbelopp i svarstalongen; inte helt identiska."
+original_publicerade: false
+projekt: "P-VINDSRENOVERING-2015"
+kalkylkontroll: "Excelrad 34 inkonsekvent och inte använd som verifierat resultat. Ingen kostnadsregistrering."

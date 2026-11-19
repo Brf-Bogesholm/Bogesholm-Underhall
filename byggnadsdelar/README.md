@@ -31,3 +31,7 @@ Objektets dokumentation kan innehålla:
 - Hänvisningar till originaldokument
 
 Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
+
+## Vindar
+
+[Vindsrenovering och tilläggsisolering 2015](vindar/README.md) – 38 fyrarumslägenheter, 300 mm tilläggsisolering och historiska energikalkyler.

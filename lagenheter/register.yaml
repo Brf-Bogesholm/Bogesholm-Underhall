@@ -38,6 +38,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-79F"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015096"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0002
   typ: lägenhet
   namn: lgh 02
@@ -72,6 +73,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015097"
     - "B-LGH-2017-17-000753"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0003
   typ: lägenhet
   namn: lgh 03
@@ -105,6 +107,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-79D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015098"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0004
   typ: lägenhet
   namn: lgh 04
@@ -138,6 +141,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-79C"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015099"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0005
   typ: lägenhet
   namn: lgh 05
@@ -172,6 +176,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015100"
     - "B-LGH-2017-17-000621"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0006
   typ: lägenhet
   namn: lgh 06
@@ -206,6 +211,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015101"
     - "B-LGH-2017-17-000622"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0007
   typ: lägenhet
   namn: lgh 07
@@ -239,6 +245,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-77E"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015102"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0008
   typ: lägenhet
   namn: lgh 08
@@ -273,6 +280,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015103"
     - "B-LGH-2017-17-000623"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0009
   typ: lägenhet
   namn: lgh 09
@@ -307,6 +315,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015104"
     - "B-LGH-SKADA-20090730-77C"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0010
   typ: lägenhet
   namn: lgh 10
@@ -340,6 +349,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-77B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015105"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0011
   typ: lägenhet
   namn: lgh 11
@@ -373,6 +383,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-77A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015106"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0012
   typ: lägenhet
   namn: lgh 12
@@ -887,6 +898,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015121"
     - "B-LGH-2017-17-000628"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0027
   typ: lägenhet
   namn: lgh 27
@@ -920,6 +932,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-73D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015122"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0028
   typ: lägenhet
   namn: lgh 28
@@ -954,6 +967,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015123"
     - "B-LGH-2017-17-000629"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0029
   typ: lägenhet
   namn: lgh 29
@@ -988,6 +1002,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015124"
     - "B-LGH-2017-17-000630"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0030
   typ: lägenhet
   namn: lgh 30
@@ -1022,6 +1037,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015125"
     - "B-LGH-2017-17-000631"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0031
   typ: lägenhet
   namn: lgh 31
@@ -1057,6 +1073,7 @@ lägenheter:
     - "B-LGH-2017-16-015126"
     - "B-LGH-2017-17-000632"
     - "B-LGH-SKADA-20090427-65D"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0032
   typ: lägenhet
   namn: lgh 32
@@ -1091,6 +1108,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015127"
     - "B-LGH-SKADA-20090427-65D"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0033
   typ: lägenhet
   namn: lgh 33
@@ -1125,6 +1143,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015128"
     - "B-LGH-2017-17-000633"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0034
   typ: lägenhet
   namn: lgh 34
@@ -1158,6 +1177,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-65B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015129"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0035
   typ: lägenhet
   namn: lgh 35
@@ -1192,6 +1212,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015130"
     - "B-LGH-2017-17-000754"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0036
   typ: lägenhet
   namn: lgh 36
@@ -1709,6 +1730,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015145"
     - "B-LGH-2017-17-000596"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0051
   typ: lägenhet
   namn: lgh 51
@@ -1742,6 +1764,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-61B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015146"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0052
   typ: lägenhet
   namn: lgh 52
@@ -1775,6 +1798,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-61C"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015147"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0053
   typ: lägenhet
   namn: lgh 53
@@ -1808,6 +1832,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-61D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015148"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0054
   typ: lägenhet
   namn: lgh 54
@@ -2047,6 +2072,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-57A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015155"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0061
   typ: lägenhet
   namn: lgh 61
@@ -2080,6 +2106,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-57B"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015156"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0062
   typ: lägenhet
   namn: lgh 62
@@ -2114,6 +2141,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015157"
     - "B-LGH-2017-17-000599"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0063
   typ: lägenhet
   namn: lgh 63
@@ -2147,6 +2175,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-57D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015158"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0064
   typ: lägenhet
   namn: lgh 64
@@ -2387,6 +2416,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-53E"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015165"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0071
   typ: lägenhet
   namn: lgh 71
@@ -2420,6 +2450,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-53D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015166"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0072
   typ: lägenhet
   namn: lgh 72
@@ -2453,6 +2484,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-53C"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015167"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0073
   typ: lägenhet
   namn: lgh 73
@@ -2487,6 +2519,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015168"
     - "B-LGH-2017-17-000602"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0074
   typ: lägenhet
   namn: lgh 74
@@ -2520,6 +2553,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-53A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015169"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0075
   typ: lägenhet
   namn: lgh 75
@@ -2553,6 +2587,7 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-51D"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015170"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0076
   typ: lägenhet
   namn: lgh 76
@@ -2587,6 +2622,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015171"
     - "B-LGH-2017-17-000680"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0077
   typ: lägenhet
   namn: lgh 77
@@ -2621,6 +2657,7 @@ lägenheter:
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015172"
     - "B-LGH-2017-17-000681"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"
 - id: L-118-1-0078
   typ: lägenhet
   namn: lgh 78
@@ -2654,3 +2691,4 @@ lägenheter:
     - "A-VENT-RENSNING-20140619-51A"
   lägenhetsbesiktningar:
     - "B-LGH-2017-16-015173"
+  vindsrenovering_2015: "P-VINDSRENOVERING-2015"

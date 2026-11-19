@@ -12,6 +12,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-53
     typ: byggnad
     namn: Hus 53
@@ -22,6 +23,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-55
     typ: byggnad
     namn: Hus 55
@@ -42,6 +44,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-59
     typ: byggnad
     namn: Hus 59
@@ -62,6 +65,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-63
     typ: byggnad
     namn: Hus 63
@@ -82,6 +86,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-67
     typ: byggnad
     namn: Hus 67
@@ -125,6 +130,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-75
     typ: byggnad
     namn: Hus 75
@@ -145,6 +151,7 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"
   - id: H-79
     typ: byggnad
     namn: Hus 79
@@ -155,3 +162,4 @@ byggnader:
       - "B-TAK-20121114-28"
       - "B-TAK-20190313-27"
       - "B-TAKSAKERHET-20250829"
+    vindsrenovering_2015: "P-VINDSRENOVERING-2015"

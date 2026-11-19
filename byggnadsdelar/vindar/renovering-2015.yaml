@@ -1,0 +1,318 @@
+id: "P-VINDSRENOVERING-2015"
+typ: "vindsrenovering och tilläggsisolering"
+år: 2015
+omfattning:
+  hus:
+    - "H-51"
+    - "H-53"
+    - "H-57"
+    - "H-61"
+    - "H-65"
+    - "H-73"
+    - "H-77"
+    - "H-79"
+  antal_lägenheter: 38
+  lägenheter:
+    -
+      id: "L-118-1-0001"
+      hus: "H-79"
+      adress: "79F"
+    -
+      id: "L-118-1-0002"
+      hus: "H-79"
+      adress: "79E"
+    -
+      id: "L-118-1-0003"
+      hus: "H-79"
+      adress: "79D"
+    -
+      id: "L-118-1-0004"
+      hus: "H-79"
+      adress: "79C"
+    -
+      id: "L-118-1-0005"
+      hus: "H-79"
+      adress: "79B"
+    -
+      id: "L-118-1-0006"
+      hus: "H-79"
+      adress: "79A"
+    -
+      id: "L-118-1-0007"
+      hus: "H-77"
+      adress: "77E"
+    -
+      id: "L-118-1-0008"
+      hus: "H-77"
+      adress: "77D"
+    -
+      id: "L-118-1-0009"
+      hus: "H-77"
+      adress: "77C"
+    -
+      id: "L-118-1-0010"
+      hus: "H-77"
+      adress: "77B"
+    -
+      id: "L-118-1-0011"
+      hus: "H-77"
+      adress: "77A"
+    -
+      id: "L-118-1-0026"
+      hus: "H-73"
+      adress: "73E"
+    -
+      id: "L-118-1-0027"
+      hus: "H-73"
+      adress: "73D"
+    -
+      id: "L-118-1-0028"
+      hus: "H-73"
+      adress: "73C"
+    -
+      id: "L-118-1-0029"
+      hus: "H-73"
+      adress: "73B"
+    -
+      id: "L-118-1-0030"
+      hus: "H-73"
+      adress: "73A"
+    -
+      id: "L-118-1-0031"
+      hus: "H-65"
+      adress: "65E"
+    -
+      id: "L-118-1-0032"
+      hus: "H-65"
+      adress: "65D"
+    -
+      id: "L-118-1-0033"
+      hus: "H-65"
+      adress: "65C"
+    -
+      id: "L-118-1-0034"
+      hus: "H-65"
+      adress: "65B"
+    -
+      id: "L-118-1-0035"
+      hus: "H-65"
+      adress: "65A"
+    -
+      id: "L-118-1-0050"
+      hus: "H-61"
+      adress: "61A"
+    -
+      id: "L-118-1-0051"
+      hus: "H-61"
+      adress: "61B"
+    -
+      id: "L-118-1-0052"
+      hus: "H-61"
+      adress: "61C"
+    -
+      id: "L-118-1-0053"
+      hus: "H-61"
+      adress: "61D"
+    -
+      id: "L-118-1-0060"
+      hus: "H-57"
+      adress: "57A"
+    -
+      id: "L-118-1-0061"
+      hus: "H-57"
+      adress: "57B"
+    -
+      id: "L-118-1-0062"
+      hus: "H-57"
+      adress: "57C"
+    -
+      id: "L-118-1-0063"
+      hus: "H-57"
+      adress: "57D"
+    -
+      id: "L-118-1-0070"
+      hus: "H-53"
+      adress: "53E"
+    -
+      id: "L-118-1-0071"
+      hus: "H-53"
+      adress: "53D"
+    -
+      id: "L-118-1-0072"
+      hus: "H-53"
+      adress: "53C"
+    -
+      id: "L-118-1-0073"
+      hus: "H-53"
+      adress: "53B"
+    -
+      id: "L-118-1-0074"
+      hus: "H-53"
+      adress: "53A"
+    -
+      id: "L-118-1-0075"
+      hus: "H-51"
+      adress: "51D"
+    -
+      id: "L-118-1-0076"
+      hus: "H-51"
+      adress: "51C"
+    -
+      id: "L-118-1-0077"
+      hus: "H-51"
+      adress: "51B"
+    -
+      id: "L-118-1-0078"
+      hus: "H-51"
+      adress: "51A"
+  urval: "Samtliga fyrarumslägenheter enligt beställaren och lägenhetsregistret"
+  övriga_lägenheter: "Ingen inredd vind enligt beställaren; ingår inte i 2015 års vindsombyggnad"
+entreprenör: "NIMAB AB"
+projektledning: "Riksbyggen"
+kontrollant_företag: "Skånska teknik & konsult"
+datum:
+  stämmobeslut: "2015-05-20"
+  kontrakt_enligt_protokoll: "2015-05-29"
+  planerad_start: "2015-09-14"
+  planerat_slut: "2015-11-20"
+  provmontage_adress: "79E"
+  provmontage_kontroll: "2015-08-21"
+  slutmöte: "2015-11-26"
+  protokoll_upprättat: "2015-12-02"
+  exakt_färdigställandedatum: null
+slutstatus: "Godkänd med fel, skulle åtgärdas inom två månader; senare avhjälpande ej styrkt"
+åtgärd: "A-VINDSRENOVERING-2015"
+utförande:
+  -
+    beskrivning: "Vindsgolv, senare breddning i samtliga 38 enheter"
+    källa: "Slutmöte NIMAB.pdf, sidor 5–9, 13"
+    status: "Projektets utförande och beslut; inte separat avsynat per lägenhet"
+  -
+    beskrivning: "Nya vindsstegar till samtliga 38 enheter"
+    källa: "Slutmöte NIMAB.pdf, sidor 5–9, 13"
+    status: "Projektets utförande och beslut; inte separat avsynat per lägenhet"
+  -
+    beskrivning: "Golvlucka över trappöppningen"
+    källa: "Slutmöte NIMAB.pdf, sidor 5–9, 13"
+    status: "Projektets utförande och beslut; inte separat avsynat per lägenhet"
+  -
+    beskrivning: "Tätning av luftspaltventil vid takfoten mot granne"
+    källa: "Slutmöte NIMAB.pdf, sidor 5–9, 13"
+    status: "Projektets utförande och beslut; inte separat avsynat per lägenhet"
+  -
+    beskrivning: "Vindavledare med 40 mm luftspalt"
+    källa: "Slutmöte NIMAB.pdf, sidor 5–9, 13"
+    status: "Projektets utförande och beslut; inte separat avsynat per lägenhet"
+  -
+    beskrivning: "Belastningsskylt ändras från 70 kg/m till 50 kg/m²"
+    källa: "Slutmöte NIMAB.pdf, sidor 5–9, 13"
+    status: "Projektets utförande och beslut; inte separat avsynat per lägenhet"
+isolering:
+  tilläggstjocklek_mm: 300
+  tjockleksstatus: "Bekräftad av beställaren 2026-11-19"
+  befintlig_tjocklek_mm: null
+  total_tjocklek_mm: null
+  material_enligt_offert: "Isocell cellulosa"
+  materialstatus: "Enligt Cremabs offert; fabrikat inte separat bekräftat av beställaren"
+  area_enligt_offert_m2: 2936
+  area_uppmätt_efter_arbete: null
+  offertleverantör: "Cremab Isolering AB"
+  offertnummer: "V-140902-1"
+  offertdatum: "2014-09-02"
+energiberäkningar:
+  status: "Teoretiska kalkyler, ingen uppmätt besparing"
+  offert:
+    besparing_kwh_år: 117587
+    energipris_kr_kwh: 1
+    besparing_kr_år: 117587
+    återbetalning_år: 3
+    klimatort: "Lund"
+    energislagsantagande: "Fjärrvärme enligt offerten, inte påstående om föreningens verkliga energikälla"
+  excel:
+    fil: "Energibesparing tillägggsisolering.xls"
+    blad: "Bjälklag"
+    rader:
+      -
+        excelrad: 31
+        tillägg_mm: 300.0
+        u_före: 0.3
+        u_efter: 0.09545454545454546
+        värmeförbrukningstal: 155.0
+        värmepris_kr_kwh: 1.26
+        besparing_kr_m2_år: 39.94772727272727
+        area_m2: 2936.0
+        besparing_kr_år: 117286.52727272727
+        kostnad_kr_m2: 116.0
+        återbetalning_år: 2.903794731751721
+        status: "Alternativ historisk kalkyl, inte uppmätt utfall"
+      -
+        excelrad: 32
+        tillägg_mm: 300.0
+        u_före: 0.3
+        u_efter: 0.09545454545454546
+        värmeförbrukningstal: 88.0
+        värmepris_kr_kwh: 1.26
+        besparing_kr_m2_år: 22.68
+        area_m2: 2936.0
+        besparing_kr_år: 66588.48
+        kostnad_kr_m2: 116.0
+        återbetalning_år: 5.114638447971782
+        status: "Alternativ historisk kalkyl, inte uppmätt utfall"
+      -
+        excelrad: 33
+        tillägg_mm: 300.0
+        u_före: 0.7
+        u_efter: 0.11666666666666667
+        värmeförbrukningstal: 88.0
+        värmepris_kr_kwh: 1.26
+        besparing_kr_m2_år: 64.67999999999999
+        area_m2: 2936.0
+        besparing_kr_år: 189900.47999999998
+        kostnad_kr_m2: 116.0
+        återbetalning_år: 1.793444650587508
+        status: "Alternativ historisk kalkyl, inte uppmätt utfall"
+      -
+        excelrad: 34
+        tillägg_mm: 300.0
+        u_före: 0.7
+        u_efter: 0.11666666666666667
+        värmeförbrukningstal: 88.0
+        värmepris_kr_kwh: "1.26"
+        besparing_kr_m2_år: 15
+        area_m2: 2936.0
+        besparing_kr_år: 15
+        kostnad_kr_m2: 116.0
+        återbetalning_år: 15
+        status: "Inkonsekvent rad: F/H/J innehåller 15, inte godtaget beräkningsresultat"
+      -
+        excelrad: 35
+        tillägg_mm: 300.0
+        u_före: 0.7
+        u_efter: 0.11666666666666667
+        värmeförbrukningstal: 88.0
+        värmepris_kr_kwh: 0.7
+        besparing_kr_m2_år: 35.93333333333333
+        area_m2: 2936.0
+        besparing_kr_år: 105500.26666666666
+        kostnad_kr_m2: 116.0
+        återbetalning_år: 3.2282003710575142
+        status: "Alternativ historisk kalkyl, inte uppmätt utfall"
+    metod: "Sparade cellvärden avlästa. Formler inte avlästa eller arbetsboken omräknad. Uf/Ue bevaras som historiska indata/resultat, inte uppmätta U-värden."
+  frågesvar:
+    leverantörens_återbetalning_år: "3–5"
+    föreningens_beräkning_år: "7–15"
+    osäkerheter:
+      - "Fördelning varmvatten/radiatorvärme"
+      - "Medeltemperaturvariation"
+      - "Befintlig isolerings effektivitet"
+öppna_frågor:
+  - "Gips 1 m från skiljevägg diskuterat, inte verifierat beställt/utfört"
+  - "Vindsluckans mått 700*100 mm i frågesvar troligen felskrift; inte korrigerat"
+  - "Ingen uppmätt energibesparing"
+  - "Detaljerade fabrikat/modeller på trappor och övrigt byggmaterial saknas"
+  - "Kvarstående besiktningsfel: detaljerad fellista och dokumentation av avhjälpande saknas"
+  - "Trappmodell, trädimensioner och övriga exakta materialkvaliteter saknas"
+källor:
+  - "K-VINDSRENOVERING-2015-20261119"
+  - "K-VIND-BEKRAFTELSE-20261119"
+kostnadsprincip: "Offerter och beställningsbelopp är inte fakturerade eller betalda kostnader. Inga kostnader förs till fakturaregistret från dessa handlingar."
