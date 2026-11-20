@@ -51,3 +51,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Värmepumparnas inhägnad
 
 [Stängsel och gånggrind, monterade 2019](stangsel-varmepumpar/README.md) – Heras, svart stålnät och separat bevarade order-/skissmått.
+
+## Garageförrådets tak
+
+[Nytt papptak 2020 och SOPREMA-garanti](tak-garageforrad/README.md), över garageförrådet mellan garagebyggnad 2 och 3.

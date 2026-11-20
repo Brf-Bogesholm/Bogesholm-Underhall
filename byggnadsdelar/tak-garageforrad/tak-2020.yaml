@@ -1,0 +1,46 @@
+status: "Registrerad efter beställarens granskning 2026-11-20"
+plats:
+  objekt: "U-GARAGEFORRAD-GL2-GL3"
+  benämning: "Taket över garageförrådet mellan garagebyggnad 2 och 3"
+  inte: "Inte individuella garageplatserna 2 eller 3"
+bakgrund_enligt_beställaren: "Läckage. Nytt papptak lades ovanpå befintligt tak."
+entreprenör: "Kävlinge Tak AB"
+färdigställandedatum: "2020-11-12"
+area_m2: 100
+tätskikt:
+  tillverkare: "SOPREMA N.V."
+  produkt: "DUO FROST 4 AGR/F C160-50 F1 MECH R08"
+  källa: "Garantibeviset.pdf sida 2"
+garanti:
+  typ: "20-årig tätskiktsgaranti för tillverkningsfel"
+  referens: "20/0095/V1"
+  utfärdad: "2020-11-15"
+  start_enligt_villkor: "Materialets installationsdag"
+  slutdatum: null
+  slutår_om_start_2020: 2040
+  slutdatumstatus: "Exakt installationsdag för materialet framgår inte separat från färdigställandedatum. Ingen ovillkorlig aktuell giltighet bedömd."
+  återförsäkring: "MS Amlin, nummer 99.075.400"
+  försäkringsbelopp_eur: 1000000
+  omfattning: "Tillverkningsfel som medför brist i produktens vattentäthet; återställande/reparation enligt villkoren"
+  begränsningar:
+    - "Inte generell garanti för alla orsaker till läckage, monteringsfel eller hela takets livslängd"
+    - "Estetiska frågor och sprickor enligt dokumentets ordalydelse undantas"
+    - "Garantin gäller SOPREMA-material installerat i föreskrivet/godkänt system"
+    - "SOPREMA och takläggaren ska enligt beviset underrättas genom registrerat brev inom tio dagar efter noterad skada"
+    - "Tillträde för undersökning ska ges"
+    - "Ekonomiska åtaganden mellan parterna ska vara fullgjorda"
+    - "Arbete av tredje part på takets yta anges kunna göra garantin ogiltig; fullständiga försäkringsvillkor hänvisas till men bifogas inte"
+följebrev:
+  datum: "2020-11-16"
+  referensnummer: "2485"
+  status: "Fakturamall använd som garantiföljebrev, inga belopp. Inte en kostnadsfaktura."
+källfil: "Garantibeviset.pdf"
+sha256: "73b020b3dd1265f15def9ceaf05da462dca885c02701c3d3dd1384e6c00a7054"
+kostnad: null
+senare_status: "Inget senare tillstånd eller avhjälpande antas enbart från garantibeviset"
+id: "TAK-GARAGEFORRAD-GL2-GL3-001"
+källor:
+  - "K-GARAGEFORRAD-TAK-GARANTI-2020"
+  - "K-GARAGEFORRAD-TAK-BEKRAFTELSE-20261120"
+åtgärd: "A-GARAGEFORRAD-TAK-20201112"
+garanti_id: "GAR-SOPREMA-20-0095-V1"

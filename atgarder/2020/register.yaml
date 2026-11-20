@@ -196,3 +196,22 @@ version: "1.0"
       - "K-FTX-ARKIV-20261119"
       - "K-FTX-KOMPLETTERING-20261119"
     kommentar: "79E deltog i projekthistorik och mätning men aggregatet hade bytts tidigare. Datum i tidplan är inte verifierade installationsdagar."
+  -
+    id: "A-GARAGEFORRAD-TAK-20201112"
+    datum: "2020-11-12"
+    åtgärd: "Nytt papptak/tätskikt ovanpå befintligt tak efter läckage"
+    objekt:
+      - "TAK-GARAGEFORRAD-GL2-GL3-001"
+      - "U-GARAGEFORRAD-GL2-GL3"
+    placering: "Ovan garageförrådet mellan garagebyggnad 2 och 3"
+    utförare: "Kävlinge Tak AB"
+    area_m2: 100
+    material: "SOPREMA DUO FROST 4 AGR/F C160-50 F1 MECH R08"
+    garanti: "GAR-SOPREMA-20-0095-V1"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-GARAGEFORRAD-TAK-GARANTI-2020"
+      - "K-GARAGEFORRAD-TAK-BEKRAFTELSE-20261120"
+    datumkommentar: "Färdigställandedatum enligt garantibevis, inte datum härlett från följebrevet."
+    kommentar: "Läckage och överläggning ovanpå gamla taket enligt beställaren. Avser inte de individuella garageplatserna 2/3 eller hela garagelängornas tak."

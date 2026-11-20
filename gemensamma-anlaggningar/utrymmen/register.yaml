@@ -173,3 +173,9 @@ utrymmen:
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
       - "K-OMRADESKARTA-20261118"
+      - "K-GARAGEFORRAD-TAK-GARANTI-2020"
+      - "K-GARAGEFORRAD-TAK-BEKRAFTELSE-20261120"
+    byggnadsdelar:
+      - "TAK-GARAGEFORRAD-GL2-GL3-001"
+    åtgärdshistorik:
+      - "A-GARAGEFORRAD-TAK-20201112"
