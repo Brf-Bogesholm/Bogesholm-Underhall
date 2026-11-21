@@ -1,0 +1,13 @@
+id: "K-HANDIKAPPARKERING-2024"
+registrerad: "2026-11-21"
+dokument:
+  fil: "Faktura.pdf"
+  arkivmapp: "Entreprenader/2024 Handikapparkering"
+  sha256: "3fc453bd47cd40d56de5056fd14885f455e95b18b1dae94d783663cc5acc9431"
+bekräftelse:
+  id: "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Sammanställning godkänd."
+    - "Inget platsnummer. Registrera under namnet Handikapparkeringar."
+    - "Ytan breddades och befintlig laddare blev nåbar med rullstol oavsett sida för bilens uttag."
+original_publicerade: false

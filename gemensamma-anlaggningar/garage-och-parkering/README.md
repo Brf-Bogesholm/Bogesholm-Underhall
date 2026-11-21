@@ -25,3 +25,7 @@ Föreningens garage, tidigare benämnt garage 71, är Garage 771 (`P-771`). Det 
 ## Portbyte 2016
 
 Garage 1–70 (G-701–G-770) fick nya vita automatiska portar 2016. Garage 71 (771, stabilt ID P-771) undantogs eftersom det redan hade elport av annan modell. Se [portprojektet](../../byggnadsdelar/garageportar/README.md).
+
+## Handikapparkeringar
+
+[Handikapparkeringar](handikapparkeringar.yaml) saknar platsnummer. Ytan breddades 2024 och befintlig laddare blev åtkomlig med rullstol från båda sidor av bilen enligt beställaren. Faktura 10205 från Selvers Trädgård och Bygg AB: 14 438 kr inklusive moms och avrundning. Datum 2024-02-08 enligt stående fakturadatumregel. Exakt laddbox/kluster är inte fastställt.

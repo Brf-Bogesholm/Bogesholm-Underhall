@@ -1,6 +1,7 @@
 version: "1.0"
 registreringsomgångar:
   - "2026-11-18-VPSERVICE"
+  - "2026-11-21-HANDIKAPPARKERING"
 fakturor:
   -
     id: "F-2024-TK-10266"
@@ -116,3 +117,91 @@ fakturor:
       - "K-VP-SERVICE-KOPPLING-20261118"
     kommentar: "Återbesök och byte av fläkt efter felsökning. Separat fakturanummer och order från 10266; inte dubblett. Båda kopplas till VP2 enligt beställaren."
     leveransdatum: "2024-02-12"
+  -
+    id: "F-2024-SELVER-10205"
+    fakturanummer: "10205"
+    leverantör: "Selvers Trädgård och Bygg AB"
+    organisationsnummer: "559207-0287"
+    fakturadatum: "2024-02-08"
+    förfallodatum: "2024-02-23"
+    utförandedatum: "2024-02-08"
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    datumkommentar: "Fakturadatum används enligt beställarens stående regel; separat arbetsdatum saknas."
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 11550
+    moms: 2887.5
+    öresavrundning: 0.5
+    att_betala: 14438
+    betalningsstatus: "Okänd"
+    rader:
+      -
+        id: "F-2024-SELVER-10205-R1"
+        benämning: "Lastbil med kran"
+        antal: 2
+        enhet: "tim"
+        à_pris_exklusive_moms: 1150
+        belopp_exklusive_moms: 2300
+      -
+        id: "F-2024-SELVER-10205-R2"
+        benämning: "Fiberduk"
+        antal: 6.5
+        enhet: "m2"
+        à_pris_exklusive_moms: 22
+        belopp_exklusive_moms: 143
+      -
+        id: "F-2024-SELVER-10205-R3"
+        benämning: "Bärlager"
+        antal: 0.65
+        enhet: "m3"
+        à_pris_exklusive_moms: 400
+        belopp_exklusive_moms: 260
+      -
+        id: "F-2024-SELVER-10205-R4"
+        benämning: "Stenmjöl"
+        antal: 0.5
+        enhet: "m3"
+        à_pris_exklusive_moms: 450
+        belopp_exklusive_moms: 225
+      -
+        id: "F-2024-SELVER-10205-R5"
+        benämning: "Padda"
+        antal: 1
+        enhet: "dag"
+        à_pris_exklusive_moms: 380
+        belopp_exklusive_moms: 380
+      -
+        id: "F-2024-SELVER-10205-R6"
+        benämning: "Plattor grå 400x400x50"
+        antal: 6.5
+        enhet: "m2"
+        à_pris_exklusive_moms: 188
+        belopp_exklusive_moms: 1222
+      -
+        id: "F-2024-SELVER-10205-R7"
+        benämning: "Pall"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 180
+        belopp_exklusive_moms: 180
+      -
+        id: "F-2024-SELVER-10205-R8"
+        benämning: "Sågmaskin med sågning"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 600
+        belopp_exklusive_moms: 600
+      -
+        id: "F-2024-SELVER-10205-R9"
+        benämning: "Arbetskostnad"
+        antal: 12
+        enhet: "tim"
+        à_pris_exklusive_moms: 520
+        belopp_exklusive_moms: 6240
+    objekt:
+      - "P-HANDIKAPPARKERINGAR"
+    åtgärder:
+      - "A-HANDIKAPPARKERING-20240208"
+    källor:
+      - "K-HANDIKAPPARKERING-2024"
+      - "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"

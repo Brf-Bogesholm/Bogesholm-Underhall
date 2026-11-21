@@ -55,3 +55,7 @@ källor:
   - "K-COMPLEO-TEKNIK-20261114"
   - "K-LADDPARK-KOMPLETTERING-20261114"
   - "K-NEO-MONTA-20261114"
+tillgänglighetsanpassning_2024:
+  parkeringsyta: "P-HANDIKAPPARKERINGAR"
+  åtgärd: "A-HANDIKAPPARKERING-20240208"
+  kommentar: "Befintlig laddare tillgänglig från breddad parkeringsyta enligt beställaren. Exakt laddbox/kluster okänt."

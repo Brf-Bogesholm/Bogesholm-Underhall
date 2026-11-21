@@ -1,0 +1,25 @@
+objekt:
+  -
+    id: "P-HANDIKAPPARKERINGAR"
+    namn: "Handikapparkeringar"
+    typ: "Tillgänglig parkeringsyta"
+    platsnummer: null
+    datastatus: "Namn, avsaknad av nummer och ombyggnad bekräftade av beställaren"
+    egenskaper:
+      antal_platser: null
+      kommentar: "Namnet är beställarens val; pluralformen är inte bevis för ett visst antal platser."
+    ombyggnad:
+      år: 2024
+      åtgärd: "A-HANDIKAPPARKERING-20240208"
+      resultat: "Parkeringsytan breddades och befintlig elbilsladdare gjordes tillgänglig med rullstol oavsett om bilens ladduttag sitter på vänster eller höger sida."
+      resultatkälla: "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"
+    relationer:
+      -
+        typ: "Tillgång till laddning"
+        objekt: "TI-LADDPARK-BOGESHOLM-001"
+        kommentar: "Exakt fysisk laddbox och kluster inte fastställda; ingen ny laddbox registreras."
+    underhållshistorik:
+      - "A-HANDIKAPPARKERING-20240208"
+    källor:
+      - "K-HANDIKAPPARKERING-2024"
+      - "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"

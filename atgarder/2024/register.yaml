@@ -248,3 +248,19 @@ version: "1.0"
       - "K-FTX-ARKIV-20261119"
       - "K-FTX-KOMPLETTERING-20261119"
     kommentar: "76 dokumenterade poster; saknade, tomma och ej åtkomliga poster bevaras. Dag och uttryckligt serviceföretag saknas i listan."
+  -
+    id: "A-HANDIKAPPARKERING-20240208"
+    datum: "2024-02-08"
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    datumkommentar: "Fakturadatum enligt beställarens stående regel, inte separat verifierad arbetsdag."
+    åtgärd: "Breddning av Handikapparkeringar och tillgänglighetsanpassning till befintlig elbilsladdare"
+    objekt:
+      - "P-HANDIKAPPARKERINGAR"
+    utförare: "Selvers Trädgård och Bygg AB"
+    faktura: "F-2024-SELVER-10205"
+    kostnad: null
+    kostnadsprincip: "Kostnad räknas en gång från fakturan, inte som inköp av ny laddare."
+    resultat: "Rullstolsåtkomst till laddaren oavsett bilens ladduttag på vänster eller höger sida enligt beställaren."
+    källor:
+      - "K-HANDIKAPPARKERING-2024"
+      - "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"
