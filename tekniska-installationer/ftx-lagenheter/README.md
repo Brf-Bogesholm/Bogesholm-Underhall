@@ -74,3 +74,7 @@ Boendesynpunkter om ljud, lösa frontplåtar/don, köksinredningsskador, driftpr
 - Bifogad CPDD/CPDL-manual och injusteringsprotokollens beteckning CPDJ är inte automatiskt samma installerade spiskåpmodell. Kontrollpanelens faktiska modell/generation behöver också verifieras innan instruktioner om programmering används.
 
 Manualernas generella funktioner och produktbladens kapacitet är inte nya driftinställningar. Originalmanualerna ligger kvar i dokumentarkivet och är sökbara via [källförteckningen](../../inventering/importer/ftx-lagenheter-2020-2021-2026-11-19.yaml). Alla manualsidor och produktvariantdetaljer har inte transkriberats; specifika service-/reservdelsfrågor behöver kontrolleras mot rätt original och märkskylt.
+
+## Aktivt serviceavtal 2026
+
+[Ömangruppen, avtal 6543581](serviceavtal-2026.yaml) är undertecknat av båda parter 2025-04-02 och aktivt enligt beställarens bekräftelse 2026-11-21. Avtalsperiod 2026-01-01–2027-01-01, automatisk förlängning med samma varaktighet och sex månaders skriftlig uppsägning. 78 lägenhetsaggregat omfattas, med besök första kvartalet. Arbetet för filterbyte ingår; filtermaterial är inte markerat som inkluderat. Felsökning och reparationer tillkommer. Undertecknat avtal anger 37 964 kr per år exklusive moms före indexreglering, inte en registrerad fakturakostnad. Avtalet är inte belägg för individuellt utförd service.

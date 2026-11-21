@@ -1,0 +1,20 @@
+id: "K-OMAN-AVTAL-6543581"
+registrerad: "2026-11-21"
+avtal: "AVT-OMAN-FTX-6543581"
+dokument:
+  -
+    fil: "Avtal Brf Bogesholm 2026-01-01--2027-01-01.pdf"
+    sha256: "bce941e238c9113f9802d571ac24dfd71af62fb9ccbc07277842b57d95001573"
+  -
+    fil: "Bilaga 1 Besökslista.pdf"
+    sha256: "068742b3f24a21c302e13e59f53c985781876b87ef5cc92406bf41b44ba5e20b"
+  -
+    fil: "Bilaga 2 Skötsellista.pdf"
+    sha256: "a13c246bdad278d1be1c317768d5dd875a0c5f857225b07d0fd460ea5ddfcd15"
+beställarbekräftelse:
+  id: "K-OMAN-BEKRAFTELSE-20261121"
+  uppgift: "Avtalet accepterat, undertecknat och gäller fortfarande enligt svar på sammanställningen."
+original_publicerade: false
+signaturer_publicerade: false
+unika_aggregat: 78
+filterfaktura: "5612288 läst och sammanställd för separat kontroll, inte ännu importerad."
