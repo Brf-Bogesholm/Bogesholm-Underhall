@@ -264,3 +264,14 @@ version: "1.0"
     källor:
       - "K-HANDIKAPPARKERING-2024"
       - "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"
+  -
+    id: "A-ANTICIMEX-20240527"
+    datum: "2024-05-27"
+    åtgärd: "Dokumenterat besök/avläsning av SMART Avloppsfälla"
+    objekt:
+      - "TI-AVLOPPSFALLA-1401"
+    avtal: "AVT-ANTICIMEX-2001002122"
+    besiktning: "B-ANTICIMEX-20240527"
+    kostnad: null
+    källor:
+      - "K-ANTICIMEX-AVLOPPSFALLA-2023"

@@ -1,0 +1,44 @@
+id: "AVT-ANTICIMEX-2001002122"
+avtalsnummer: "2001002122"
+leverantör: "Anticimex AB"
+organisationsnummer: "556032-9285"
+namn: "Smart Avloppsfälla"
+status: "Pågående med automatisk förlängning enligt beställaren 2026-11-21"
+signerat_av_samtliga: "2023-05-03"
+avtalsdatum: "2023-04-29"
+omfattning:
+  antal_fällor: 1
+  objekt: "TI-AVLOPPSFALLA-1401"
+  område: "Högalidsvägen 51–79"
+  tjänst: "Uppkopplad digital avloppsfälla i gatubrunn, rapportering dygnet runt. Anticimex sköter underhåll, service och placering."
+giltighet:
+  start: "2023-05-15"
+  ursprunglig_längd_år: 3
+  ursprunglig_sista_dag: "2026-05-14"
+  förlängning_år: 1
+  skriftlig_uppsägning_månader_före_huvudförfallodag: 3
+  huvudförfallodag: "15 maj"
+  beräknad_nuvarande_period_start: "2026-05-15"
+  beräknad_nuvarande_period_slut: "2027-05-14"
+  beräknad_nästa_förnyelse: "2027-05-15"
+  beräknad_uppsägning_senast: "2027-02-15"
+  beräknat_per: "2026-11-21"
+ekonomi:
+  ursprunglig_årsavgift_exklusive_moms: 26654
+  engångsinvestering_exklusive_moms: 0
+  betalningstillfällen_per_år: 1
+  betalningsvillkor_dagar: 30
+  årsavgift_fakturerad_2025_exklusive_moms: 30621.15
+  aktuell_avgift_2026: null
+  faktura: "F-2025-ANTICIMEX-676811115226451"
+  kommentar: "2025 års belopp är inte verifierad nuvarande årsavgift."
+prishöjning:
+  status: "Accepterad av föreningen efter bestridande enligt beställaren"
+  orsak_till_bestridande: "Priset hade höjts"
+  beställaruppgift: "Föreningen konstaterade att avtalet innehöll en möjlighet att höja priset och accepterade motvilligt höjningen."
+  villkorsverifiering: "Exakt prishöjningsklausul inte självständigt granskad. Allmänna villkor utgåva 15 anges som separat länkad bilaga i signaturcertifikatet, men ingår inte i de fyra extraherade dokumenten."
+  betalningsstatus: "Inte bekräftad"
+  kreditfaktura: "Ingen uppgift om kredit eller ändrat belopp"
+källor:
+  - "K-ANTICIMEX-AVLOPPSFALLA-2023"
+  - "K-ANTICIMEX-BEKRAFTELSE-20261121"

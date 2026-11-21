@@ -4467,3 +4467,26 @@ objekt:
     källor:
       - "K-SOLCELLER-ARKIV-20261121"
       - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-AVLOPPSFALLA-1401"
+    typ: "digital avloppsfälla"
+    namn: "Anticimex SMART Avloppsfälla 1401"
+    placering: "Högalidsvägen 51, lättast från fotbollsplanen enligt rapporterna"
+    egenskaper:
+      fabrikat: "Anticimex"
+      modell: "SMART Avloppsfälla"
+      rapport_id: "1401"
+      serienummer: null
+      exakt_modellvariant: null
+      kommentar: "1401 är rapportens ID, inte verifierat serienummer. Avtalsbeskrivningens rubrik Avloppsfälla 1 & 2 innebär inte två fällor; antal anges till en."
+    avtal: "AVT-ANTICIMEX-2001002122"
+    första_dokumenterade_besök: "2023-05-15"
+    installationsdatum: null
+    relationer:
+      []
+    underhållshistorik:
+      - "A-ANTICIMEX-20230515"
+      - "A-ANTICIMEX-20240527"
+    källor:
+      - "K-ANTICIMEX-AVLOPPSFALLA-2023"
+      - "K-ANTICIMEX-BEKRAFTELSE-20261121"

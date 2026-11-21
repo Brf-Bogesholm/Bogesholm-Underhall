@@ -2246,3 +2246,14 @@ version: "1.0"
       - "K-AVLOPP-PROTOKOLL-2023"
       - "K-AVLOPP-BEKRAFTELSE-20261121"
     kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-ANTICIMEX-20230515"
+    datum: "2023-05-15"
+    åtgärd: "Dokumenterat besök/avläsning av SMART Avloppsfälla"
+    objekt:
+      - "TI-AVLOPPSFALLA-1401"
+    avtal: "AVT-ANTICIMEX-2001002122"
+    besiktning: "B-ANTICIMEX-20230515"
+    kostnad: null
+    källor:
+      - "K-ANTICIMEX-AVLOPPSFALLA-2023"

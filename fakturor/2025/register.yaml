@@ -7,6 +7,7 @@ registreringsomgångar:
   - "2026-11-21-GUNGBRADA"
   - "2026-11-21-PARTYTALT"
   - "2026-11-21-SOLCELLER"
+  - "2026-11-21-ANTICIMEX"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -1167,3 +1168,34 @@ fakturor:
       - "K-SOLCELLER-ARKIV-20261121"
       - "K-SOLCELLER-BEKRAFTELSE-20261121"
     kommentar: "Rader med antal 1,08/1,12 är påslag 8/12 procent på kostnadsunderlag, inte antal fysiska installationer. Bilagor till entreprenörens faktura räknas inte som nya föreningskostnader. Fakturadatum är inte ersättning för känd driftsättning 2025-06-17."
+  -
+    id: "F-2025-ANTICIMEX-676811115226451"
+    fakturanummer: "676811115226451"
+    leverantör: "Anticimex AB"
+    organisationsnummer: "556032-9285"
+    fakturadatum: "2025-04-14"
+    förfallodatum: "2025-05-14"
+    tjänsteperiod_start: "2025-05-15"
+    tjänsteperiod_slut: "2026-05-14"
+    avtal: "AVT-ANTICIMEX-2001002122"
+    objekt:
+      - "TI-AVLOPPSFALLA-1401"
+    valuta: "SEK"
+    exklusive_moms: 30621.15
+    moms_procent: 25
+    moms: 7655.29
+    öresavrundning: -0.44
+    att_betala: 38276
+    betalningsstatus: "Okänd"
+    bestridandestatus: "Prishöjningen accepterad efter bestridande enligt beställaren"
+    kommentar: "Filnamnet anger 2025-04-21 men fakturadatum är 2025-04-14. Accepterad prishöjning är inte betalningsbevis. Ingen ny installation eller separat serviceåtgärd skapas från årsavgiften."
+    rader:
+      -
+        id: "F-2025-ANTICIMEX-676811115226451-R1"
+        benämning: "Smart Avloppsfälla"
+        belopp_exklusive_moms: 30621.15
+        antal: null
+        enhet: null
+    källor:
+      - "K-ANTICIMEX-AVLOPPSFALLA-2023"
+      - "K-ANTICIMEX-BEKRAFTELSE-20261121"

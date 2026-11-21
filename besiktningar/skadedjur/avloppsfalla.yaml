@@ -1,0 +1,26 @@
+avtal: "AVT-ANTICIMEX-2001002122"
+besök:
+  -
+    id: "B-ANTICIMEX-20230515"
+    datum: "2023-05-15"
+    rapportnummer: "67596970"
+    objekt: "TI-AVLOPPSFALLA-1401"
+    parameter: "Antal larm"
+    avläst_värde: 0
+    gränsvärde_original: "0–10"
+    resultat_enligt_symbol: "Godkänd"
+    åtgärd: "A-ANTICIMEX-20230515"
+  -
+    id: "B-ANTICIMEX-20240527"
+    datum: "2024-05-27"
+    rapportnummer: "85690223"
+    objekt: "TI-AVLOPPSFALLA-1401"
+    parameter: "Antal larm"
+    avläst_värde: 122
+    gränsvärde_original: "0–10"
+    resultat_enligt_symbol: "Ej godkänd"
+    notering: "Årlig avläsning"
+    åtgärd: "A-ANTICIMEX-20240527"
+tolkningsavgränsning: "Rapporternas historiska symbol och antal larm bevaras. 122 larm är inte verifierat 122 fångade råttor, funktionsfel eller dagens status. Uppföljning/åtgärder efter 2024-05-27 är okända."
+källor:
+  - "K-ANTICIMEX-AVLOPPSFALLA-2023"

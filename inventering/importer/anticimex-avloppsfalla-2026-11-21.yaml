@@ -1,0 +1,27 @@
+id: "K-ANTICIMEX-AVLOPPSFALLA-2023"
+registrerad: "2026-11-21"
+avtal: "AVT-ANTICIMEX-2001002122"
+beställarbekräftelse:
+  id: "K-ANTICIMEX-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Avtalet pågår och förnyas automatiskt."
+    - "Fakturan bestreds för att priset hade höjts."
+    - "Möjlighet att höja priset fanns i avtalet enligt beställaren; höjningen accepterades motvilligt."
+dokument:
+  -
+    fil: "2025-04-21 Faktura - Bestrides.pdf"
+    sha256: "260c056a7719ba45a054b5bc0740ef4f6b8b77832afd86d275c3de5b09799473"
+  -
+    fil: "8888323_A1_VIEW.pdf"
+    sha256: "e46bcd82fe1278bb6acc1d64c0723cf5b30887dd67e58c8e09178c9d044892f7"
+  -
+    fil: "9965958_A1_VIEW.pdf"
+    sha256: "f54061dfc16d0683f037f7505bf6e47327a7f0bdf9cd8bdafaeb9a2a379aeba5"
+  -
+    fil: "Förebyggande avlopp 2023.pdf"
+    sha256: "924aae7aa1967c8eda6afae1d9735a418ebf34e0521a8eeb9cd156d93120c97b"
+original_publicerade: false
+kontroll:
+  fällor: 1
+  besök: 2
+  fakturor: 1
