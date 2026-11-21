@@ -1,0 +1,22 @@
+id: "MAT-SIKAFLEX-402-CONNECTION-2025"
+projekt: "P-DILATATIONSFOGAR-2025"
+produktnamn: "Sikaflex-402 Connection"
+produktdatablad:
+  version: "01.03"
+  datum: "2025-03"
+  kemisk_bas: "Silanterminerad polymer"
+  typ: "Enkomponent, fukthärdande lågmodulär elastisk fogmassa"
+  användning: "Rörelse- och anslutningsfogar i betong- och murade fasader"
+  rörelseförmåga: "±25 %"
+  brukstemperatur_c: "-40 till +70"
+  appliceringstemperatur_c: "+5 till +40"
+  övermålning: "Förtest och full uthärdning enligt datablad; elastiska fogar bör generellt inte övermålas."
+  hållbarhet_oöppnad: "12 månader från produktionsdatum; inte livslängd för installerad fog"
+säkerhetsdatablad:
+  version: "5.0"
+  revisionsdatum: "2024-04-26"
+  tryckdatum: "2024-06-24"
+  arkivfil: "sds-sikaflex-402connection.pdf"
+avgränsning: "Bifogade historiska produktreferenser, inte verifierad faktisk fogdimension, materialmängd eller produktidentitet för varje fog. Se projektets namnkonflikt. Säkerhetsdatabladet bevaras som källreferens utan ny bedömning av dagens föreskrifter."
+källor:
+  - "K-DILATATIONSFOGAR-2025"

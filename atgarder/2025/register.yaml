@@ -320,3 +320,34 @@ version: "1.0"
       - "K-FLAGGSTANG-FAKTURA-2021992"
       - "K-FLAGGSTANG-BEKRAFTELSE-20261121"
     kommentar: "Mekanik och toppknopp utbytta enligt beställaren; service utförd på fakturadatum. Flaggstångens ursprungliga installationsår är fortsatt 1984."
+  -
+    id: "A-DILATATIONSFOGAR-2025"
+    år: 2025
+    datum: null
+    åtgärd: "Byte av samtliga dilatationsfogar på bostadshusen och kvartershuset"
+    objekt:
+      - "H-51"
+      - "H-53"
+      - "H-55"
+      - "H-57"
+      - "H-59"
+      - "H-61"
+      - "H-63"
+      - "H-65"
+      - "H-67"
+      - "H-69"
+      - "H-71"
+      - "H-73"
+      - "H-75"
+      - "H-77"
+      - "H-79"
+    projekt: "P-DILATATIONSFOGAR-2025"
+    utförare: "Fogentreprenören Sverige AB"
+    projektföretag: "NIMAB Support AB"
+    utförandestatus: "Genomfört 2025 enligt beställaren"
+    faktura: null
+    kostnad: null
+    kommentar: "Egenkontroll daterad 2025-05-14, signerad 2025-05-19. Ingen av dagarna sätts som gemensamt färdigdatum eller garantistart för samtliga hus."
+    källor:
+      - "K-DILATATIONSFOGAR-2025"
+      - "K-DILATATIONSFOGAR-BEKRAFTELSE-20261121"

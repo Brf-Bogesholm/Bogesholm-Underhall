@@ -1,0 +1,28 @@
+id: "K-DILATATIONSFOGAR-2025"
+registrerad: "2026-11-21"
+projekt: "P-DILATATIONSFOGAR-2025"
+dokument:
+  -
+    fil: "Kävlinge.docx"
+    sha256: "9686361a274e5d99a8cf093c5097c607e988564f4f393149b16897d9aa899498"
+  -
+    fil: "P3696 - NIMAB SUPPORT AB Högalidsvägen 79 Kävlinge Fast pris - Egenkontroll1.pdf"
+    sha256: "725bed33d09be0ce58ca94bce943b7a908c576720168fdd66e93b9a7d7439360"
+  -
+    fil: "sds-sikaflex-402connection.pdf"
+    sha256: "7d2426acbad54ac32a437eab2fd854eaca11dd42807ab095a6619d0a97d00a6f"
+  -
+    fil: "sikaflex-402-connection.pdf"
+    sha256: "468b57e2b513550080896119ebd029676a3ca49610d9c92ff895348aabbd8621"
+beställarbekräftelse:
+  id: "K-DILATATIONSFOGAR-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Samtliga dilatationsfogar byttes 2025."
+    - "Bostadshusen och kvartershuset omfattas."
+original_publicerade: false
+kontroll:
+  bostadshus: 14
+  kvartershus: 1
+  byggnadskopplingar: 15
+  unika_åtgärder: 1
+  fakturor_importerade: 0

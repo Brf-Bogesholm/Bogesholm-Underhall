@@ -1,0 +1,82 @@
+id: "P-DILATATIONSFOGAR-2025"
+år: 2025
+åtgärd: "A-DILATATIONSFOGAR-2025"
+omfattning: "Samtliga dilatationsfogar på de 14 bostadshusen och kvartershuset enligt beställaren."
+objekt:
+  - "H-51"
+  - "H-53"
+  - "H-55"
+  - "H-57"
+  - "H-59"
+  - "H-61"
+  - "H-63"
+  - "H-65"
+  - "H-67"
+  - "H-69"
+  - "H-71"
+  - "H-73"
+  - "H-75"
+  - "H-77"
+  - "H-79"
+omfattningskälla: "K-DILATATIONSFOGAR-BEKRAFTELSE-20261121"
+utfört_arbete_enligt_intyg: "Utvändig synlig fogrenovering i tegelfasader från lift."
+företag:
+  projektreferens: "NIMAB Support AB"
+  utförare_och_intygsgivare: "Fogentreprenören Sverige AB"
+  utförare_organisationsnummer: "556445-8791"
+projektnummer_enligt_egenkontroll: "P3696"
+material:
+  namn_enligt_intyg: "Sika Hyflex 402 Connection"
+  namn_enligt_egenkontroll: "Sika Hyflex Comnection 402"
+  namn_enligt_datablad: "Sikaflex-402 Connection"
+  kulör_enligt_egenkontroll: "Betonggrå"
+  batch_enligt_egenkontroll: "3007961729"
+  batch_omfattning: "Anges i egenkontrollen; inte verifierat att samma batch användes på varje byggnad."
+  bottningslist_enligt_intyg: "Sika Bottningslist"
+  bottningslist_enligt_egenkontroll: false
+  tdv_rör_enligt_egenkontroll: false
+  primer_enligt_egenkontroll:
+    rubrik: "Sika Primer 3-N"
+    användning: null
+    batchnummer: null
+egenkontroll:
+  datum: "2025-05-14"
+  signeringsdatum: "2025-05-19"
+  plats_original: "Dilfog mot cykle väg"
+  projektadress: "Högalidsvägen 79, Kävlinge"
+  fogtyper_markerade:
+    - "Dilatationsfog"
+    - "Synlig fog exkl Dilatationsfog"
+  kontaktyta: "Betong"
+  kontaktytor:
+    rent_markerat: false
+    fast_markerat: false
+    torrt_markerat: true
+    rengjort_innan_arbete_markerat: false
+    kommentar: "Omarkerat är inte bevis för att underlaget var smutsigt eller löst."
+  temperatur_över_5_grader_markerat: true
+  uppehållsväder_markerat: false
+  regn_markerat: false
+  dragprov_utfört: false
+  slutkontroll:
+    utseende: "OK"
+    jämn_fog: "OK"
+    ingen_fogmassa_utanför_fog: "OK"
+  avgränsning: "En dokumenterad egenkontroll med platsuppgift mot cykelväg; dess datum och markeringar är inte individuella kontroller av samtliga 15 hus."
+garanti:
+  arbete_och_material_år: 5
+  gäller_från: "Besiktningsdatum enligt intyget"
+  besiktningsdatum: null
+  startdatum: null
+  slutdatum: null
+  status: "Start och aktuell giltighet inte fastställda"
+  intyg: "Utföraren intygar fackmannamässigt arbete enligt materialleverantörens instruktioner."
+källavvikelser:
+  - "Hyflex/Comnection i utförandedokument skiljer sig från Sikaflex-402 Connection i bifogade datablad; ingen tyst normalisering av faktisk produktidentitet."
+  - "Intyget anger Sika Bottningslist medan egenkontrollen markerar nej. Kan avse olika delar, men fördelningen är inte dokumenterad."
+exakt_utförandedatum_per_hus: null
+faktura: null
+kostnad: null
+källor:
+  - "K-DILATATIONSFOGAR-2025"
+  - "K-DILATATIONSFOGAR-BEKRAFTELSE-20261121"

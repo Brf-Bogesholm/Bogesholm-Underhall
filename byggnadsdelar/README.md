@@ -63,3 +63,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Hängrännor
 
 [Rensning 2023](hangrannor/README.md) – samtliga byggnader på området inklusive garagelängor, enligt beställaren.
+
+## Dilatationsfogar
+
+[Byte 2025](dilatationsfogar/README.md) – samtliga bostadshus och kvartershuset, materialuppgifter, egenkontroll och femårig garanti med okänd startdag.

@@ -117,3 +117,7 @@ Bekräftat 2026-11-21: S400 installerad slutet mars 2023, extra 25-liters Contra
 ## Avloppsspolning 2023
 
 Godkänt 2026-11-21. Se tekniska-installationer/avlopp/README.md. Ena dubbla 53E-raden i novemberprotokollet är 53D enligt beställaren. Utförande för 73E återbesök, 75F senare spolning, 67H samt 61A tvättstugans golvbrunn förblir osäkert/okänt. Plan/avisering är inte utförandebevis. 14 unika fräsningar i slutprotokollet, inte offertens 12. Fräst/renspolat är historiskt resultat, inte generell godkänd status. Filmer på USB inte granskade; bevara motsägande filmuppgifter för hus 53.
+
+## Dilatationsfogar 2025
+
+Beställaren bekräftar 2026-11-21: alla 14 bostadshus och kvartershuset H-69, totalt 15 hus. Se byggnadsdelar/dilatationsfogar/README.md. Egenkontroll 2025-05-14, signerad 2025-05-19, plats mot cykelväg i P3696; inte individuella slutdatum för alla hus. Fem års garanti från okänt besiktningsdatum. Bevara Hyflex/Sikaflex-namnkonflikt samt bottningslist i intyg kontra nej i egenkontroll. Omarkerade rengörings-/primerfält innebär inte fastställd brist. Inga fakturakostnader importerade.
