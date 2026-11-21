@@ -66,22 +66,38 @@ objekt:
       modell: "8049488-1"
       serienummer: null
       garanti: null
-      kommentar: "Tidigare registrerad som gungbräda. Beställaren har bekräftat koppling till protokollets vippgunga; separat inköpskostnad för redskapet saknas."
+      kommentar: "Vippgunga Vippy HAGS 8049488-1. Ersatte gamla vippgungan på 50-gården enligt beställaren. Inköpsfaktura 2025 och separat monteringsfaktura 10382 daterad 2026-01-14; inga dubbla inköp eller monteringsdatum skapas."
       fabrikat: "Hags"
       tillverkningsår: 2025
       typ_enligt_besiktning: "Vippgunga typ 1"
+      modellnamn: "Vippy"
+      inköpsfaktura: "F-2025-HAGS-1606002"
+      inköpsdatum: "2025-09-05"
+      leveransdatum: "2025-09-05"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      leveransdatumkommentar: "Fakturadatum enligt stående regel; installation dateras inte om till inköpsdagen."
+      redskap_pris_exklusive_moms: 10132
+      inköpskostnad_hänvisning: "F-2025-HAGS-1606002"
+      ersätter: "LEK-50-VIPPGUNGA-2016"
     relationer:
       -
         typ: "located_in"
         objekt: "LP-50"
+      -
+        typ: "ersätter"
+        objekt: "LEK-50-VIPPGUNGA-2016"
     underhållshistorik:
       - "A-2026-10382-1"
       - "A-2026-5398-53"
+      - "A-GUNGBRADA-INKOP-20250905"
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
       - "K-PROTOKOLL-2026-53"
       - "K-KOMPLETTERING-2026-10-23-02"
+      - "K-GUNGBRADA-INKOP-2025"
+      - "K-GUNGBRADA-ERSATTNING-20261121"
+      - "K-DATUMREGEL-2026-11-13"
   -
     id: "UT-DISK-WT38-001"
     typ: "restaurangdiskmaskin"

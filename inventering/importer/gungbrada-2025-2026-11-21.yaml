@@ -1,0 +1,19 @@
+id: "K-GUNGBRADA-INKOP-2025"
+registrerad: "2026-11-21"
+dokument:
+  fil: "Faktura Gungbrädan 2025-09-05.pdf"
+  sha256: "67abdceddf3c37be31c23136cebde10960093ddf12e1c27d84ff8f86f3a1bc0b"
+beställarbekräftelse:
+  id: "K-GUNGBRADA-ERSATTNING-20261121"
+  uppgifter:
+    - "Inköpet gäller gungbrädan som ersatte den gamla på lekplatsen på 50-gården."
+    - "Sammanställning godkänd; leveransdatum enligt datumregel. Tidigare monteringshistorik hålls separat."
+faktura: "F-2025-HAGS-1606002"
+nytt_redskap: "UT-GUNGBRADA-50-001"
+ersatt_redskap: "LEK-50-VIPPGUNGA-2016"
+original_publicerade: false
+kontroll:
+  unika_fakturor: 1
+  rader: 4
+  total_inklusive_moms: 16071
+  nya_redskapsobjekt: 0

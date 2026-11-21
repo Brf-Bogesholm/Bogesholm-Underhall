@@ -363,14 +363,21 @@ objekt:
         - "B-LEK-2021-50"
         - "B-LEK-2023-50"
         - "B-LEK-2025-50"
-      kommentar: "Skild från UT-GUNGBRADA-50-001, Hags 8049488-1 med tillverkningsår 2025. Exakt avvecklingsdatum och ersättningsrelation är inte fastställda."
+      kommentar: "Ersatt av UT-GUNGBRADA-50-001, HAGS Vippy 8049488-1, enligt beställaren 2026-11-21. Exakt avvecklingsdag är okänd. Historiska besiktningar bevaras."
+      ersatt_av: "UT-GUNGBRADA-50-001"
+      exakt_avvecklingsdatum: null
     relationer:
       -
         typ: "located_in"
         objekt: "LP-50"
+      -
+        typ: "ersatt_av"
+        objekt: "UT-GUNGBRADA-50-001"
     underhållshistorik:
       - "A-LEK-2021-50"
       - "A-LEK-2023-50"
       - "A-LEK-2025-50"
     källor:
       - "K-LEKPLATSARKIV-20261113"
+      - "K-GUNGBRADA-INKOP-2025"
+      - "K-GUNGBRADA-ERSATTNING-20261121"

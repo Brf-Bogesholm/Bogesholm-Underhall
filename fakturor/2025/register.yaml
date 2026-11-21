@@ -4,6 +4,7 @@ registreringsomgångar:
   - "2026-11-21-FLAGGSTANG"
   - "2026-11-21-DILFOG-KOMPLETTERING"
   - "2026-11-21-GARAGETAK"
+  - "2026-11-21-GUNGBRADA"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -606,3 +607,67 @@ fakturor:
       - "K-GARAGETAK-ARKIV-20261121"
       - "K-GARAGETAK-BEKRAFTELSE-20261121"
     kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."
+  -
+    id: "F-2025-HAGS-1606002"
+    fakturanummer: "1606002"
+    leverantör: "HAGS Aneby AB"
+    organisationsnummer: "556136-0081"
+    fakturadatum: "2025-09-05"
+    orderdatum: "2025-09-03"
+    ordernummer: "461685"
+    förfallodatum: "2025-09-15"
+    leveransdatum: "2025-09-05"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum enligt stående regel; inte separat observerad leveransdag. Monteringshistorik från faktura 10382 hålls separat."
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 12857
+    moms: 3214.25
+    öresavrundning: -0.25
+    att_betala: 16071
+    betalningsstatus: "Okänd"
+    objekt:
+      - "UT-GUNGBRADA-50-001"
+    åtgärder:
+      - "A-GUNGBRADA-INKOP-20250905"
+    rader:
+      -
+        id: "F-2025-HAGS-1606002-R1"
+        artikelnummer: "8049488-1"
+        benämning: "Vippgunga Vippy"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 12665
+        rabatt_procent: 20
+        belopp_exklusive_moms: 10132
+      -
+        id: "F-2025-HAGS-1606002-R2"
+        artikelnummer: "8019291"
+        benämning: "Pallar"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 258
+        rabatt_procent: 0
+        belopp_exklusive_moms: 258
+      -
+        id: "F-2025-HAGS-1606002-R3"
+        artikelnummer: "8003596"
+        benämning: "Pallkrage"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 209
+        rabatt_procent: 0
+        belopp_exklusive_moms: 418
+      -
+        id: "F-2025-HAGS-1606002-R4"
+        artikelnummer: "8019289"
+        benämning: "Frakt"
+        antal: 1
+        enhet: null
+        à_pris_exklusive_moms: 2049
+        rabatt_procent: 0
+        belopp_exklusive_moms: 2049
+    källor:
+      - "K-GUNGBRADA-INKOP-2025"
+      - "K-GUNGBRADA-ERSATTNING-20261121"
+      - "K-DATUMREGEL-2026-11-13"

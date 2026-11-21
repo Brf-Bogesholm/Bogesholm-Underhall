@@ -382,3 +382,19 @@ version: "1.0"
       - "K-GARAGETAK-ARKIV-20261121"
       - "K-GARAGETAK-BEKRAFTELSE-20261121"
     kommentar: "Kumulativa byggmöten och fakturadatum blir inte separata takbyten. Avhjälpande såvitt beställaren vet genomfört; kommunalt slutbesked okänt."
+  -
+    id: "A-GUNGBRADA-INKOP-20250905"
+    datum: "2025-09-05"
+    typ: "Inköp/leverans"
+    åtgärd: "Inköp av HAGS Vippy till lekplatsen på 50-gården som ersättning för äldre vippgunga"
+    objekt:
+      - "UT-GUNGBRADA-50-001"
+    placering: "LP-50, lekplatsen på 50-gården"
+    faktura: "F-2025-HAGS-1606002"
+    kostnad: null
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    kommentar: "Leveransdatum satt till fakturadatum. Separat monteringsåtgärd A-2026-10382-1 bevaras. Äldre redskapets exakta avvecklingsdag är inte fastställd."
+    källor:
+      - "K-GUNGBRADA-INKOP-2025"
+      - "K-GUNGBRADA-ERSATTNING-20261121"
+      - "K-DATUMREGEL-2026-11-13"
