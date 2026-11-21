@@ -105,3 +105,7 @@ Beställaren bekräftar backup från DUC gjord 2026-11-19 kl 20.40 och beställe
 ## Skyddsrum – adressrättelse och Presto
 
 Beställaren rättar 2026-11-21 tidigare adress 69. Skyddsrum 175354-3 har Högalidsvägen 81 enligt bifogad MSB-karta (120 platser, Bågen 2, TB78). Behåll stabilt ID U-SKYDDSRUM-69 för länkar; suffixet är historiskt, inte adress. 69/79 i Presto-handlingar är källavvikelser. Kontor/pannrum/värmepumpar ligger fortsatt på 69. Presto-avtal signerat 2022-03-25, tre år, inte förlängt enligt beställaren; inte aktivt. Inventering 2022-10-20 har nio noteringar, vissa ej kontrollerbara pga inklädnad. Senare avhjälpande okänt. Offert 134031 är inte utförd åtgärd eller faktura. TB78 är historisk referens, inte ny regelbedömning. Se besiktningar/skyddsrum/README.md.
+
+## Fönstermålning 2023
+
+Beställaren bekräftar 2026-11-21 att Excel-listan visar faktiskt ommålade fönster. 36 positioner i 29 lägenheter; 71B rättas till sovrum på nedervåning, baksida. Ursprungliga markeringar bevaras som källavvikelse. Övriga fönster senast målade 2016 enligt beställaren. Använd positionshistorik, inte 2023 för hela lägenhetens samtliga fönster. Anbudens 55 fönster är annan mängduppgift och får inte bli 19 extra utförda positioner. Kompletterande/bättringsmålning, inte verifierad fullständig utsidesmålning eller automatisk överföring av 2016 års färgprodukt/kulör. Kontraktet gäller Riksbyggens konsultuppdrag, inte målerientreprenaden. Se byggnadsdelar/fonster/README.md.

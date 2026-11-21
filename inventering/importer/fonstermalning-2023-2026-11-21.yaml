@@ -1,0 +1,34 @@
+id: "K-FONSTER-LISTA-2023"
+registrerad: "2026-11-21"
+projekt: "P-FONSTER-KOMPLETTERING-2023"
+dokument:
+  -
+    fil: "Anbudsmall måleritjänst syd ab  Riksbyggen Kävlinge.pdf"
+    sha256: "9b947caa82188acfc4b8227d6dbba3bc850388bbab45bcc2ed28fe0805b36fc9"
+  -
+    fil: "fönsterinventering.pdf"
+    sha256: "df6d10ca16e3b77b82d484a7d91965bc37efb6950dd776ccb2649f874113a2a9"
+  -
+    fil: "Högalids vägen 50–79. offert.pdf"
+    sha256: "75ede138d1d23617ecdd698b2c710ab531ee882e80b32865f942d13a58fbc871"
+  -
+    fil: "Kontrakt förenklad upphandling- sign.pdf"
+    sha256: "75106c5c54d893a069790c39e9e3bc7a142218fc15903e841455aee3ea4206d7"
+  -
+    fil: "Rbf Bogesholm fönstermålning.pdf"
+    sha256: "d29bc82dd80814740cafe4971dde17af3918aa04736fa76bc70a4f5c1365a637"
+  -
+    fil: "Fönsterinventering.xlsx"
+    sha256: "bb6af9faa9c3870277cfba590db0b4d7d74b30ec70952c58ee0b06da01800702"
+beställarbekräftelse:
+  id: "K-FONSTER-BEKRAFTELSE-20261121"
+  excel_listan: "Visar faktiskt ommålade fönster"
+  rättelse: "71B: nedervåning, baksida"
+  övriga_fönster: "Senast målade 2016 enligt beställaren"
+kontroller:
+  positioner: 36
+  lägenheter_med_komplettering: 29
+  historikregel_lägenheter: 78
+  pdf_excel: "Samtliga 36 ursprungsrader identiska; 71B rättad efter källjämförelsen"
+original_publicerade: false
+kostnader_importerade: false

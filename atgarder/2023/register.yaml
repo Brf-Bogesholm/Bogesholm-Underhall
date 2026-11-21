@@ -153,3 +153,615 @@ version: "1.0"
     kommentar: "Enligt fakturan tidigare motorbyte cirka två veckor före besöket. Maskinen genomgången och kyl-läckage kontrollerat, inget fel konstaterat. Det tidigare motorbytet är endast en hänvisning, inte en ytterligare registrerad åtgärd."
     datumkälla: "K-DATUMREGEL-2026-11-13"
     datumkommentar: "Fakturadatum används enligt beställarens stående regel; inte observerat utförandedatum."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P001"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P001"
+      - "L-118-1-0077"
+    placering: "Högalidsvägen 51B, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P002"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P002"
+      - "L-118-1-0073"
+    placering: "Högalidsvägen 53B, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P003"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P003"
+      - "L-118-1-0070"
+    placering: "Högalidsvägen 53E, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P004"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P004"
+      - "L-118-1-0061"
+    placering: "Högalidsvägen 57B, Sovrum höger, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P005"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P005"
+      - "L-118-1-0055"
+    placering: "Högalidsvägen 59E, Sovrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P006"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P006"
+      - "L-118-1-0051"
+    placering: "Högalidsvägen 61B, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P007"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P007"
+      - "L-118-1-0052"
+    placering: "Högalidsvägen 61C, Kök, framsida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P008"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P008"
+      - "L-118-1-0049"
+    placering: "Högalidsvägen 63A, Kök, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P009"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P009"
+      - "L-118-1-0046"
+    placering: "Högalidsvägen 63D, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P010"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P010"
+      - "L-118-1-0035"
+    placering: "Högalidsvägen 65A, Sovrum vänster, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P011"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P011"
+      - "L-118-1-0034"
+    placering: "Högalidsvägen 65B, Sovrum höger, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P012"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P012"
+      - "L-118-1-0037"
+    placering: "Högalidsvägen 67B, Sovrum höger, baksida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P013"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P013"
+      - "L-118-1-0038"
+    placering: "Högalidsvägen 67C, Sovrum, baksida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P014"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P014"
+      - "L-118-1-0038"
+    placering: "Högalidsvägen 67C, Kök, framsida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P015"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P015"
+      - "L-118-1-0039"
+    placering: "Högalidsvägen 67D, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P016"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P016"
+      - "L-118-1-0039"
+    placering: "Högalidsvägen 67D, Sovrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P017"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P017"
+      - "L-118-1-0042"
+    placering: "Högalidsvägen 67G, Sovrum, baksida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P018"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P018"
+      - "L-118-1-0043"
+    placering: "Högalidsvägen 67H, Sovrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P019"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P019"
+      - "L-118-1-0012"
+    placering: "Högalidsvägen 71A, Sovrum höger, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P020"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P020"
+      - "L-118-1-0012"
+    placering: "Högalidsvägen 71A, Sovrum vänster, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P021"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P021"
+      - "L-118-1-0013"
+    placering: "Högalidsvägen 71B, Sovrum, baksida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P022"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P022"
+      - "L-118-1-0015"
+    placering: "Högalidsvägen 71D, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P023"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P023"
+      - "L-118-1-0015"
+    placering: "Högalidsvägen 71D, Sovrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P024"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P024"
+      - "L-118-1-0016"
+    placering: "Högalidsvägen 71E, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P025"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P025"
+      - "L-118-1-0016"
+    placering: "Högalidsvägen 71E, Sovrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P026"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P026"
+      - "L-118-1-0017"
+    placering: "Högalidsvägen 71F, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P027"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P027"
+      - "L-118-1-0017"
+    placering: "Högalidsvägen 71F, Sovrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P028"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P028"
+      - "L-118-1-0018"
+    placering: "Högalidsvägen 71G, Vardagsrum, baksida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P029"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P029"
+      - "L-118-1-0019"
+    placering: "Högalidsvägen 71H, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P030"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P030"
+      - "L-118-1-0023"
+    placering: "Högalidsvägen 75C, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P031"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P031"
+      - "L-118-1-0020"
+    placering: "Högalidsvägen 75F, Vardagsrum, baksida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P032"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P032"
+      - "L-118-1-0007"
+    placering: "Högalidsvägen 77E, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P033"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P033"
+      - "L-118-1-0004"
+    placering: "Högalidsvägen 79C, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P034"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P034"
+      - "L-118-1-0003"
+    placering: "Högalidsvägen 79D, Kök, framsida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P035"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P035"
+      - "L-118-1-0002"
+    placering: "Högalidsvägen 79E, Kök, framsida, nedervåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."
+  -
+    id: "A-MALNING-2023-FONSTER-2023-P036"
+    datum: null
+    år: 2023
+    åtgärd: "Kompletterande målning av utvald fönsterposition"
+    objekt:
+      - "FONSTER-2023-P036"
+      - "L-118-1-0002"
+    placering: "Högalidsvägen 79E, Sovrum, framsida, ovanvåning"
+    utförare: "Syd Måleri i Malmö AB"
+    projekt: "P-FONSTER-KOMPLETTERING-2023"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kommentar: "Listans utförande bekräftat av beställaren. Ingen exakt målningsdag, individuell produkt/kulör eller behandlad andel har antagits."

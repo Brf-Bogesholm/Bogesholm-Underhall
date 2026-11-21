@@ -55,3 +55,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Garageförrådets tak
 
 [Nytt papptak 2020 och SOPREMA-garanti](tak-garageforrad/README.md), över garageförrådet mellan garagebyggnad 2 och 3.
+
+## Fönstermålning
+
+[Kompletterande fönstermålning 2023](fonster/README.md) – 36 utförda positioner i 29 lägenheter; övriga fönster senast målade 2016 enligt beställaren.

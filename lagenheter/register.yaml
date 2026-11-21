@@ -43,6 +43,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-79F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0002
   typ: lägenhet
   namn: lgh 02
@@ -82,6 +87,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-79E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P035"
+      - "FONSTER-2023-P036"
 - id: L-118-1-0003
   typ: lägenhet
   namn: lgh 03
@@ -120,6 +134,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-79D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P034"
 - id: L-118-1-0004
   typ: lägenhet
   namn: lgh 04
@@ -158,6 +180,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-79C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P033"
 - id: L-118-1-0005
   typ: lägenhet
   namn: lgh 05
@@ -197,6 +227,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-79B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0006
   typ: lägenhet
   namn: lgh 06
@@ -236,6 +271,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-79A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0007
   typ: lägenhet
   namn: lgh 07
@@ -274,6 +314,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-77E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P032"
 - id: L-118-1-0008
   typ: lägenhet
   namn: lgh 08
@@ -313,6 +361,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-77D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0009
   typ: lägenhet
   namn: lgh 09
@@ -352,6 +405,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-77C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0010
   typ: lägenhet
   namn: lgh 10
@@ -390,6 +448,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-77B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0011
   typ: lägenhet
   namn: lgh 11
@@ -428,6 +491,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-77A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0012
   typ: lägenhet
   namn: lgh 12
@@ -467,6 +535,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P019"
+      - "FONSTER-2023-P020"
 - id: L-118-1-0013
   typ: lägenhet
   namn: lgh 13
@@ -505,6 +582,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P021"
 - id: L-118-1-0014
   typ: lägenhet
   namn: lgh 14
@@ -543,6 +628,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0015
   typ: lägenhet
   namn: lgh 15
@@ -582,6 +672,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P022"
+      - "FONSTER-2023-P023"
 - id: L-118-1-0016
   typ: lägenhet
   namn: lgh 16
@@ -621,6 +720,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P024"
+      - "FONSTER-2023-P025"
 - id: L-118-1-0017
   typ: lägenhet
   namn: lgh 17
@@ -659,6 +767,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P026"
+      - "FONSTER-2023-P027"
 - id: L-118-1-0018
   typ: lägenhet
   namn: lgh 18
@@ -696,6 +813,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-71G"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P028"
 - id: L-118-1-0019
   typ: lägenhet
   namn: lgh 19
@@ -736,6 +861,14 @@ lägenheter:
     temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
   ftx_aggregat: "TI-FTX-71H"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P029"
 - id: L-118-1-0020
   typ: lägenhet
   namn: lgh 20
@@ -776,6 +909,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-75F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P031"
 - id: L-118-1-0021
   typ: lägenhet
   namn: lgh 21
@@ -814,6 +955,11 @@ lägenheter:
     temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
   ftx_aggregat: "TI-FTX-75E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0022
   typ: lägenhet
   namn: lgh 22
@@ -853,6 +999,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-75D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0023
   typ: lägenhet
   namn: lgh 23
@@ -890,6 +1041,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-75C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P030"
 - id: L-118-1-0024
   typ: lägenhet
   namn: lgh 24
@@ -927,6 +1086,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-75B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0025
   typ: lägenhet
   namn: lgh 25
@@ -966,6 +1130,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-75A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0026
   typ: lägenhet
   namn: lgh 26
@@ -1005,6 +1174,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-73E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0027
   typ: lägenhet
   namn: lgh 27
@@ -1043,6 +1217,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-73D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0028
   typ: lägenhet
   namn: lgh 28
@@ -1082,6 +1261,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-73C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0029
   typ: lägenhet
   namn: lgh 29
@@ -1121,6 +1305,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-73B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0030
   typ: lägenhet
   namn: lgh 30
@@ -1160,6 +1349,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-73A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0031
   typ: lägenhet
   namn: lgh 31
@@ -1200,6 +1394,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-65E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0032
   typ: lägenhet
   namn: lgh 32
@@ -1239,6 +1438,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-65D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0033
   typ: lägenhet
   namn: lgh 33
@@ -1278,6 +1482,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-65C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0034
   typ: lägenhet
   namn: lgh 34
@@ -1316,6 +1525,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-65B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P011"
 - id: L-118-1-0035
   typ: lägenhet
   namn: lgh 35
@@ -1355,6 +1572,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-65A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P010"
 - id: L-118-1-0036
   typ: lägenhet
   namn: lgh 36
@@ -1394,6 +1619,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0037
   typ: lägenhet
   namn: lgh 37
@@ -1431,6 +1661,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P012"
 - id: L-118-1-0038
   typ: lägenhet
   namn: lgh 38
@@ -1468,6 +1706,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P013"
+      - "FONSTER-2023-P014"
 - id: L-118-1-0039
   typ: lägenhet
   namn: lgh 39
@@ -1508,6 +1755,15 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P015"
+      - "FONSTER-2023-P016"
 - id: L-118-1-0040
   typ: lägenhet
   namn: lgh 40
@@ -1548,6 +1804,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0041
   typ: lägenhet
   namn: lgh 41
@@ -1585,6 +1846,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0042
   typ: lägenhet
   namn: lgh 42
@@ -1626,6 +1892,14 @@ lägenheter:
     temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
   ftx_aggregat: "TI-FTX-67G"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P017"
 - id: L-118-1-0043
   typ: lägenhet
   namn: lgh 43
@@ -1664,6 +1938,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-67H"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P018"
 - id: L-118-1-0044
   typ: lägenhet
   namn: lgh 44
@@ -1701,6 +1983,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-63F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0045
   typ: lägenhet
   namn: lgh 45
@@ -1741,6 +2028,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-63E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0046
   typ: lägenhet
   namn: lgh 46
@@ -1781,6 +2073,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-63D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P009"
 - id: L-118-1-0047
   typ: lägenhet
   namn: lgh 47
@@ -1819,6 +2119,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-63C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0048
   typ: lägenhet
   namn: lgh 48
@@ -1856,6 +2161,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-63B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0049
   typ: lägenhet
   namn: lgh 49
@@ -1896,6 +2206,14 @@ lägenheter:
     temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
   ftx_aggregat: "TI-FTX-63A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P008"
 - id: L-118-1-0050
   typ: lägenhet
   namn: lgh 50
@@ -1935,6 +2253,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-61A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0051
   typ: lägenhet
   namn: lgh 51
@@ -1973,6 +2296,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-61B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P006"
 - id: L-118-1-0052
   typ: lägenhet
   namn: lgh 52
@@ -2011,6 +2342,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-61C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P007"
 - id: L-118-1-0053
   typ: lägenhet
   namn: lgh 53
@@ -2049,6 +2388,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-61D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0054
   typ: lägenhet
   namn: lgh 54
@@ -2088,6 +2432,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-59F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0055
   typ: lägenhet
   namn: lgh 55
@@ -2125,6 +2474,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-59E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P005"
 - id: L-118-1-0056
   typ: lägenhet
   namn: lgh 56
@@ -2164,6 +2521,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-59D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0057
   typ: lägenhet
   namn: lgh 57
@@ -2202,6 +2564,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-59C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0058
   typ: lägenhet
   namn: lgh 58
@@ -2240,6 +2607,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-59B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0059
   typ: lägenhet
   namn: lgh 59
@@ -2279,6 +2651,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-59A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0060
   typ: lägenhet
   namn: lgh 60
@@ -2317,6 +2694,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-57A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0061
   typ: lägenhet
   namn: lgh 61
@@ -2355,6 +2737,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-57B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P004"
 - id: L-118-1-0062
   typ: lägenhet
   namn: lgh 62
@@ -2394,6 +2784,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-57C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0063
   typ: lägenhet
   namn: lgh 63
@@ -2433,6 +2828,11 @@ lägenheter:
     temperaturkontroll: "Tillträde saknades; senare kontroll okänd enligt beställaren 2026-11-19"
   ftx_aggregat: "TI-FTX-57D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0064
   typ: lägenhet
   namn: lgh 64
@@ -2470,6 +2870,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-55F"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0065
   typ: lägenhet
   namn: lgh 65
@@ -2510,6 +2915,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-55E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0066
   typ: lägenhet
   namn: lgh 66
@@ -2550,6 +2960,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-55D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0067
   typ: lägenhet
   namn: lgh 67
@@ -2587,6 +3002,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-55C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0068
   typ: lägenhet
   namn: lgh 68
@@ -2624,6 +3044,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-55B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0069
   typ: lägenhet
   namn: lgh 69
@@ -2664,6 +3089,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-55A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0070
   typ: lägenhet
   namn: lgh 70
@@ -2702,6 +3132,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-53E"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P003"
 - id: L-118-1-0071
   typ: lägenhet
   namn: lgh 71
@@ -2740,6 +3178,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-53D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0072
   typ: lägenhet
   namn: lgh 72
@@ -2778,6 +3221,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-53C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0073
   typ: lägenhet
   namn: lgh 73
@@ -2817,6 +3265,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-53B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P002"
 - id: L-118-1-0074
   typ: lägenhet
   namn: lgh 74
@@ -2855,6 +3311,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-53A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0075
   typ: lägenhet
   namn: lgh 75
@@ -2893,6 +3354,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-51D"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0076
   typ: lägenhet
   namn: lgh 76
@@ -2932,6 +3398,11 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-51C"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
 - id: L-118-1-0077
   typ: lägenhet
   namn: lgh 77
@@ -2971,6 +3442,14 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-51B"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
+    ommålade_positioner_2023:
+      - "FONSTER-2023-P001"
 - id: L-118-1-0078
   typ: lägenhet
   namn: lgh 78
@@ -3009,3 +3488,8 @@ lägenheter:
     projekt: "P-INJUSTERING-RADIATORER-2019"
   ftx_aggregat: "TI-FTX-51A"
   ftx_projekt: "P-FTX-LAGENHETER-2020-2021"
+  fönstermålningshistorik:
+    historikregel: "K-FONSTER-HISTORIKREGEL-20261121"
+    övriga_fönster_senast_målade_år: 2016
+    källor:
+      - "K-FONSTER-BEKRAFTELSE-20261121"

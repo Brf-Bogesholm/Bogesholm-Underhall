@@ -1,0 +1,86 @@
+status: "Registrerat efter beställarens granskning 2026-11-21"
+positioner:
+  - "FONSTER-2023-P001"
+  - "FONSTER-2023-P002"
+  - "FONSTER-2023-P003"
+  - "FONSTER-2023-P004"
+  - "FONSTER-2023-P005"
+  - "FONSTER-2023-P006"
+  - "FONSTER-2023-P007"
+  - "FONSTER-2023-P008"
+  - "FONSTER-2023-P009"
+  - "FONSTER-2023-P010"
+  - "FONSTER-2023-P011"
+  - "FONSTER-2023-P012"
+  - "FONSTER-2023-P013"
+  - "FONSTER-2023-P014"
+  - "FONSTER-2023-P015"
+  - "FONSTER-2023-P016"
+  - "FONSTER-2023-P017"
+  - "FONSTER-2023-P018"
+  - "FONSTER-2023-P019"
+  - "FONSTER-2023-P020"
+  - "FONSTER-2023-P021"
+  - "FONSTER-2023-P022"
+  - "FONSTER-2023-P023"
+  - "FONSTER-2023-P024"
+  - "FONSTER-2023-P025"
+  - "FONSTER-2023-P026"
+  - "FONSTER-2023-P027"
+  - "FONSTER-2023-P028"
+  - "FONSTER-2023-P029"
+  - "FONSTER-2023-P030"
+  - "FONSTER-2023-P031"
+  - "FONSTER-2023-P032"
+  - "FONSTER-2023-P033"
+  - "FONSTER-2023-P034"
+  - "FONSTER-2023-P035"
+  - "FONSTER-2023-P036"
+antal_positioner: 36
+antal_lägenheter: 29
+källjämförelse: "Alla 36 Excel-rader överensstämmer med PDF-tabellen"
+målningshistorik:
+  basår: 2016
+  källa: "Beställarens uppgift: övriga fönster senast målade 2016 vid fasadunderhåll"
+  kompletteringsår: 2023
+  princip: "Fönsterposition/byggnadsdel, inte hela lägenheten. Partiell bättring skiljs från fullständig utsidesmålning."
+entreprenör: "Syd Måleri i Malmö AB enligt listans boendeinformation och projektets bekräftade sammanställning"
+antalavvikelse: "36 utförda positioner i 29 lägenheter enligt bekräftad Excel-lista. Anbudens 55 fönster är separat mängduppgift, inte importerad som ytterligare 19 positioner."
+kontrakt:
+  typ: "Konsultkontrakt med Riksbyggen, förenklad upphandling"
+  daterat: "2022-08-25"
+  signeringsdatum:
+    - "2022-09-09"
+    - "2022-09-13"
+    - "2022-09-20"
+  avgränsning: "Inte ett undertecknat entreprenadkontrakt med målerifirman."
+behandling:
+  Syd_Måleri: "Tvätt, slipning och målning av rödmarkerade delar; endast bättring enligt offert, alkydförstärkt akrylat eller liknande, ingen garanti på bättringsarbete"
+  alternativa_anbud: "Måleritjänst i Syd och Schööns är separata anbud, inte valda utförare utan belägg."
+  material: "Specifik levererad produkt och 2023 års kulörkod ej styrkta. 2016 års färgkod får inte automatiskt bli en verifierad 2023-produkt."
+källor:
+  -
+    fil: "Anbudsmall måleritjänst syd ab  Riksbyggen Kävlinge.pdf"
+    sha256: "9b947caa82188acfc4b8227d6dbba3bc850388bbab45bcc2ed28fe0805b36fc9"
+  -
+    fil: "fönsterinventering.pdf"
+    sha256: "df6d10ca16e3b77b82d484a7d91965bc37efb6950dd776ccb2649f874113a2a9"
+  -
+    fil: "Högalids vägen 50–79. offert.pdf"
+    sha256: "75ede138d1d23617ecdd698b2c710ab531ee882e80b32865f942d13a58fbc871"
+  -
+    fil: "Kontrakt förenklad upphandling- sign.pdf"
+    sha256: "75106c5c54d893a069790c39e9e3bc7a142218fc15903e841455aee3ea4206d7"
+  -
+    fil: "Rbf Bogesholm fönstermålning.pdf"
+    sha256: "d29bc82dd80814740cafe4971dde17af3918aa04736fa76bc70a4f5c1365a637"
+  -
+    fil: "Fönsterinventering.xlsx"
+    sha256: "bb6af9faa9c3870277cfba590db0b4d7d74b30ec70952c58ee0b06da01800702"
+id: "P-FONSTER-KOMPLETTERING-2023"
+källor_registrering:
+  - "K-FONSTER-LISTA-2023"
+  - "K-FONSTER-BEKRAFTELSE-20261121"
+utfört_år: 2023
+utförande_bekräftelse: "Excel-listan visar de fönster som blev ommålade enligt beställaren"
+rättelse_71B: "Nedervåning, baksida"

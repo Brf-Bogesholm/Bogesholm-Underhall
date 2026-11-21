@@ -1,0 +1,1374 @@
+projekt: "P-FONSTER-KOMPLETTERING-2023"
+källor:
+  - "K-FONSTER-LISTA-2023"
+  - "K-FONSTER-BEKRAFTELSE-20261121"
+positioner:
+  -
+    id: "FONSTER-2023-P001"
+    adress: "51B"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 4
+    källrad_pdf: 2
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0077"
+    hus: "H-51"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P002"
+    adress: "53B"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 5
+    källrad_pdf: 3
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0073"
+    hus: "H-53"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P003"
+    adress: "53E"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 6
+    källrad_pdf: 4
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0070"
+    hus: "H-53"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P004"
+    adress: "57B"
+    rum: "Sovrum höger"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 7
+    källrad_pdf: 5
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0061"
+    hus: "H-57"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P005"
+    adress: "59E"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 8
+    källrad_pdf: 6
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0055"
+    hus: "H-59"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P006"
+    adress: "61B"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 9
+    källrad_pdf: 7
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0051"
+    hus: "H-61"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P007"
+    adress: "61C"
+    rum: "Kök"
+    framsida: true
+    baksida: false
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 10
+    källrad_pdf: 8
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0052"
+    hus: "H-61"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P008"
+    adress: "63A"
+    rum: "Kök"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 11
+    källrad_pdf: 9
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0049"
+    hus: "H-63"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P009"
+    adress: "63D"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 12
+    källrad_pdf: 10
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0046"
+    hus: "H-63"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P010"
+    adress: "65A"
+    rum: "Sovrum vänster"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 13
+    källrad_pdf: 11
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0035"
+    hus: "H-65"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P011"
+    adress: "65B"
+    rum: "Sovrum höger"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 14
+    källrad_pdf: 12
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0034"
+    hus: "H-65"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P012"
+    adress: "67B"
+    rum: "Sovrum höger"
+    framsida: false
+    baksida: true
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 15
+    källrad_pdf: 13
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0037"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P013"
+    adress: "67C"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 16
+    källrad_pdf: 14
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0038"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P014"
+    adress: "67C"
+    rum: "Kök"
+    framsida: true
+    baksida: false
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 17
+    källrad_pdf: 15
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0038"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P015"
+    adress: "67D"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 18
+    källrad_pdf: 16
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0039"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P016"
+    adress: "67D"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 19
+    källrad_pdf: 17
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0039"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P017"
+    adress: "67G"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 20
+    källrad_pdf: 18
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0042"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P018"
+    adress: "67H"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 21
+    källrad_pdf: 19
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0043"
+    hus: "H-67"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P019"
+    adress: "71A"
+    rum: "Sovrum höger"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 22
+    källrad_pdf: 20
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0012"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P020"
+    adress: "71A"
+    rum: "Sovrum vänster"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 23
+    källrad_pdf: 21
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0012"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P021"
+    adress: "71B"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 24
+    källrad_pdf: 22
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: "Rättat av beställaren 2026-11-21: nedervåning, baksida. Ursprunglig dubbel våningsmarkering bevarad separat."
+    källmarkeringar_original:
+      framsida: false
+      baksida: false
+      ovanvåning: true
+      nedanvåning: true
+    lägenhet: "L-118-1-0013"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P022"
+    adress: "71D"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 25
+    källrad_pdf: 23
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0015"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P023"
+    adress: "71D"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 26
+    källrad_pdf: 24
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0015"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P024"
+    adress: "71E"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 27
+    källrad_pdf: 25
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0016"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P025"
+    adress: "71E"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 28
+    källrad_pdf: 26
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0016"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P026"
+    adress: "71F"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 29
+    källrad_pdf: 27
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0017"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P027"
+    adress: "71F"
+    rum: "Sovrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 30
+    källrad_pdf: 28
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0017"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P028"
+    adress: "71G"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 31
+    källrad_pdf: 29
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0018"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P029"
+    adress: "71H"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 32
+    källrad_pdf: 30
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0019"
+    hus: "H-71"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P030"
+    adress: "75C"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 33
+    källrad_pdf: 31
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0023"
+    hus: "H-75"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P031"
+    adress: "75F"
+    rum: "Vardagsrum"
+    framsida: false
+    baksida: true
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 34
+    källrad_pdf: 32
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: false
+      baksida: true
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0020"
+    hus: "H-75"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P032"
+    adress: "77E"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 35
+    källrad_pdf: 33
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0007"
+    hus: "H-77"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P033"
+    adress: "79C"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 36
+    källrad_pdf: 34
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0004"
+    hus: "H-79"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P034"
+    adress: "79D"
+    rum: "Kök"
+    framsida: true
+    baksida: false
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 37
+    källrad_pdf: 35
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0003"
+    hus: "H-79"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P035"
+    adress: "79E"
+    rum: "Kök"
+    framsida: true
+    baksida: false
+    ovanvåning: false
+    nedanvåning: true
+    källrad_excel: 38
+    källrad_pdf: 36
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: false
+      nedanvåning: true
+    lägenhet: "L-118-1-0002"
+    hus: "H-79"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+  -
+    id: "FONSTER-2023-P036"
+    adress: "79E"
+    rum: "Sovrum"
+    framsida: true
+    baksida: false
+    ovanvåning: true
+    nedanvåning: false
+    källrad_excel: 39
+    källrad_pdf: 37
+    status: "Ommålad 2023 enligt beställarens bekräftelse av Excel-listan"
+    anmäkning: null
+    källmarkeringar_original:
+      framsida: true
+      baksida: false
+      ovanvåning: true
+      nedanvåning: false
+    lägenhet: "L-118-1-0002"
+    hus: "H-79"
+    typ: "fönsterposition"
+    antal_enskilda_fönster_eller_bågar: null
+    senaste_kompletterande_målningsår: 2023
+    senaste_fullständiga_områdesmålning_år: 2016
+    datum: null
+    målningstyp: "Kompletterande/bättringsmålning, exakt behandlad andel inte individuellt verifierad"
+    källor:
+      - "K-FONSTER-LISTA-2023"
+      - "K-FONSTER-BEKRAFTELSE-20261121"
+    historik:
+      -
+        år: 2016
+        åtgärd: "Områdets fasadunderhåll med fönstermålning"
+        källa: "Beställarens uppgift och fasadprojektets historik"
+      -
+        år: 2023
+        åtgärd: "Kompletterande ommålning enligt utförd-lista"
+        datum: null
+        källa: "K-FONSTER-BEKRAFTELSE-20261121"
+antalprincip: "36 listade positioner i 29 lägenheter. Antal separata bågar/fönster per position saknas; likställ inte med anbudens 55 fönster."
