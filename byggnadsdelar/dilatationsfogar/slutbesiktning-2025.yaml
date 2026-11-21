@@ -1,0 +1,210 @@
+id: "B-DILATATIONSFOGAR-SLUT-20250526"
+projekt: "P-DILATATIONSFOGAR-2025"
+typ: "Slutbesiktning"
+protokolldatum: "2025-05-26"
+besöksdatum_enligt_protokoll: "2025-05-28"
+godkännandedatum: "2025-05-26"
+godkännande: "Entreprenaden godkännes enligt protokollet; anmärkningar bevaras"
+utförare: "Malmö Proj AB / Projab"
+entreprenör_enligt_protokoll:
+  namn: "NIMAB Entreprenad AB"
+  organisationsnummer: "556592-6010"
+fakturerande_bolag:
+  namn: "Nimab Support AB"
+  organisationsnummer: "556757-9130"
+bolagskommentar: "Olika bolagsnamn och organisationsnummer i protokoll respektive faktura bevaras; slås inte ihop."
+omfattning: "Okulär syn från markplan av entrésidor. Trädgårdssidorna besiktigades inte."
+objekt:
+  - "H-51"
+  - "H-53"
+  - "H-55"
+  - "H-57"
+  - "H-59"
+  - "H-61"
+  - "H-63"
+  - "H-65"
+  - "H-67"
+  - "H-69"
+  - "H-71"
+  - "H-73"
+  - "H-75"
+  - "H-77"
+  - "H-79"
+punkter:
+  -
+    punkt: "E.1"
+    objekt: null
+    position: null
+    text: "Generellt enligt överenskommelse: fogas ej bakom lägenhetsskiljande staket"
+    typ: "Överenskommet undantag"
+  -
+    punkt: "E.2"
+    objekt: "H-51"
+    position: "51A gavel"
+    text: "Fog ej färdigställd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.3"
+    objekt: "H-51"
+    position: null
+    text: "Fogning ej utförd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.4"
+    objekt: "H-51"
+    position: null
+    text: "Fogning ej utförd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.5"
+    objekt: "H-53"
+    position: null
+    text: "Fog ej färdigställd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "U.6"
+    objekt: "H-55"
+    position: "55F"
+    text: "Svep löst"
+    typ: "Utredningspunkt"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.7"
+    objekt: "H-59"
+    position: "59A"
+    text: "Fog ej utförd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.8"
+    objekt: "H-57"
+    position: null
+    text: "Fog ej färdigställd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.9"
+    objekt: "H-61"
+    position: null
+    text: "Utan anmärkning"
+    typ: "Resultat"
+  -
+    punkt: "E.10"
+    objekt: "H-63"
+    position: null
+    text: "Utan anmärkning"
+    typ: "Resultat"
+  -
+    punkt: "E.11"
+    objekt: "H-65"
+    position: "65A"
+    text: "Fog ej utförd"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.12"
+    objekt: "H-67"
+    position: "67H"
+    text: "Enligt överenskommelse: ingen fog bakom stenskiva"
+    typ: "Överenskommet undantag"
+  -
+    punkt: "E.13"
+    objekt: "H-71"
+    position: null
+    text: "Utan anmärkning"
+    typ: "Resultat"
+  -
+    punkt: "E.14"
+    objekt: "H-73"
+    position: null
+    text: "Fog ej komplett upp till takfot"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.15"
+    objekt: "H-75"
+    position: null
+    text: "Utan anmärkning"
+    typ: "Resultat"
+  -
+    punkt: "E.16"
+    objekt: "H-77"
+    position: null
+    text: "Utan anmärkning"
+    typ: "Resultat"
+  -
+    punkt: "E.17"
+    objekt: "H-79"
+    position: null
+    text: "Utan anmärkning"
+    typ: "Resultat"
+  -
+    punkt: "E.18"
+    objekt: "H-69"
+    position: "69 lokal"
+    text: "Glipa i fog på tre ställen"
+    typ: "Fel"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.19"
+    objekt: null
+    position: null
+    text: "Egenkontroll anger ingen bottningslist utförd, men intyget anger bottningslist"
+    typ: "Dokumentationsavvikelse"
+    senare_status: "Åtgärdat enligt beställarens bekräftelse"
+    statuskälla: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    avhjälpandedatum: null
+    avhjälpandedokument: null
+  -
+    punkt: "E.20"
+    objekt: null
+    position: null
+    text: "Dokument överlämnade till beställaren"
+    typ: "Dokumentationsnotering"
+deadline_avhjälpande: "2025-07-11"
+krav_återrapportering: "Entreprenören ska skriftligen anmäla och intyga avhjälpande till beställare och besiktningsman."
+senare_beställaruppgift:
+  status: "Åtgärdat enligt beställaren"
+  bekräftelsedatum: "2026-11-21"
+  åtgärdsdatum: null
+  dokumentation: "Beställaren hittar inte dokumentationen"
+  källa: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+  kommentar: "Ingen efterbesiktning eller skriftlig kvittens antas. Ursprungliga anmärkningar och produkt-/materialavvikelser bevaras."
+garanti_slut_enligt_protokoll: "2030-05-27"
+källor:
+  - "K-DILATATIONSFOGAR-SLUT-20261121"
+  - "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"

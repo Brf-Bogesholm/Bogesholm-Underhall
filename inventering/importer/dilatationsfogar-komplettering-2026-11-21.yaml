@@ -1,0 +1,20 @@
+id: "K-DILATATIONSFOGAR-SLUT-20261121"
+registrerad: "2026-11-21"
+dokument:
+  -
+    fil: "Slutbesiktning 20250526.pdf"
+    sha256: "919ea2e5e84ff11a448ec3d75940d53bd1972efcace80f2ae9e386be8fdb061a"
+  -
+    fil: "faktura-200002170.pdf"
+    sha256: "4c84f8ba927e3f3cb2431129d27d932bfe3bcd39e427f26d3934c89661d9c6fc"
+beställarbekräftelse:
+  id: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+  uppgift: "Anmärkningarna åtgärdades, men beställaren hittar inte dokumentationen."
+  datum: "2026-11-21"
+  exakt_avhjälpandedatum: null
+original_publicerade: false
+kontroll:
+  fakturor: 1
+  total_inklusive_moms: 235625
+  besiktningspunkter: 20
+  byggnader: 15

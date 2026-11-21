@@ -345,9 +345,13 @@ version: "1.0"
     utförare: "Fogentreprenören Sverige AB"
     projektföretag: "NIMAB Support AB"
     utförandestatus: "Genomfört 2025 enligt beställaren"
-    faktura: null
+    faktura: "F-2025-NIMAB-2125100416"
     kostnad: null
-    kommentar: "Egenkontroll daterad 2025-05-14, signerad 2025-05-19. Ingen av dagarna sätts som gemensamt färdigdatum eller garantistart för samtliga hus."
+    kommentar: "Lodräta fogar enligt faktura, undantag och historiska anmärkningar enligt slutbesiktning. Avhjälpt enligt beställaren, dokumentation och datum saknas. Kostnaden summeras enbart från fakturan."
     källor:
       - "K-DILATATIONSFOGAR-2025"
       - "K-DILATATIONSFOGAR-BEKRAFTELSE-20261121"
+      - "K-DILATATIONSFOGAR-SLUT-20261121"
+      - "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    slutbesiktning: "B-DILATATIONSFOGAR-SLUT-20250526"
+    avhjälpandebekräftelse: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"

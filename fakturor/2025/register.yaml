@@ -2,6 +2,7 @@ version: "1.0"
 registreringsomgångar:
   - "2026-11-18-VPSERVICE"
   - "2026-11-21-FLAGGSTANG"
+  - "2026-11-21-DILFOG-KOMPLETTERING"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -274,3 +275,50 @@ fakturor:
       - "K-FLAGGSTANG-FAKTURA-2021992"
       - "K-FLAGGSTANG-BEKRAFTELSE-20261121"
     kommentar: "Knopp i toppen utbytt enligt beställaren; inte separat prissatt på fakturan. Arkivmappens årtal 2024 är inte utförandeår; beställaren bekräftar service på fakturadatum 2025-01-09."
+  -
+    id: "F-2025-NIMAB-2125100416"
+    fakturanummer: "2125100416"
+    leverantör: "Nimab Support AB"
+    organisationsnummer: "556757-9130"
+    fakturadatum: "2025-06-30"
+    förfallodatum: "2025-07-30"
+    projektnummer: "2925012"
+    projektbeskrivning: "Bogesholm fasadfogar"
+    fakturarubrik: "Mjukfogar enligt beställning, endast lodräta fogar"
+    valuta: "SEK"
+    exklusive_moms: 188500
+    moms_procent: 25
+    moms: 47125
+    öresavrundning: 0
+    att_betala: 235625
+    betalningsstatus: "Okänd"
+    rader:
+      -
+        id: "F-2025-NIMAB-2125100416-R1"
+        benämning: "Enligt beställning"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 188500
+        belopp_exklusive_moms: 188500
+    objekt:
+      - "H-51"
+      - "H-53"
+      - "H-55"
+      - "H-57"
+      - "H-59"
+      - "H-61"
+      - "H-63"
+      - "H-65"
+      - "H-67"
+      - "H-69"
+      - "H-71"
+      - "H-73"
+      - "H-75"
+      - "H-77"
+      - "H-79"
+    åtgärder:
+      - "A-DILATATIONSFOGAR-2025"
+    källor:
+      - "K-DILATATIONSFOGAR-SLUT-20261121"
+      - "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+    kommentar: "En totalentreprenadpost; belopp fördelas inte lika per hus. Fakturadatum ersätter inte tidigare dokumenterade besiktnings-/godkännandedatum och anger inte avhjälpandedatum."

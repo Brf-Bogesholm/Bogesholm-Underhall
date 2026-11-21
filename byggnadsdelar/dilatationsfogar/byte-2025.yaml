@@ -1,7 +1,7 @@
 id: "P-DILATATIONSFOGAR-2025"
 år: 2025
 åtgärd: "A-DILATATIONSFOGAR-2025"
-omfattning: "Samtliga dilatationsfogar på de 14 bostadshusen och kvartershuset enligt beställaren."
+omfattning: "Lodräta mjukfogar/dilatationsfogar på 14 bostadshus och kvartershuset. Undantag enligt slutbesiktning: bakom lägenhetsskiljande staket samt bakom stenskiva vid 67H."
 objekt:
   - "H-51"
   - "H-53"
@@ -65,18 +65,31 @@ egenkontroll:
   avgränsning: "En dokumenterad egenkontroll med platsuppgift mot cykelväg; dess datum och markeringar är inte individuella kontroller av samtliga 15 hus."
 garanti:
   arbete_och_material_år: 5
-  gäller_från: "Besiktningsdatum enligt intyget"
-  besiktningsdatum: null
-  startdatum: null
-  slutdatum: null
-  status: "Start och aktuell giltighet inte fastställda"
+  gäller_från: "Godkänd entreprenad enligt slutbesiktningsprotokoll"
+  besiktningsdatum: "2025-05-28"
+  startdatum: "2025-05-26"
+  slutdatum: "2030-05-27"
+  status: "Fem år i sin helhet enligt protokollet; uttryckligt slutdatum bevarat utan omräkning"
   intyg: "Utföraren intygar fackmannamässigt arbete enligt materialleverantörens instruktioner."
+  godkännandedatum: "2025-05-26"
+  datumkommentar: "Protokoll och godkännande 2025-05-26, men besöksdatum anges 2025-05-28. Skillnaden bevaras."
+  källa: "K-DILATATIONSFOGAR-SLUT-20261121"
 källavvikelser:
   - "Hyflex/Comnection i utförandedokument skiljer sig från Sikaflex-402 Connection i bifogade datablad; ingen tyst normalisering av faktisk produktidentitet."
   - "Intyget anger Sika Bottningslist medan egenkontrollen markerar nej. Kan avse olika delar, men fördelningen är inte dokumenterad."
 exakt_utförandedatum_per_hus: null
-faktura: null
+faktura: "F-2025-NIMAB-2125100416"
 kostnad: null
 källor:
   - "K-DILATATIONSFOGAR-2025"
   - "K-DILATATIONSFOGAR-BEKRAFTELSE-20261121"
+  - "K-DILATATIONSFOGAR-SLUT-20261121"
+  - "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+slutbesiktning: "B-DILATATIONSFOGAR-SLUT-20250526"
+avhjälpande:
+  status: "Åtgärdat enligt beställaren"
+  bekräftelsedatum: "2026-11-21"
+  åtgärdsdatum: null
+  dokumentation: "Beställaren hittar inte dokumentationen"
+  källa: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+  kommentar: "Ingen efterbesiktning eller skriftlig kvittens antas. Ursprungliga anmärkningar och produkt-/materialavvikelser bevaras."
