@@ -25,3 +25,9 @@ Originalen finns i föreningens dokumentarkiv och publiceras inte här. Kostnade
 ## Lägenheternas FTX-projekt
 
 [FTX-byte 2020–2021, injustering och service 2024](../../tekniska-installationer/ftx-lagenheter/README.md) är separat från OVK. 79E hade bytt tidigare; 77 aggregat byttes i projektet.
+
+## Kompletterande källor 2026-11-21
+
+Kommunens registrering MB-2024-1343, daterad 2024-08-30, bekräftar godkänd OVK 2024-08-15 och nästa kontroll senast 2030-08-15. Protokollet inkom 2024-08-28. DOCX och två skannade PDF-versioner avser samma besked, inte ytterligare kontroller.
+
+Fotot benämnt ”2018 OVK-intyget” kopplas till 2021-kontrollen med protokollets förklaring om administrativt 2018-datum. Kompletterande Excel-lista bekräftar befintliga mätvärden. Tre exakt identiska protokollfiler återanvänds utan nya besök. Filen ”Offert 2024-05-06.pdf” gäller solceller och hålls utanför OVK. Originalen ändras eller flyttas inte. Se [kompletteringsmanifestet](../../inventering/importer/ovk-lokal-komplettering-2026-11-21.yaml).

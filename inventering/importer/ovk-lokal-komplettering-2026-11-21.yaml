@@ -1,0 +1,60 @@
+id: "K-OVK-LOKAL-KOMPLETTERING-20261121"
+godkänd: "2026-11-21"
+beställarbekräftelse:
+  id: "K-OVK-LOKAL-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Godkänner komplettering av befintlig OVK-historik utan nya besiktningstillfällen."
+    - "Offert 2024-05-06.pdf gäller solceller och hålls utanför OVK."
+objekt: "TI-VENTILATION-69-FF1"
+dokument:
+  -
+    fil: "1. OVK_Protokoll_Lokal_2021.pdf"
+    sha256: "d8379f38b9762f42a361675ff823ff54a943e90ae5b541e5c42077e92759ae93"
+    tidigare_källa: "OVK/2021/1. OVK_Protokoll_Lokal_2021.pdf"
+    hantering: "Exakt dubblett av tidigare registrerad källa, inget nytt besök"
+  -
+    fil: "2018 OVK-intyget.HEIC"
+    sha256: "f88d5453bc3d448fd533f129b493772f3b6787526a71e38afa617c6d9a137410"
+    tidigare_källa: null
+    hantering: "Kompletterande källa till befintlig kontroll 2021 eller 2024, inget nytt besök"
+  -
+    fil: "3. Mätprotokoll_lokal_2021.pdf"
+    sha256: "0c33e3f5527a5468a86ef205652ada57b2da72301a450609a28b4c5892e2cbe6"
+    tidigare_källa: "OVK/2021/3. Mätprotokoll_lokal_2021.pdf"
+    hantering: "Exakt dubblett av tidigare registrerad källa, inget nytt besök"
+  -
+    fil: "MB-2024-1343-2 - OVK -registrering .docx"
+    sha256: "072cb5b532b5dcc9b3b3498e7e80de684e6812412bd660ef14d63ec42e8d3f0d"
+    tidigare_källa: null
+    hantering: "Kompletterande källa till befintlig kontroll 2021 eller 2024, inget nytt besök"
+  -
+    fil: "Mätprotokoll_lokal_Bogesholm 2021.xlsx"
+    sha256: "de9197c5198ec2b28680abe02e785c0bc2236c314fe5c9e261574a4216362927"
+    tidigare_källa: null
+    hantering: "Kompletterande källa till befintlig kontroll 2021 eller 2024, inget nytt besök"
+  -
+    fil: "Offert 2024-05-06.pdf"
+    sha256: "e6a09dd4032676d7861ab6cd450c935a48adad2f59239a357153bcc95dd04ec9"
+    tidigare_källa: null
+    hantering: "Utesluten från OVK: äldre solcellsoffert från Enermont, inte beställning eller utfört arbete"
+  -
+    fil: "OVK 2024-08-30.pdf"
+    sha256: "231ec70b79667e4c885216b4f8ebb42da40cdb837b5fa638359de0100493d3a3"
+    tidigare_källa: null
+    hantering: "Kompletterande källa till befintlig kontroll 2021 eller 2024, inget nytt besök"
+  -
+    fil: "simabsotarna@omsmtp.se_20240827_090420.pdf"
+    sha256: "bf3c6b3eeff6b580fc76c48568cbe32eedb1abef3cc4f1df7712f21917d21312"
+    tidigare_källa: "OVK/Lokal 2024 SIMAB utfört åt oss/simabsotarna@omsmtp.se_20240827_090420.pdf"
+    hantering: "Exakt dubblett av tidigare registrerad källa, inget nytt besök"
+  -
+    fil: "skanna.pdf"
+    sha256: "4e96439b63dc6638ee5513bf08229e9949a68cbdaa9c35bb8c9dbd12d7b701a9"
+    tidigare_källa: null
+    hantering: "Kompletterande källa till befintlig kontroll 2021 eller 2024, inget nytt besök"
+kontroll:
+  inkomna_filer: 9
+  exakta_dubbletter: 3
+  nya_besiktningstillfällen: 0
+  nya_kostnader: 0
+original_publicerade: false

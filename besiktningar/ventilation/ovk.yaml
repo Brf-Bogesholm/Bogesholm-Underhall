@@ -96,6 +96,14 @@ besiktningar:
         källa: "K-OVK-D014"
         arkivsökväg: "OVK/Lokal 2021 räknas för 2018/Mätprotokoll_lokal_Bogesholm 2021.xlsx"
         sha256: "1f00fa43f0b02149c2efd090500227203719786cebfc6e654341a80771de6264"
+      -
+        källa: "K-OVK-LOKAL-KOMPLETTERING-20261121"
+        arkivsökväg: "Lokalen/OVK Lokalen/2018 OVK-intyget.HEIC"
+        sha256: "f88d5453bc3d448fd533f129b493772f3b6787526a71e38afa617c6d9a137410"
+      -
+        källa: "K-OVK-LOKAL-KOMPLETTERING-20261121"
+        arkivsökväg: "Lokalen/OVK Lokalen/Mätprotokoll_lokal_Bogesholm 2021.xlsx"
+        sha256: "de9197c5198ec2b28680abe02e785c0bc2236c314fe5c9e261574a4216362927"
     administrativt_besiktningsdatum: "2018-11-14"
     datumkommentar: "OVK utfördes aldrig 2018. Mätning utförd 2021-07-09 och protokoll undertecknat 2021-07-12. Enligt protokollet räknas kontrollen till 2018 års intervall; ingen utförd kontroll 2018 registreras."
     luftflöden:
@@ -140,7 +148,10 @@ besiktningar:
     källor:
       - "K-OVK-20261113"
       - "K-OVK-KOMPLETTERING-20261113"
+      - "K-OVK-LOKAL-KOMPLETTERING-20261121"
+      - "K-OVK-LOKAL-BEKRAFTELSE-20261121"
     åtgärd: "A-OVK-20210709"
+    kompletterande_källkommentar: "Fotograferat intyg anger 2018-11-14 och G. Enligt det detaljerade 2021-protokollet utfördes ingen kontroll 2018; faktisk mätning 2021-07-09. Fotot är en kompletterande källa, inte ett extra besiktningstillfälle. Excel-versionen bekräftar de redan registrerade rumsflödena; ingen extra mätning registreras."
   -
     id: "B-OVK-20240815"
     datum: "2024-08-15"
@@ -152,6 +163,18 @@ besiktningar:
         källa: "K-OVK-D017"
         arkivsökväg: "OVK/Lokal 2024 SIMAB utfört åt oss/simabsotarna@omsmtp.se_20240827_090420.pdf"
         sha256: "bf3c6b3eeff6b580fc76c48568cbe32eedb1abef3cc4f1df7712f21917d21312"
+      -
+        källa: "K-OVK-LOKAL-KOMPLETTERING-20261121"
+        arkivsökväg: "Lokalen/OVK Lokalen/MB-2024-1343-2 - OVK -registrering .docx"
+        sha256: "072cb5b532b5dcc9b3b3498e7e80de684e6812412bd660ef14d63ec42e8d3f0d"
+      -
+        källa: "K-OVK-LOKAL-KOMPLETTERING-20261121"
+        arkivsökväg: "Lokalen/OVK Lokalen/OVK 2024-08-30.pdf"
+        sha256: "231ec70b79667e4c885216b4f8ebb42da40cdb837b5fa638359de0100493d3a3"
+      -
+        källa: "K-OVK-LOKAL-KOMPLETTERING-20261121"
+        arkivsökväg: "Lokalen/OVK Lokalen/skanna.pdf"
+        sha256: "4e96439b63dc6638ee5513bf08229e9949a68cbdaa9c35bb8c9dbd12d7b701a9"
     mätläge: 4
     luftflöden:
       -
@@ -206,4 +229,17 @@ besiktningar:
     källor:
       - "K-OVK-20261113"
       - "K-OVK-KOMPLETTERING-20261113"
+      - "K-OVK-LOKAL-KOMPLETTERING-20261121"
+      - "K-OVK-LOKAL-BEKRAFTELSE-20261121"
     åtgärd: "A-OVK-20240815"
+    kommunal_registrering:
+      myndighet: "Kävlinge kommun, Bygg- och miljöenheten"
+      diarienummer: "MB-2024-1343"
+      beskedsdatum: "2024-08-30"
+      godkänt_protokoll_inkom: "2024-08-28"
+      kontrolldatum: "2024-08-15"
+      nästa_besiktning_senast: "2030-08-15"
+      fastighet: "Bågen 2"
+      adress: "Högalidsvägen 69"
+      systemtyp: "F"
+      kommentar: "DOCX och två PDF-versioner avser samma kommunala registrering. Beskedsdatum är inte ett nytt OVK-besök."
