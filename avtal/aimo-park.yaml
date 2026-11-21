@@ -1,0 +1,51 @@
+id: "AVT-AIMOPARK-PARKERING-2013"
+typ: "Parkeringsarrende"
+motpart_enligt_avtal: "Q-Park AB"
+motpart_organisationsnummer: "556553-5548"
+nuvarande_benämning: "Aimo Park enligt beställaren"
+status: "Gäller med samma villkor enligt beställaren 2026-11-21"
+fastighet: "Bågen 1"
+område: "Högalidsvägen 51–79"
+platser_enligt_2013_avtal: 31
+platskommentar: "Historisk avtalsmängd; inte 31 nya numrerade parkeringsobjekt. Ingen antagen motsvarighet till dagens enskilda platser."
+giltighet:
+  ursprunglig_start: "2013-06-01"
+  ursprungligt_slut: "2016-05-31"
+  automatisk_förlängning_år: 3
+  uppsägning_månader: 9
+  uppsägningsform: "Skriftlig"
+  beräknad_nuvarande_period_start: "2025-06-01"
+  beräknad_nuvarande_period_slut: "2028-05-31"
+  beräknad_nästa_förnyelse: "2028-06-01"
+  beräknad_uppsägning_senast: "2027-08-31"
+  beräknad_nästa_period_slut: "2031-05-31"
+  beräknat_per: "2026-11-21"
+  grund: "Treåriga förlängningar efter 2016-05-31 och beställarens bekräftelse att avtalet gäller med samma villkor. Inga ändringar eller uppsägningar antas utöver bekräftelsen."
+ekonomi:
+  föreningens_arrende_procent_av_omsättning: 50
+  underlag: "Försäljning exklusive moms och avtalets avdrag för varuskatt, bankavgift, kontokortsförlag, uppräkningskostnader och liknande"
+  kontrollavgifter_ingår_i_underlag: false
+  redovisning: "Kvartalsvis självfaktura, senast 30 dagar efter kalenderkvartalets utgång"
+  moms: "Tillkommer enligt avtalets formulering"
+  kommentar: "Ingen faktisk intäkt eller kostnad registreras genom avtalets procentsatser."
+ansvar:
+  arrendator:
+    - "Parkeringsövervakning"
+    - "Kundservice vid överklagade kontrollavgifter"
+    - "Uppföljning och indrivning av obetalda kontrollavgifter"
+    - "Installation, drift och underhåll av betalutrustning och skyltprogram"
+    - "Uthyrning och avisering av långtidskunder"
+  förening:
+    - "Städning och renhållning"
+    - "Framdragning av ström"
+    - "Drift och underhåll av parkeringsytor inklusive snöröjning, saltning och sandning"
+    - "Taxejustering på föreningens uppdrag bekostas av föreningen"
+särskilda_villkor: "Uthyrning endast till boende i Brf Bogesholm, högst ett abonnemang per lägenhet. Oreserverade platser i mån av plats."
+källversioner:
+  vald: "Treårsvarianten i Q_park_2013_06_01.pdf, PDF-sida 2, bekräftad av beställaren"
+  avvikande: "PDF-sida 1 och 08217 Q-park.pdf anger ettårig period och sex månaders uppsägning; används inte för beräkningen."
+  äldre_uppdrag: "CarPark 2006 är separat historiskt dokument, inte bevis om ytterligare gällande parallellt uppdrag."
+  servicetillstånd: "Beställning om 10 servicetillstånd för 2022 är inte bevis om dagens antal eller giltighet."
+källor:
+  - "K-AIMOPARK-AVTAL-2013"
+  - "K-AIMOPARK-BEKRAFTELSE-20261121"

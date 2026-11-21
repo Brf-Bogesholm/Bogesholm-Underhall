@@ -1,0 +1,21 @@
+id: "K-AIMOPARK-AVTAL-2013"
+godkänd: "2026-11-21"
+beställarbekräftelse:
+  id: "K-AIMOPARK-BEKRAFTELSE-20261121"
+  text: "Avtalet gäller fortfarande med samma villkor: treårig förlängning och nio månaders uppsägning enligt föregående fråga."
+avtal: "AVT-AIMOPARK-PARKERING-2013"
+dokument:
+  -
+    fil: "08217 Q-park.pdf"
+    sha256: "1443f5975dcafae8090dc1bebe14e6869899a42e0bcc3e0e743a397106f8415b"
+  -
+    fil: "2006-10-27 Avtal CarPark.pdf"
+    sha256: "cbd2c7781b8f82719244c13db993df5ab9e90893b7faff951da4af24c4fc05ff"
+  -
+    fil: "Beställning Servicetillstånd 2022.pdf"
+    sha256: "33da1cfb88d452364891c6306ff106e3638df1ee749e85c642ca3f7d82bac22b"
+  -
+    fil: "Q_park_2013_06_01.pdf"
+    sha256: "1443f5975dcafae8090dc1bebe14e6869899a42e0bcc3e0e743a397106f8415b"
+avgränsning: "Genomgång ett avtal i taget. Allt under mappen gamla avtal i Avtal.zip utesluts. Äldre datum utanför denna mapp innebär inte automatiskt aktiv status."
+original_publicerade: false
