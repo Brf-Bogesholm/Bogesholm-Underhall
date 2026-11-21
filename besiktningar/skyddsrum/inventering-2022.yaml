@@ -1,0 +1,178 @@
+status: "Registrerat efter granskning 2026-11-21"
+skyddsrum:
+  nummer: "175354-3"
+  fastighet: "Bågen 2"
+  typ: "Typ 2, TB78"
+  skyddsplatser: 120
+  luftrening: "F-A-G-filter"
+  plats: "U-SKYDDSRUM-69"
+  adress_normaliserad: "Högalidsvägen 81"
+  adressavvikelser:
+    - "69 på protokollomslag och noteringsavsnitt; tidigare lokal registerkoppling till 69 är rättad 2026-11-21"
+    - "79 i avtalets anläggningsadress"
+    - "81 i protokollfält och MSB-skärmbilden är nu vald adress"
+  övrig_källavvikelse: "Tätort Malmö anges i projektinformationen trots kommun Kävlinge. Koordinater 0 är ej verklig inmätt position."
+  adresskälla: "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
+  stabilt_id_kommentar: "U-SKYDDSRUM-69 behålls som befintlig teknisk identitet för att bevara länkar. Suffixet 69 är historiskt och får inte tolkas som aktuell adress."
+inventering:
+  datum: "2022-10-20"
+  datumkälla: "Projektinformation sida 2; sidhuvudens datum tomma"
+  utförare: "Presto Brandsäkerhet AB"
+  utföraravvikelse: "Olika personuppgifter i projektinformation respektive sidhuvud/inledning; inte sammanjämkade"
+  godkänd: "Inget ifyllt godkännandedatum"
+  anmärkningar:
+    -
+      kod: "03a-1"
+      sida: 5
+      komponent: "Skyddsdörr"
+      observation: "Inklädnad ej lätt demonterbar; samtliga kontrollpunkter inte åtkomliga"
+      föreslagen_åtgärd: "Gör inklädnad lätt demonterbar, T03-102"
+      datastatus: "Begränsad inspektion"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N01"
+    -
+      kod: "05h-1"
+      sida: 7
+      komponent: "Övertrycksventil"
+      observation: "Standardtext om saknat splitterskydd; tillägg säger att det inte kan kontrolleras på grund av inklädnad utanför stommen"
+      föreslagen_åtgärd: "Skyddsplåt enligt T05-104 föreslås"
+      datastatus: "Ej verifierbart på grund av inklädnad; inte säkert konstaterat saknat skydd"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N02"
+    -
+      kod: "09k-1"
+      sida: 8
+      komponent: "Skyddsplåtar"
+      observation: "Två tätningslister saknas"
+      föreslagen_åtgärd: "Anskaffa, förpacka tätt och märka enligt T09-101"
+      datastatus: "Brist noterad"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N03"
+    -
+      kod: "13d-1"
+      sida: 10
+      komponent: "Ventilationsaggregat"
+      observation: "Ligger i förpackning och är inte ihopmonterat; kunde inte kontrolleras"
+      föreslagen_åtgärd: "Montera ihop och prova enligt T13-101"
+      datastatus: "Ej funktionsprovat"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N04"
+    -
+      kod: "15a-1"
+      sida: 12
+      komponent: "Övertrycksmätare"
+      observation: "Återfanns inte vid kontroll"
+      föreslagen_åtgärd: "Anskaffa enligt T15-101"
+      datastatus: "Brist noterad"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N05"
+    -
+      kod: "15e-1"
+      sida: 12
+      komponent: "Övertrycksmätare skylt insida"
+      observation: "Skylt saknas på insida vägg"
+      föreslagen_åtgärd: "Anskaffa och montera enligt T15-101"
+      datastatus: "Brist noterad"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N06"
+    -
+      kod: "15e-2"
+      sida: 12
+      komponent: "Övertrycksmätare skylt utsida"
+      observation: "Skylt saknas på utsida vägg"
+      föreslagen_åtgärd: "Anskaffa och montera enligt T15-101"
+      datastatus: "Brist noterad"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N07"
+    -
+      kod: "23g-1"
+      sida: 13
+      komponent: "Antenngenomföring"
+      observation: "Standardtext om saknad utvändig skylt; tillägg säger att inklädnad förhindrar utvändig inspektion"
+      föreslagen_åtgärd: "Skylt enligt T23-101 föreslås"
+      datastatus: "Begränsad inspektion; saknad skylt inte säkert verifierad"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N08"
+    -
+      kod: "24d-1"
+      sida: 14
+      komponent: "Skyddsrumsförråd"
+      observation: "Annan utrustning än skyddsrummets finns i skyddsrumsförrådet"
+      föreslagen_åtgärd: "Avlägsna enligt T24-101"
+      datastatus: "Brist noterad"
+      senare_status: "Okänd"
+      id: "B-SKYDDSRUM-175354-3-20221020-N09"
+avtal:
+  signerat: "2022-03-25"
+  leverantör: "Presto Brandsäkerhet AB"
+  omfattning: "En inventering och därefter årligt underhåll, ett skyddsrum och ett besök per år"
+  initial_period_år: 3
+  period_beskrivning: "2022–2025, tre år från signeringsdatum"
+  förlängning: "Inte förlängt enligt beställaren, uppgivet 2026-11-20 och sammanställning godkänd 2026-11-21. Inte aktivt avtal."
+  exakt_sista_avtalsdag: null
+  uppsägningsdatum: null
+  pris_sk_rm_år_exkl_moms: 3900
+  grundavgift_besök_exkl_moms: 495
+  åtgärder: "Separat offert, inte inkluderade utförda åtgärder"
+  senare_årliga_besök: "Inte styrkta av dessa handlingar"
+offert:
+  nummer: "134031"
+  datum: "2022-12-22"
+  status: "Offert, godkännande/utförande ej styrkt"
+  rader:
+    -
+      artikel: "111967"
+      benämning: "Skylt Skyddsrum med skruv/plugg"
+      antal: 1
+    -
+      artikel: "111913"
+      benämning: "Packning SP standard; S7/ASKR ska mätas"
+      antal: 2
+    -
+      artikel: "111890"
+      benämning: "Komplett övertrycksmätare och två flaskor vätska"
+      antal: 1
+    -
+      artikel: "111973"
+      benämning: "Skylt övertrycksmätare"
+      antal: 2
+    -
+      artikel: "111365"
+      benämning: "Skyddsrumstekniker, löpande arbetstid"
+      antal: 1
+    -
+      artikel: "6002"
+      benämning: "Grundavgift arbetsorder"
+      antal: 1
+    -
+      artikel: "103806"
+      benämning: "Förbrukningsmaterial"
+      antal: 1
+  exkl_moms: 3999
+  moms: 999.75
+  inkl_moms: 4998.75
+  kommentar: "Arbetstid löpande, frakt/pall och ev förbrukningsmaterial kan tillkomma. Inte slutkostnad. Skyddsrumsskylt i offerten inte säkert samma som antennskylt i protokollet."
+regelreferens:
+  fil: "typ_2_skyddsrumsregler-1978-tb-78.pdf"
+  sidor: 95
+  benämning: "Tekniska bestämmelser för skyddsrum TB78 (1978–1982)"
+  status: "Historisk referens för skyddsrumstyp; inte självständigt bevis för installerad komponent eller ny bedömning av dagens regler"
+källor:
+  -
+    fil: "Avtal Presto.pdf"
+    sha256: "71657cd38efad61e25ad9fd4302b8d48f4c52b13165e27be5434f9ae9f1cca38"
+  -
+    fil: "Offert,  Högalidsvägen 81 175354-3.pdf"
+    sha256: "e42a1a6cb83eada52824377d0ac133a024d5e8352b9f4f303dbd4a234538ab7d"
+  -
+    fil: "Protokoll - Bågen 2 - Högalidsvägen 81 - 175354-3.pdf"
+    sha256: "540097f53983a0cc2dee9f8dd542190b3841b528dcf1e94704d6d4bca2b5a40c"
+  -
+    fil: "typ_2_skyddsrumsregler-1978-tb-78.pdf"
+    sha256: "b72ba74396e36cfc04d58461b00751ad0930ddb902d0fbb33a53e6cededb59d9"
+id: "B-SKYDDSRUM-175354-3-20221020"
+källor_registrering:
+  - "K-SKYDDSRUM-2022-20261121"
+  - "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
+åtgärd: "A-SKYDDSRUM-INVENTERING-20221020"
+avtal_id: "AVT-PRESTO-SKYDDSRUM-2022"

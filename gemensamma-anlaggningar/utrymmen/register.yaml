@@ -76,14 +76,28 @@ utrymmen:
     id: "U-SKYDDSRUM-69"
     typ: "utrymme"
     namn: "Skyddsrummet"
-    adress: "Högalidsvägen 69"
+    adress: "Högalidsvägen 81"
     alias:
       - "Förrådsgång i skyddsrum"
     källor:
       - "K-SBA-KOPPLING-20261113"
+      - "K-SKYDDSRUM-2022-20261121"
+      - "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
     brandskyddshistorik:
       - "B-SBA-20220420"
       - "B-SBA-20221017"
+    adresskälla: "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
+    adresskommentar: "Enligt MSB-karta bifogad av beställaren och dennes rättelse 2026-11-21. Tidigare 69 ska inte användas som skyddsrummets adress."
+    historisk_adressuppgift: "Högalidsvägen 69, tidigare registeruppgift rättad"
+    idkommentar: "Befintligt stabilt ID U-SKYDDSRUM-69 behålls; suffixet anger inte aktuell adress."
+    skyddsrumsnummer: "175354-3"
+    fastighetsbeteckning: "Bågen 2"
+    skyddsplatser_enligt_underlag: 120
+    teknisk_regel: "TB78"
+    skyddsrumsinventeringar:
+      - "B-SKYDDSRUM-175354-3-20221020"
+    underhållsavtal:
+      - "AVT-PRESTO-SKYDDSRUM-2022"
   -
     id: "U-MILJOHUS-50"
     typ: "utrymme"

@@ -1,0 +1,42 @@
+id: "OFF-PRESTO-134031"
+plats: "U-SKYDDSRUM-69"
+adress: "Högalidsvägen 81"
+källor:
+  - "K-SKYDDSRUM-2022-20261121"
+  - "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
+nummer: "134031"
+datum: "2022-12-22"
+status: "Offert, godkännande/utförande ej styrkt"
+rader:
+  -
+    artikel: "111967"
+    benämning: "Skylt Skyddsrum med skruv/plugg"
+    antal: 1
+  -
+    artikel: "111913"
+    benämning: "Packning SP standard; S7/ASKR ska mätas"
+    antal: 2
+  -
+    artikel: "111890"
+    benämning: "Komplett övertrycksmätare och två flaskor vätska"
+    antal: 1
+  -
+    artikel: "111973"
+    benämning: "Skylt övertrycksmätare"
+    antal: 2
+  -
+    artikel: "111365"
+    benämning: "Skyddsrumstekniker, löpande arbetstid"
+    antal: 1
+  -
+    artikel: "6002"
+    benämning: "Grundavgift arbetsorder"
+    antal: 1
+  -
+    artikel: "103806"
+    benämning: "Förbrukningsmaterial"
+    antal: 1
+exkl_moms: 3999
+moms: 999.75
+inkl_moms: 4998.75
+kommentar: "Arbetstid löpande, frakt/pall och ev förbrukningsmaterial kan tillkomma. Inte slutkostnad. Skyddsrumsskylt i offerten inte säkert samma som antennskylt i protokollet."

@@ -28,3 +28,22 @@ abonnemang:
     kluster:
       - "TI-LADDKLUSTER-RAD-1"
       - "TI-LADDKLUSTER-RAD-2"
+  -
+    id: "AVT-PRESTO-SKYDDSRUM-2022"
+    namn: "Presto skyddsrumsinventering och underhåll"
+    leverantör: "Presto Brandsäkerhet AB"
+    organisationsnummer: "556112-0584"
+    objekt:
+      - "U-SKYDDSRUM-69"
+    status: "Avslutat, inte förlängt enligt beställaren"
+    signeringsdatum: "2022-03-25"
+    initial_avtalstid_år: 3
+    period_beskrivning: "2022–2025, tre år från signering"
+    exakt_sista_avtalsdag: null
+    uppsägningsdatum: null
+    förlängt: false
+    dokumentation: "besiktningar/skyddsrum/presto-avtal-2022-2025.yaml"
+    källor:
+      - "K-SKYDDSRUM-2022-20261121"
+      - "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
+    kommentar: "Avtalets förlängningsklausul ersätter inte beställarens uttryckliga uppgift om utebliven förlängning. Ingen nu aktiv årlig tjänst eller utfört besök antas."

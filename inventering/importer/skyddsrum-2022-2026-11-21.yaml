@@ -1,0 +1,35 @@
+id: "K-SKYDDSRUM-2022-20261121"
+registrerad: "2026-11-21"
+dokument:
+  -
+    fil: "Avtal Presto.pdf"
+    sha256: "71657cd38efad61e25ad9fd4302b8d48f4c52b13165e27be5434f9ae9f1cca38"
+  -
+    fil: "Offert,  Högalidsvägen 81 175354-3.pdf"
+    sha256: "e42a1a6cb83eada52824377d0ac133a024d5e8352b9f4f303dbd4a234538ab7d"
+  -
+    fil: "Protokoll - Bågen 2 - Högalidsvägen 81 - 175354-3.pdf"
+    sha256: "540097f53983a0cc2dee9f8dd542190b3841b528dcf1e94704d6d4bca2b5a40c"
+  -
+    fil: "typ_2_skyddsrumsregler-1978-tb-78.pdf"
+    sha256: "b72ba74396e36cfc04d58461b00751ad0930ddb902d0fbb33a53e6cededb59d9"
+adresskälla:
+  fil: "codex-clipboard-f2c46e4e-4cea-47c8-a938-211912aa2c6e.png"
+  sha256: "f12a46867ff192775affe93de84817ca22ccf3f2113b354e10ebaec51c21d2e9"
+  typ: "Av beställaren bifogad skärmbild av MSB:s skyddsrumskarta"
+  visar:
+    skyddsrumsnummer: "175354-3"
+    gatuadress: "Högalidsvägen 81"
+    fastighetsbeteckning: "Bågen 2"
+    kommun: "Kävlinge"
+    platser: 120
+    teknisk_regel: "TB78"
+  kontrollsätt: "Avläst från bifogad skärmbild; inte ny hämtning från MSB"
+  original_publicerad: false
+beställarbekräftelse:
+  id: "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
+  adress: "Högalidsvägen 81 enligt MSB-kartan; tidigare uppgift 69 rättas"
+  sammanställning_godkänd: true
+  presto_förlängt: false
+original_publicerade: false
+avgränsning: "Historiskt avtal, inventering, åtgärdsförslag och TB78 hålls isär. Inga fakturor/betalningar eller utförda offertåtgärder skapas. Personnamn/kontaktuppgifter, signaturcertifikatets IP-/aktivitetslogg och original publiceras inte."
