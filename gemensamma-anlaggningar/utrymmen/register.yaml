@@ -98,6 +98,8 @@ utrymmen:
       - "B-SKYDDSRUM-175354-3-20221020"
     underhållsavtal:
       - "AVT-PRESTO-SKYDDSRUM-2022"
+    underhållshistorik:
+      - "A-HANGRANNOR-2023"
   -
     id: "U-MILJOHUS-50"
     typ: "utrymme"
@@ -122,6 +124,8 @@ utrymmen:
       - "B-SBA-20230427"
       - "B-SBA-20240529"
     kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."
+    underhållshistorik:
+      - "A-HANGRANNOR-2023"
   -
     id: "U-MILJOHUS-60"
     typ: "utrymme"
@@ -146,6 +150,8 @@ utrymmen:
       - "B-SBA-20230427"
       - "B-SBA-20240529"
     kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."
+    underhållshistorik:
+      - "A-HANGRANNOR-2023"
   -
     id: "U-MILJOHUS-70"
     typ: "utrymme"
@@ -168,6 +174,8 @@ utrymmen:
       - "B-SBA-20230427"
       - "B-SBA-20240529"
     kopplingskommentar: "Generella miljöhusnoteringar kopplas till samtliga tre gårdar enligt beställaren; ingen exakt gatuadress antas."
+    underhållshistorik:
+      - "A-HANGRANNOR-2023"
   -
     id: "U-GARAGEFORRAD-GL2-GL3"
     typ: "gemensamt förrådsutrymme"
@@ -193,3 +201,5 @@ utrymmen:
       - "TAK-GARAGEFORRAD-GL2-GL3-001"
     åtgärdshistorik:
       - "A-GARAGEFORRAD-TAK-20201112"
+    underhållshistorik:
+      - "A-HANGRANNOR-2023"

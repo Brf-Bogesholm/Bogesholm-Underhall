@@ -59,3 +59,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Fönstermålning
 
 [Kompletterande fönstermålning 2023](fonster/README.md) – 36 utförda positioner i 29 lägenheter; övriga fönster senast målade 2016 enligt beställaren.
+
+## Hängrännor
+
+[Rensning 2023](hangrannor/README.md) – samtliga byggnader på området inklusive garagelängor, enligt beställaren.

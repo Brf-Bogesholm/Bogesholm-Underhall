@@ -1,0 +1,18 @@
+id: "K-HANGRANNOR-OFFERT-2023"
+registrerad: "2026-11-21"
+dokument:
+  fil: "HP Offert Högalidsvägen Kävlinge.pdf"
+  sha256: "17c95409ec815f637df9201076ef6f4343a9c65f969af5638a2f7d9744b54442"
+beställarbekräftelse:
+  id: "K-HANGRANNOR-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Arbetet genomfördes 2023."
+    - "Samtliga hängrännor på området rensades; knyt till samtliga byggnader."
+    - "Registreringssammanställningen godkänd."
+original_publicerade: false
+kostnader_importerade: false
+kopplingar:
+  hus: 15
+  registrerade_garagebyggnader: 3
+  övriga_utrymmen: 5
+avgränsning: "Endast den bifogade offerten och beställaruppgifterna lästa. Övriga filer i samma arkivmapp har inte importerats."

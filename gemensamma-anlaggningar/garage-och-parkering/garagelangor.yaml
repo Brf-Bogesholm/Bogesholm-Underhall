@@ -11,6 +11,7 @@ objekt:
       []
     underhållshistorik:
       - "A-2025-757025140596-3"
+      - "A-HANGRANNOR-2023"
     källor:
       - "K-KOMPLETTERING-2026-10-23-03"
   -
@@ -28,7 +29,7 @@ objekt:
     relationer:
       []
     underhållshistorik:
-      []
+      - "A-HANGRANNOR-2023"
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
       - "K-OMRADESKARTA-20261118"
@@ -47,7 +48,7 @@ objekt:
     relationer:
       []
     underhållshistorik:
-      []
+      - "A-HANGRANNOR-2023"
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
       - "K-OMRADESKARTA-20261118"
