@@ -6,6 +6,7 @@ registreringsomgångar:
   - "2026-11-21-GARAGETAK"
   - "2026-11-21-GUNGBRADA"
   - "2026-11-21-PARTYTALT"
+  - "2026-11-21-SOLCELLER"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -874,3 +875,295 @@ fakturor:
       - "K-PARTYTALT-BEKRAFTELSE-20261121"
       - "K-DATUMREGEL-2026-11-13"
     kommentar: "Samtliga fakturarader bevaras. Plastbackar och skrindor är förvaringsmaterial utan separata utrustningsposter enligt beställaren. Hela fakturan är inte en verifierad kostnad för enbart de två byggda lådorna. Radbelopp enligt original, inte omräknade från avrundade à-priser."
+  -
+    id: "F-2025-ENERMONT-1356"
+    fakturanummer: "1356"
+    leverantör: "Enermont AB"
+    organisationsnummer: "559226-3346"
+    fakturadatum: "2025-05-15"
+    förfallodatum: "2025-06-14"
+    valuta: "SEK"
+    exklusive_moms: 332004.51
+    moms_procent: 25
+    moms: 83001.13
+    öresavrundning: 0.36
+    att_betala: 415006
+    projekt: "P-SOLCELLER-2025"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    rader:
+      -
+        id: "F-2025-ENERMONT-1356-R1"
+        benämning: "10% av anbudssumma för projektering enligt kontrakt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 98500
+        belopp_exklusive_moms: 98500
+      -
+        id: "F-2025-ENERMONT-1356-R2"
+        benämning: "Markarbete för kraftkabel enligt offert (X-forto)"
+        antal: 1.08
+        enhet: "st"
+        à_pris_exklusive_moms: 62500
+        belopp_exklusive_moms: 67500
+      -
+        id: "F-2025-ENERMONT-1356-R3"
+        benämning: "Markarbete Äta 1 betäckning av brunn (X-forto)"
+        antal: 1.08
+        enhet: "st"
+        à_pris_exklusive_moms: 11883
+        belopp_exklusive_moms: 12833.64
+      -
+        id: "F-2025-ENERMONT-1356-R4"
+        benämning: "Markarbete Äta 2 montage av kabelbrunn/dragbrunn (X-forto)"
+        antal: 1.08
+        enhet: "st"
+        à_pris_exklusive_moms: 22503
+        belopp_exklusive_moms: 24303.24
+      -
+        id: "F-2025-ENERMONT-1356-R5"
+        benämning: "Materialfaktura Rexel 49020506 + 49025780"
+        antal: 1.12
+        enhet: "st"
+        à_pris_exklusive_moms: 17702.12
+        belopp_exklusive_moms: 19826.37
+      -
+        id: "F-2025-ENERMONT-1356-R6"
+        benämning: "Materialfaktura Rexel enligt bifogad sammanställning av 9 fakturor"
+        antal: 1.12
+        enhet: "st"
+        à_pris_exklusive_moms: 60868.98
+        belopp_exklusive_moms: 68173.26
+      -
+        id: "F-2025-ENERMONT-1356-R7"
+        benämning: "Arbetstid elektriker"
+        antal: 42
+        enhet: "h"
+        à_pris_exklusive_moms: 650
+        belopp_exklusive_moms: 27300
+      -
+        id: "F-2025-ENERMONT-1356-R8"
+        benämning: "Arbetstid konstruktion projektledning"
+        antal: 13
+        enhet: "h"
+        à_pris_exklusive_moms: 650
+        belopp_exklusive_moms: 8450
+      -
+        id: "F-2025-ENERMONT-1356-R9"
+        benämning: "Körning"
+        antal: 853
+        enhet: "km"
+        à_pris_exklusive_moms: 6
+        belopp_exklusive_moms: 5118
+    betalningsstatus: "Projektets slutfakturor betalda enligt beställaren; inget separat betalningsdatum eller individuell fakturakvittens angivet"
+    betalningskälla: "K-SOLCELLER-BEKRAFTELSE-20261121"
+    åtgärder:
+      - "A-SOLCELLER-FAKTURA-1356"
+    dokument:
+      filnamn: "faktura-200002115.pdf"
+      sha256: "a3a4a5edb83f89f283c70e03c199d58162b35fc037df00c166c3972e23763e73"
+      original_publicerat: false
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+    kommentar: "Rader med antal 1,08/1,12 är påslag 8/12 procent på kostnadsunderlag, inte antal fysiska installationer. Bilagor till entreprenörens faktura räknas inte som nya föreningskostnader. Fakturadatum är inte ersättning för känd driftsättning 2025-06-17."
+  -
+    id: "F-2025-ENERMONT-1376"
+    fakturanummer: "1376"
+    leverantör: "Enermont AB"
+    organisationsnummer: "559226-3346"
+    fakturadatum: "2025-06-13"
+    förfallodatum: "2025-07-13"
+    valuta: "SEK"
+    exklusive_moms: 626000
+    moms_procent: 25
+    moms: 156500
+    öresavrundning: 0
+    att_betala: 782500
+    projekt: "P-SOLCELLER-2025"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    rader:
+      -
+        id: "F-2025-ENERMONT-1376-R1"
+        benämning: "Leverans och installation av energilager och växelriktare i teknikrum"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 626000
+        belopp_exklusive_moms: 626000
+    betalningsstatus: "Projektets slutfakturor betalda enligt beställaren; inget separat betalningsdatum eller individuell fakturakvittens angivet"
+    betalningskälla: "K-SOLCELLER-BEKRAFTELSE-20261121"
+    åtgärder:
+      - "A-SOLCELLER-FAKTURA-1376"
+    dokument:
+      filnamn: "faktura-200002153.pdf"
+      sha256: "334bd494e48619c169586c0b01c3793e16578bc65d7ac24bee0ba727818c2681"
+      original_publicerat: false
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+    kommentar: "Rader med antal 1,08/1,12 är påslag 8/12 procent på kostnadsunderlag, inte antal fysiska installationer. Bilagor till entreprenörens faktura räknas inte som nya föreningskostnader. Fakturadatum är inte ersättning för känd driftsättning 2025-06-17."
+  -
+    id: "F-2025-ENERMONT-1409"
+    fakturanummer: "1409"
+    leverantör: "Enermont AB"
+    organisationsnummer: "559226-3346"
+    fakturadatum: "2025-08-13"
+    förfallodatum: "2025-09-12"
+    valuta: "SEK"
+    exklusive_moms: 34000
+    moms_procent: 25
+    moms: 8500
+    öresavrundning: 0
+    att_betala: 42500
+    projekt: "P-SOLCELLER-2025"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    rader:
+      -
+        id: "F-2025-ENERMONT-1409-R1"
+        benämning: "Äta nr. 1 enligt ÄTA-lista"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 34000
+        belopp_exklusive_moms: 34000
+    betalningsstatus: "Projektets slutfakturor betalda enligt beställaren; inget separat betalningsdatum eller individuell fakturakvittens angivet"
+    betalningskälla: "K-SOLCELLER-BEKRAFTELSE-20261121"
+    åtgärder:
+      - "A-SOLCELLER-FAKTURA-1409"
+    dokument:
+      filnamn: "faktura-200002204.pdf"
+      sha256: "c20f481000e2b443ac44d8fd5729e72b709f9ef4290ab5b8aae2f5aa7970fb06"
+      original_publicerat: false
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+    kommentar: "Rader med antal 1,08/1,12 är påslag 8/12 procent på kostnadsunderlag, inte antal fysiska installationer. Bilagor till entreprenörens faktura räknas inte som nya föreningskostnader. Fakturadatum är inte ersättning för känd driftsättning 2025-06-17."
+  -
+    id: "F-2025-ENERMONT-1410"
+    fakturanummer: "1410"
+    leverantör: "Enermont AB"
+    organisationsnummer: "559226-3346"
+    fakturadatum: "2025-08-13"
+    förfallodatum: "2025-09-12"
+    valuta: "SEK"
+    exklusive_moms: 260500
+    moms_procent: 25
+    moms: 65125
+    öresavrundning: 0
+    att_betala: 325625
+    projekt: "P-SOLCELLER-2025"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    rader:
+      -
+        id: "F-2025-ENERMONT-1410-R1"
+        benämning: "Leverans och installation av montagematerial och solpaneler"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 260500
+        belopp_exklusive_moms: 260500
+    betalningsstatus: "Projektets slutfakturor betalda enligt beställaren; inget separat betalningsdatum eller individuell fakturakvittens angivet"
+    betalningskälla: "K-SOLCELLER-BEKRAFTELSE-20261121"
+    åtgärder:
+      - "A-SOLCELLER-FAKTURA-1410"
+    dokument:
+      filnamn: "faktura-200002206.pdf"
+      sha256: "4dd9f6d18f05be5bf0f6a7d7ba2970e9310139da06e1993e992ef8bea004bfcc"
+      original_publicerat: false
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+    kommentar: "Rader med antal 1,08/1,12 är påslag 8/12 procent på kostnadsunderlag, inte antal fysiska installationer. Bilagor till entreprenörens faktura räknas inte som nya föreningskostnader. Fakturadatum är inte ersättning för känd driftsättning 2025-06-17."
+  -
+    id: "F-2025-ENERMONT-1426"
+    fakturanummer: "1426"
+    leverantör: "Enermont AB"
+    organisationsnummer: "559226-3346"
+    fakturadatum: "2025-08-28"
+    förfallodatum: "2025-09-27"
+    valuta: "SEK"
+    exklusive_moms: 33801.9
+    moms_procent: 25
+    moms: 8450.48
+    öresavrundning: -0.38
+    att_betala: 42252
+    projekt: "P-SOLCELLER-2025"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    rader:
+      -
+        id: "F-2025-ENERMONT-1426-R1"
+        benämning: "Elarbete Äta 4 installation av belysning i teknikrum, arbetstid elektriker"
+        antal: 2.5
+        enhet: null
+        à_pris_exklusive_moms: 650
+        belopp_exklusive_moms: 1625
+      -
+        id: "F-2025-ENERMONT-1426-R2"
+        benämning: "Elarbete Äta 6 fiber och nätverksinstallation, arbetstid elektriker"
+        antal: 9
+        enhet: null
+        à_pris_exklusive_moms: 650
+        belopp_exklusive_moms: 5850
+      -
+        id: "F-2025-ENERMONT-1426-R3"
+        benämning: "Materialfaktura Ahlsell, faktura 7328317305, art. 7507817"
+        antal: 1.12
+        enhet: null
+        à_pris_exklusive_moms: 1131.6
+        belopp_exklusive_moms: 1267.39
+      -
+        id: "F-2025-ENERMONT-1426-R4"
+        benämning: "UE-faktura Ljus - El och Ljusteknik"
+        antal: 1.08
+        enhet: null
+        à_pris_exklusive_moms: 7968
+        belopp_exklusive_moms: 8605.44
+      -
+        id: "F-2025-ENERMONT-1426-R5"
+        benämning: "Arbetstid konstruktion projektledning"
+        antal: 4
+        enhet: "h"
+        à_pris_exklusive_moms: 650
+        belopp_exklusive_moms: 2600
+      -
+        id: "F-2025-ENERMONT-1426-R6"
+        benämning: "Komplettering till ÄTA 3, hyra av kabelvagn (faktura bifogas)"
+        antal: 1.12
+        enhet: null
+        à_pris_exklusive_moms: 1139.35
+        belopp_exklusive_moms: 1276.07
+      -
+        id: "F-2025-ENERMONT-1426-R7"
+        benämning: "Kontrollmätning av befintligt jordtag, arbetstid elektriker"
+        antal: 3
+        enhet: null
+        à_pris_exklusive_moms: 650
+        belopp_exklusive_moms: 1950
+      -
+        id: "F-2025-ENERMONT-1426-R8"
+        benämning: "Utbyte av växelriktare från 25kW-30kW"
+        antal: 2
+        enhet: null
+        à_pris_exklusive_moms: 4000
+        belopp_exklusive_moms: 8000
+      -
+        id: "F-2025-ENERMONT-1426-R9"
+        benämning: "Körning"
+        antal: 438
+        enhet: "km"
+        à_pris_exklusive_moms: 6
+        belopp_exklusive_moms: 2628
+    betalningsstatus: "Projektets slutfakturor betalda enligt beställaren; inget separat betalningsdatum eller individuell fakturakvittens angivet"
+    betalningskälla: "K-SOLCELLER-BEKRAFTELSE-20261121"
+    åtgärder:
+      - "A-SOLCELLER-FAKTURA-1426"
+    dokument:
+      filnamn: "faktura-200002218.pdf"
+      sha256: "00996903aed8486b303b8300e196d7780068e32fb5c610d8f9a1e915e901fc52"
+      original_publicerat: false
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+    kommentar: "Rader med antal 1,08/1,12 är påslag 8/12 procent på kostnadsunderlag, inte antal fysiska installationer. Bilagor till entreprenörens faktura räknas inte som nya föreningskostnader. Fakturadatum är inte ersättning för känd driftsättning 2025-06-17."

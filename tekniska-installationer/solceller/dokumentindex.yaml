@@ -1,0 +1,525 @@
+källa: "K-SOLCELLER-ARKIV-20261121"
+antal_filer: 104
+dokument:
+  -
+    fil: "2025 Solceller/Enermont/Avtal/1.1 Agenda möten.docx"
+    sha256: "811a222fa68186358568909e85da5ccebc98ed65c8e138e5cc86629a7e9ad207"
+    storlek_byte: 60151
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/241008 Försäkringsbrev PremiumFöretag 352179566 144510[70].pdf"
+    sha256: "34fd800f76ffe14efcdfffc43943043cd932eb05b59cba444a144eaad6cf04cc"
+    storlek_byte: 163479
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/3.Avtal Enermont Bogesholm.pades.pdf"
+    sha256: "6cba58cd9a9361ed06802e7010a76736ac16b12af24791777d8b9ce0ec4f962d"
+    storlek_byte: 685898
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/Alp-blankett_ifylld.pades.pdf"
+    sha256: "247fe677abeb6de9e66f65d040b91dcfd3edaa5d1859f31c2ec1fa0d1e4830d8"
+    storlek_byte: 1710925
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/Enermont AB, Anbud solcellsanläggning BRF Bogesholm.pades.pdf"
+    sha256: "df8a72838e244ab105f0a475e9fc96152fe36e0ce0fad2f19aae9a650307fe9f"
+    storlek_byte: 896489
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/Forsakringsbevis_Kombinerad_foretag_352179566_2024-11-01-2025-10-31[77241].pdf"
+    sha256: "371fe6adf517b87cef5bd86761ab15ee827b47a2c92fa796daf1749bf01c7453"
+    storlek_byte: 173604
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/Tidsplan.pdf"
+    sha256: "2663081a587fce05ec0ba0428cb4e615f15f562ec2d1e90754cb1f5ca0d2ddfc"
+    storlek_byte: 216084
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Avtal/Timvärden 2023 - Högalidsvägen 69.xls"
+    sha256: "d58bcbca3599d467e45aef2ce7c0a5ad304b75c0fbd9640556b2ada0cc05831a"
+    storlek_byte: 635392
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Datablad BYD HVM-HVS.pdf"
+    sha256: "967df4413a08e999eef27bf21e080b0c119f174bc28aae3e9824b87c60c8391b"
+    storlek_byte: 300163
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/datablad-znshine-solar-zxm7-uhldd144-555-580w-1400mm-kompositram-2023-07-07.pdf"
+    sha256: "fc0e450ddda8c0d88182d63f4ca5ce3d5a94d883739c3b321159afaa0613cdec"
+    storlek_byte: 5081058
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Enermont AB Offert takarbeten mm BRF Bogesholm 240306.pdf"
+    sha256: "ee02fc1abf6c3b65df360a40ab6ff4ac87227971522309c9babb6675104c4605"
+    storlek_byte: 235688
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Enermont AB, Anbud solcellsanläggning BRF Bogesholm - 241106.pdf"
+    sha256: "aa75e84b8a86b24dc03d2883cad3c5f34e2af77b28d96963040fa9b9824cdd96"
+    storlek_byte: 281034
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Enermont AB, Anbud solcellsanläggning BRF Bogesholm.pdf"
+    sha256: "db6454308de5ccbcc3d05351174d7660eaed2f57493b4009a3f3c0d08bc557a2"
+    storlek_byte: 258770
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Enermont AB, Offert takarbeten mm BRF Bogesholm 240306.pdf"
+    sha256: "674e43ff6cdd5643abdfb7cbc1fa58774dc2cff79c629de290461e01cfabd324"
+    storlek_byte: 247953
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Enermont Sigenergy_clean v01.mp4"
+    sha256: "3c86766bbf8fe68924bf8759fda1a47fc7c674e2fc1b3c90a396a0aec7d1069a"
+    storlek_byte: 139270050
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Fakturor/faktura-200002115.pdf"
+    sha256: "a3a4a5edb83f89f283c70e03c199d58162b35fc037df00c166c3972e23763e73"
+    storlek_byte: 2413370
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Fakturor/faktura-200002153.pdf"
+    sha256: "334bd494e48619c169586c0b01c3793e16578bc65d7ac24bee0ba727818c2681"
+    storlek_byte: 134304
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Fakturor/faktura-200002204.pdf"
+    sha256: "c20f481000e2b443ac44d8fd5729e72b709f9ef4290ab5b8aae2f5aa7970fb06"
+    storlek_byte: 134282
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Fakturor/faktura-200002206.pdf"
+    sha256: "4dd9f6d18f05be5bf0f6a7d7ba2970e9310139da06e1993e992ef8bea004bfcc"
+    storlek_byte: 134304
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Fakturor/faktura-200002218.pdf"
+    sha256: "00996903aed8486b303b8300e196d7780068e32fb5c610d8f9a1e915e901fc52"
+    storlek_byte: 294448
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Forsakringsbevis_Kombinerad_foretag_352179566_2024-11-01-2025-10-31[77241].pdf"
+    sha256: "371fe6adf517b87cef5bd86761ab15ee827b47a2c92fa796daf1749bf01c7453"
+    storlek_byte: 173604
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Foton/B5D6335E-ABB0-4418-952F-6275787151A9.jpg"
+    sha256: "c40eeb7ffa5d738d176a1e328a2ddbcfd6653119cd25953e54da4f38a42bb071"
+    storlek_byte: 2748951
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2084.HEIC"
+    sha256: "d44b650d1a41f37320166b4cbe542ef8e02b6bd9d1c29026a35dd03069eb91cc"
+    storlek_byte: 5839602
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2085.HEIC"
+    sha256: "6bda8e615f186a56f2989dde6144d42c0f2b8e7c17fc59b0a32b36c0f71f39f3"
+    storlek_byte: 4927717
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2086.HEIC"
+    sha256: "f386002a9096a362a094a26d36c6f377908f956a24d1c2473a4d036e075f8354"
+    storlek_byte: 4494221
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2087.HEIC"
+    sha256: "3a1f9291dc5a16799e2fae08b80139cada9b4fc965dfd78154884c1dad42f1e4"
+    storlek_byte: 4218146
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2088.HEIC"
+    sha256: "605e31456d270e908a2accb951e2cd07fcfa7128415e1654e9138d55df0a770e"
+    storlek_byte: 4179329
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2089.HEIC"
+    sha256: "180d6f32f61068df7282923b104c1232e6899bedf0017ebbacfc69964ff5d3c3"
+    storlek_byte: 2924892
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2093.HEIC"
+    sha256: "4d037c8fcad1cf23bc4555ba675f56a44dfd85c5722f99d4a01900536dfbfb4e"
+    storlek_byte: 4378952
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2094.HEIC"
+    sha256: "5da0cdff074d8654eea09fa1789e20df4f940db6a9cafacfd8d02585682d19d9"
+    storlek_byte: 5433762
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2095.HEIC"
+    sha256: "3c68af80f7560f842c4a69d465183c93d162ea22c16b2ab10aa1f8461756a040"
+    storlek_byte: 5626401
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2096.HEIC"
+    sha256: "886eab792394c5f6978c4af01685064866e65be610a1419ee21653c3d548d56e"
+    storlek_byte: 5117447
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2100.HEIC"
+    sha256: "73bc91da5867c39350b5bb313066c991bd2e70ae9d1363d9f1c003e0babb6bd5"
+    storlek_byte: 3804803
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2101.HEIC"
+    sha256: "28ce6fc12b4f43de2a4d3974a8a8ee8f54c31bab687516b3e00f85cad9e795a5"
+    storlek_byte: 4399111
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2102.HEIC"
+    sha256: "b5dd51aa7e2ea5db72dca92ad5ae592f709a3349303f5b0e1c2d68c21c071a16"
+    storlek_byte: 4323045
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2103.HEIC"
+    sha256: "a230160bab4d3230b9c65120fa974daf8af3d7c49c83e9b0126273606818129e"
+    storlek_byte: 5018760
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2104.HEIC"
+    sha256: "fbdeaf419d437ddbf483557528e0685211c01cea424cf68541dcf7164653d79a"
+    storlek_byte: 4784740
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2105.HEIC"
+    sha256: "07bc588ba8bf5caeb7f7ef057b36f5f497c30373871719fee9595ec6c93df95d"
+    storlek_byte: 5643230
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2106.HEIC"
+    sha256: "e8668c797ab8bb3a08b41c2bad5a8285e69b2a2a40aff38671acea5027d19315"
+    storlek_byte: 4472559
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2107.HEIC"
+    sha256: "06b1ff6c7ebc8ebecec41639e83245d5755fb984a4b55aeaf9b91cdb7b784a32"
+    storlek_byte: 4821982
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2108.HEIC"
+    sha256: "a22689db70968a29b07e5f20d21b3bd9c41a2e6c3d1b9d892f22c3fee4d15c63"
+    storlek_byte: 2909135
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2109.HEIC"
+    sha256: "bf5d8ec40764c76cfb1d4114a410c5d44396668264f43d156141b9208831f87d"
+    storlek_byte: 3532058
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2110.HEIC"
+    sha256: "90f1fe4f75f0b2bda024c5beb71d38b005ee68ff45150e9245e22ed01d3455b9"
+    storlek_byte: 5040945
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/Foton/IMG_2111.HEIC"
+    sha256: "eed261a4e75ea6d2a4d28331cb71b312a228f3198dc3ca40fc6497fcaa2e2fde"
+    storlek_byte: 5442486
+    klassificering: "Foto, inte individuellt tolkat"
+  -
+    fil: "2025 Solceller/Enermont/GoodWe 15-30 Et Datablad.pdf"
+    sha256: "585d36551d15327cd4c37a7ecde24fab24a3fc0a60f4905a580dfafcdda67bf1"
+    storlek_byte: 612334
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Investeringskalkyl_Solcellsanläggning.xlsx"
+    sha256: "655742fdc72350d738fe6880ed50ed2d1ecab58676b564cae522a4dd31ce53a3"
+    storlek_byte: 260000
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Offert 2024-05-06.pdf"
+    sha256: "e6a09dd4032676d7861ab6cd450c935a48adad2f59239a357153bcc95dd04ec9"
+    storlek_byte: 1607292
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Offertsammanfattning BRF Bogesholm.pdf"
+    sha256: "26e762573fb2e529286fb96b781b702f561145438351efb046362b9240c2b719"
+    storlek_byte: 596347
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/PV-Sol Brf Bogesholm 63A.pdf"
+    sha256: "abf8795dcc09883d9362972a2086d0915bdffb5acdc8306fda99b1b54ee3f87c"
+    storlek_byte: 3175468
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Bogesholm Tak 1 Weland.pdf"
+    sha256: "51836ee5166e77df9a86e10d39f467f8ac09b18ae3b2ce1e80e60ffb6dde330c"
+    storlek_byte: 2448823
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Bogesholm Tak 2 Weland.pdf"
+    sha256: "3fb3cbdbc3294628dbcd75ecfc1ba9507bf80e1085bfcbca13262aff41dc2b14"
+    storlek_byte: 2439451
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Brf Bogesholm 78,2kWp.pdf"
+    sha256: "357576b11d7a5ff07173ab5ecab635e5d27a31dddadffe5fb01b2663d8907d2e"
+    storlek_byte: 1017454
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Egenkontroll Montage Bogesholm.pdf"
+    sha256: "894d3b2a1276ac5d753a8a47f167226a6b20d57b96e3a624b9a4059904614ff0"
+    storlek_byte: 172341
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Egenkontroller El Bogesholm.pdf"
+    sha256: "138adbb615615b579975aa26a96427e2802e6c9aa8370a1e5522dfa73109032a"
+    storlek_byte: 179364
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/garantitider Sigenergy.png"
+    sha256: "9377207a6789ec78d07449a7a4f39b518bdb4fc2ec286669d16e5f3181182b24"
+    storlek_byte: 171121
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Gruppschema.docx"
+    sha256: "662a5ec1b47f1c93e34b919b47e79747aa49d9a61a7f388e15996dc8581a6c96"
+    storlek_byte: 44399
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/IMG_1790.jpg"
+    sha256: "d45215a68b542c99378b212a710230efa8b30dcbfad6595b11c768b80cc7f9d7"
+    storlek_byte: 290569
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/IMG_1792.jpg"
+    sha256: "34621831e025368aac6466585378a6ace20f13a301854110100c3a4f03f781b6"
+    storlek_byte: 208502
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/IMG_1793.jpg"
+    sha256: "35638d2253d4bf7f872242bcba87b69844b46306605c166f91cd13e35b8d3ed1"
+    storlek_byte: 294487
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/IMG_1794.jpg"
+    sha256: "b0147e2e4a9403d8211dcbc82f4f9516e2c0d21d10c74ccfddf70049d1a5570f"
+    storlek_byte: 309389
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/IMG_1795.jpg"
+    sha256: "4a604c0fb3903f92cf020d980a12267dd8924565c571f0f0978d9fb765007eee"
+    storlek_byte: 238356
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/IMG_1796.jpg"
+    sha256: "972d467396f9ce83f2caf1b52cdad7cc0b0eb1a70330f20d43fac4a68863e643"
+    storlek_byte: 246326
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Insatskort solcellsanläggning.pptx"
+    sha256: "34a91ace79862592528f6ceba2a8f35f613f75d1684b2103093e861fd1b1b8ce"
+    storlek_byte: 982993
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Insatsplan 2025-12-29.pdf"
+    sha256: "81b5eb6d2215453f1f8a32808b552a2de31379426b467069aec5014d86245e1b"
+    storlek_byte: 365485
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Installationsmanual JAM72D40 575 MB.pdf"
+    sha256: "69a2c2b8ff0b0cbd5cf0eab3f0d61d92efe28da4348ee7c7ffcf6b301dca9bfb"
+    storlek_byte: 663892
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Intyg Garantisedel.pdf"
+    sha256: "73d856970ce87e514609cd64facad38a5ef0abb7cfec5c36e947ea6bee4afcdd"
+    storlek_byte: 319720
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/ISO test Bogesholm VR1.pdf"
+    sha256: "0234525fd404cb110f8d20669a3d1c3e48448680c34ed69db78a3d4c8b61761c"
+    storlek_byte: 64112
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/ISO test Bogesholm VR2.pdf"
+    sha256: "058689cc3ebd8dc49b22f2b126e4bbafeb2b89cf017f6d67c7651cbdf4a2b2a5"
+    storlek_byte: 61515
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Jordtagsmätning Bogesholm.pdf"
+    sha256: "fb38bd02643b5c7ba8761b32c20582decd7aa256dceee301d63313b69a10869a"
+    storlek_byte: 343775
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/modbus_protocol_en_-_sigen_v2.5.pdf"
+    sha256: "1d7b595191084bf5dcbf6cf4a354803f742fb3f669abdab477cf4c42be0203ed"
+    storlek_byte: 739199
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Panel JA 575.pdf"
+    sha256: "0cef381be4215375036b2f8de7bae12799d9fd14eed911b5ecef59a797df4adc"
+    storlek_byte: 594161
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Sigen batteri.pdf"
+    sha256: "9c2cc5b559367f6d2a54fa6776a95522999c60bf1c856273f031df661e86997c"
+    storlek_byte: 906596
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Sigen gateway.pdf"
+    sha256: "797d17c78a7d262411c0453e3e4ab1afbece3cc06b77801f09895c728b564fcf"
+    storlek_byte: 1848618
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Sigen växelriktare.pdf"
+    sha256: "0254fac2ac41107e5d00d12dd32079ce57b88c1610b4ed7cdb3dda571a0695c1"
+    storlek_byte: 1453648
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Weland c-profil.pdf"
+    sha256: "c994cce3d044fb51aa9842d957832bc664244de0b4c7ff58099d5432106ba200"
+    storlek_byte: 128351
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Weland platta.pdf"
+    sha256: "d1a3d523d42b8830c38c8c5e85a392878766eeff8147914d40fec12952ce2a02"
+    storlek_byte: 158731
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Weland Skena.pdf"
+    sha256: "11f74edef278a487f118d89f9a27a4570bc92cd5e5f33f4836e40ce28811d9d9"
+    storlek_byte: 150311
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktblad Weland ändklämma.pdf"
+    sha256: "93f7bbbb9b319a185a047472d1320412a31669848b1ad9a445347017c0076c5e"
+    storlek_byte: 343392
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Produktdblad Weland mittklämma.pdf"
+    sha256: "683492be4767a90d2d19e8e894847e869a1e98307c2904f2c1667b60efffa070"
+    storlek_byte: 183267
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Rapport om jordtagsmätning.pdf"
+    sha256: "77b2e31806c0c40087738c5e9a5f73be71c526ae206fa3a8663e508a9d44a44a"
+    storlek_byte: 23963
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Signerat FB protokoll Bogesholm Kävlinge.pdf"
+    sha256: "d282d4e0d79afa8446cbf4912a0764d23ed918b3aa2c4e726082f7a6c13de519"
+    storlek_byte: 1803743
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Strängplan.pdf"
+    sha256: "baa56405cb3e801615ba3fe69337d8e58aecb87b0fc16bc681cf5a3a33e487a8"
+    storlek_byte: 213704
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Warranty JA Solar.pdf"
+    sha256: "05e7c17b359974c5c751239bc79d46a44b0c34ed094b8ece03032278b42247bb"
+    storlek_byte: 5328686
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Warranty Sigenergy.pdf"
+    sha256: "4e523cded845f0ca22f9b5f161c6e85eba51d8ef5b83cf632d3284ecc3d912ce"
+    storlek_byte: 129671
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Relationshandlingar/Welandstål garanti_standardprodukter.pdf"
+    sha256: "5a46bf88569c69473dfd51fdc511fba7054bf8491d28461ecce794e807e6cc63"
+    storlek_byte: 72069
+    klassificering: "Relationshandling/referens"
+  -
+    fil: "2025 Solceller/Enermont/Säker elförsörjning Brf Bogesholm Bildspel.pdf"
+    sha256: "b85825a3371b009b6ddf5a0c94354c3c943521ecb8431fae0b20136a3adfa25d"
+    storlek_byte: 841757
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Säker elförsörjning Brf Bogesholm.pdf"
+    sha256: "932a5bf3acf5b46e253c2a248a14669caca42c4a3f2287418ad57180f04d4528"
+    storlek_byte: 544159
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Säker elförsörjning Brf Bogesholm.pptx"
+    sha256: "005f5f2ad612a27e025ff16f6dc2f924cfc03ac36fb1ba58ba26999413a031a0"
+    storlek_byte: 1398123
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Enermont/Tidsplan.pdf"
+    sha256: "2663081a587fce05ec0ba0428cb4e615f15f562ec2d1e90754cb1f5ca0d2ddfc"
+    storlek_byte: 216084
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/anbudssammanfattning.docx"
+    sha256: "5c8150455a89205265904e872ff928bf583b4517cba7096a7071222ae71f4022"
+    storlek_byte: 59145
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/bilaga-1-objektbeskrivning-for-solcellssystem.docx"
+    sha256: "e84b7f224e6b3d793bbd605269adbe1ff16d4690208019bed5a47352c945a323"
+    storlek_byte: 53181
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/checklista-forstudie.docx"
+    sha256: "4db5b35c7b82f1555bee0548aa5c7a5a663255a3666c950095a325af16b1e6b7"
+    storlek_byte: 64447
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Förfrågningsunderlag/ABT06 AF 2024-05-31.docx"
+    sha256: "8cd904149afefebc33cc589ded073e1451769f01ebfbc0a090ac9d44f5d09e8b"
+    storlek_byte: 74585
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Förfrågningsunderlag/ABT06 AF 2024-05-31.pdf"
+    sha256: "f1ad6fb5fb99a704514d561cafe62891f906cc2daaab4cfefe325a54c1a1d3c9"
+    storlek_byte: 658873
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Förfrågningsunderlag/Brand PM Brf Bogesholm 2025-05-19.pdf"
+    sha256: "5ee9507de7a414db946581d2d0e8cb8507a3927f98168ee24f044d5433eeabf5"
+    storlek_byte: 413911
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Förfrågningsunderlag/Brand PM Brf Bogesholm.pdf"
+    sha256: "49672befb72cd4a39d59fe6a877efd63a543f39777788b416d6697a0837eab92"
+    storlek_byte: 567057
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Projektering/BA240811PM-Förstudie-handling Solcellspaneller BRF Bogesholm.pdf"
+    sha256: "05dbb9e0d25b772eede204c9cf439592e98574d8188e993da25f86fbdbcf5976"
+    storlek_byte: 231651
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Projektering/Brandbesiktningsprotokoll.pdf"
+    sha256: "85646d6039c46f827ccfafc530af0c61a8767aec81055a311b2de2dacb13fe81"
+    storlek_byte: 244770
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Projektering/Timvärden 2023 - Högalidsvägen 69.xls"
+    sha256: "7fc51764107d10076cf3571a09c803b832c5904456b55e93ad03c271b6897e10"
+    storlek_byte: 630272
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Projektering/Uppdragsbekräftelser/MPAB - Peter Nilsson.pdf"
+    sha256: "8ee2e7cc2f6aaf7747ab3d466e8898ab91d1ac5860246aa233377e6d4a910217"
+    storlek_byte: 141870
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/Projektering/Uppdragsbekräftelser/PE Teknik & arkitektur AB - Anders Lagerås.pdf"
+    sha256: "867cf364a02a81ccea46b09ad928f7b2d9c92e3430d6bbd0b998e2b56c5ca9a7"
+    storlek_byte: 142316
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/rambeskrivning.docx"
+    sha256: "fafc0b89a3ce9e106a712fdddbaba7a4f6113af84fd3566528bb07827a023791"
+    storlek_byte: 363705
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/rekommenderade-tillagg-till-administrativa-foreskrifter.docx"
+    sha256: "619da85e54dd68feee73aa189e615a939aa37d80030677cd9bd3663380d8d9cb"
+    storlek_byte: 54923
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+  -
+    fil: "2025 Solceller/Upphandling/stoddokument-ram--och-objektbeskrivning.docx"
+    sha256: "980426e9ea37ab61727f1caa9fc3deca75df4a94ff8f2a405815a69fb219a6f9"
+    storlek_byte: 67552
+    klassificering: "Avtal/upphandling/övrigt historiskt underlag; inte automatiskt faktiskt utförande"
+original_publicerade: false
+avgränsning: "Index innebär inte att samtliga bilder, kalkylceller och manualdetaljer har överförts. Huvudhandlingarnas utrustning, ekonomi, kontroller och källavvikelser dokumenteras separat."

@@ -430,3 +430,89 @@ version: "1.0"
       - "K-PARTYTALT-2025"
       - "K-PARTYTALT-BEKRAFTELSE-20261121"
     kommentar: "Två lådor enligt beställaren. Exakt byggdag okänd. Plastbackar och skrindor bevaras endast som fakturarader/förvaringsmaterial."
+  -
+    id: "A-SOLCELLER-FAKTURA-1356"
+    år: 2025
+    datum: null
+    fakturadatum: "2025-05-15"
+    åtgärd: "Fakturerade solcellsarbeten: 10% av anbudssumma för projektering enligt kontrakt"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    projekt: "P-SOLCELLER-2025"
+    faktura: "F-2025-ENERMONT-1356"
+    kostnad: null
+    kommentar: "Full specifikation i fakturans samtliga rader. Kostnaden räknas en gång i fakturaregistret, inget gemensamt verkligt arbetsdatum antas."
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "A-SOLCELLER-FAKTURA-1376"
+    år: 2025
+    datum: null
+    fakturadatum: "2025-06-13"
+    åtgärd: "Fakturerade solcellsarbeten: Leverans och installation av energilager och växelriktare i teknikrum"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    projekt: "P-SOLCELLER-2025"
+    faktura: "F-2025-ENERMONT-1376"
+    kostnad: null
+    kommentar: "Full specifikation i fakturans samtliga rader. Kostnaden räknas en gång i fakturaregistret, inget gemensamt verkligt arbetsdatum antas."
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "A-SOLCELLER-FAKTURA-1409"
+    år: 2025
+    datum: null
+    fakturadatum: "2025-08-13"
+    åtgärd: "Fakturerade solcellsarbeten: Äta nr. 1 enligt ÄTA-lista"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    projekt: "P-SOLCELLER-2025"
+    faktura: "F-2025-ENERMONT-1409"
+    kostnad: null
+    kommentar: "Full specifikation i fakturans samtliga rader. Kostnaden räknas en gång i fakturaregistret, inget gemensamt verkligt arbetsdatum antas."
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "A-SOLCELLER-FAKTURA-1410"
+    år: 2025
+    datum: null
+    fakturadatum: "2025-08-13"
+    åtgärd: "Fakturerade solcellsarbeten: Leverans och installation av montagematerial och solpaneler"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    projekt: "P-SOLCELLER-2025"
+    faktura: "F-2025-ENERMONT-1410"
+    kostnad: null
+    kommentar: "Full specifikation i fakturans samtliga rader. Kostnaden räknas en gång i fakturaregistret, inget gemensamt verkligt arbetsdatum antas."
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "A-SOLCELLER-FAKTURA-1426"
+    år: 2025
+    datum: null
+    fakturadatum: "2025-08-28"
+    åtgärd: "Fakturerade solcellsarbeten: Elarbete Äta 4 installation av belysning i teknikrum, arbetstid elektriker"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    projekt: "P-SOLCELLER-2025"
+    faktura: "F-2025-ENERMONT-1426"
+    kostnad: null
+    kommentar: "Full specifikation i fakturans samtliga rader. Kostnaden räknas en gång i fakturaregistret, inget gemensamt verkligt arbetsdatum antas."
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "A-SOLCELLER-DRIFTSATT-20250617"
+    datum: "2025-06-17"
+    åtgärd: "Driftsättning av solcellsanläggning och batterilager"
+    objekt:
+      - "TI-SOLCELLER-2025"
+    projekt: "P-SOLCELLER-2025"
+    kostnad: null
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"

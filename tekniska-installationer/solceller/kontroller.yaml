@@ -1,0 +1,160 @@
+jordtag:
+  datum: "2025-06-03"
+  instrument: "Eurotest XC MI3152"
+  resistans_ohm: 30.8
+  antal_mätningar: 1
+  typ: "Direktjordtag för generatorns nollpunkt"
+isolation:
+  datum: "2025-08-18"
+  strängar:
+    -
+      nummer: 1
+      växelriktare: "VR1"
+      panelantal: 16
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1037
+      Vmät_minus_V: 1039
+      VPE_V: 389
+      VNE_V: -392
+      VPN_V: 781
+    -
+      nummer: 2
+      växelriktare: "VR1"
+      panelantal: 16
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1037
+      Vmät_minus_V: 1039
+      VPE_V: 390
+      VNE_V: -394
+      VPN_V: 785
+    -
+      nummer: 3
+      växelriktare: "VR1"
+      panelantal: 16
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1038
+      Vmät_minus_V: 1039
+      VPE_V: 395
+      VNE_V: -382
+      VPN_V: 777
+    -
+      nummer: 4
+      växelriktare: "VR1"
+      panelantal: 16
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1038
+      Vmät_minus_V: 1039
+      VPE_V: 396
+      VNE_V: -383
+      VPN_V: 779
+    -
+      nummer: 5
+      växelriktare: "VR2"
+      panelantal: 18
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1038
+      Vmät_minus_V: 1039
+      VPE_V: 435
+      VNE_V: -443
+      VPN_V: 879
+    -
+      nummer: 6
+      växelriktare: "VR2"
+      panelantal: 18
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1038
+      Vmät_minus_V: 1039
+      VPE_V: 432
+      VNE_V: -444
+      VPN_V: 876
+    -
+      nummer: 7
+      växelriktare: "VR2"
+      panelantal: 18
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1038
+      Vmät_minus_V: 1040
+      VPE_V: 431
+      VNE_V: -445
+      VPN_V: 876
+    -
+      nummer: 8
+      växelriktare: "VR2"
+      panelantal: 18
+      resultat: "Ok"
+      Ri_plus_Mohm: ">100"
+      Ri_minus_Mohm: ">100"
+      RP_Mohm: ">100"
+      gräns_Mohm: 1
+      nominell_provspänning_V: 1000
+      Vmät_plus_V: 1038
+      Vmät_minus_V: 1040
+      VPE_V: 432
+      VNE_V: -440
+      VPN_V: 872
+montagebilaga:
+  signerad: "2025-09-11"
+  strängspänning_V:
+    - 784
+    - 790
+    - 783
+    - 785
+    - 883
+    - 883
+    - 882
+    - 879
+  kommentar: "Separat kompletterad bilaga, inte samma mätserie som ISO-protokollen."
+egenkontroll_el:
+  datum: "2025-08-18"
+  AC_isolation: true
+  AC_kontinuitet: true
+  AC_utlösningsvillkor: true
+  gruppschema_ikryssat: false
+  DC_frånskiljare: "Inbyggd i växelriktare"
+  kommentar: "Entreprenörens egenkontroll, inte oberoende besiktning eller bevis om dagens status."
+gruppschema:
+  central: "A1B"
+  grupp_3:
+    matning: "EM1 och EM2"
+    ström_A: 10
+    ledararea_mm2: 1.5
+  EM1: "Mätare till solceller Sigenergy"
+  EM2: "Mätare för lastbalansering elbilsladdning parkering"
+  reserver: "Grupper 1 och 2, 16 A"
+källor:
+  - "K-SOLCELLER-ARKIV-20261121"

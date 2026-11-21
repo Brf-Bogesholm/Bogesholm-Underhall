@@ -1,0 +1,109 @@
+protokoll: "Sigenergy Modbus V2.5"
+dokumentdatum: "2025-02-19"
+dokument: "modbus_protocol_en_-_sigen_v2.5.pdf"
+faktisk_konfiguration: "Inte hämtad eller verifierad"
+TCP:
+  port_standard: 502
+  anläggningsadress: 247
+  enhetsadresser: "1–246"
+  broadcast: 0
+RTU:
+  baud_standard: 9600
+  databitar: 8
+  paritet: "None"
+  stoppbitar: 1
+minsta_förfrågningsperiod_ms: 1000
+register:
+  -
+    namn: "Nätutbyte"
+    adress: 30005
+    antal_register: 2
+    datatyp: "S32"
+    divisor: 1000
+    enhet: "kW"
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "Positivt köp, negativt försäljning"
+  -
+    namn: "Nät/ö-drift"
+    adress: 30009
+    antal_register: 1
+    datatyp: "U16"
+    divisor: 1
+    enhet: null
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "0 nät, 1 automatisk ö-drift, 2 manuell ö-drift"
+  -
+    namn: "Batteri SOC"
+    adress: 30014
+    antal_register: 1
+    datatyp: "U16"
+    divisor: 10
+    enhet: "%"
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: ""
+  -
+    namn: "Anläggning aktiv effekt"
+    adress: 30031
+    antal_register: 2
+    datatyp: "S32"
+    divisor: 1000
+    enhet: "kW"
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: ""
+  -
+    namn: "Soleffekt"
+    adress: 30035
+    antal_register: 2
+    datatyp: "S32"
+    divisor: 1000
+    enhet: "kW"
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: ""
+  -
+    namn: "Batterieffekt"
+    adress: 30037
+    antal_register: 2
+    datatyp: "S32"
+    divisor: 1000
+    enhet: "kW"
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "Negativt urladdning, positivt laddning"
+  -
+    namn: "Allmänt larm 1"
+    adress: 30027
+    antal_register: 1
+    datatyp: "U16"
+    divisor: 1
+    enhet: null
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "Bitfält enligt appendix 2"
+  -
+    namn: "Allmänt larm 2"
+    adress: 30028
+    antal_register: 1
+    datatyp: "U16"
+    divisor: 1
+    enhet: null
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "Bitfält enligt appendix 3"
+  -
+    namn: "Batterilarm"
+    adress: 30029
+    antal_register: 1
+    datatyp: "U16"
+    divisor: 1
+    enhet: null
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "Bitfält enligt appendix 4"
+  -
+    namn: "Gatewaylarm"
+    adress: 30030
+    antal_register: 1
+    datatyp: "U16"
+    divisor: 1
+    enhet: null
+    åtkomst: "Read only, FC04, anläggningsadress 247"
+    kommentar: "Bitfält enligt appendix 5"
+avgränsning: "Dokumenterad kapacitet, inte bevis om aktiv Modbus eller nuvarande registervärden. Ingen styrning eller liveändring gjord. Registeradresser bevaras enligt källan utan offsetkonvertering."
+källor:
+  - "K-SOLCELLER-ARKIV-20261121"

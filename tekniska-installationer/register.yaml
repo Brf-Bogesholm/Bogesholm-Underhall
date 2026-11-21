@@ -4050,3 +4050,420 @@ objekt:
       - "A-GARAGETAK-RENOVERING-2025"
     källor:
       - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-SOLCELLER-2025"
+    typ: "solcellsanläggning med batterilager"
+    namn: "Solcellsanläggningen 2025"
+    driftsättningsdatum: "2025-06-17"
+    projekt: "P-SOLCELLER-2025"
+    placering: "Paneler på garagetak 1 och 2; teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      paneleffekt_kWp: 78.2
+      panelantal: 136
+      växelriktare_antal: 2
+      växelriktare_effekt_kW_per_st: 30
+      batterimoduler: 12
+      batterikapacitet_projekt_kWh: 96
+      kommentar: "96 kWh är projektets kapacitetsbenämning; garantivillkorets användbara energi är en separat storhet."
+    relationer:
+      -
+        typ: "teknikrum"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+      -
+        typ: "panelyta"
+        objekt: "GL-1"
+      -
+        typ: "panelyta"
+        objekt: "GL-2"
+    dokumentation: "tekniska-installationer/solceller/README.md"
+    underhållshistorik:
+      - "A-SOLCELLER-DRIFTSATT-20250617"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-PANELER-2025"
+    typ: "solpaneler"
+    namn: "136 JA Solar 575 W dubbelglaspaneler"
+    antal: 136
+    egenskaper:
+      fabrikat: "JA Solar"
+      effekt_W_per_panel: 575
+      modell_relationsberäkning: "JAM72D40-575/GB (v1)"
+      modell_produktblad: "JAM72D40 555–580/MB/1500V"
+      exakt_modellstatus: "Källkonflikt GB/MB, inte slutligt verifierad"
+      serienummer: null
+      montagesystem: "Weland"
+      lutning_grader: 4
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-EC-001"
+    typ: "hybridväxelriktare"
+    namn: "SigenStor EC 30.0 TP 001"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor EC 30.0 TP"
+      serienummer: "110A32CM0215"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-EC-002"
+    typ: "hybridväxelriktare"
+    namn: "SigenStor EC 30.0 TP 002"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor EC 30.0 TP"
+      serienummer: "110A32CM0318"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-001"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 001"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B22CY1231"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-002"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 002"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B23162479"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-003"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 003"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B231H0617"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-004"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 004"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B231H0643"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-005"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 005"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B231H0644"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-006"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 006"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B22CY1169"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-007"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 007"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B231H0616"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-008"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 008"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B22CY1233"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-009"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 009"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B23162477"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-010"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 010"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B22CY1166"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-011"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 011"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B231H0618"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-BAT-012"
+    typ: "batterimodul"
+    namn: "SigenStor BAT 8.0 012"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "SigenStor BAT 8.0"
+      serienummer: "110B231H0619"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2035-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-MATARE-001"
+    typ: "elmätare"
+    namn: "SDM630MCT_40mA_120A 001"
+    placering: "Individuell placering inte verifierad"
+    egenskaper:
+      fabrikat: null
+      modell: "SDM630MCT_40mA_120A"
+      serienummer: "M110A32CM0215013001"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2027-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering eller verifierad batteristapel. Mätarens individuella placering/EM-beteckning inte fastställd."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "TI-SOLCELLER-GATEWAY-001"
+    typ: "gateway"
+    namn: "Sigen Gateway C60-2 001"
+    placering: "Teknikrum i garageförrådet mellan garagebyggnad 2 och 3"
+    egenskaper:
+      fabrikat: "Sigenergy"
+      modell: "Sigen Gateway C60-2"
+      serienummer: "110G23360195"
+      driftsättningsdatum: "2025-06-17"
+      garantislut_enligt_registrering: "2030-06-17"
+      fysisk_position_eller_VR_nummer: null
+      kommentar: "ID-suffix anger registerordning, inte fysisk numrering, VR1/VR2 eller batteristapel."
+    relationer:
+      -
+        typ: "part_of"
+        objekt: "TI-SOLCELLER-2025"
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    källor:
+      - "K-SOLCELLER-ARKIV-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"

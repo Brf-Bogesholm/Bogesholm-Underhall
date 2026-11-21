@@ -1,0 +1,67 @@
+id: "P-SOLCELLER-2025"
+anläggning: "TI-SOLCELLER-2025"
+år: 2025
+driftsättning: "2025-06-17"
+teknikrum: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+placering_bekräftad: "Garageförrådet mellan garagebyggnad 2 och 3"
+placering_rättelse: "Tillfällig uppgift mellan 1 och 2 återtagen av beställaren; tidigare 2–3 stämmer."
+paneler:
+  objekt: "TI-SOLCELLER-PANELER-2025"
+  antal: 136
+  effekt_W: 575
+  total_kWp: 78.2
+  lutning_grader: 4
+  sydväst:
+    antal: 82
+    azimut_grader: 213
+  sydost:
+    antal: 54
+    azimut_grader: 123
+utrustning:
+  - "TI-SOLCELLER-EC-001"
+  - "TI-SOLCELLER-EC-002"
+  - "TI-SOLCELLER-BAT-001"
+  - "TI-SOLCELLER-BAT-002"
+  - "TI-SOLCELLER-BAT-003"
+  - "TI-SOLCELLER-BAT-004"
+  - "TI-SOLCELLER-BAT-005"
+  - "TI-SOLCELLER-BAT-006"
+  - "TI-SOLCELLER-BAT-007"
+  - "TI-SOLCELLER-BAT-008"
+  - "TI-SOLCELLER-BAT-009"
+  - "TI-SOLCELLER-BAT-010"
+  - "TI-SOLCELLER-BAT-011"
+  - "TI-SOLCELLER-BAT-012"
+  - "TI-SOLCELLER-MATARE-001"
+  - "TI-SOLCELLER-GATEWAY-001"
+batteri:
+  moduler: 12
+  modell: "SigenStor BAT 8.0"
+  projektbenämning_kWh: 96
+  användbar_energi_per_modul_enligt_garantivillkor_kWh: 7.8
+  beräknad_summa_användbar_kWh: 93.6
+  stackfördelning_serienummer: null
+simulering:
+  rapportdatum: "2025-08-13"
+  årlig_energi_kWh: 75442
+  benämning_original: "Nätinmatning"
+  första_året_kWh: 75275
+  performance_ratio_procent: 91.92
+  kommentar: "PV-SOL-simulering, inte uppmätt produktion eller uppmätt export. Skuggning ej beräknad."
+relaterat_projekt: "P-GARAGETAK-2025"
+slutbesiktning: "B-GARAGETAK-SB1-20251014"
+betalningsstatus:
+  slutfakturor: "Betalda enligt beställaren"
+  bekräftat: "2026-11-21"
+  individuella_betalningsdatum: null
+  fullständighet_fakturaunderlag: "Inte uttryckligen bekräftad"
+fakturor:
+  - "F-2025-ENERMONT-1356"
+  - "F-2025-ENERMONT-1376"
+  - "F-2025-ENERMONT-1409"
+  - "F-2025-ENERMONT-1410"
+  - "F-2025-ENERMONT-1426"
+summa_tillgängliga_fakturor_inklusive_moms: 1607883
+källor:
+  - "K-SOLCELLER-ARKIV-20261121"
+  - "K-SOLCELLER-BEKRAFTELSE-20261121"

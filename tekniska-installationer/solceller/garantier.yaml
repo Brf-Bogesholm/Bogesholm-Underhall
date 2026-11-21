@@ -1,0 +1,120 @@
+registrerade_enheter:
+  -
+    objekt: "TI-SOLCELLER-EC-001"
+    modell: "SigenStor EC 30.0 TP"
+    serienummer: "110A32CM0215"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-EC-002"
+    modell: "SigenStor EC 30.0 TP"
+    serienummer: "110A32CM0318"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-001"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B22CY1231"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-002"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B23162479"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-003"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B231H0617"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-004"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B231H0643"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-005"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B231H0644"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-006"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B22CY1169"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-007"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B231H0616"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-008"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B22CY1233"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-009"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B23162477"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-010"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B22CY1166"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-011"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B231H0618"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-BAT-012"
+    modell: "SigenStor BAT 8.0"
+    serienummer: "110B231H0619"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2035-06-17"
+  -
+    objekt: "TI-SOLCELLER-MATARE-001"
+    modell: "SDM630MCT_40mA_120A"
+    serienummer: "M110A32CM0215013001"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2027-06-17"
+  -
+    objekt: "TI-SOLCELLER-GATEWAY-001"
+    modell: "Sigen Gateway C60-2"
+    serienummer: "110G23360195"
+    nätanslutningsdatum: "2025-06-17"
+    garantislut: "2030-06-17"
+källa: "garantitider Sigenergy.png"
+entreprenad:
+  leverantör: "Enermont AB"
+  material_arbete_år: 5
+  startregel_original: "Leverans efter godkänd slutbesiktning"
+  startdatum: null
+  kommentar: "Driftsättning är inte automatiskt garantistart för entreprenaden."
+paneler:
+  produktgaranti_år: 12
+  effektgaranti_intyg_år: 25
+  effektgaranti_produktblad_år: 30
+  status: "Källkonflikt bevarad, inte en fastställd garantislutdag"
+batteriprestanda:
+  kvarvarande_användbar_energi_procent: 60
+  år: 10
+  energiomsättning_per_BAT8_MWh: 27.3
+  begränsning: "Tid eller energiomsättning, det som inträffar först, samt övriga villkor i Warranty Sigenergy.pdf"
+weland:
+  år: 30
+  villkor: "Köpbevis, rätt montage, miljö och underhåll enligt bifogat standardvillkor; årlig tillsyn rekommenderas."
+källor:
+  - "K-SOLCELLER-ARKIV-20261121"
+  - "K-SOLCELLER-BEKRAFTELSE-20261121"

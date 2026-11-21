@@ -1,0 +1,19 @@
+id: "K-SOLCELLER-ARKIV-20261121"
+registrerad: "2026-11-21"
+projekt: "P-SOLCELLER-2025"
+arkiv: "2025 Solceller.zip"
+dokumentindex: "tekniska-installationer/solceller/dokumentindex.yaml"
+beställarbekräftelse:
+  id: "K-SOLCELLER-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Godkänner granskningsunderlaget med dokumenterade osäkerheter."
+    - "Slutfakturorna är betalda; inga exakta betalningsdatum angivna."
+    - "Rättad placering: garageförrådet mellan garagebyggnad 2 och 3. Uppgiften mellan 1 och 2 är återtagen."
+kontroll:
+  unika_fakturor: 5
+  fakturarader: 21
+  summa_inklusive_moms: 1607883
+  serienummerförsedda_enheter: 16
+  paneler: 136
+  förbesiktningspunkter: 24
+original_publicerade: false

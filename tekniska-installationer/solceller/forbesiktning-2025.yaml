@@ -1,0 +1,131 @@
+id: "B-SOLCELLER-FB1-20250820"
+datum: "2025-08-20"
+typ: "Förbesiktning"
+ej_åtkomligt: "Markskåp parkering, nyckel saknas vid besiktningen"
+avhjälpande_senast_planerat: "2025-09-22"
+entreprenörsintyg_datum: "2025-09-19"
+intyg_avgränsning: "Omfattar endast signerade punkter; inte ett generellt intyg om alla 24."
+punkter:
+  -
+    nummer: 1
+    anmärkning: "Mätvärde sträng 8 saknar egen ruta"
+    anteckning_avhjälpande: "Signerad 11/9, se bilaga"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 2
+    anmärkning: "Färdiganmälan skickad, godkännande för leverans av överskott saknas"
+    anteckning_avhjälpande: "Signerad 19/9"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 3
+    anmärkning: "DU-genomgång med beställaren inte genomförd"
+    anteckning_avhjälpande: "Ska bokas med beställaren, ej tydlig färdigkvittens"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 4
+    anmärkning: "Brandtätning saknas vid dörr och kabelgenomföringar"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 5
+    anmärkning: "Förskruvning på Gateway ej spänd"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 6
+    anmärkning: "AC-säkerhetsbrytare saknas för två växelriktare"
+    anteckning_avhjälpande: "1/9: montage OK; not om lastfrånskiljande MCB i låst skåp och låst teknikutrymme"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 7
+    anmärkning: "Batteriskylt saknas utsida dörr"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 8
+    anmärkning: "Ny Hager-kapsling saknar märkning"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 9
+    anmärkning: "Skarvlåda Cu/Al saknar märkning"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 10
+    anmärkning: "Intag reservkraft 32 A CEE saknar märkning"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 11
+    anmärkning: "Ytterdörr saknar batteriskylt"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 12
+    anmärkning: "Enlinjeschema huvudcentral A1 saknas"
+    anteckning_avhjälpande: "ÄTA antecknat, inte färdigkvittens"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 13
+    anmärkning: "Kabelmärkning till markskåp saknar information om vidare matning"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 14
+    anmärkning: "Gruppförteckning uppdateras"
+    anteckning_avhjälpande: "19/9: skickad"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 15
+    anmärkning: "PV-skylt saknas på elnisch och ytterdörr"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 16
+    anmärkning: "Nyckel till markskåp parkering saknas"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 17
+    anmärkning: "Egenkontroll markskåp parkering saknas"
+    anteckning_avhjälpande: "26/8 BA"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 18
+    anmärkning: "Egenkontroll infästning fästplatta saknas"
+    anteckning_avhjälpande: "Ingen tydlig kvittens i denna version"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 19
+    anmärkning: "Tejp/klisterrester på panel övre raden norra garaget"
+    anteckning_avhjälpande: "8/9 signerad"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 20
+    anmärkning: "Två slangar hänger ner, clips släppt, norra garaget"
+    anteckning_avhjälpande: "8/9 signerad"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 21
+    anmärkning: "En slang hänger ner, clips släppt, västra garaget"
+    anteckning_avhjälpande: "8/9 signerad"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 22
+    anmärkning: "Snö- och vindlastberäkning saknas"
+    anteckning_avhjälpande: "19/9 signerad"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 23
+    anmärkning: "Montageunderlag Weland saknas"
+    anteckning_avhjälpande: "19/9 signerad"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+  -
+    nummer: 24
+    anmärkning: "Information om solcellsanläggningen saknas vid infart till garageområdet"
+    anteckning_avhjälpande: "19/9: finns information där solutrustning finns"
+    status_vid_registrering: "Historisk anmärkning med källans kvittens/anteckning; se senare slutbesiktning och beställaruppgift i garagetaksprojektet"
+senare_slutbesiktning: "B-GARAGETAK-SB1-20251014"
+källor:
+  - "K-SOLCELLER-ARKIV-20261121"

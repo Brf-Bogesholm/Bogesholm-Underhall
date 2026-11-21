@@ -1,0 +1,48 @@
+avvikelser:
+  -
+    ämne: "Paneleffekt"
+    uppgifter:
+      - "Relationsrapport 78,2 kWp"
+      - "Insatsplan 2025-12-29: 70 kWp"
+    hantering: "78,2 kWp för anläggningsdata; insatsplanens avvikelse bevaras."
+  -
+    ämne: "Panelmodell"
+    uppgifter:
+      - "PV-SOL GB"
+      - "Produktblad och manual MB"
+    hantering: "Exakt variant inte verifierad"
+  -
+    ämne: "Panelers effektgaranti"
+    uppgifter:
+      - "Entreprenörsintyg 25 år"
+      - "Dubbelglasproduktblad och tillverkarvillkor 30 år"
+    hantering: "Ingen entydig slutdag antas"
+  -
+    ämne: "GoodWe SEMS"
+    uppgifter:
+      - "Garantisedelns malltext hänvisar till GoodWe SEMS"
+      - "Installerat system enligt garantilistan är Sigenergy"
+    hantering: "GoodWe inte registrerad som installerad utrustning"
+  -
+    ämne: "Adress"
+    uppgifter:
+      - "PV-SOL Högalidsgatan 61"
+      - "Kontrollhandlingar bland annat Högalidsvägen 51/69/81"
+    hantering: "Beställaren anger garageförrådet mellan byggnad 2 och 3. Ingen automatisk lägenhets- eller UC-koppling."
+  -
+    ämne: "Datablad batteri"
+    uppgifter:
+      - "Bifogat datablad avser BAT6/10"
+      - "Garantilista visar BAT8.0"
+    hantering: "BAT8.0 registreras; övrigt blad är referens, inte bevis om installerad modell"
+  -
+    ämne: "Projektsteg"
+    uppgifter:
+      - "Driftsättning juni"
+      - "PV-SOL augusti"
+      - "Kontroller augusti"
+      - "Besiktning oktober"
+    hantering: "Separata daterade händelser, inget datum ersätter automatiskt övriga"
+källor:
+  - "K-SOLCELLER-ARKIV-20261121"
+  - "K-SOLCELLER-BEKRAFTELSE-20261121"

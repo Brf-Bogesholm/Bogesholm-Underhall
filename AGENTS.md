@@ -125,3 +125,7 @@ Beställaren bekräftar 2026-11-21: alla 14 bostadshus och kvartershuset H-69, t
 ## Garagetak 2025
 
 Godkänt 2026-11-21: tak/garagebyggnad 1–5=garagelänga 1–5. Brand-PM G1=GL-1–3, G2=GL-4; GL-5 ingick inte i PM. Se byggnadsdelar/garagetak-2025/README.md. Relationsritning 2025-09-24 visar trästolpar på markskruv, inte äldre stålpelarförslag. Godkänt SB1 2025-10-14. Anmärkningar såvitt beställaren vet åtgärdade, inte automatiskt oberoende efterbesiktning. Kommunalt slutbesked okänt. Allt slutbetalt enligt beställaren men slutfaktura saknas i underlaget; 2 956 343 kr är endast summan av tillgängliga fakturor. Ingen antagen extra faktura eller dubbelräkning av ÄTA/avtal. Teknikrummets FF1 är separat från föreningslokalens FF1. Bevara garanti 10+5 år separat från femårig entreprenadgaranti, moderbolagssäkerhet och begärda garantier.
+
+## Solceller 2025
+
+Godkänt 2026-11-21. Se tekniska-installationer/solceller/README.md. Teknikrummet ligger i garageförrådet mellan garagebyggnad 2 och 3; tillfällig uppgift 1–2 återtagen. 136 JA Solar 575 W = 78,2 kWp, två EC30TP och tolv BAT8.0 enligt serienummerlista. Bevara GB/MB- och 25/30-årskonflikter. VR1/VR2 och batteristaplar inte kopplade till serienummer. 96 kWh projektbenämning skiljs från 93,6 kWh beräknad användbar energi enligt garantivillkor. Slutfakturor betalda enligt beställaren; inte individuell kvittens eller automatiskt komplett fakturaunderlag. Bilagor räknas inte som extra kostnad.

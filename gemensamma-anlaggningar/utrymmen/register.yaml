@@ -197,20 +197,28 @@ utrymmen:
       - "K-OMRADESKARTA-20261118"
       - "K-GARAGEFORRAD-TAK-GARANTI-2020"
       - "K-GARAGEFORRAD-TAK-BEKRAFTELSE-20261120"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
     byggnadsdelar:
       - "TAK-GARAGEFORRAD-GL2-GL3-001"
     åtgärdshistorik:
       - "A-GARAGEFORRAD-TAK-20201112"
     underhållshistorik:
       - "A-HANGRANNOR-2023"
+    teknikutrymmen:
+      - "U-TEKNIKRUM-SOLCELLER-GARAGE"
   -
     id: "U-TEKNIKRUM-SOLCELLER-GARAGE"
     typ: "teknikrum"
     namn: "Teknikrum för solcellsanläggning och batterilager"
     adress: null
-    placering: "I garageområdet enligt projektets handlingar; exakt koppling till GL-1/2/3 inte fastställd"
+    placering: "I garageförrådet mellan garagebyggnad 2 och garagebyggnad 3 enligt beställarens rättelse 2026-11-21"
     projekt: "P-GARAGETAK-2025"
     kommentar: "Inte samma utrymme som undercentralen eller kontoret på 69. Projektets postadress 69 används inte automatiskt som rumsadress."
     källor:
       - "K-GARAGETAK-ARKIV-20261121"
       - "K-GARAGETAK-BEKRAFTELSE-20261121"
+      - "K-SOLCELLER-BEKRAFTELSE-20261121"
+    relationer:
+      -
+        typ: "del_av"
+        objekt: "U-GARAGEFORRAD-GL2-GL3"
