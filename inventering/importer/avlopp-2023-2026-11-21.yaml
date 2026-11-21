@@ -1,0 +1,67 @@
+id: "K-AVLOPP-PROTOKOLL-2023"
+registrerad: "2026-11-21"
+dokument:
+  -
+    fil: "Bogesholm fräsning.pdf"
+    sha256: "f5c33e5f0df9e7dbcbfdb09f4e49eef8ad06214680f32217ffc256f8f6cfaa4a"
+  -
+    fil: "bogesholm und.pdf"
+    sha256: "d2a26846747481edac49561d5b399bb8680986c847089eb54fc9742038de012b"
+  -
+    fil: "Bogesholm under.pdf"
+    sha256: "e2416005a81839db061324a650d382c2bcddb54f30807da89b702f089e9d0007"
+  -
+    fil: "Bogesholm US.pdf"
+    sha256: "fe6257474e9b320565a74fcb33473efe1702b8c610b0b76eac8220d246e7e02a"
+  -
+    fil: "Bogesholm.pdf"
+    sha256: "fe513d7a3c8d00d962d229f7d9648335bfe8b8e5756d0f9f89428c7c3797a321"
+  -
+    fil: "Bogeshom US.pdf"
+    sha256: "7af4699b6601f0bc5802f376b044cb82ca782d444c6f2e9fca6fa544e5d2fd60"
+  -
+    fil: "Fwd_ Uppdaterad Offert_ Underhållspolning .msg"
+    sha256: "bd82e94c22a0e35aa76491928d951dca12048e6714a0ce4bbeb42da1e7c4566c"
+  -
+    fil: "Information_LAGENHET_datum_ FRÄSNING 27 november.pdf"
+    sha256: "b14ccf8d54025a4f5b7a1fcafd5b80f930df4776e3a6b242cdd5086433ffab5d"
+  -
+    fil: "Information_LAGENHET_datum_FRÄSNING 28 November.pdf"
+    sha256: "bcb6c315500b5a251e9b799249aaa118ad41d2c713d68b963de606af743cb97c"
+  -
+    fil: "Placering till lappning..pdf"
+    sha256: "744379834c442f76c2a80f40d53e7a597e018dc32185e22754c76a9b52eb41e0"
+  -
+    fil: "Tidschema.pdf"
+    sha256: "80ecced65a2ffc206c582c3fd639bc1cad69794292dd0bb14f2c362e073b9ea1"
+  -
+    fil: "Uppdaterad Offert..pdf"
+    sha256: "01f56881119417768edfba4cf8e09fb821beb5118bc984cfae065c218217f48f"
+  -
+    fil: "brf Bogesholm, Protokoll\\brf Bogesholm, Protokoll.pdf"
+    sha256: "7d0e0e4e2979788b09af67ab4f6142109e4ae072457b27ecba53745465cdda75"
+  -
+    fil: "brf Bogesholm, Protokoll\\Filmer 2a omgången\\Protokoll BRF BOGESHOLM.pdf"
+    sha256: "f5c9cf5b502019ea71f1bc5a1d56011baf642baa3b05395d5c61c53999ce2d75"
+beställarbekräftelse:
+  id: "K-AVLOPP-BEKRAFTELSE-20261121"
+  datum: "2026-11-21"
+  rättelse: "Ena 53E-raden i novemberprotokollet avser 53D"
+  okänt:
+    - "73E återspolning"
+    - "75F senare spolning"
+    - "67H utförande"
+    - "61A tvättstugans golvbrunn senare utförande"
+offertpriser_inte_fakturerade:
+  spolning_och_filmning_exklusive_moms: 62100
+  fräsning_12_lägenheter_exklusive_moms: 18000
+  kommentar: "Offertmängd 12 är inte faktiskt antal frästa enligt slutprotokollet. Ingen faktura importerad."
+original_publicerade: false
+kontroll:
+  lägenhetsposter: 78
+  oktoberprotokollsposter: 77
+  oktober_med_spolning: 73
+  oktober_ej_tillträde: 4
+  november_frästa_unika: 14
+  november_spolade_vid_återbesök: 2
+  utförda_åtgärdsposter: 89

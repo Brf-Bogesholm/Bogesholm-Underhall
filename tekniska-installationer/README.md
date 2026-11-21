@@ -48,3 +48,7 @@ Tre Nibe F2120-20-värmepumpar har individuella objekt-ID:n baserade på serienu
 ## Avgasare
 
 [Spirotech S400](avgasare/README.md) – installation 2023, litet expansionskärl, bestridd faktura och kvarstående isolering.
+
+## Avlopp
+
+[Underhållsspolning och fräsning 2023](avlopp/README.md) – utförande, fynd och resultat per lägenhet samt okända återbesök.

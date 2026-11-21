@@ -113,3 +113,7 @@ Beställaren bekräftar 2026-11-21 att Excel-listan visar faktiskt ommålade fö
 ## Avgasare och leverantörsanvisning
 
 Bekräftat 2026-11-21: S400 installerad slutet mars 2023, extra 25-liters Contra-Flex är samma lilla kärl som redan registrerats. KF23-28210 bestridd 2024-01-09; fakturerat belopp är inte verifierad betalning. Per 2026-11-21 ingen kreditfaktura, inget erkännande av fel och ingen återställd isolering enligt beställaren. Värme Industri Sanitet i Kävlinge AB (556560-4310) får inte anlitas igen enligt beställarens beslut; se leverantorer/anvisningar.yaml och tekniska-installationer/avgasare/README.md. Föreningens invändningar hålls skilda från medgivna eller oberoende fastställda fel.
+
+## Avloppsspolning 2023
+
+Godkänt 2026-11-21. Se tekniska-installationer/avlopp/README.md. Ena dubbla 53E-raden i novemberprotokollet är 53D enligt beställaren. Utförande för 73E återbesök, 75F senare spolning, 67H samt 61A tvättstugans golvbrunn förblir osäkert/okänt. Plan/avisering är inte utförandebevis. 14 unika fräsningar i slutprotokollet, inte offertens 12. Fräst/renspolat är historiskt resultat, inte generell godkänd status. Filmer på USB inte granskade; bevara motsägande filmuppgifter för hus 53.

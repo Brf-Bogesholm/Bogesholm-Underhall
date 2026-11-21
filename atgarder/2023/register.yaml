@@ -822,3 +822,1427 @@ version: "1.0"
       - "K-AVGASARE-2023-20261121"
       - "K-AVGASARE-BEKRAFTELSE-20261121"
     kommentar: "Föreningen bestrider betalningsansvaret och anser att åtgärden beror på brister i ursprungsinstallationen. Detta är föreningens ståndpunkt, inte ett medgivande från leverantören."
+  -
+    id: "A-AVLOPP-2023-10-79F"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0001"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79F"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-79E"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0002"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-79D"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0003"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-79C"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0004"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-79B"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0005"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-79A"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0006"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-79A"
+    datum: "2023-11-28"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0006"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-79A"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-77E"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0007"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-77E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-77D"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0008"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-77D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-77C"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0009"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-77C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-77B"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0010"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-77B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-77A"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0011"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-77A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71A"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0012"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71B"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0013"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71C"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0014"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71D"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0015"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71E"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0016"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71F"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0017"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71F"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71G"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0018"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71G"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-71H"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0019"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-71H"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-75E"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0021"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-75E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-75D"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0022"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-75D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-75D"
+    datum: "2023-11-28"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0022"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-75D"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-75C"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0023"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-75C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-75B"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0024"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-75B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-75A"
+    datum: "2023-10-13"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0025"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-75A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-73D"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0027"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-73D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-73C"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0028"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-73C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-73B"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0029"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-73B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-73A"
+    datum: "2023-10-12"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0030"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-73A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-65E"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0031"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-65E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-65E"
+    datum: "2023-11-28"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0031"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-65E"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-65D"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0032"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-65D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-65C"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0033"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-65C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-65B"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0034"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-65B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-65A"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0035"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-65A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-67A"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0036"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-67B"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0037"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-67C"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0038"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-67D"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0039"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-67E"
+    datum: "2023-11-28"
+    åtgärd: "Spolning"
+    objekt:
+      - "L-118-1-0040"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67E"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-67F"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0041"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67F"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-67G"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0042"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-67G"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-63F"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0044"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-63F"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-63E"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0045"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-63E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-63D"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0046"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-63D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-63C"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0047"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-63C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-63B"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0048"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-63B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-63A"
+    datum: "2023-10-11"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0049"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-63A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-61A"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0050"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-61A"
+    resultat: "Delvis utfört"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-61B"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0051"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-61B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-61C"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0052"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-61C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-61D"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0053"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-61D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-61D"
+    datum: "2023-11-28"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0053"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-61D"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-59F"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0054"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59F"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-59E"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0055"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-59D"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0056"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-59C"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0057"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-59B"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0058"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-59B"
+    datum: "2023-11-28"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0058"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59B"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-59A"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0059"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-59A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-57A"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0060"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-57A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-57B"
+    datum: "2023-11-28"
+    åtgärd: "Spolning"
+    objekt:
+      - "L-118-1-0061"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-57B"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-57C"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0062"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-57C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-57C"
+    datum: "2023-11-28"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0062"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-57C"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-57D"
+    datum: "2023-10-10"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0063"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-57D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-55F"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0064"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55F"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-55E"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0065"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-55D"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0066"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-55C"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0067"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-55C"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0067"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55C"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-55B"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0068"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-55A"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0069"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-55A"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0069"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-55A"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-53E"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0070"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53E"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-53E"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0070"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53E"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-53D"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0071"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-53D"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0071"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53D"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-53C"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0072"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-53B"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0073"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-53B"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0073"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53B"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-53A"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0074"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-53A"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0074"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-53A"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-51D"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0075"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-51D"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-51D"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0075"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-51D"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-51C"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0076"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-51C"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-11-51C"
+    datum: "2023-11-27"
+    åtgärd: "Fräst och renspolat"
+    objekt:
+      - "L-118-1-0076"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-51C"
+    resultat: "Utfört enligt novemberprotokollet"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-51B"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0077"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-51B"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."
+  -
+    id: "A-AVLOPP-2023-10-51A"
+    datum: "2023-10-09"
+    åtgärd: "Spolning av lägenhetens avlopp"
+    objekt:
+      - "L-118-1-0078"
+    utförare: "Avlopps Specialisten Sverige AB"
+    projekt: "P-AVLOPP-SPOLNING-2023"
+    protokollspost: "AVLOPP-2023-51A"
+    resultat: "Spolning dokumenterad"
+    faktura: null
+    kostnad: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    kommentar: "Detaljer om avlopp, fynd och resultat i tekniska-installationer/avlopp/spolning-2023.yaml. Inte belägg för dagens skick."

@@ -1,0 +1,1429 @@
+id: "P-AVLOPP-SPOLNING-2023"
+år: 2023
+utförare: "Avlopps Specialisten Sverige AB"
+lägenheter:
+  -
+    id: "AVLOPP-2023-79F"
+    lägenhet: "L-118-1-0001"
+    adress: "79F"
+    oktober:
+      adress: "79F"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-79E"
+    lägenhet: "L-118-1-0002"
+    adress: "79E"
+    oktober:
+      adress: "79E"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-79D"
+    lägenhet: "L-118-1-0003"
+    adress: "79D"
+    oktober:
+      adress: "79D"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-79C"
+    lägenhet: "L-118-1-0004"
+    adress: "79C"
+    oktober:
+      adress: "79C"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-79B"
+    lägenhet: "L-118-1-0005"
+    adress: "79B"
+    oktober:
+      adress: "79B"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-79A"
+    lägenhet: "L-118-1-0006"
+    adress: "79A"
+    oktober:
+      adress: "79A"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök (där var stopp i köket väldigt mycket fett rekommenderar att man fräser rent köket här )"
+      utförande: "Spolning dokumenterad"
+      fynd: "Stopp och väldigt mycket fett i kök; fräsning rekommenderas."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: "Cirka fyra timmar"
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-77E"
+    lägenhet: "L-118-1-0007"
+    adress: "77E"
+    oktober:
+      adress: "77E"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-77D"
+    lägenhet: "L-118-1-0008"
+    adress: "77D"
+    oktober:
+      adress: "77D"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-77C"
+    lägenhet: "L-118-1-0009"
+    adress: "77C"
+    oktober:
+      adress: "77C"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-77B"
+    lägenhet: "L-118-1-0010"
+    adress: "77B"
+    oktober:
+      adress: "77B"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-77A"
+    lägenhet: "L-118-1-0011"
+    adress: "77A"
+    oktober:
+      adress: "77A"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum ovanvåning gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71A"
+    lägenhet: "L-118-1-0012"
+    adress: "71A"
+    oktober:
+      adress: "71A"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat kök och gb badrum"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71B"
+    lägenhet: "L-118-1-0013"
+    adress: "71B"
+    oktober:
+      adress: "71B"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat kök och gb badrum"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71C"
+    lägenhet: "L-118-1-0014"
+    adress: "71C"
+    oktober:
+      adress: "71C"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat kök och gb badrum"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71D"
+    lägenhet: "L-118-1-0015"
+    adress: "71D"
+    oktober:
+      adress: "71D"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "Spolat kök och gb badrum"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71E"
+    lägenhet: "L-118-1-0016"
+    adress: "71E"
+    oktober:
+      adress: "71E"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat kök och gb badrum"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71F"
+    lägenhet: "L-118-1-0017"
+    adress: "71F"
+    oktober:
+      adress: "71F"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "Spolat kök och gb badrum. Filmat ledning ut till samfällighet ca 8m"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71G"
+    lägenhet: "L-118-1-0018"
+    adress: "71G"
+    oktober:
+      adress: "71G"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "Spolat gb badrum och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-71H"
+    lägenhet: "L-118-1-0019"
+    adress: "71H"
+    oktober:
+      adress: "71H"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "Spolat gb badrum och kök. Filmat ledning ut till samfällighet ca 8m"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-75F"
+    lägenhet: "L-118-1-0020"
+    adress: "75F"
+    oktober:
+      adress: "75F"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "ej hemma."
+      utförande: "Ej tillträde"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+    öppen_uppgift: "Osäkert om senare spolning utförts; beställaren saknar uppgift."
+  -
+    id: "AVLOPP-2023-75E"
+    lägenhet: "L-118-1-0021"
+    adress: "75E"
+    oktober:
+      adress: "75E"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum, samt kök.Filmat ledning ut till samfällighet ca 8m."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-75D"
+    lägenhet: "L-118-1-0022"
+    adress: "75D"
+    oktober:
+      adress: "75D"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "Spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 8m (beläggning på rör från kökets golv ut till huvudledningen."
+      utförande: "Spolning dokumenterad"
+      fynd: "Beläggning från kökets golv till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-75C"
+    lägenhet: "L-118-1-0023"
+    adress: "75C"
+    oktober:
+      adress: "75C"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum, samt kök ( vatten lås rekommenderas att bytas."
+      utförande: "Spolning dokumenterad"
+      fynd: "Byte av vattenlås rekommenderas; exakt vattenlås anges inte."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-75B"
+    lägenhet: "L-118-1-0024"
+    adress: "75B"
+    oktober:
+      adress: "75B"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "Spolat gb badrum, samt kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-75A"
+    lägenhet: "L-118-1-0025"
+    adress: "75A"
+    oktober:
+      adress: "75A"
+      datum: "2023-10-13"
+      protokollsida: 5
+      originaltext: "spolat gb badrum..,samt kök Filmat ledning ut till samfällighet ca 8m."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-73E"
+    lägenhet: "L-118-1-0026"
+    adress: "73E"
+    oktober:
+      adress: "73E"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "Ingen som öppnar när vi knackar på så kommer ej in i denna lägenheten"
+      utförande: "Ej tillträde"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: null
+      planerat_datum: "2023-11-28"
+      åtgärd: "Återspolning"
+      resultat: "Osäkert om utförd"
+      kommentar: "Finns i planeringen men inte slutprotokollet. Beställaren vet inte om det genomfördes."
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-73D"
+    lägenhet: "L-118-1-0027"
+    adress: "73D"
+    oktober:
+      adress: "73D"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat gb badrum ovanvåning samt gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-73C"
+    lägenhet: "L-118-1-0028"
+    adress: "73C"
+    oktober:
+      adress: "73C"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat gb badrum ovanvåning samt gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-73B"
+    lägenhet: "L-118-1-0029"
+    adress: "73B"
+    oktober:
+      adress: "73B"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat gb badrum ovanvåning samt gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-73A"
+    lägenhet: "L-118-1-0030"
+    adress: "73A"
+    oktober:
+      adress: "73A"
+      datum: "2023-10-12"
+      protokollsida: 4
+      originaltext: "spolat gb badrum ovanvåning samt gb badrum plan 1 och kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-65E"
+    lägenhet: "L-118-1-0031"
+    adress: "65E"
+    oktober:
+      adress: "65E"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum, gb badrum ovanvåning. Filmade från köket väldigt mycket härdat fett rekommenderar att fräsa."
+      utförande: "Spolning dokumenterad"
+      fynd: "Väldigt mycket härdat fett i köksledning; fräsning rekommenderas."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-65D"
+    lägenhet: "L-118-1-0032"
+    adress: "65D"
+    oktober:
+      adress: "65D"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum, gb badrum ovanvåning. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-65C"
+    lägenhet: "L-118-1-0033"
+    adress: "65C"
+    oktober:
+      adress: "65C"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum, gb badrum ovanvåning. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-65B"
+    lägenhet: "L-118-1-0034"
+    adress: "65B"
+    oktober:
+      adress: "65B"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum, gb badrum ovanvåning. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-65A"
+    lägenhet: "L-118-1-0035"
+    adress: "65A"
+    oktober:
+      adress: "65A"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum, gb badrum ovanvåning. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67A"
+    lägenhet: "L-118-1-0036"
+    adress: "67A"
+    oktober:
+      adress: "67A"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67B"
+    lägenhet: "L-118-1-0037"
+    adress: "67B"
+    oktober:
+      adress: "67B"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67C"
+    lägenhet: "L-118-1-0038"
+    adress: "67C"
+    oktober:
+      adress: "67C"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67D"
+    lägenhet: "L-118-1-0039"
+    adress: "67D"
+    oktober:
+      adress: "67D"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67E"
+    lägenhet: "L-118-1-0040"
+    adress: "67E"
+    oktober:
+      adress: "67E"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Kommer ej in med nyckel hg har lämnat."
+      utförande: "Ej tillträde"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Spolning"
+      resultat: "Utfört enligt novemberprotokollet"
+      avlopp: "Kök och golvbrunn badrum"
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67F"
+    lägenhet: "L-118-1-0041"
+    adress: "67F"
+    oktober:
+      adress: "67F"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum. Filmat köksstick ut till samfällighet. Spolat kök och badrum"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67G"
+    lägenhet: "L-118-1-0042"
+    adress: "67G"
+    oktober:
+      adress: "67G"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum. Filmat köksstick ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-67H"
+    lägenhet: "L-118-1-0043"
+    adress: "67H"
+    oktober:
+      utförande: "Okänt"
+      datum: null
+      originaltext: null
+      kommentar: "67H saknas i oktoberprotokollet; beställaren saknar ytterligare uppgifter."
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+    öppen_uppgift: "Osäkert om senare spolning utförts; beställaren saknar uppgift."
+  -
+    id: "AVLOPP-2023-63F"
+    lägenhet: "L-118-1-0044"
+    adress: "63F"
+    oktober:
+      adress: "63F"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-63E"
+    lägenhet: "L-118-1-0045"
+    adress: "63E"
+    oktober:
+      adress: "63E"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-63D"
+    lägenhet: "L-118-1-0046"
+    adress: "63D"
+    oktober:
+      adress: "63D"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-63C"
+    lägenhet: "L-118-1-0047"
+    adress: "63C"
+    oktober:
+      adress: "63C"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-63B"
+    lägenhet: "L-118-1-0048"
+    adress: "63B"
+    oktober:
+      adress: "63B"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-63A"
+    lägenhet: "L-118-1-0049"
+    adress: "63A"
+    oktober:
+      adress: "63A"
+      datum: "2023-10-11"
+      protokollsida: 3
+      originaltext: "Spolat kök och gb badrum."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-61A"
+    lägenhet: "L-118-1-0050"
+    adress: "61A"
+    oktober:
+      adress: "61A"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "spolat gb ovanvåning, kök, gb tvättstuga går ej att spola pga möbel."
+      utförande: "Delvis utfört"
+      fynd: "Tvättstugans golvbrunn kunde inte spolas på grund av möbel."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+    öppen_uppgift: "Osäkert om senare spolning utförts av tvättstugans golvbrunn; beställaren saknar uppgift."
+  -
+    id: "AVLOPP-2023-61B"
+    lägenhet: "L-118-1-0051"
+    adress: "61B"
+    oktober:
+      adress: "61B"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb ovanvåning, gb tvättstuga samt köksledning, Filmat ledning ut till samfällighet ca 10 meter"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-61C"
+    lägenhet: "L-118-1-0052"
+    adress: "61C"
+    oktober:
+      adress: "61C"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb ovanvåning, gb tvättstuga samt kök. Filmat ledning ut till samfällighet ca 6 m."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-61D"
+    lägenhet: "L-118-1-0053"
+    adress: "61D"
+    oktober:
+      adress: "61D"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb ovanvåning, gb tvättstuga samt kök. Filmat ledning ut till samfällighet ca 6m. Anm: beläggning i köksförråd ur till stamledning."
+      utförande: "Spolning dokumenterad"
+      fynd: "Beläggning ut till stamledning; originalets ord köksförråd bevaras."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-59F"
+    lägenhet: "L-118-1-0054"
+    adress: "59F"
+    oktober:
+      adress: "59F"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb badrum, samt kök. Filmat ledning ut till samfällighet, inga anmärkningar"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Inga anmärkningar uttryckligen angivna för filmad ledning"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-59E"
+    lägenhet: "L-118-1-0055"
+    adress: "59E"
+    oktober:
+      adress: "59E"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb badrum, samt kök. Anm = insats till golvbrunn saknas"
+      utförande: "Spolning dokumenterad"
+      fynd: "Insats till golvbrunn saknas."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-59D"
+    lägenhet: "L-118-1-0056"
+    adress: "59D"
+    oktober:
+      adress: "59D"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb badrum, samt kök"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-59C"
+    lägenhet: "L-118-1-0057"
+    adress: "59C"
+    oktober:
+      adress: "59C"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb badrum, samt kök.Filmat dning ut till samfällighet ,inga anmärkningar."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Inga anmärkningar uttryckligen angivna för filmad ledning"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-59B"
+    lägenhet: "L-118-1-0058"
+    adress: "59B"
+    oktober:
+      adress: "59B"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 10 meter Anm= beläggning i början av ledningen ut från kök."
+      utförande: "Spolning dokumenterad"
+      fynd: "Beläggning i början av ledningen ut från köket."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-59A"
+    lägenhet: "L-118-1-0059"
+    adress: "59A"
+    oktober:
+      adress: "59A"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "spolat gb badrum, samt kök."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-57A"
+    lägenhet: "L-118-1-0060"
+    adress: "57A"
+    oktober:
+      adress: "57A"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb badrumovanvåning, gb tvättstuga samt köksledning. Filmat ut till samfällighet ca 10 m"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-57B"
+    lägenhet: "L-118-1-0061"
+    adress: "57B"
+    oktober:
+      adress: "57B"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Ej hemma"
+      utförande: "Ej tillträde"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Spolning"
+      resultat: "Utfört enligt novemberprotokollet"
+      avlopp: "Golvbrunn badrum ovanvåning, vask nere och kök; filmat cirka 8 m ut till samfällighet"
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-57C"
+    lägenhet: "L-118-1-0062"
+    adress: "57C"
+    oktober:
+      adress: "57C"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb ovanvåning, gb tvättstuga samt köksledning. Filmat ledning ut till samfällighet ca 10 m . Anm= beläggning 2 dm ut"
+      utförande: "Spolning dokumenterad"
+      fynd: "Beläggning cirka 2 dm ut."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-28"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-57D"
+    lägenhet: "L-118-1-0063"
+    adress: "57D"
+    oktober:
+      adress: "57D"
+      datum: "2023-10-10"
+      protokollsida: 2
+      originaltext: "Spolat gb ovanvåning, gb tvättstuga samt kök. Filmat ledning ut till samfällighet ca 10m"
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-55F"
+    lägenhet: "L-118-1-0064"
+    adress: "55F"
+    oktober:
+      adress: "55F"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 6."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-55E"
+    lägenhet: "L-118-1-0065"
+    adress: "55E"
+    oktober:
+      adress: "55E"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-55D"
+    lägenhet: "L-118-1-0066"
+    adress: "55D"
+    oktober:
+      adress: "55D"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, stopp i kök men det spolade vi bort."
+      utförande: "Spolning dokumenterad"
+      fynd: "Stopp i kök; spolades bort enligt protokollet."
+      resultat: "Köksstopp bortspolat"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-55C"
+    lägenhet: "L-118-1-0067"
+    adress: "55C"
+    oktober:
+      adress: "55C"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 6 m ( mycket skit från kök ut till huvudledningen."
+      utförande: "Spolning dokumenterad"
+      fynd: "Mycket smuts från kök till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-55B"
+    lägenhet: "L-118-1-0068"
+    adress: "55B"
+    oktober:
+      adress: "55B"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 6 m. (mycket skit från kök ut till huvudledningen."
+      utförande: "Spolning dokumenterad"
+      fynd: "Mycket smuts från kök till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-55A"
+    lägenhet: "L-118-1-0069"
+    adress: "55A"
+    oktober:
+      adress: "55A"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "Spolat gb badrum samt köksledning."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-53E"
+    lägenhet: "L-118-1-0070"
+    adress: "53E"
+    oktober:
+      adress: "53E"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 4 m ( mycket skit ca 1,3 meter från start i kök och ut."
+      utförande: "Spolning dokumenterad"
+      fynd: "Mycket smuts omkring 1,3 meter från start i kök och ut."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-53D"
+    lägenhet: "L-118-1-0071"
+    adress: "53D"
+    oktober:
+      adress: "53D"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "Spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 5m.( 1 meter skit från start och ut."
+      utförande: "Spolning dokumenterad"
+      fynd: "Smuts/beläggning omkring 1 meter från start och ut."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: "Den ena dubbla 53E-raden rättad till 53D enligt beställaren; originaltext bevaras i källavvikelser."
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-53C"
+    lägenhet: "L-118-1-0072"
+    adress: "53C"
+    oktober:
+      adress: "53C"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "Spolat gb badrum samt köksledning."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräsningsbesök"
+      resultat: "Ej hemma; fräsning inte dokumenterad som utförd"
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-53B"
+    lägenhet: "L-118-1-0073"
+    adress: "53B"
+    oktober:
+      adress: "53B"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 5 meter, (Kraftig beläggning från kök ut till huvudledningen."
+      utförande: "Spolning dokumenterad"
+      fynd: "Kraftig beläggning från kök till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-53A"
+    lägenhet: "L-118-1-0074"
+    adress: "53A"
+    oktober:
+      adress: "53A"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca5 meter, (Kraftig beläggning från kök ut till huvudledningen"
+      utförande: "Spolning dokumenterad"
+      fynd: "Kraftig beläggning från kök till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-51D"
+    lägenhet: "L-118-1-0075"
+    adress: "51D"
+    oktober:
+      adress: "51D"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 5m. (Kraftig beläggning från kök ut till huvudledningen)"
+      utförande: "Spolning dokumenterad"
+      fynd: "Kraftig beläggning från kök till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-51C"
+    lägenhet: "L-118-1-0076"
+    adress: "51C"
+    oktober:
+      adress: "51C"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "spolat gb badrum, samt kök. Filmat ledning ut till samfällighet ca 5m. (Kraftig beläggning från kök ut till huvudledningen)"
+      utförande: "Spolning dokumenterad"
+      fynd: "Kraftig beläggning från kök till huvudledning."
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november:
+      datum: "2023-11-27"
+      åtgärd: "Fräst och renspolat"
+      resultat: "Utfört enligt novemberprotokollet"
+      tidsåtgång: null
+      kommentar: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-51B"
+    lägenhet: "L-118-1-0077"
+    adress: "51B"
+    oktober:
+      adress: "51B"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "Spolar golvbrunn badrum, golvbrunn tvättstuga samt köksledning ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+  -
+    id: "AVLOPP-2023-51A"
+    lägenhet: "L-118-1-0078"
+    adress: "51A"
+    oktober:
+      adress: "51A"
+      datum: "2023-10-09"
+      protokollsida: 1
+      originaltext: "Spolat golvbrunn badrum, golvbrunn tvättstuga samt köksledning ut till samfällighet."
+      utförande: "Spolning dokumenterad"
+      fynd: null
+      resultat: "Se originaltext; avsaknad av anmärkning är inte ett generellt godkännande"
+    november: null
+    källor:
+      - "K-AVLOPP-PROTOKOLL-2023"
+      - "K-AVLOPP-BEKRAFTELSE-20261121"
+    senare_status: "Okänd; historiska uppgifter från 2023"
+gemensamt:
+  uppgift: "Alla brunnar i samfällighet ut mot kommunen spolade enligt oktoberprotokollet"
+  datum: "2023-10-09–2023-10-13"
+  avgränsning: "Exakta brunns-ID och ägargränser inte angivna; inga individuella objekt antas."
+filmning:
+  uppgift: "Protokollen hänvisar till filmer sparade på USB"
+  filmer_granskade: false
+  kommentar: "Filmning anges både per lägenhet och generellt per hus. Fräsningsofferten säger att hus 53 missats vid filmning, vilket strider mot oktobers generella USB-notering; fullständighet inte verifierad."
+källavvikelser:
+  - "Novemberprotokollet har två 53E-rader. Ena avser 53D enligt beställarens rättelse."
+  - "Oktober har generell text om inga anmärkningar under hus 61 men individuellt fynd i 61D; individuellt fynd bevaras."
+  - "Oktober innehåller en obunden rad Spolat kök och badrum vid 67F/67G; ingen extra händelse skapas."
+beställarbekräftelse: "K-AVLOPP-BEKRAFTELSE-20261121"

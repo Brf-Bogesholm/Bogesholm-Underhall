@@ -48,6 +48,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-79F"
 - id: L-118-1-0002
   typ: lägenhet
   namn: lgh 02
@@ -96,6 +97,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P035"
       - "FONSTER-2023-P036"
+  avloppsspolning_2023: "AVLOPP-2023-79E"
 - id: L-118-1-0003
   typ: lägenhet
   namn: lgh 03
@@ -142,6 +144,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P034"
+  avloppsspolning_2023: "AVLOPP-2023-79D"
 - id: L-118-1-0004
   typ: lägenhet
   namn: lgh 04
@@ -188,6 +191,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P033"
+  avloppsspolning_2023: "AVLOPP-2023-79C"
 - id: L-118-1-0005
   typ: lägenhet
   namn: lgh 05
@@ -232,6 +236,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-79B"
 - id: L-118-1-0006
   typ: lägenhet
   namn: lgh 06
@@ -276,6 +281,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-79A"
 - id: L-118-1-0007
   typ: lägenhet
   namn: lgh 07
@@ -322,6 +328,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P032"
+  avloppsspolning_2023: "AVLOPP-2023-77E"
 - id: L-118-1-0008
   typ: lägenhet
   namn: lgh 08
@@ -366,6 +373,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-77D"
 - id: L-118-1-0009
   typ: lägenhet
   namn: lgh 09
@@ -410,6 +418,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-77C"
 - id: L-118-1-0010
   typ: lägenhet
   namn: lgh 10
@@ -453,6 +462,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-77B"
 - id: L-118-1-0011
   typ: lägenhet
   namn: lgh 11
@@ -496,6 +506,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-77A"
 - id: L-118-1-0012
   typ: lägenhet
   namn: lgh 12
@@ -544,6 +555,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P019"
       - "FONSTER-2023-P020"
+  avloppsspolning_2023: "AVLOPP-2023-71A"
 - id: L-118-1-0013
   typ: lägenhet
   namn: lgh 13
@@ -590,6 +602,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P021"
+  avloppsspolning_2023: "AVLOPP-2023-71B"
 - id: L-118-1-0014
   typ: lägenhet
   namn: lgh 14
@@ -633,6 +646,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-71C"
 - id: L-118-1-0015
   typ: lägenhet
   namn: lgh 15
@@ -681,6 +695,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P022"
       - "FONSTER-2023-P023"
+  avloppsspolning_2023: "AVLOPP-2023-71D"
 - id: L-118-1-0016
   typ: lägenhet
   namn: lgh 16
@@ -729,6 +744,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P024"
       - "FONSTER-2023-P025"
+  avloppsspolning_2023: "AVLOPP-2023-71E"
 - id: L-118-1-0017
   typ: lägenhet
   namn: lgh 17
@@ -776,6 +792,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P026"
       - "FONSTER-2023-P027"
+  avloppsspolning_2023: "AVLOPP-2023-71F"
 - id: L-118-1-0018
   typ: lägenhet
   namn: lgh 18
@@ -821,6 +838,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P028"
+  avloppsspolning_2023: "AVLOPP-2023-71G"
 - id: L-118-1-0019
   typ: lägenhet
   namn: lgh 19
@@ -869,6 +887,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P029"
+  avloppsspolning_2023: "AVLOPP-2023-71H"
 - id: L-118-1-0020
   typ: lägenhet
   namn: lgh 20
@@ -917,6 +936,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P031"
+  avloppsspolning_2023: "AVLOPP-2023-75F"
 - id: L-118-1-0021
   typ: lägenhet
   namn: lgh 21
@@ -960,6 +980,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-75E"
 - id: L-118-1-0022
   typ: lägenhet
   namn: lgh 22
@@ -1004,6 +1025,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-75D"
 - id: L-118-1-0023
   typ: lägenhet
   namn: lgh 23
@@ -1049,6 +1071,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P030"
+  avloppsspolning_2023: "AVLOPP-2023-75C"
 - id: L-118-1-0024
   typ: lägenhet
   namn: lgh 24
@@ -1091,6 +1114,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-75B"
 - id: L-118-1-0025
   typ: lägenhet
   namn: lgh 25
@@ -1135,6 +1159,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-75A"
 - id: L-118-1-0026
   typ: lägenhet
   namn: lgh 26
@@ -1179,6 +1204,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-73E"
 - id: L-118-1-0027
   typ: lägenhet
   namn: lgh 27
@@ -1222,6 +1248,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-73D"
 - id: L-118-1-0028
   typ: lägenhet
   namn: lgh 28
@@ -1266,6 +1293,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-73C"
 - id: L-118-1-0029
   typ: lägenhet
   namn: lgh 29
@@ -1310,6 +1338,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-73B"
 - id: L-118-1-0030
   typ: lägenhet
   namn: lgh 30
@@ -1354,6 +1383,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-73A"
 - id: L-118-1-0031
   typ: lägenhet
   namn: lgh 31
@@ -1399,6 +1429,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-65E"
 - id: L-118-1-0032
   typ: lägenhet
   namn: lgh 32
@@ -1443,6 +1474,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-65D"
 - id: L-118-1-0033
   typ: lägenhet
   namn: lgh 33
@@ -1487,6 +1519,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-65C"
 - id: L-118-1-0034
   typ: lägenhet
   namn: lgh 34
@@ -1533,6 +1566,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P011"
+  avloppsspolning_2023: "AVLOPP-2023-65B"
 - id: L-118-1-0035
   typ: lägenhet
   namn: lgh 35
@@ -1580,6 +1614,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P010"
+  avloppsspolning_2023: "AVLOPP-2023-65A"
 - id: L-118-1-0036
   typ: lägenhet
   namn: lgh 36
@@ -1624,6 +1659,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-67A"
 - id: L-118-1-0037
   typ: lägenhet
   namn: lgh 37
@@ -1669,6 +1705,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P012"
+  avloppsspolning_2023: "AVLOPP-2023-67B"
 - id: L-118-1-0038
   typ: lägenhet
   namn: lgh 38
@@ -1715,6 +1752,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P013"
       - "FONSTER-2023-P014"
+  avloppsspolning_2023: "AVLOPP-2023-67C"
 - id: L-118-1-0039
   typ: lägenhet
   namn: lgh 39
@@ -1764,6 +1802,7 @@ lägenheter:
     ommålade_positioner_2023:
       - "FONSTER-2023-P015"
       - "FONSTER-2023-P016"
+  avloppsspolning_2023: "AVLOPP-2023-67D"
 - id: L-118-1-0040
   typ: lägenhet
   namn: lgh 40
@@ -1809,6 +1848,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-67E"
 - id: L-118-1-0041
   typ: lägenhet
   namn: lgh 41
@@ -1851,6 +1891,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-67F"
 - id: L-118-1-0042
   typ: lägenhet
   namn: lgh 42
@@ -1900,6 +1941,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P017"
+  avloppsspolning_2023: "AVLOPP-2023-67G"
 - id: L-118-1-0043
   typ: lägenhet
   namn: lgh 43
@@ -1946,6 +1988,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P018"
+  avloppsspolning_2023: "AVLOPP-2023-67H"
 - id: L-118-1-0044
   typ: lägenhet
   namn: lgh 44
@@ -1988,6 +2031,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-63F"
 - id: L-118-1-0045
   typ: lägenhet
   namn: lgh 45
@@ -2033,6 +2077,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-63E"
 - id: L-118-1-0046
   typ: lägenhet
   namn: lgh 46
@@ -2081,6 +2126,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P009"
+  avloppsspolning_2023: "AVLOPP-2023-63D"
 - id: L-118-1-0047
   typ: lägenhet
   namn: lgh 47
@@ -2124,6 +2170,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-63C"
 - id: L-118-1-0048
   typ: lägenhet
   namn: lgh 48
@@ -2166,6 +2213,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-63B"
 - id: L-118-1-0049
   typ: lägenhet
   namn: lgh 49
@@ -2214,6 +2262,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P008"
+  avloppsspolning_2023: "AVLOPP-2023-63A"
 - id: L-118-1-0050
   typ: lägenhet
   namn: lgh 50
@@ -2258,6 +2307,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-61A"
 - id: L-118-1-0051
   typ: lägenhet
   namn: lgh 51
@@ -2304,6 +2354,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P006"
+  avloppsspolning_2023: "AVLOPP-2023-61B"
 - id: L-118-1-0052
   typ: lägenhet
   namn: lgh 52
@@ -2350,6 +2401,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P007"
+  avloppsspolning_2023: "AVLOPP-2023-61C"
 - id: L-118-1-0053
   typ: lägenhet
   namn: lgh 53
@@ -2393,6 +2445,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-61D"
 - id: L-118-1-0054
   typ: lägenhet
   namn: lgh 54
@@ -2437,6 +2490,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-59F"
 - id: L-118-1-0055
   typ: lägenhet
   namn: lgh 55
@@ -2482,6 +2536,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P005"
+  avloppsspolning_2023: "AVLOPP-2023-59E"
 - id: L-118-1-0056
   typ: lägenhet
   namn: lgh 56
@@ -2526,6 +2581,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-59D"
 - id: L-118-1-0057
   typ: lägenhet
   namn: lgh 57
@@ -2569,6 +2625,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-59C"
 - id: L-118-1-0058
   typ: lägenhet
   namn: lgh 58
@@ -2612,6 +2669,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-59B"
 - id: L-118-1-0059
   typ: lägenhet
   namn: lgh 59
@@ -2656,6 +2714,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-59A"
 - id: L-118-1-0060
   typ: lägenhet
   namn: lgh 60
@@ -2699,6 +2758,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-57A"
 - id: L-118-1-0061
   typ: lägenhet
   namn: lgh 61
@@ -2745,6 +2805,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P004"
+  avloppsspolning_2023: "AVLOPP-2023-57B"
 - id: L-118-1-0062
   typ: lägenhet
   namn: lgh 62
@@ -2789,6 +2850,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-57C"
 - id: L-118-1-0063
   typ: lägenhet
   namn: lgh 63
@@ -2833,6 +2895,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-57D"
 - id: L-118-1-0064
   typ: lägenhet
   namn: lgh 64
@@ -2875,6 +2938,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-55F"
 - id: L-118-1-0065
   typ: lägenhet
   namn: lgh 65
@@ -2920,6 +2984,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-55E"
 - id: L-118-1-0066
   typ: lägenhet
   namn: lgh 66
@@ -2965,6 +3030,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-55D"
 - id: L-118-1-0067
   typ: lägenhet
   namn: lgh 67
@@ -3007,6 +3073,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-55C"
 - id: L-118-1-0068
   typ: lägenhet
   namn: lgh 68
@@ -3049,6 +3116,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-55B"
 - id: L-118-1-0069
   typ: lägenhet
   namn: lgh 69
@@ -3094,6 +3162,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-55A"
 - id: L-118-1-0070
   typ: lägenhet
   namn: lgh 70
@@ -3140,6 +3209,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P003"
+  avloppsspolning_2023: "AVLOPP-2023-53E"
 - id: L-118-1-0071
   typ: lägenhet
   namn: lgh 71
@@ -3183,6 +3253,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-53D"
 - id: L-118-1-0072
   typ: lägenhet
   namn: lgh 72
@@ -3226,6 +3297,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-53C"
 - id: L-118-1-0073
   typ: lägenhet
   namn: lgh 73
@@ -3273,6 +3345,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P002"
+  avloppsspolning_2023: "AVLOPP-2023-53B"
 - id: L-118-1-0074
   typ: lägenhet
   namn: lgh 74
@@ -3316,6 +3389,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-53A"
 - id: L-118-1-0075
   typ: lägenhet
   namn: lgh 75
@@ -3359,6 +3433,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-51D"
 - id: L-118-1-0076
   typ: lägenhet
   namn: lgh 76
@@ -3403,6 +3478,7 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-51C"
 - id: L-118-1-0077
   typ: lägenhet
   namn: lgh 77
@@ -3450,6 +3526,7 @@ lägenheter:
     kompletteringsprojekt: "P-FONSTER-KOMPLETTERING-2023"
     ommålade_positioner_2023:
       - "FONSTER-2023-P001"
+  avloppsspolning_2023: "AVLOPP-2023-51B"
 - id: L-118-1-0078
   typ: lägenhet
   namn: lgh 78
@@ -3493,3 +3570,4 @@ lägenheter:
     övriga_fönster_senast_målade_år: 2016
     källor:
       - "K-FONSTER-BEKRAFTELSE-20261121"
+  avloppsspolning_2023: "AVLOPP-2023-51A"
