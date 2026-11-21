@@ -78,3 +78,7 @@ Manualernas generella funktioner och produktbladens kapacitet är inte nya drift
 ## Aktivt serviceavtal 2026
 
 [Ömangruppen, avtal 6543581](serviceavtal-2026.yaml) är undertecknat av båda parter 2025-04-02 och aktivt enligt beställarens bekräftelse 2026-11-21. Avtalsperiod 2026-01-01–2027-01-01, automatisk förlängning med samma varaktighet och sex månaders skriftlig uppsägning. 78 lägenhetsaggregat omfattas, med besök första kvartalet. Arbetet för filterbyte ingår; filtermaterial är inte markerat som inkluderat. Felsökning och reparationer tillkommer. Undertecknat avtal anger 37 964 kr per år exklusive moms före indexreglering, inte en registrerad fakturakostnad. Avtalet är inte belägg för individuellt utförd service.
+
+### Filtermaterial 2026
+
+Ömangruppens faktura 5612288, daterad 2026-02-17, avser luftfilter till service: 41 336,53 kr exklusive moms och 51 671 kr inklusive moms och avrundning. Antal, modell och filterklass saknas. Leveransdatum 2026-02-17 är satt enligt fakturadatumregeln. Fakturan kopplas till serviceavtal 6543581; den verifierar inte individuella filterbyten eller utförd service i lägenheterna. Betalningsstatus okänd. Se [fakturaregistret](../../fakturor/2026/register.yaml).

@@ -1,0 +1,17 @@
+id: "K-OMAN-FILTER-5612288"
+registrerad: "2026-11-21"
+dokument:
+  fil: "2026-02-17 Filterfaktura.pdf"
+  sha256: "21dd2a6c78b614af64a18378ad4d54b94b29c18241620827a32520d03a73118f"
+beställarbekräftelse:
+  id: "K-OMAN-FILTER-BEKRAFTELSE-20261121"
+  uppgift: "Godkänner filterfakturan som material till FTX-servicen; leveransdatum enligt datumregel, inga individuella filterbyten härleds."
+faktura: "F-2026-OMAN-5612288"
+serviceavtal: "AVT-OMAN-FTX-6543581"
+original_publicerade: false
+kontroll:
+  unika_fakturor: 1
+  antal_rader: 1
+  total_inklusive_moms: 51671
+  antal_filter: null
+  filtertyp: null

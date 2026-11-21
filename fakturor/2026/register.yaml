@@ -11,6 +11,7 @@ registreringsomgångar:
   - "2026-11-16-09"
   - "2026-11-18-10"
   - "2026-11-18-VPSERVICE"
+  - "2026-11-21-OMAN-FILTER"
 fakturor:
   -
     id: "F-2026-7150"
@@ -2433,3 +2434,42 @@ fakturor:
       - "K-VP-SERVICE-KOPPLING-20261118"
     kommentar: "VP4 larmade för fläktfel; byte av fläktmotor enligt fakturan. Angivet leveransdatum används före fakturadatum."
     leveransdatum: "2026-02-10"
+  -
+    id: "F-2026-OMAN-5612288"
+    fakturanummer: "5612288"
+    leverantör: "Ömangruppen Svenska AB"
+    organisationsnummer: "556418-3522"
+    fakturadatum: "2026-02-17"
+    förfallodatum: "2026-03-19"
+    ordernummer: "L122943"
+    projektbeskrivning: "Filterbeställning till service"
+    leveransdatum: "2026-02-17"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används enligt beställarens stående regel; inte observerad leveransdag eller bevis för individuellt filterbyte."
+    installationsdatum: null
+    valuta: "SEK"
+    exklusive_moms: 41336.53
+    frakt: 0
+    moms_procent: 25
+    moms: 10334.13
+    öresavrundning: 0.34
+    att_betala: 51671
+    betalningsstatus: "Okänd"
+    rader:
+      -
+        id: "F-2026-OMAN-5612288-R1"
+        benämning: "Luftfilter"
+        antal: null
+        enhet: null
+        à_pris_exklusive_moms: null
+        belopp_exklusive_moms: 41336.53
+        filtermodell: null
+        filterklass: null
+    serviceavtal: "AVT-OMAN-FTX-6543581"
+    åtgärder:
+      - "A-FTX-FILTERLEVERANS-20260217"
+    källor:
+      - "K-OMAN-FILTER-5612288"
+      - "K-OMAN-FILTER-BEKRAFTELSE-20261121"
+      - "K-DATUMREGEL-2026-11-13"
+    kommentar: "Filtermaterial till FTX-servicen enligt beställarens godkännande. Ingen fördelning per lägenhet eller antaget filterantal. Kostnaden räknas endast från denna faktura."

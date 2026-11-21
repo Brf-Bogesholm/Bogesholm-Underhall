@@ -137,3 +137,6 @@ abonnemang:
     källor:
       - "K-OMAN-AVTAL-6543581"
       - "K-OMAN-BEKRAFTELSE-20261121"
+    filtermaterialfakturor:
+      - "F-2026-OMAN-5612288"
+    kostnadskommentar: "Separat filtermaterialfaktura. Avtalspris och denna hänvisning summeras inte som extra fakturakostnader."

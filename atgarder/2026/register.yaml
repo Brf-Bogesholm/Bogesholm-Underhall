@@ -1149,3 +1149,22 @@ version: "1.0"
       - "K-VP-SERVICE-KOPPLING-20261118"
     kommentar: "VP4 larmade för fläktfel; byte av fläktmotor enligt fakturan. Angivet leveransdatum används före fakturadatum."
     datumkälla: "Leveransdatum enligt faktura"
+  -
+    id: "A-FTX-FILTERLEVERANS-20260217"
+    datum: "2026-02-17"
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    datumkommentar: "Leveransdatum enligt fakturadatumregeln; inte installations- eller servicedatum."
+    åtgärd: "Inköp/leverans av filtermaterial till lägenheternas FTX-service"
+    typ: "Materialleverans"
+    serviceavtal: "AVT-OMAN-FTX-6543581"
+    faktura: "F-2026-OMAN-5612288"
+    fakturarader:
+      - "F-2026-OMAN-5612288-R1"
+    utförare: "Ömangruppen Svenska AB"
+    kostnad: null
+    installationsdatum: null
+    resultat: "Fakturerat filtermaterial; individuella filterbyten inte verifierade."
+    källor:
+      - "K-OMAN-FILTER-5612288"
+      - "K-OMAN-FILTER-BEKRAFTELSE-20261121"
+      - "K-DATUMREGEL-2026-11-13"
