@@ -300,3 +300,23 @@ version: "1.0"
     dokumenterad_senast: "2025-11-25"
     leveransdatum_enligt_faktura: "2025-11-03"
     skadedatum_enligt_anmälan: "2025-11-18"
+  -
+    id: "A-FLAGGSTANG-20250109"
+    datum: "2025-01-09"
+    datumkälla: "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+    åtgärd: "Byte av flaggstångens mekanik/vevsystem och knopp i toppen"
+    objekt:
+      - "UT-FLAGGSTANG-69-001"
+    placering: "Framför föreningslokalen, Högalidsvägen 69"
+    utförare: "Flaggstångsspecialisten Sverige AB"
+    faktura: "F-2025-FLAGGSTANG-2021992"
+    fakturarader:
+      - "F-2025-FLAGGSTANG-2021992-R1"
+      - "F-2025-FLAGGSTANG-2021992-R2"
+      - "F-2025-FLAGGSTANG-2021992-R3"
+    kostnad: null
+    kostnadsprincip: "Kostnaden räknas endast från den unika fakturan. Ingen särskild kostnad har tilldelats toppknoppen."
+    källor:
+      - "K-FLAGGSTANG-FAKTURA-2021992"
+      - "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+    kommentar: "Mekanik och toppknopp utbytta enligt beställaren; service utförd på fakturadatum. Flaggstångens ursprungliga installationsår är fortsatt 1984."

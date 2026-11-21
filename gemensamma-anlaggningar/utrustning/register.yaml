@@ -396,3 +396,28 @@ objekt:
     källor:
       - "K-URNOR-OFFERT-20171011"
       - "K-URNOR-BEKRAFTELSE-20261119"
+  -
+    id: "UT-FLAGGSTANG-69-001"
+    typ: "flaggstång"
+    namn: "Flaggstång framför föreningslokalen"
+    placering: "Framför föreningslokalen, Högalidsvägen 69"
+    datastatus: "Bekräftad av beställaren; höjd och utförande enligt servicefaktura"
+    egenskaper:
+      installationsår: 1984
+      installationsdatum: null
+      installationskälla: "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+      höjd_meter: 12
+      utförande: "Invändig lina och vevsystem"
+      fabrikat: null
+      modell: null
+      serienummer: null
+      kommentar: "Monterades när området byggdes enligt beställaren. Ursprunglig mekanik sliten; mekanik och toppknopp utbytta 2025-01-09."
+    relationer:
+      -
+        typ: "located_at"
+        objekt: "H-69"
+    underhållshistorik:
+      - "A-FLAGGSTANG-20250109"
+    källor:
+      - "K-FLAGGSTANG-FAKTURA-2021992"
+      - "K-FLAGGSTANG-BEKRAFTELSE-20261121"

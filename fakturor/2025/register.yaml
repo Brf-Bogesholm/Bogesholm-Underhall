@@ -1,6 +1,7 @@
 version: "1.0"
 registreringsomgångar:
   - "2026-11-18-VPSERVICE"
+  - "2026-11-21-FLAGGSTANG"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -222,3 +223,54 @@ fakturor:
     leveransdatum: "2025-11-03"
     skadedatum_enligt_anmälan: "2025-11-18"
     datumavvikelse: "Felsökning visade sprucket EVI-rör; vid igångkörning efter rörbyte konstaterades defekt kompressor, därefter byte av kompressor och torkfilter. Serienummer 06414119101020 i reparatörsrapporter. Fakturans leveransdatum 2025-11-03 föregår skadeanmälans skadedatum 2025-11-18. Ingen säker arbetsdag väljs mellan motstridiga uppgifter."
+  -
+    id: "F-2025-FLAGGSTANG-2021992"
+    fakturanummer: "2021992"
+    leverantör: "Flaggstångsspecialisten Sverige AB"
+    organisationsnummer: "556749-3407"
+    fakturadatum: "2025-01-09"
+    leveransdatum: "2025-01-09"
+    utförandedatum: "2025-01-09"
+    utförandedatumkälla: "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+    förfallodatum: "2025-02-08"
+    projektbeskrivning_original: "Service av flaggstång 12m inv.lina/vevsystem"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 3365
+    moms: 841.25
+    öresavrundning: -0.25
+    att_betala: 4206
+    betalningsstatus: "Okänd"
+    objekt:
+      - "UT-FLAGGSTANG-69-001"
+    åtgärder:
+      - "A-FLAGGSTANG-20250109"
+    rader:
+      -
+        id: "F-2025-FLAGGSTANG-2021992-R1"
+        artikelnummer: "500014"
+        benämning: "Vevsystem (10-12m)"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1940
+        belopp_exklusive_moms: 1940
+      -
+        id: "F-2025-FLAGGSTANG-2021992-R2"
+        artikelnummer: "1020"
+        benämning: "Arbete"
+        antal: 1
+        enhet: "tim"
+        à_pris_exklusive_moms: 610
+        belopp_exklusive_moms: 610
+      -
+        id: "F-2025-FLAGGSTANG-2021992-R3"
+        artikelnummer: "1021"
+        benämning: "Utkörning med servicebil zon 1"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 815
+        belopp_exklusive_moms: 815
+    källor:
+      - "K-FLAGGSTANG-FAKTURA-2021992"
+      - "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+    kommentar: "Knopp i toppen utbytt enligt beställaren; inte separat prissatt på fakturan. Arkivmappens årtal 2024 är inte utförandeår; beställaren bekräftar service på fakturadatum 2025-01-09."

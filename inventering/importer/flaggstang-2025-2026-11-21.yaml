@@ -1,0 +1,19 @@
+id: "K-FLAGGSTANG-FAKTURA-2021992"
+registrerad: "2026-11-21"
+dokument:
+  fil: "Faktura reparation.pdf"
+  arkivmapp: "Entreprenader/2024 Flaggstången"
+  sha256: "1cc2b1ac3a083ade9052e890d973aba206b4db18c358b0249af5c42a38c76962"
+beställarbekräftelse:
+  id: "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Flaggstången monterad 1984 när området byggdes."
+    - "Placering framför föreningslokalen, Högalidsvägen 69."
+    - "Reparationen avsåg utbyte av mekanik och knoppen i toppen."
+    - "Servicen utfördes på fakturadatum 2025-01-09."
+källavvikelse: "Arkivmapp och ursprunglig uppgift anger 2024, men utförandedatum 2025-01-09 är uttryckligen bekräftat."
+original_publicerade: false
+kontroll:
+  unika_fakturor: 1
+  fakturarader: 3
+  summa_inklusive_moms: 4206
