@@ -1,0 +1,29 @@
+projekt: "P-GARAGETAK-2025"
+kontrakt_daterat: "2025-04-07"
+entreprenörssignering: "2025-04-08"
+leverantör: "Nimab Support AB"
+organisationsnummer: "556757-9130"
+entreprenadform: "ABT06 totalentreprenad med sidoentreprenad för solceller"
+beställning: "Takbyte på garagebyggnader inklusive förberedande arbete för solcellsinstallation, förstärkning av stomme samt brandcellsindelning enligt handlingarna"
+kontraktstid:
+  start: "2025-04-07"
+  planerat_slut: "2025-09-30"
+  faktiskt_godkännande: "2025-10-14"
+  kommentar: "Hinder och begärd tidsförlängning finns i byggmöten; datumskillnaden fastställer inte avtalsbrott eller vite."
+ekonomi:
+  avtalat_pris_exklusive_moms: 2560000
+  indexreglering: false
+  förskott: false
+  betalningsvillkor: "30 dagar efter godkänd leverans och godkänt mottagen faktura enligt kontrakt"
+  rätt_innehålla_betalning: "Kontraktet anger rätt vid dröjsmål/prestationsbrist. Ingen innehållen eller återkrävd betalning registreras utan belägg."
+vitesvillkor:
+  försening: "0,1 % av kontraktsvärdet per påbörjad vecka, maximalt 5 % enligt signerade kontraktet"
+  egenkontrolldokumentation: "10 000 kr och därefter 5 000 kr per påbörjad vecka enligt kontraktets villkor"
+  fördröjt_avhjälpande: "10 000 kr per påbörjad vecka enligt kontraktets villkor"
+  status: "Avtalsvillkor, inte fastställt debiterat vite. Äldre AF-text med annan procentsats hålls skild."
+myndighet_och_organisation:
+  bas_p: "Entreprenören enligt byggmöten"
+  bas_u: "Entreprenören enligt byggmöten"
+  ka: "MP-plåtkonsultering AB enligt underlaget"
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"

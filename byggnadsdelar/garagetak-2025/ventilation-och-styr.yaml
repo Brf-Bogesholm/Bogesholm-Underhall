@@ -1,0 +1,70 @@
+projekt: "P-GARAGETAK-2025"
+utrymme: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+komponentlista_datum: "2025-10-15"
+ordernummer: "50115"
+komponenter:
+  -
+    id: "TI-VENT-SOLTEKNIK-FF1"
+    beteckning: "FF1"
+    fabrikat: "Systemair"
+    modell: "TFC 225 S Sileo Svart"
+  -
+    id: "TI-VENT-SOLTEKNIK-TG1"
+    beteckning: "TG1"
+    fabrikat: "Systemair"
+    modell: "TG 400-800"
+  -
+    id: "TI-VENT-SOLTEKNIK-LR1"
+    beteckning: "LR1"
+    fabrikat: "Systemair"
+    modell: "FFR 315"
+  -
+    id: "TI-VENT-SOLTEKNIK-SP1"
+    beteckning: "SP1"
+    fabrikat: "Systemair"
+    modell: "BTG 400"
+  -
+    id: "TI-VENT-SOLTEKNIK-SP2"
+    beteckning: "SP2"
+    fabrikat: "Bevego"
+    modell: "HISC 315"
+  -
+    id: "TI-VENT-SOLTEKNIK-YG1"
+    beteckning: "YG1"
+    fabrikat: "Swegon"
+    modell: "ABC-YG 400x400"
+  -
+    id: "TI-VENT-SOLTEKNIK-RG1"
+    beteckning: "RG1"
+    fabrikat: "Systemair"
+    modell: "EC-Basic-T"
+  -
+    id: "TI-VENT-SOLTEKNIK-RT1"
+    beteckning: "RT1"
+    fabrikat: "Systemair"
+    modell: "RT 0-30"
+  -
+    id: "TI-VENT-SOLTEKNIK-ST1"
+    beteckning: "ST1"
+    fabrikat: "Belimo"
+    modell: "NM230A"
+reservfilter: "BFR 315 ePM1 60% till FFR 315 enligt komponentlista"
+reglering:
+  RG1: "EC-Basic-T, temperaturreglering med 0–10 V utsignal enligt datablad"
+  RT1: "RT 0-30, rumstermostat med växlande relä enligt datablad"
+  ST1: "Belimo NM230A enligt komponentlista"
+  aktuella_börvärden: null
+  funktionella_inkopplingar: "Ingen komplett verifierad funktionsprovning eller aktuell styrinställning härledd enbart ur datablad."
+  modbus: "Manualens Modbusfunktion gäller vissa andra TFC-storlekar/varianter; inte verifierad för installerad TFC 225 S."
+drift_och_underhåll:
+  takfläkt: "Kontroll/rengöring av fläkthjul, infästningar och anslutningar enligt tillämplig TFC-manual; se dokumentindex för felsökning och kopplingsscheman."
+  filter: "Reservfilter enligt komponentlista. Utfört filterbyte eller intervall hämtas inte från föreningens separata lägenhets-FTX-avtal."
+  separata_manualer:
+    - "FF1 TFC-P/TFC-S"
+    - "RG1 EC-Basic-T"
+    - "RT1 RT 0-30"
+    - "ST1 NM230A"
+    - "LR1 FFR315"
+    - "Övriga kanalkomponenter"
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"

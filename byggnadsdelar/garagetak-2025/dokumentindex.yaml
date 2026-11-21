@@ -1,0 +1,2268 @@
+källa: "K-GARAGETAK-ARKIV-20261121"
+antal_arkivfiler: 308
+unika_filer: 273
+original_publicerade: false
+dokument:
+  -
+    id: "K-GARAGETAK-2025-D001"
+    arkivsökväg: "2025 Garagetaken\\2025-04-30 Databas.xlsx"
+    sha256: "f96af870d65cbcbd92ddc472fd04ba9e760a808b8b5ad6b1ac3348cfc216bb92"
+    storlek_byte: 18986
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D002"
+    arkivsökväg: "2025 Garagetaken\\2025-04-30 Garageinfo.docx"
+    sha256: "b81658fedf2cf5acd51a58d091f2da9ecf5515e59e29481f27fd82341fe27ff1"
+    storlek_byte: 132240
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D003"
+    arkivsökväg: "2025 Garagetaken\\2025-07-01 Garageinfo garage 4.docx"
+    sha256: "400eb5453e00b2c460117b710d56a20614496bcab2607c4b71363e0fe6b11f0f"
+    storlek_byte: 21703
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D004"
+    arkivsökväg: "2025 Garagetaken\\2025-08-12 Garageinfo.docx"
+    sha256: "5dfdc175e07926ccc83ec416f8c2242d21069366bac2569c78a43d0e178b10cc"
+    storlek_byte: 87617
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D005"
+    arkivsökväg: "2025 Garagetaken\\2025-08-12 Garageinfo.pdf"
+    sha256: "042ec8dad01617ed2bdedda4fd1110f65b043202cf735fff87fb03dbe8001a52"
+    storlek_byte: 117879
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D006"
+    arkivsökväg: "2025 Garagetaken\\2025-09-16 Garageinfo 6.docx"
+    sha256: "4ceb5e53b41b5c0f04be65dec7fc2fbc2ddc9af180227db22ede36e2ae5ce6d5"
+    storlek_byte: 22128
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D007"
+    arkivsökväg: "2025 Garagetaken\\AF ADMINISTRATIVA FÖRESKRIFTER.pdf"
+    sha256: "0b3c184c6e758b4779a3613b4e3a6a2554f84a92e036e2c62c203b1921fd0cd1"
+    storlek_byte: 667444
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D008"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\Anbudsutvärdering.xlsx"
+    sha256: "0fb64d33c97d0059908539b37b12151978fb249ea19cfcc5b1b74acbdf108380"
+    storlek_byte: 17082
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D009"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\Autensius\\Anbud_Brf Bogesholm -Garage (2601).pdf"
+    sha256: "3164af096d3563e74b50c461c07f8cd0448b0d5550072ad560cf98c5a4077bcc"
+    storlek_byte: 193117
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D010"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\NIMAB\\Anbud NIMAB.pdf"
+    sha256: "725d6947ac316738dcb06852abc77be4b2c09608cc25926288d7a3911f6c930e"
+    storlek_byte: 89409
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D011"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\NIMAB\\Bilaga 1.pdf"
+    sha256: "0685ecba9c75a8e77746eade91dce9c517eb835a2fc5b77e450d55dd1275b7b5"
+    storlek_byte: 392768
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D012"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\NIMAB\\Bilaga 2.pdf"
+    sha256: "3e00b7ffb71ed65fa8879b09c33ed955c2429caa3d409e49ae41549c4cf9feb8"
+    storlek_byte: 48408
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D013"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\NIMAB\\SSE-MALHOJ-25032810100.pdf"
+    sha256: "48fdcac7ca6e2550b42209435e7109bb26e03d293f1820be1c7c56b960462583"
+    storlek_byte: 164194
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D014"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\Otto Nilsson\\Anbud ONB.pdf"
+    sha256: "4844446856fe6a936d3283f7b12eacff8b698cfd1e4e0642384705f1aedd5c60"
+    storlek_byte: 616625
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D015"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\RSBAB\\Anbud Brf. Bogesholm 1.pdf"
+    sha256: "7d130523bd575d26cd5962c01931061e31dcb99b44d27b86b69402a0e99ee92b"
+    storlek_byte: 683443
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D016"
+    arkivsökväg: "2025 Garagetaken\\Anbud\\RSBAB\\Anbud Brf. Bogesholm.pdf"
+    sha256: "0f5576d60631f1d387b599691dd7c9b5a49f74a235fdb350e4ae3b7f779c2e56"
+    storlek_byte: 621228
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D017"
+    arkivsökväg: "2025 Garagetaken\\Anders Lagerås  K-20-2-101.pdf"
+    sha256: "833ecfe85c142ffbe6ebf5904650c5348cbc12bab6b5d4fba96b714d1fdfe803"
+    storlek_byte: 136631
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D018"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\06 NH-3.4 Arbetsmiljöplan.doc"
+    sha256: "f67ae88a2d60c0626001120c60a58278fcc69ffba77514eac69fb638db1197e3"
+    storlek_byte: 185856
+    filtyp: ".doc"
+    roll: "Projektunderlag"
+    lässtatus: "Äldre DOC indexerad; innehåll inte fullständigt extraherat"
+  -
+    id: "K-GARAGETAK-2025-D019"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\1.0  Kontraktsvillkor - Entreprenad Garagetak.docx"
+    sha256: "7c589355f71a8475a3d6c19e601c1a79327fe316ed0a10d67a5f0faadb26f3af"
+    storlek_byte: 72415
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D020"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\6.1 Förtydligande 1.pdf"
+    sha256: "582396caa5e8267565ac2ca54f0615359f79f7f5b8e9e87a4ab145b8ef966330"
+    storlek_byte: 366856
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D021"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\6.2  K-20-2-101.pdf"
+    sha256: "833ecfe85c142ffbe6ebf5904650c5348cbc12bab6b5d4fba96b714d1fdfe803"
+    storlek_byte: 136631
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D017"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D022"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\6.2 AF ADMINISTRATIVA FÖRESKRIFTER.pdf"
+    sha256: "78c94013434f71bba8ca174ae2cc493af59e5c3d418d2258999102792784169e"
+    storlek_byte: 706614
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D023"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\6.3 Brand PM Brf Bogesholm.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D024"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\6.4 Teknisk beskrivning.pdf"
+    sha256: "ff56dc746044e029c0b2e5f79b83e86348ac9d4955959512e75c9ac08c9adf64"
+    storlek_byte: 419550
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D025"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\8.1 Anbud NIMAB.pdf"
+    sha256: "725d6947ac316738dcb06852abc77be4b2c09608cc25926288d7a3911f6c930e"
+    storlek_byte: 89409
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D010"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D026"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\8.2 Bilaga 1.pdf"
+    sha256: "0685ecba9c75a8e77746eade91dce9c517eb835a2fc5b77e450d55dd1275b7b5"
+    storlek_byte: 392768
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D011"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D027"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\8.3 Bilaga 2.pdf"
+    sha256: "3e00b7ffb71ed65fa8879b09c33ed955c2429caa3d409e49ae41549c4cf9feb8"
+    storlek_byte: 48408
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D012"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D028"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\8.4 Preliminär tidplan.pdf"
+    sha256: "48fdcac7ca6e2550b42209435e7109bb26e03d293f1820be1c7c56b960462583"
+    storlek_byte: 164194
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D013"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D029"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\Byggmöte 1.docx"
+    sha256: "cb76e2e2996badc16b7d7fa482b422b2e2faa7913fd3ad31f9761627815ca1f8"
+    storlek_byte: 236034
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D030"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\KMA Plan.pdf"
+    sha256: "df14ddb60cbf7cf5381edec8eb4b382a7fcedfde7acaf3ec7a529e5dc58dc468"
+    storlek_byte: 375106
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D031"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\Kontrollprogram.pdf"
+    sha256: "5d06b0ec87a4f95a9629c48c4d44640119c8a16f82597a8353a97db25e3c6f18"
+    storlek_byte: 230480
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D032"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\Moderbolagsgaranti.pdf"
+    sha256: "176fa07121bb756426aa242305b1feec7adb5f99bc376130d8d8438a523d6381"
+    storlek_byte: 86478
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D033"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\Nimab Support AB Entreprenadbevis Svenska 2025.pdf"
+    sha256: "c0266ffda54758c82789e4bc9ae5932b3658213fe592edc6c5b01c32eda6bfa7"
+    storlek_byte: 120433
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D034"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\PE Teknik & arkitektur AB - Anders Lagerås.pdf"
+    sha256: "867cf364a02a81ccea46b09ad928f7b2d9c92e3430d6bbd0b998e2b56c5ca9a7"
+    storlek_byte: 142316
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D035"
+    arkivsökväg: "2025 Garagetaken\\Avtal\\Signerat avtal.pdf"
+    sha256: "78c2401ee4f686de41af3bfba0946f391f167e77b0bf7edcb7996725829ed3ed"
+    storlek_byte: 300179
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D036"
+    arkivsökväg: "2025 Garagetaken\\Brand PM Brf Bogesholm.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D023"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D037"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\Egenkontroll Bygg.pdf"
+    sha256: "823e22332b06723fa9590141cc2001079e21f8bf4d449bb098891c70bd1495ae"
+    storlek_byte: 4216348
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D038"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\Egenkontroll Utrymningslarm.pdf"
+    sha256: "f8d96ea9d246a4112cc44420a3cf59f9b6060ea6185c994f797ac8517cfd60ee"
+    storlek_byte: 35647
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D039"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\Egenkontroll Yttertak tilläggsisolering  - 2025-09-29.pdf"
+    sha256: "a7075682fdd0ac7ab2620b215afeddf3106de2fef68253020203b091ec7c002f"
+    storlek_byte: 593326
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D040"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\IMG_1417.JPG"
+    sha256: "e42c9c53b1a823adb3aa2cb49ea4a007dce1974fc1474f32968de212b5004f27"
+    storlek_byte: 7345602
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D041"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\IMG_1419.JPG"
+    sha256: "95dc6544b914e432c507fa742b181758c451233a765a6cff2e360bd124ed9fb4"
+    storlek_byte: 6636802
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D042"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\IMG_2534.JPG"
+    sha256: "5e437c5b60c5ba10447479e6d3746c1bc2df10e5a0a57de39d929f66e6004aa2"
+    storlek_byte: 6319965
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D043"
+    arkivsökväg: "2025 Garagetaken\\Brandbesiktningen\\Insatskort solcellsanläggning.pptx"
+    sha256: "e047891dda43bf7e790850314b951ea2bdc951ece851dd555d4465ac85ffd5c7"
+    storlek_byte: 1015933
+    filtyp: ".pptx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D044"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\A4-16-A.pdf"
+    sha256: "7383327cd6a3bd5fbca763eaf26dac031b70e35545d7a199c11dcf88ba4f14bf"
+    storlek_byte: 606802
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D045"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\A4-16-B-4.tif"
+    sha256: "1c9b6c0c105aa104c73b73d1d8b75263fc13fc58e8c17cb0c4a7df2f14133b02"
+    storlek_byte: 3681942
+    filtyp: ".tif"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D046"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\A4-17-3.pdf"
+    sha256: "dc695f16427b109a6b3b77c5d8b6c27baa3b68b67ae6e0242f9422dce1c4dabf"
+    storlek_byte: 363170
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D047"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\A4-17-3.tif"
+    sha256: "c7134ec4d4bfab51048021dde41d53206b9eaf19bc09e5d6d9bcaba9567de9e6"
+    storlek_byte: 3161722
+    filtyp: ".tif"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D048"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Bygglovsansökan.docx"
+    sha256: "21bd0ffba27df7fb25e452e5ae0e932a79ec5b5cdb5edf8746f88d4fd9c5e627"
+    storlek_byte: 39550
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D049"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Fasadritning.docx"
+    sha256: "183c3c1c77e6fd586b3a46e775cca789020061c407b6220a300f242b1de48554"
+    storlek_byte: 2959909
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D050"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Fasadritning.pdf"
+    sha256: "e2411db0bf5c2685a7811c6f2ca8211ea0d63f047faaf2aaee677bb06cc60225"
+    storlek_byte: 1727599
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D051"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Ansökan om bygglov.pdf"
+    sha256: "39c07e2ff68d77425030343d3dbcc7f3f0ea499e95a6e7efeac8ce5a413ccf89"
+    storlek_byte: 749823
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D052"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Bygglov - ansökan - 131136.pdf"
+    sha256: "76bb1f4b85d3389c5d0900bc67d17d591d1f21d576adea8a4c411f0f82475b12"
+    storlek_byte: 5645887
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D053"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Bygglov, ansökan.pdf"
+    sha256: "06e402f46ac3bb9a5b829127999409129e2640deb1cbcbafc61a0899246e0c58"
+    storlek_byte: 249589
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D054"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Fasadritning ok.pdf"
+    sha256: "e2411db0bf5c2685a7811c6f2ca8211ea0d63f047faaf2aaee677bb06cc60225"
+    storlek_byte: 1727599
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D050"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D055"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Kontrollplan ok.pdf"
+    sha256: "10484f3148275a3e9a128ab0d40a9e825e3f330f6708c1e1b0026df4d29575c9"
+    storlek_byte: 1067026
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D056"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Planritning - brandcellsväggar ok 2025-05-19.pdf"
+    sha256: "5ee9507de7a414db946581d2d0e8cb8507a3927f98168ee24f044d5433eeabf5"
+    storlek_byte: 413911
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D057"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Planritning - brandcellsväggar ok.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D023"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D058"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Sektionsritning ok.pdf"
+    sha256: "676fb486ee6cd3d5a81dff420ed41f3796bd22cd1388fa79f2e83b0f19906f39"
+    storlek_byte: 404267
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D059"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Situationsplan ok.pdf"
+    sha256: "4fe93de4505b24d302cd7dbf2e9bcc4d1d1d1db701a72031010b36bca56e9048"
+    storlek_byte: 1301593
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D060"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Handlingar\\Teknisk beskrivning ok.pdf"
+    sha256: "ff56dc746044e029c0b2e5f79b83e86348ac9d4955959512e75c9ac08c9adf64"
+    storlek_byte: 419550
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D024"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D061"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Inför slutbesked\\Dokumentation från byggplatsbesök nr 1.pdf"
+    sha256: "d0d34cb11d7c3e63d0468525f09406ded649ff3f121369f4cc5be440e5b9b3f6"
+    storlek_byte: 218830
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D062"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Inför slutbesked\\Egenkontroll Yttertak - 2025-10-03.pdf"
+    sha256: "19e6c1c12600eea2c1db5f89b31cf6da9635db6aeed29740394aba4fc7525a58"
+    storlek_byte: 1297023
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D063"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Inför slutbesked\\Egenkontroll Yttertak tilläggsisolering  - 2025-09-29.pdf"
+    sha256: "a7075682fdd0ac7ab2620b215afeddf3106de2fef68253020203b091ec7c002f"
+    storlek_byte: 593326
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D039"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D064"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Inför slutbesked\\KA-utlåtande.pdf"
+    sha256: "38612c53e75984f44e1273eeb532519b7f0c413b51d78a2aa3bb498bbd84b7d5"
+    storlek_byte: 217791
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D065"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Inför slutbesked\\Signerad kontrollplan.pdf"
+    sha256: "79f34fdde7e8fa694acad310c548f4fe1ba0112227eff93e22508cd440d5899d"
+    storlek_byte: 2718819
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D066"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Kontrollplan 1.docx"
+    sha256: "7503c69c2558b796f7c78d6db2143d32fd427146eebada35cbd912a6e5d99f8f"
+    storlek_byte: 116160
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D067"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Planritning - brandcellsväggar.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D023"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D068"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Sektionsritning.docx"
+    sha256: "ac6486b4b533d59e7232080e4fcb312d2a4e2c5b9847ced3203802789bf67bf3"
+    storlek_byte: 190682
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D069"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Sektionsritning.pdf"
+    sha256: "676fb486ee6cd3d5a81dff420ed41f3796bd22cd1388fa79f2e83b0f19906f39"
+    storlek_byte: 404267
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D058"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D070"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Situationsplan.docx"
+    sha256: "0d0973f419162c7a0bc7810796df4898899c5ee18f7c95128d9b692c5e1332d8"
+    storlek_byte: 2820649
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D071"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Situationsplan.pdf"
+    sha256: "4fe93de4505b24d302cd7dbf2e9bcc4d1d1d1db701a72031010b36bca56e9048"
+    storlek_byte: 1301593
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D059"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D072"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Tomtkarta 2 Lantmäteriet.pdf"
+    sha256: "dab4752d93a361934f72d35ceb53756b9f771249844b694585cbf7e3e34e859c"
+    storlek_byte: 763078
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D073"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Tomtkarta markerad.docx"
+    sha256: "485b3232f580a24b8fa02f8a97b8adb409faa6bf5a03d46b433e7a06865b6008"
+    storlek_byte: 4822244
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D074"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Tomtkarta markerad.pdf"
+    sha256: "867b2b258e7deb1806dcdbaff96cd8590531873cb1c640f175c0a95e1ce7712f"
+    storlek_byte: 712086
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D075"
+    arkivsökväg: "2025 Garagetaken\\Bygglovsansökan\\Tomtkarta.pdf"
+    sha256: "22b67c6e502792fce2d6aa63e2d5fa56cb5dd18a61fef859b840fcd5f8448676"
+    storlek_byte: 704890
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D076"
+    arkivsökväg: "2025 Garagetaken\\Faktura 12173962 PE TEknik.pdf"
+    sha256: "5fb1ca1bee1b0e72fc84212d96be1b9d507db5ea2b69ba6d2895d12e6e40251f"
+    storlek_byte: 41885
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D077"
+    arkivsökväg: "2025 Garagetaken\\Fakturor\\2025-09-22 Signerad ÄTA-Lista.pdf"
+    sha256: "0983dfb638a887f968320c54a2d0ca9552948585b1f60555d44f5175cf17cdef"
+    storlek_byte: 226152
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D078"
+    arkivsökväg: "2025 Garagetaken\\Fakturor\\2025-10-24 MP-Plåkonsult.pdf"
+    sha256: "74dbf05599f420eff0a0c937cb94ac806886feb20c9dbcbb98bf98234b4435e4"
+    storlek_byte: 137117
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D079"
+    arkivsökväg: "2025 Garagetaken\\Fakturor\\faktura-200002190.pdf"
+    sha256: "e31ce5feab79cfa7ff72e45baff38f3d90aa8e065afdf7dccce429ba0cd2f851"
+    storlek_byte: 99973
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D080"
+    arkivsökväg: "2025 Garagetaken\\Fakturor\\faktura-200002230.pdf"
+    sha256: "cb57d5a21bc3cb8a516daea0cfe8fbe7b2bd889a8188753a3de08e06e6bb0d94"
+    storlek_byte: 99987
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D081"
+    arkivsökväg: "2025 Garagetaken\\Fakturor\\faktura-200002268.pdf"
+    sha256: "a63b3b09cac0111341b13eff3cea9a0a10fb39b9e9d4d54abf9461ab7f3ad86a"
+    storlek_byte: 99975
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D082"
+    arkivsökväg: "2025 Garagetaken\\Fakturor\\faktura-200002301.pdf"
+    sha256: "92aa97e6c9366316da5dc5746f3731ebcbc54698db6963aace5d496c76bf6a00"
+    storlek_byte: 99818
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D083"
+    arkivsökväg: "2025 Garagetaken\\Fastighetsinvestering.pdf"
+    sha256: "f4be10b0a9da6cc6246a6c90363c42e5d8571d914eac309a823d232faec72608"
+    storlek_byte: 512931
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D084"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\6.1 AF ADMINISTRATIVA FÖRESKRIFTER.pdf"
+    sha256: "78c94013434f71bba8ca174ae2cc493af59e5c3d418d2258999102792784169e"
+    storlek_byte: 706614
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D022"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D085"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\6.1 Förtydligande 1.pdf"
+    sha256: "582396caa5e8267565ac2ca54f0615359f79f7f5b8e9e87a4ab145b8ef966330"
+    storlek_byte: 366856
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D020"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D086"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\6.2  K-20-2-101.pdf"
+    sha256: "833ecfe85c142ffbe6ebf5904650c5348cbc12bab6b5d4fba96b714d1fdfe803"
+    storlek_byte: 136631
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D017"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D087"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\6.2 AF ADMINISTRATIVA FÖRESKRIFTER.pdf"
+    sha256: "78c94013434f71bba8ca174ae2cc493af59e5c3d418d2258999102792784169e"
+    storlek_byte: 706614
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D022"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D088"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\6.3 Brand PM Brf Bogesholm.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D023"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D089"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\6.4 Teknisk beskrivning.pdf"
+    sha256: "ff56dc746044e029c0b2e5f79b83e86348ac9d4955959512e75c9ac08c9adf64"
+    storlek_byte: 419550
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D024"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D090"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\ANBUDSFORMULÄR.pdf"
+    sha256: "a58b87146cc73173bf5e75f4ee4525ad84a32d08e37938493573401abd16a48e"
+    storlek_byte: 129687
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D091"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\Anders Lagerås  K-20-2-101.pdf"
+    sha256: "833ecfe85c142ffbe6ebf5904650c5348cbc12bab6b5d4fba96b714d1fdfe803"
+    storlek_byte: 136631
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D017"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D092"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\Brand PM Brf Bogesholm.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D023"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D093"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\Förtydligande 1.pdf"
+    sha256: "582396caa5e8267565ac2ca54f0615359f79f7f5b8e9e87a4ab145b8ef966330"
+    storlek_byte: 366856
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D020"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D094"
+    arkivsökväg: "2025 Garagetaken\\Föfrågningsunderlag\\Planskiss.PNG"
+    sha256: "4321b8cd7b2f122414a98d947d02292cb000d04561e301deec31da2839448f7d"
+    storlek_byte: 122059
+    filtyp: ".png"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D095"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\2025-10-15_13-28-18_SCAN.pdf"
+    sha256: "183b843d40a294b661d630029da1ffa8902a8df389e79d2edc0d3e3721628d77"
+    storlek_byte: 965065
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D096"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\2025-10-15_13-39-15_SCAN.pdf"
+    sha256: "666a760ca5fb8d6b2a6cc0588f76675dc4cd68f08b42e067e2620ee40673a021"
+    storlek_byte: 2331604
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D097"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\2025-10-15_13-39-57_SCAN.pdf"
+    sha256: "79f34fdde7e8fa694acad310c548f4fe1ba0112227eff93e22508cd440d5899d"
+    storlek_byte: 2718819
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D065"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D098"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\22-12-2025.pdf"
+    sha256: "99e7dd436f02bff1ceb1ce61a4b7e2f5dbaf2ca375ebe688ab370d3cae0c11a6"
+    storlek_byte: 3504664
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D099"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Bilaga FB3.pdf"
+    sha256: "8be22c51653cc78004c546f78f8a26a8258a3f0e1505823ba5816bec0612d3fc"
+    storlek_byte: 2409311
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D100"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Bilaga syn 1.pdf"
+    sha256: "91bd85b3472292c1543cc06aae3a401f639c4722c01a0427e26877f8a9e6225d"
+    storlek_byte: 1200700
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D101"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 1 - 2025-05-22.docx"
+    sha256: "0e0b8cc1b44a809b61246b5edae506962c00ab07eac21197886240a093c069b6"
+    storlek_byte: 236039
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D102"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 2.docx"
+    sha256: "80ded8742c1aae66c6776b4f63f7901e8e5fa3b4c808364c45b2a181105deaa3"
+    storlek_byte: 237244
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D103"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 3.docx"
+    sha256: "531f10dbaaa84afc011ba96dc25f0808db6c758e99731b30c371c47fb593cd95"
+    storlek_byte: 240388
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D104"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 4.docx"
+    sha256: "d9f537dbddee4ec7c595f3c9b2a31d7570abc6cdb7ca9656a07837ca9abff0e8"
+    storlek_byte: 241962
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D105"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 5.docx"
+    sha256: "3401ba4b4a9d7fda6f2c3cae9929c314cee28c2339aa93426d50badcf4c95a0b"
+    storlek_byte: 246250
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D106"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 6.docx"
+    sha256: "656c05523e10575875276a47056f91cf8a51b7f9b3f94c0daada361e76faeade"
+    storlek_byte: 246223
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D107"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Byggmöte 7.docx"
+    sha256: "eb8fc6a6780c64b5ea4995606ded21ac93335fd4ba5d1fd99448548a6c557b9e"
+    storlek_byte: 248423
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D108"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Samordningsmöte 2025-04-22.docx"
+    sha256: "45cdee7edbad4a9230a46141c57563d1171892ed8d8257d95350d910085b5ce5"
+    storlek_byte: 28567
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D109"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Tidsplan upd. 2025-06-26.xlsx"
+    sha256: "cf5bbc18c17793bac435ac205bab68e0a64f576b17f066826084ddb81e4e611c"
+    storlek_byte: 31397
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D110"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\Utlåtande SB1.pdf"
+    sha256: "3922402e2b27e3ac858052b3bde41f3c200299607fa74cdb4e6582693a381542"
+    storlek_byte: 14294394
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D111"
+    arkivsökväg: "2025 Garagetaken\\Mötesprotokoll\\ÄTA-lista Bogesholm Signerad.  2025-09-04.xlsx"
+    sha256: "97aac1af8a9600e31a3fdd3724cff57a3008ade5082162039fd8d6ac8e39a93e"
+    storlek_byte: 28587
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D112"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\1. Leverantörsregister\\UE-Lev lista.xls"
+    sha256: "df7665022d126539af5a294d4deab99bcbc215181aa166b6500f54350f1db73a"
+    storlek_byte: 162816
+    filtyp: ".xls"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D113"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\2. Tätskikt\\87ed6e98-3ca4-4ea7-b835-0e6e355bf49c.pdf"
+    sha256: "ec5cc7c5cb7ac3f2755bacc8750ff04fe3e5652651215471d9839026e194163e"
+    storlek_byte: 548326
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D114"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\2. Tätskikt\\Låglutande tak - Mataki UnoTech FR.pdf"
+    sha256: "49ab59f710850be77d0417bae728715bc9069665cd6afb33767e3cbf3a954cab"
+    storlek_byte: 139491
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D115"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\2. Tätskikt\\Låglutande tak - Mataki UnoTech FR_DoP.pdf"
+    sha256: "654d8ff7785aa041f964830337d244f34e17b7de140d0e1357b94fd9a316f55f"
+    storlek_byte: 726856
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D116"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\2. Tätskikt\\Mataki UnoTech FR_PB.pdf"
+    sha256: "9361754d551e426920e652d7d6b446b263f57758ed1a86a5d759ddd2360bb3bf"
+    storlek_byte: 984176
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D117"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\3. Plåt\\Bevego Garantier stål planplåt och takavvatning.pdf"
+    sha256: "ec1e4ea0624b0d90ef4a5c4e084820170ad10c3de460dddf1216834bc9d99eb8"
+    storlek_byte: 651875
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D118"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\3. Plåt\\BEVEGO Plannja Underhåll.pdf"
+    sha256: "7509a3e8155b6bb7243d23d1b2c516427d794a8e7dadf5dc4d92d9fdf7bc56c4"
+    storlek_byte: 1036827
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D119"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\4. Brandkrav\\Brand PM Brf Bogesholm.pdf"
+    sha256: "e3d1eb9c82268128c7eb4044fd001f24aedd2395d8fc5f1334a3cdedc40964aa"
+    storlek_byte: 564335
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D023"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D120"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\4. Brandkrav\\Brandskiva insida tak.pdf"
+    sha256: "87d713e57ab9cbc9124c352870a75dd24693cc8df807713decff21dae15bf23b"
+    storlek_byte: 1299945
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D121"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\4. Brandkrav\\K-20-2-101.pdf"
+    sha256: "7e1d6dad1d605e438d61d6431776e87e63b28d6531281da63f22a75a0b8c7661"
+    storlek_byte: 146552
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D122"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\4. Brandkrav\\PAROC-FireSAFE-RO30-sv-SE-19082025.pdf"
+    sha256: "b9932037e8bfaeb922a4a592de77851d5f5452bd581cb135c68ff1bb8f1be097"
+    storlek_byte: 112741
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D123"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Besiktningsprotokoll\\Signerat Ekdahls tak.pdf"
+    sha256: "af45323f32d2590e29614c817ff1841a1b46289d44c9816ca35bb351b25d4aca"
+    storlek_byte: 7051152
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D124"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Besiktningsprotokoll\\Signerat Nimab Plåt.pdf"
+    sha256: "22faeeb8fee69eeb368da861aec3410d7e6a6ef6fb5e54d773a9d473707fe8a0"
+    storlek_byte: 5435177
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D125"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Besiktningsprotokoll\\Signerat Nimab.pdf"
+    sha256: "bebc0fabb78b385d413b795c7d2dffb63c0d1ea6f803c65c24e81056ababa044"
+    storlek_byte: 5441248
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D126"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1125.JPG"
+    sha256: "0c18a6a896e6c8497ae51743cdd2f7fc27c3d0e8544181ea49df0c4affece9ac"
+    storlek_byte: 5250242
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D127"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1130.JPG"
+    sha256: "6b456413d93f0a3242b4b1faf1c77fd3fe76977cd94849983b9fbb5de697d611"
+    storlek_byte: 4833936
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D128"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1131.JPG"
+    sha256: "56919fb981994bb7e0a20ebdca254688f784ea211b195a10672645c5ca456b65"
+    storlek_byte: 4379632
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D129"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1135.JPG"
+    sha256: "54c2761c5062291c896266c785ca6186c290f48217442ca361fdf1e00f317b1c"
+    storlek_byte: 4643232
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D130"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1136.JPG"
+    sha256: "669c973685c0f525e309a8085df2a6ea0eb094d379054107351041c8b15e2bd0"
+    storlek_byte: 5408294
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D131"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1137.JPG"
+    sha256: "a574b996d1c8371dd16fc5beefc45bf703a1c7cc7172f55f7194d98705a038f5"
+    storlek_byte: 6727582
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D132"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1145.JPG"
+    sha256: "6e2e7fddbb7b0e773e81459c3d932c8d9d41af6cca5541312db51369f30a0a39"
+    storlek_byte: 4143100
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D133"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1149.JPG"
+    sha256: "c96ad5cffd25755e40100989cf106e0089ccbd7582dd9d0209563b576246f4b2"
+    storlek_byte: 8056012
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D134"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1150.JPG"
+    sha256: "c54011ad44483d81b7c2e43ab586649bc18d7a9c8ccf30894093f23f7169d64b"
+    storlek_byte: 4661228
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D135"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1151.JPG"
+    sha256: "2ed08a7e2e68d12cbd914106d75db126557c3f9dc81e02815a1d9fce2d0c9449"
+    storlek_byte: 7254344
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D136"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1152.JPG"
+    sha256: "567ac4bc1bc09ff38719050046808756cc52cca0e8ca35736664991df9adcf32"
+    storlek_byte: 7174286
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D137"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1213.JPG"
+    sha256: "b9e4869aad15bce8aca17ef5d129e496824a239e5ad9d59ac39300a2511375e6"
+    storlek_byte: 6433376
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D138"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1219.JPG"
+    sha256: "b3419e5406e059f0efe0b2825155db4c055b058970d5a22da738ab16e77f3def"
+    storlek_byte: 7487204
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D139"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1220.JPG"
+    sha256: "592adc5cadaa8690c133970fb45c87c67e35fa2f34be9658616eab8be017c6ea"
+    storlek_byte: 4939498
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D140"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1221.JPG"
+    sha256: "0eb069b968eadcfde33f0ab632f11492f9d3947fadcc487658c31a6839916247"
+    storlek_byte: 5276272
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D141"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1222.JPG"
+    sha256: "6cecfed888814dcec51547dcd27d60b4216a86042e6c224975d13c8d4f34fdfe"
+    storlek_byte: 6290332
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D142"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1223.JPG"
+    sha256: "88e27ca5005ad31911ea8f865cc6ff361b274be4005c88cdbc1dbd1d8752bb97"
+    storlek_byte: 5518212
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D143"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1320.JPG"
+    sha256: "0163aa5e1ec972b8183eff42b0f9a93127fa7082b08812fd08d35b6ed2d4d037"
+    storlek_byte: 6506844
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D144"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1321.JPG"
+    sha256: "3c5d5bb1805cc2deb14d963984c44c3a9aed42392a1a9a784562022a6ef413b2"
+    storlek_byte: 5690880
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D145"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1323.JPG"
+    sha256: "504bf5871a5fd71465a3813df4173778db9d3d5ef62804f05219cd3a5eeb4541"
+    storlek_byte: 6865080
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D146"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1560.JPG"
+    sha256: "388d5cc2bb25a26174f3ae611cc2726f39341c951c3b166831643cd963a66668"
+    storlek_byte: 5239744
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D147"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_1561.JPG"
+    sha256: "6341dd7e765ae4a014196c2c05b9ebef8381d44c96e1e5fa443102c7934ac54d"
+    storlek_byte: 5535538
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D148"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_2148.JPG"
+    sha256: "45c5a7c21235c3e2dbf6abd348ed575378dcb29cec84754a3fbb53967b8ad579"
+    storlek_byte: 8585497
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D149"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_2149.JPG"
+    sha256: "1f69e7f1d3e118a071d095858221936cc09a6bf4233061959db0546f48b522b1"
+    storlek_byte: 12177800
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D150"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_2150.JPG"
+    sha256: "f8cf2602cb97f2a6ce3c12a48c2f26c7e901419746b296eaf9a820717f15b22e"
+    storlek_byte: 8700741
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D151"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_2153.JPG"
+    sha256: "48079771fb910827018359cfd6a51a1df187f82cdabc20837188e77a28d41972"
+    storlek_byte: 10682194
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D152"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_2154.JPG"
+    sha256: "c359aee9730f86424813c2e60fb39dd1b9923816c9d3ec911ced4a730c18a477"
+    storlek_byte: 8839700
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D153"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 1\\IMG_2157.JPG"
+    sha256: "1e0981df2f0c4af75465f10972fc3b5ff831eac0c7f55058e021b15a9485d6c5"
+    storlek_byte: 11479304
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D154"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1143.JPG"
+    sha256: "559ad66ff8e044e9a45ea0aca54b746c7eb9a38f72b974f8348754889eae910b"
+    storlek_byte: 5210200
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D155"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1153.JPG"
+    sha256: "34d8a26fab098d94084084bad312fd3046fb44170847d9fd2c03695ba4cdfcd2"
+    storlek_byte: 6674412
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D156"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1199.JPG"
+    sha256: "0cb1616e3e94ce28f56c684ea13a53b4b33b75e3350164dbded638740fc70d3c"
+    storlek_byte: 8032964
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D157"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1214.JPG"
+    sha256: "4e009d7b1f41037d49673b54439a894455388854adc1a400ea45951badbf7dc1"
+    storlek_byte: 5665580
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D158"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1215.JPG"
+    sha256: "df9300d3e4eea61f21bce42c1e385b85267805d2b24d683586e0e3d183253a0c"
+    storlek_byte: 6123034
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D159"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1216.JPG"
+    sha256: "e48917939aff7c2b7b2640167735cc253081c9922e0825c9930f197dc22f1d14"
+    storlek_byte: 6019280
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D160"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1217.JPG"
+    sha256: "53f78068762bbcd414f7cb00c33882dccb53166dc5a32087ce90353eda20469b"
+    storlek_byte: 5598522
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D161"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1218.JPG"
+    sha256: "272b44fc52690e56aba88cccc086f3781c038a79cffd7db874e0c10dc4b19206"
+    storlek_byte: 6290598
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D162"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1226.JPG"
+    sha256: "9fbc7b9467d184de0e180abf4b2018554fd19eee41ee579efd45ecc02ee57aad"
+    storlek_byte: 5748790
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D163"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1317.JPG"
+    sha256: "ffb9d0a3984a21c14be143131bf242d5fdbc126d066968b4be64908294ef33c8"
+    storlek_byte: 6314896
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D164"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1318.JPG"
+    sha256: "b7230278e6ee14277472483dedcd3d2f21ffa6be5bcf84a5726fbfa6fe83a52c"
+    storlek_byte: 4619908
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D165"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1319.JPG"
+    sha256: "9b6990f2d92ae7fa1d224e9c1dbe7b864ba19b80d5304a0e5089be45844449e1"
+    storlek_byte: 6633766
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D166"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_1560.JPG"
+    sha256: "388d5cc2bb25a26174f3ae611cc2726f39341c951c3b166831643cd963a66668"
+    storlek_byte: 5239744
+    filtyp: ".jpg"
+    dubblett_av: "K-GARAGETAK-2025-D146"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D167"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2156.JPG"
+    sha256: "1318e09dc6a638bdee4dccd78083578a8a697df9f4bf7d0924aa2e4579bb7e09"
+    storlek_byte: 7232386
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D168"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2158.JPG"
+    sha256: "f86a0e6619109fad172f2f25f515c27f8c983c825c5511c174625537fa82f895"
+    storlek_byte: 8312034
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D169"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2159.JPG"
+    sha256: "b7931bd193be3d1e6b9e391d47fdc81ec2111096822b3a5b5417226e133e8f40"
+    storlek_byte: 7236188
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D170"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2159.MOV"
+    sha256: "7e6ee2b296c5343eb32ecd5efd65ac8fc3f4a4837345c2524b58adcba2ad4f50"
+    storlek_byte: 8566795
+    filtyp: ".mov"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D171"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2160.JPG"
+    sha256: "f34181f58739f71ea1e88eb8456990b9c0a8dc6ebefb31d4b1d25515338f1d93"
+    storlek_byte: 7162866
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D172"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2161.JPG"
+    sha256: "223ae7c92b698710bfa8bf4ac71be5760f37b8ae545f31aa8deba58b126e966e"
+    storlek_byte: 8761886
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D173"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2162.JPG"
+    sha256: "6893ef14b58c9b3d7330dd4c8bb106eea3afa8592d9d1172dad46edab89573fd"
+    storlek_byte: 7402181
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D174"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2163.JPG"
+    sha256: "8a24bf0c8fbbcef24bfaaa06bcfadb31d2c37d802c5ec25231f50abd78e508cc"
+    storlek_byte: 5450452
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D175"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2164.JPG"
+    sha256: "75bb5ef83a94fdaabb714f96369b97b362a674786f3d9137c8674250d58b6a46"
+    storlek_byte: 8120338
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D176"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2165.JPG"
+    sha256: "15235cc1f9f45376d4690390a671d26dddb659a7e361f004b8e38ecec6100b31"
+    storlek_byte: 6493771
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D177"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 2\\IMG_2166.JPG"
+    sha256: "97f5858aca15e6e7721f8b16c625a14b34203e3e8252f9dd733a3d41bab28efd"
+    storlek_byte: 5875497
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D178"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1144.JPG"
+    sha256: "9a96c734222f8af88593847a06332cf0efbf8c67707a47ea40943b0b5b05cf28"
+    storlek_byte: 4227040
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D179"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1148.JPG"
+    sha256: "bc9aaa6b0680c3e21fc96c6ad5f91bd9874267ca80e3bf2e63f177d9d165ad4c"
+    storlek_byte: 5407574
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D180"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1154.JPG"
+    sha256: "6dac0758e7f1e2d7bd675683aef0e452429ce72a6a2376b3da66a0c8ee7275f5"
+    storlek_byte: 3974404
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D181"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1179.JPG"
+    sha256: "272c6ffbc2c10f1589fee0075d034c48335e563cf3409dee8d5a6179683428c3"
+    storlek_byte: 7158728
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D182"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1180.JPG"
+    sha256: "b4bf65b2ee48d8333889f314817fdc498ec4f6257931216a91c57546c5dc8b08"
+    storlek_byte: 6480656
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D183"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1181.JPG"
+    sha256: "e26c7fbe19a67cb3a25b9f8575230213c174c3802b9414a362437df7853447a4"
+    storlek_byte: 5585030
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D184"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1182.JPG"
+    sha256: "4140b5f9b332f7cc755c14a00aaa50bd7efed098a09f6cebdd4acb98c67e6a27"
+    storlek_byte: 10236504
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D185"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1183.JPG"
+    sha256: "cdd0a7d1dc086561bb5986c5df2e49ae121a4fbe9c365cfe4f3fda0ac98e9bbd"
+    storlek_byte: 7082088
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D186"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1204.JPG"
+    sha256: "f17681bf658a3054340a80abcf18732029be09981e7b6346c569c677a689aa51"
+    storlek_byte: 5990370
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D187"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1205.JPG"
+    sha256: "b7d898741d5ff37fe3e54013a29f32c4501ca3ffb3241f02240ae08f70442d56"
+    storlek_byte: 7728370
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D188"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1206.JPG"
+    sha256: "3c2aa10f990e27b2ec1f9e3aa2b1564719bee88b2d67d992191d6a2b5474284e"
+    storlek_byte: 7518710
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D189"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1224.JPG"
+    sha256: "3ec421eb1a0c0761f6965e5fb151d1f9df1badfac158adfd13019f37288ab390"
+    storlek_byte: 6100400
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D190"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1225.JPG"
+    sha256: "1269f841c14b88510fa5d85b1138cf42f3b9b804b4af26fcabc65990290081c1"
+    storlek_byte: 6835756
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D191"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1227.JPG"
+    sha256: "f21040ee1641b0735a7e90d46ba36383112d069d8d0df8d5a723cee11a4287b1"
+    storlek_byte: 5739088
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D192"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1228.JPG"
+    sha256: "4d35ad613a311c322f0cd4a37899fad8895558a928a845e98506c0e1039473ff"
+    storlek_byte: 5403408
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D193"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1229.JPG"
+    sha256: "839ee0204d927fd13f1fde0afd8763a721264b24016a7cf5159667d3fe50e66f"
+    storlek_byte: 6719150
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D194"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1230.JPG"
+    sha256: "d12faf2e7a307b916f7e25f50fd8d8a3fbbfb7ba4bf5180f1bf834fd16036d0c"
+    storlek_byte: 4439432
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D195"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1231.JPG"
+    sha256: "c7bf5b1d31de77f7d5f680f61e234cf2e04af87be52b882c6ef7f32a5f5637d6"
+    storlek_byte: 5938584
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D196"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1315.JPG"
+    sha256: "cf0d587627068afe46846c79edb9a02cd22accf8b309a2af343d8b06efb0681d"
+    storlek_byte: 6689254
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D197"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 3\\IMG_1316.JPG"
+    sha256: "e63bcfdca6adcb241073869ba05a4314f81cf75e4c66ac3452bd432e91262aab"
+    storlek_byte: 8046960
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D198"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\FTGP9229.JPG"
+    sha256: "431543cc4881e030b65c9a9fa18c3e060e6cf234a8dad5b850a2f77edb530f3f"
+    storlek_byte: 145741
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D199"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1184.JPG"
+    sha256: "560a8bfae76f033c7fa8ad2f5d130fd99ccd95993c9f6168f2c87a747ef56d48"
+    storlek_byte: 6472058
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D200"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1185.JPG"
+    sha256: "f1c59a73ba95931719e8eff7e881628cdd5e04dbdee9dfc36b8298c3b867dc6a"
+    storlek_byte: 9396728
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D201"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1186.JPG"
+    sha256: "474cd04919a0d626fa24f18d33860ecb49acb8c36ba3d9d4732b9f34f4e5558d"
+    storlek_byte: 7151972
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D202"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1187.JPG"
+    sha256: "52cd912e51ef35ae37bdb5c2dff1af9f41adf4f54537b87b8ba9a7bdfc4c34a3"
+    storlek_byte: 8088248
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D203"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1188.JPG"
+    sha256: "2b77b8941c0a1d328403ee97dbe34baeb1c2018f276b8db0b16489c8f3e9e339"
+    storlek_byte: 5694210
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D204"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1189.JPG"
+    sha256: "716ffcd92bb267c45228409c91900f479c772c305fa96222e10d92ca08934a23"
+    storlek_byte: 5824210
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D205"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1190.JPG"
+    sha256: "0a702c995023375f21fd0991ac0c3ef81b14404b36936f4a825e743c17149d24"
+    storlek_byte: 5878956
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D206"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1191.JPG"
+    sha256: "14a3125bb233c97d2f34db56c36787c83edc4023d7158f3bdde737edf13638a0"
+    storlek_byte: 8060306
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D207"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_1200.JPG"
+    sha256: "6b203a2e52bd37d302eae55c84254012332bd23129d632f94ad701a7cd054b22"
+    storlek_byte: 9874784
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D208"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\IMG_2167.JPG"
+    sha256: "9a0e12f232cc9122204ea5f9974e6a630eaf74ed82645731344b23c3c5acc868"
+    storlek_byte: 6959753
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D209"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 4\\WSTZ9445.JPG"
+    sha256: "6eb68c3979e59af87e393d1878ddee7ced0fac0672188b9f42c874ab47d661c5"
+    storlek_byte: 155649
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D210"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1232.JPG"
+    sha256: "a05e267d69f8b7a0a5857f901c59f0a985c794cd7ce4a16ff5b9d9d773c6c51b"
+    storlek_byte: 7043614
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D211"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1233.JPG"
+    sha256: "cd733c4519ba3310a73a1f5c5785481af6fd95ec6645e45699ee848acb61dc2b"
+    storlek_byte: 5657174
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D212"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1234.JPG"
+    sha256: "ae9191c97f320dd152d8bd375eaaaac4aaea4fa52223a0f3a6e05b7eb568a7d1"
+    storlek_byte: 5781070
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D213"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1235.JPG"
+    sha256: "620f913bf0b0c288d6ef4989495a45a601d2502e9473f7e98440531c004f1322"
+    storlek_byte: 5506884
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D214"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1247.JPG"
+    sha256: "541e9ac17549bdac34868f57fc6a90b0dd50ea336fa61ed36bce9e3caa1e2c59"
+    storlek_byte: 6636412
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D215"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1248.JPG"
+    sha256: "d6ad458c2c79ebbac92f906c8a83b641cfc144c0ca173c8ea871c7cede260deb"
+    storlek_byte: 7778842
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D216"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1249.JPG"
+    sha256: "6ed8d60bb3c56ca8060b7aa11a3832a773cf89de40c4eb89c2c2be8c5d6e78d6"
+    storlek_byte: 6534534
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D217"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1250.JPG"
+    sha256: "61e00b5b8d5fe9e22da00472d6eb0d923b1ab3a713996414a3bb3bf16f306103"
+    storlek_byte: 5767264
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D218"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1251.JPG"
+    sha256: "1016a53d0cca7f96574dd5f5b18ce84374d0b6f713fd1e07cf133e3f1656ed5a"
+    storlek_byte: 6266318
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D219"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1252.JPG"
+    sha256: "f5a81994fc821700c93a9660e1d879cd75ae33851c27d26b6c2ea24dd4a619b0"
+    storlek_byte: 5909816
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D220"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1253.JPG"
+    sha256: "54c9d8c1d4d7f689fb9e7ddc5b813045e124e8fcd8a533cd68aa52222e6b9b50"
+    storlek_byte: 6231236
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D221"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1254.JPG"
+    sha256: "e904073465def1c868049d754bf91647e0a58b8abd0d2ff2e72f6a9085290437"
+    storlek_byte: 6638070
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D222"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1255.JPG"
+    sha256: "9904785eb74d0253348a607e6537590a89507f6ddd4a9da066c56ca42f682fc3"
+    storlek_byte: 5656854
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D223"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1366.JPG"
+    sha256: "e869d5a82b1c0317b42b143e34f26af175d101eaea489b0f4201180f2147757f"
+    storlek_byte: 6155222
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D224"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1367.JPG"
+    sha256: "d40d0842fad4895e4d19eab05d0d361000b23962921f84c7adbe183215e58330"
+    storlek_byte: 6977754
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D225"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1368.JPG"
+    sha256: "e5b653a514e8633b36d8bd272e8a7e33c67f9c3438f3a211f9dbd9792c548d35"
+    storlek_byte: 4371714
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D226"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1369.JPG"
+    sha256: "dd65e9506c336003408045ef011b20cb91fb7b6d19d06d5e98cbde9d71fd3951"
+    storlek_byte: 4371570
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D227"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1370.JPG"
+    sha256: "2eb5aaf3217fc802b41c00c9ebbecbf23ecb365b651ad7e26acf20b7fb1af570"
+    storlek_byte: 5362620
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D228"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1371.JPG"
+    sha256: "ed803ca9d1e52cedb21175e21392c207b731715e6cd5b25dc8b8bb16395bbb51"
+    storlek_byte: 4360616
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D229"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1372.JPG"
+    sha256: "e232da860f81043bf350fa80fb76c999dc9dd547802ce54e0058d7589168d2c8"
+    storlek_byte: 5195882
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D230"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Garage 5\\IMG_1373.JPG"
+    sha256: "5147d9df3c787fd9f64c9cf2aa22b0b57ba7948e13070f77d33363dec6742faa"
+    storlek_byte: 3903286
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D231"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1261.JPG"
+    sha256: "da442783f6a9a57d976830b044dcdefe7cf8807541664513d47ffaa58a9e6222"
+    storlek_byte: 4750718
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D232"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1287.JPG"
+    sha256: "eb8242f8388ae359f83c84f6b5714f8a0e0da8615c27dca750b8fa50ce8889e1"
+    storlek_byte: 4809050
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D233"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1289.JPG"
+    sha256: "b44211fe3bfab0532c763d0c55796992ac62b8092113d6baad39c5f68fdf60e7"
+    storlek_byte: 7283558
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D234"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1290.JPG"
+    sha256: "fc385c7c56fe3ea75f58af6ed660cab6007e6da13a65c3fb143d9f5d0464f815"
+    storlek_byte: 6041624
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D235"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1303.JPG"
+    sha256: "c2a5b1ebc27a5c11b83acf3ec60adc778990b75cb0016e3b1c3e10e1aba7f69e"
+    storlek_byte: 5980996
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D236"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1305.JPG"
+    sha256: "06117b6029c979df505e2bd663bfb2d0807b30ea0ee0913669385d8188797567"
+    storlek_byte: 4941854
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D237"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1307.JPG"
+    sha256: "70c95c6746eb171bf4a5e831363ca51101b8699ddec9e0a64e65a182bfec3d21"
+    storlek_byte: 5404418
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D238"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1308.JPG"
+    sha256: "f35b0bc9bba8d8db83d2a0b5c2d5dc53ead6b2e6b7d3dbcda27e22a3a39ff4d0"
+    storlek_byte: 5366494
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D239"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1314.JPG"
+    sha256: "f04b58a11ae4099669ebf0cfa34c9137815a5c859d3eb49b19440339ce792d6a"
+    storlek_byte: 6532678
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D240"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1377.JPG"
+    sha256: "27c9bd71f12c33b20655c5ed20cb3f3519fd1035b5f1d844a6c95f3d0e6ffff4"
+    storlek_byte: 4844142
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D241"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1378.JPG"
+    sha256: "366c383cf0f5d4bd5a17de7090a0f805e6207f9e1625ad2c68c42b3009af8eaf"
+    storlek_byte: 4198704
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D242"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1379.JPG"
+    sha256: "ffc87fe0a40af50d445a9c62bf5c0957dd8f6b09438340efc2076d0d149b9250"
+    storlek_byte: 7359268
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D243"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1381.JPG"
+    sha256: "e5b0912f64394646293d584e0e3b5e2d959202d08c2d34a7dbe51c65688c87b7"
+    storlek_byte: 4774084
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D244"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1382.JPG"
+    sha256: "b0c1f260dc6361130086984e1bce85c26a2a7b734db5e3c8171697860c77c131"
+    storlek_byte: 4483170
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D245"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1383.JPG"
+    sha256: "6ac044f7a2f33c2141fa7483ec4a9110fde2f3bbb19b35a3b76b28a3dc4cdd4b"
+    storlek_byte: 4067708
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D246"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1384.JPG"
+    sha256: "23090339a0a126829b07d22d348006aa1f2a18c2ecc164493b8339bc0f748e74"
+    storlek_byte: 4490195
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D247"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1385.JPG"
+    sha256: "5d1a8f3857f9e135118b51d41f2dcbf6c0da7b22444d2ed1c8fe232727c701b8"
+    storlek_byte: 4497509
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D248"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1386.JPG"
+    sha256: "56688768c0fc0efa3823cc8d237279b02f567ff49c3d9c34858b9838dcf74b41"
+    storlek_byte: 6782288
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D249"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1387.JPG"
+    sha256: "b60e463adf2d340b9bf4a5197af36b9713fb2947773bbfad524e809d37b19f35"
+    storlek_byte: 5042042
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D250"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1388.JPG"
+    sha256: "b5341c40eb3fb913b2d2f1e2d49d599988adbcda726052ca69bdd5bca8ab3b33"
+    storlek_byte: 6440858
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D251"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1389.JPG"
+    sha256: "d72519d7ed0d34926478b771693471aa475bf311f3e3b21b5d71fa8d322b398d"
+    storlek_byte: 6141200
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D252"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1390.JPG"
+    sha256: "b90fbf5e2aee37eacbaaf534749933a392c6b9b918c9436c54097652ed8c9fad"
+    storlek_byte: 4302510
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D253"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1391.JPG"
+    sha256: "58d20827ac6eb445addd9086ebeb07299f3a518ec8b8388b7cd7da26495962bb"
+    storlek_byte: 4845760
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D254"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1392.JPG"
+    sha256: "dc6db25940cd4aedc75cae43b3fb4d389c81419ddaa5f285e411104849e3d269"
+    storlek_byte: 4817864
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D255"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1393.JPG"
+    sha256: "c191c5eaef81c657d4cacb39190bdd85035fdb36e0ed25b864e963ff0806f149"
+    storlek_byte: 4520167
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D256"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1394.JPG"
+    sha256: "4672497d7994025336c1f59c51b77dcc995eadd62b3890880e8e2251fdfb283a"
+    storlek_byte: 5893264
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D257"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1398.JPG"
+    sha256: "34744a9b962e855a5feba1aca159a4a5f854b716336f9f2452eeb595cccb0ba5"
+    storlek_byte: 9793972
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D258"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1399.JPG"
+    sha256: "e31bcc95a800ebde5ad8bed6eb697bf579ab0793adef9dbb54de48f875de3fa6"
+    storlek_byte: 6479698
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D259"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1401.JPG"
+    sha256: "506b3c5bb5d6abdf041cc31dad91f7fde8e3807a77068f02dbcfe60b67db607c"
+    storlek_byte: 4758506
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D260"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1402.JPG"
+    sha256: "69f040e58dd37439d8689c97a0ebf50956eb613b79363de76dd5d9aee913d7c2"
+    storlek_byte: 5052030
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D261"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1403.JPG"
+    sha256: "a811fd333507cc1e313ef330d964d83f5fc51dc901a99a7e980554c6b37cc61b"
+    storlek_byte: 4468308
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D262"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1404.JPG"
+    sha256: "47c364c952c50db8981907f04c4e6e4908c270b169b8afe8fd33f18614720cf5"
+    storlek_byte: 3670977
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D263"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1405.JPG"
+    sha256: "3d23f3d0ed56d0d0250bada924a104a33c0d5a451d636d9d8bf9ca3e2ad2f12d"
+    storlek_byte: 4222274
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D264"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1406.JPG"
+    sha256: "3bd7c78efdad22ae83eec53ec87b946bd3cf80167311c89a8804389a28f8d512"
+    storlek_byte: 4451944
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D265"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1409.JPG"
+    sha256: "fe7bfe777b69cc8069eba0842a2409205f65b3989e8bc2fe08cc569cf315976b"
+    storlek_byte: 4267040
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D266"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1410.JPG"
+    sha256: "d8ea8f8fcf9baad48d758ac8796c5f42dea9c2af5e914f2bc926265edb71f27b"
+    storlek_byte: 4333126
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D267"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1411.JPG"
+    sha256: "88cca03b2c1cf7448b2d4ad00d6959e023aa7dc39ebbd682c88b81d2d348da7f"
+    storlek_byte: 4478603
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D268"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1412.JPG"
+    sha256: "9b09f350f4cd5aa1a694ac0ced7f58b7e6c2d46388b83d3044abbedd25464a40"
+    storlek_byte: 4564770
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D269"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1417.JPG"
+    sha256: "e42c9c53b1a823adb3aa2cb49ea4a007dce1974fc1474f32968de212b5004f27"
+    storlek_byte: 7345602
+    filtyp: ".jpg"
+    dubblett_av: "K-GARAGETAK-2025-D040"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D270"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1418.JPG"
+    sha256: "64bddc212d800db866645d0005874da3d967876b2dcacd506dfd2c191c60a13b"
+    storlek_byte: 4617082
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D271"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1419.JPG"
+    sha256: "95dc6544b914e432c507fa742b181758c451233a765a6cff2e360bd124ed9fb4"
+    storlek_byte: 6636802
+    filtyp: ".jpg"
+    dubblett_av: "K-GARAGETAK-2025-D041"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D272"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1420.JPG"
+    sha256: "1b7ca1665ded93c3b7b851b9a4fe13f77b4e36dd1a0083326b8e5351330e247c"
+    storlek_byte: 4746116
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D273"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1421.JPG"
+    sha256: "a3828f0f345fd27b42909c95cdc1ed91e83b62a3164b4dcb68f48bc392ae9947"
+    storlek_byte: 4908526
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D274"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1545.JPG"
+    sha256: "bc49e24cc4b69cc917b96362dde070f70f1df1c127962b7e91d5dc0b538030bb"
+    storlek_byte: 4114003
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D275"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_1546.JPG"
+    sha256: "8f18c1e9b9086a2ed9a8bf79ce9bfcc9eeb772518c8615cd0f92cc7775d3dc42"
+    storlek_byte: 3718051
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D276"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_2515.JPG"
+    sha256: "06b77dce57cee1ee752359472c6836490d63a1f4f4d50ad48702f1ea0aa0698b"
+    storlek_byte: 5480950
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D277"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_2521.JPG"
+    sha256: "7eddff720ef9a8e6d8ec45cbf5353f3cdfa72801e3e8374a5c02b03cd8d3874c"
+    storlek_byte: 7068215
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D278"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_2534.JPG"
+    sha256: "5e437c5b60c5ba10447479e6d3746c1bc2df10e5a0a57de39d929f66e6004aa2"
+    storlek_byte: 6319965
+    filtyp: ".jpg"
+    dubblett_av: "K-GARAGETAK-2025-D042"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D279"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bilder Invändigt\\IMG_2535.JPG"
+    sha256: "ce608d0d8019255ccea1518d568e4d29c29a914339b5ea61c0c1f8cb1e5f6d57"
+    storlek_byte: 5048265
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D280"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Bygg\\Egenkontroll Bygg.pdf"
+    sha256: "823e22332b06723fa9590141cc2001079e21f8bf4d449bb098891c70bd1495ae"
+    storlek_byte: 4216348
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D037"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D281"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Plåt\\Egenkontroll Plåt.pdf"
+    sha256: "e6b0fbc6d807fc1054581da2587114bec04434c5df1722c5e4c8cec45f1c6b0d"
+    storlek_byte: 4599457
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D282"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Tätskikt\\Egenkontroll Yttertak - 2025-10-03.pdf"
+    sha256: "19e6c1c12600eea2c1db5f89b31cf6da9635db6aeed29740394aba4fc7525a58"
+    storlek_byte: 1297023
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D062"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D283"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Tätskikt\\Egenkontroll Yttertak Tak 1 2025-07-11.pdf"
+    sha256: "e8edd408f4167d393bd9112353021221d06a4242f2263b95d058e464b18c3c5d"
+    storlek_byte: 2130120
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D284"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Tätskikt\\Egenkontroll Yttertak Tak 2 2025-07-09.pdf"
+    sha256: "b3b88130d6417628aa31e935a9d293b478f052dfaa3931d057e7cc7e5ec89628"
+    storlek_byte: 21628
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D285"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\5. Egenkontroller\\Tätskikt\\Egenkontroll Yttertak tilläggsisolering  - 2025-09-29.pdf"
+    sha256: "a7075682fdd0ac7ab2620b215afeddf3106de2fef68253020203b091ec7c002f"
+    storlek_byte: 593326
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D039"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D286"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\6. Ritningar\\de5cb11d-9030-4846-adac-e8dab60c2774 (1).pdf"
+    sha256: "c1b4caa040b17a70d1fc49eabb57474affac3e1fad711f0d7e9141864537fbcd"
+    storlek_byte: 907130
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D287"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\6. Ritningar\\K-20-2-101.pdf"
+    sha256: "7e1d6dad1d605e438d61d6431776e87e63b28d6531281da63f22a75a0b8c7661"
+    storlek_byte: 146552
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D121"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D288"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\6. Ritningar\\Relationsritning\\K-20-2-101.pdf"
+    sha256: "7e1d6dad1d605e438d61d6431776e87e63b28d6531281da63f22a75a0b8c7661"
+    storlek_byte: 146552
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D121"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D289"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\6. Ritningar\\Skisser på väggtyper\\IMG_1604.jpg"
+    sha256: "1703428c8b829bf591a5638bab0ad07ed8e3589cc9d457b2e27885be81689088"
+    storlek_byte: 2852531
+    filtyp: ".jpg"
+    roll: "Foto/video, arkivhänvisning; inte individuellt utförandeintyg"
+  -
+    id: "K-GARAGETAK-2025-D290"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\6. Ritningar\\Skisser på väggtyper\\Skiss bef. vägg mot skyddsrum.pdf"
+    sha256: "84876a9a612d137382d19923c33a6fc2063f46125b1bcc70848fe77ac5dbc57a"
+    storlek_byte: 419724
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D291"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\7. Skötselinstruktioner\\BEVEGO Plannja Underhåll.pdf"
+    sha256: "7509a3e8155b6bb7243d23d1b2c516427d794a8e7dadf5dc4d92d9fdf7bc56c4"
+    storlek_byte: 1036827
+    filtyp: ".pdf"
+    dubblett_av: "K-GARAGETAK-2025-D118"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D292"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\Drift & Underhållsinstruktioner Vent inkl. Styr.zip"
+    sha256: "40048a0ce31b445404b10055723efb35fd5d57c8a0e8e47d61644274e25fb4f3"
+    storlek_byte: 8448097
+    filtyp: ".zip"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D293"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\Pärmframsida.docx"
+    sha256: "e2c2a5cf42cf5b418334814b5482c223aaaa663721660b850ec1cddf4424463e"
+    storlek_byte: 36037
+    filtyp: ".docx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D294"
+    arkivsökväg: "2025 Garagetaken\\Relationshandlingar\\Pärmrygg plastpärm.doc"
+    sha256: "a10583484bcbd26a651028834b891f4f682ee4a798f665b1806c442c95a5fc0b"
+    storlek_byte: 54784
+    filtyp: ".doc"
+    roll: "Projektunderlag"
+    lässtatus: "Äldre DOC indexerad; innehåll inte fullständigt extraherat"
+  -
+    id: "K-GARAGETAK-2025-D295"
+    arkivsökväg: "2025 Garagetaken\\Teknisk beskrivning.pdf"
+    sha256: "a94760f6eac7aa9053f2ee82967314eaa1f950055c2228103a4cf31d93b4c688"
+    storlek_byte: 419908
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D296"
+    arkivsökväg: "2025 Garagetaken\\Tidplan\\Tidplan Bogesholm upd. 2025-06-26.pdf"
+    sha256: "51a927d1f0762ac9504d58bae2f9d4e86787278b0fa3b5e500b5792c6fd3b632"
+    storlek_byte: 273595
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D297"
+    arkivsökväg: "2025 Garagetaken\\Tidplan\\Tidplan Bogesholm upd. 2025-06-26.xlsx"
+    sha256: "2828ad7e8af058a7094c0ebc1961e4519f346100016b388252e9f4e6f605f4e0"
+    storlek_byte: 81410
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D298"
+    arkivsökväg: "2025 Garagetaken\\Tidplan\\Tidsplan upd. 2025-06-26.xlsx"
+    sha256: "cf5bbc18c17793bac435ac205bab68e0a64f576b17f066826084ddb81e4e611c"
+    storlek_byte: 31397
+    filtyp: ".xlsx"
+    dubblett_av: "K-GARAGETAK-2025-D109"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D299"
+    arkivsökväg: "2025 Garagetaken\\Uppdragsbekräftelse SBR.pdf"
+    sha256: "9da596d266f6bb241642f438e4a63996bca999136287773a5b2565cde05ae9c2"
+    storlek_byte: 138809
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D300"
+    arkivsökväg: "2025 Garagetaken\\Uppdragsbekräftelse.pdf"
+    sha256: "a8aed16b3b804833c374ef043e490a8ba6ab685575705b05fd5e370f0a2555cc"
+    storlek_byte: 129857
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D301"
+    arkivsökväg: "2025 Garagetaken\\Utlåtande konstruktör..pdf"
+    sha256: "40bdd1d61c00ffd6b710dcc514436b2a3f9033ace80973f54fb2ff7f4253c033"
+    storlek_byte: 1117158
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D302"
+    arkivsökväg: "2025 Garagetaken\\Utlåtande..pdf"
+    sha256: "afed25bc92992d6fddc505543efac2257cbdb1844370df4293ce7b21c9c98504"
+    storlek_byte: 660177
+    filtyp: ".pdf"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D303"
+    arkivsökväg: "2025 Garagetaken\\ÄTA-lista\\ÄTA-lista Bogesholm 2025-06-18.xlsx"
+    sha256: "2b4765bd333caeaa675a8cdee002d4fcbff55f4389b0bf0cf056861f9489368f"
+    storlek_byte: 20745
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D304"
+    arkivsökväg: "2025 Garagetaken\\ÄTA-lista\\ÄTA-lista Bogesholm Signerad.  2025-09-04.xlsx"
+    sha256: "448a844f1c5397aa7ac775cf9d70e8c45574b248719a962438f494548dd48098"
+    storlek_byte: 28587
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D305"
+    arkivsökväg: "2025 Garagetaken\\ÄTA-lista\\ÄTA-lista Bogesholm upd.  2025-08-28.xlsx"
+    sha256: "692f5c550636ee8708bbdc89f2b5641028764feb2604e7a6c28cfc33126c809c"
+    storlek_byte: 22349
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D306"
+    arkivsökväg: "2025 Garagetaken\\ÄTA-lista\\ÄTA-lista Bogesholm upd.  2025-09-22.xlsx"
+    sha256: "33fd2f934084323ca3dce973a5cefa57d2c80de4b0a16e20c2d1ebcf51a2e395"
+    storlek_byte: 22033
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D307"
+    arkivsökväg: "2025 Garagetaken\\ÄTA-lista\\ÄTA-lista Enermont.xlsx"
+    sha256: "c6554484fed204bc205689ee92ce38bd11612a9a4c730c3abaff58f2bb3ae074"
+    storlek_byte: 102462
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+  -
+    id: "K-GARAGETAK-2025-D308"
+    arkivsökväg: "2025 Garagetaken\\ÄTA-lista\\ÄTA-lista.xlsx"
+    sha256: "681a776174c3808d64b6a25ef058103482652407551be1556e54dde3b14d1558"
+    storlek_byte: 20346
+    filtyp: ".xlsx"
+    roll: "Projektunderlag"
+inre_ventilationsarkiv:
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 1 Adresser\\FLIK1 ADRESSER.pdf"
+    sha256: "1097551918ec0350a6537cece4275ecc7fd7c2015e9de516eb8ec04ab8cac4e6"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 2 Komponentlista\\FLIK 2 Aggregatförteckning  Komponentlista.pdf"
+    sha256: "80dc2c0cd93f3f70fbadaa62b9081ef9a41a62432f93ac72efd0ab709a148bb0"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\FF1 BVD.pdf"
+    sha256: "517d660b5bb9cc5912f86aa455063d87b29b0d4c60cbf64836fb3ae615475383"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\LR1 BVD.pdf"
+    sha256: "148fadd4e52fa78d780b22d85e3ae750ae4e4a39463c349016d2721069949d2f"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\RG1 CE.pdf"
+    sha256: "984638678c125a8ab61088613365e7e7b689de5f5554de788fb2718717c0e74b"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\RT1 BVD.pdf"
+    sha256: "9a0028635f60ca44c86bdccc445a2c1991e2528d4b87025752c520447feaa026"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\RT1 CE.pdf"
+    sha256: "c063737037aae7a53c103dbdbc3e799243117c2461ba7a1d1d1fc4b24d713e38"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\SP1 BVD.pdf"
+    sha256: "e8176661b450b62e18cebed34ad3d9aa07795bb331fa5db3a19c49d975a5b305"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\SP2 BVD.pdf"
+    sha256: "cbb34da1ed1b7656bd0ac786efbe07430b8500586675eaf8016430d8e62ae590"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\ST1 CE.pdf"
+    sha256: "f5076970e666c1976a62470f4d2821883f1a7f71ab537ae31fc72d40637f0ded"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\ST1 Intyg.pdf"
+    sha256: "a5b5f058ef62fe45334e335e42da47a9cdc9072f6b58790ca3179f5477164c6d"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 3 Intyg Besiktning\\TG1 BVD.pdf"
+    sha256: "2d8ad4e5adc157a73cdb0bc3d809286b1c288dc5e502e6b5736c2f3c074e6c3a"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\FF1 Datablad, Skötselanvisningar, CE-underlag.pdf"
+    sha256: "c9a0b443c7c8aa8c382b9bf81899cbd1f5946731f3f2df55331bb5f66e32d48a"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\LR1 Datablad, Skötselanvisningar.pdf"
+    sha256: "f81ec936b6c978d3dccc11d719b6f62676a7e5f65910f209d2a266a1230ba7cc"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\RG1 Datablad.pdf"
+    sha256: "1fc7759c1b86bcb4024982044fce61fe94bcca248b66a9abc83dc5fc8ec5881d"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\RT1 Datablad.pdf"
+    sha256: "b436a1c46061966f5a0346029b10b705375c43bd45a5a8682cd855389d7261e8"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\SP1 Datablad, Skötselanvisningar.pdf"
+    sha256: "fe29304cd22e22caf2c164652eaf1d94a9b9ce6b2d44df0ae72cafefe36c3465"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\ST1 Datablad.pdf"
+    sha256: "7583afae563a0ef8f88b1c708aa1e37d01aa64a0ec2d258d2bd8fac847aa1307"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\TG1 Datablad.pdf"
+    sha256: "874e4d66e43795769800135f5a17e3e44146c6b17e002c3b3eace8f81a7b52c2"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 4 Datablad\\YG1 Datablad.pdf"
+    sha256: "050fae87b28dd1469dde006f7ab2acdb55c0a7958e9cbc3ab01a342d2e7d93fa"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 5 Skötselanvisningar\\RG1 Bruksanvisning.pdf"
+    sha256: "960a0771d749189bbbca630f3ee2edd03704799255164ba528af6ce2dff7fc1d"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 5 Skötselanvisningar\\RT1 Bruksanvisning.pdf"
+    sha256: "733f265689caf22c64d7c469e86bfbcc065b82e3d01ac3aa21bcaa08ea652550"
+  -
+    fil: "Drift & Underhållsinstruktioner Vent inkl. Styr\\Flik 5 Skötselanvisningar\\ST1 montering.pdf"
+    sha256: "c05ce7189db4d2d7093ca23f7bc432e5c5658877ee0f28f9fefaee843660b041"

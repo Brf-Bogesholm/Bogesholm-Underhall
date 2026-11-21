@@ -1,0 +1,27 @@
+projekt: "P-GARAGETAK-2025"
+grundkontrakt_exklusive_moms: 2560000
+grundfakturor_exklusive_moms: 1700000
+resterande_grundbelopp_enligt_jämförelse: 860000
+beloppskommentar: "Matematisk differens, inte importerad eller verifierad slutfaktura."
+tillgängliga_fakturor:
+  - "F-2024-GARAGETAK-12173962"
+  - "F-2025-GARAGETAK-2125100441"
+  - "F-2025-GARAGETAK-2125100536"
+  - "F-2025-GARAGETAK-2125100662"
+  - "F-2025-GARAGETAK-2125100769"
+  - "F-2025-GARAGETAK-306"
+summa_tillgängliga_fakturor_inklusive_moms: 2956343
+redovisning_ofullständig: true
+slutfaktura:
+  finns_enligt_beställaren: true
+  tillgänglig: false
+  fakturanummer: null
+  datum: null
+  belopp: null
+betalningsstatus: "Hela projektet slutbetalt enligt beställaren"
+betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+slutligt_totalutfall: null
+kostnadsprincip: "Endast unika fakturor i fakturaregistret summeras; avtals- och ÄTA-belopp är referensuppgifter."
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"
+  - "K-GARAGETAK-BEKRAFTELSE-20261121"

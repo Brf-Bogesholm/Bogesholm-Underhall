@@ -1,0 +1,21 @@
+projekt: "P-GARAGETAK-2025"
+statusbesiktning:
+  datum: "2024-02-08"
+  rapport: "2024-02-12"
+  företag: "MP-plåtkonsultering AB"
+  omfattning: "Del av garagetak"
+  iakttagelser:
+    - "Osäker bärighet för solceller"
+    - "Felaktiga/osäkra takplåtsinfästningar och hål i takplåt"
+    - "Bristfälliga nockskarvar och infästningar, tätband saknas"
+    - "Begynnande korrosion vid taksprång"
+  rekommendation: "Montera inte solceller på dåvarande tak. Riv till konstruktion, förstärk stomme och bygg upp papptak."
+konstruktör:
+  företag: "PE Teknik & Arkitektur AB"
+  rapport_datum: "2024-02-12"
+  begränsning: "Översiktlig syn av en representativ garagekonstruktion; exakta vikter och status i alla garage inte kontrollerade."
+  dåvarande_bedömning: "Ingen överkapacitet att utnyttja för solceller. Fackverksbalk och upplagsdetaljer kräver åtgärd."
+  historiskt_förslag: "Förstärkt upplag och mittstöd/stålpelare; inte samma som senare utförd trästolpslösning."
+avgränsning: "Beskriver före renoveringen, inte dagens skick eller att 2025 års förstärkning saknas."
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"

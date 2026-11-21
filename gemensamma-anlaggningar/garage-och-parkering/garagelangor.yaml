@@ -12,8 +12,14 @@ objekt:
     underhållshistorik:
       - "A-2025-757025140596-3"
       - "A-HANGRANNOR-2023"
+      - "A-GARAGETAK-RENOVERING-2025"
     källor:
       - "K-KOMPLETTERING-2026-10-23-03"
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    garagetaksprojekt_2025: "P-GARAGETAK-2025"
+    historisk_brand_pm_grupp: "G2"
+    brand_pm_kommentar: "G1=garagelänga 1–3, G2=garagelänga 4 enligt beställaren; inte enskilda garageplatser."
   -
     id: "GL-2"
     typ: "garagebyggnad"
@@ -30,9 +36,15 @@ objekt:
       []
     underhållshistorik:
       - "A-HANGRANNOR-2023"
+      - "A-GARAGETAK-RENOVERING-2025"
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
       - "K-OMRADESKARTA-20261118"
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    garagetaksprojekt_2025: "P-GARAGETAK-2025"
+    historisk_brand_pm_grupp: "G1"
+    brand_pm_kommentar: "G1=garagelänga 1–3, G2=garagelänga 4 enligt beställaren; inte enskilda garageplatser."
   -
     id: "GL-3"
     typ: "garagebyggnad"
@@ -49,6 +61,48 @@ objekt:
       []
     underhållshistorik:
       - "A-HANGRANNOR-2023"
+      - "A-GARAGETAK-RENOVERING-2025"
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
       - "K-OMRADESKARTA-20261118"
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    garagetaksprojekt_2025: "P-GARAGETAK-2025"
+    historisk_brand_pm_grupp: "G1"
+    brand_pm_kommentar: "G1=garagelänga 1–3, G2=garagelänga 4 enligt beställaren; inte enskilda garageplatser."
+  -
+    id: "GL-1"
+    typ: "garagebyggnad"
+    namn: "Garagelänga 1"
+    datastatus: "Byggnadsnummer bekräftat av beställaren"
+    placering: "Brf Bogesholms garageområde; exakt gatuadress ej fastställd"
+    egenskaper:
+      ingående_garageplatser: null
+    relationer:
+      []
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    garagetaksprojekt_2025: "P-GARAGETAK-2025"
+    historisk_brand_pm_grupp: "G1"
+    brand_pm_kommentar: "G1=garagelänga 1–3, G2=garagelänga 4 enligt beställaren; inte enskilda garageplatser."
+  -
+    id: "GL-5"
+    typ: "garagebyggnad"
+    namn: "Garagelänga 5"
+    datastatus: "Byggnadsnummer bekräftat av beställaren"
+    placering: "Brf Bogesholms garageområde; exakt gatuadress ej fastställd"
+    egenskaper:
+      ingående_garageplatser: null
+    relationer:
+      []
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    garagetaksprojekt_2025: "P-GARAGETAK-2025"
+    historisk_brand_pm_grupp: null
+    brand_pm_kommentar: "Garage 5 ingick inte i ursprungligt brand-PM enligt beställaren."

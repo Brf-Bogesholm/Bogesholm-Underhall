@@ -3,6 +3,7 @@ registreringsomgångar:
   - "2026-11-18-VPSERVICE"
   - "2026-11-21-FLAGGSTANG"
   - "2026-11-21-DILFOG-KOMPLETTERING"
+  - "2026-11-21-GARAGETAK"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -322,3 +323,286 @@ fakturor:
       - "K-DILATATIONSFOGAR-SLUT-20261121"
       - "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
     kommentar: "En totalentreprenadpost; belopp fördelas inte lika per hus. Fakturadatum ersätter inte tidigare dokumenterade besiktnings-/godkännandedatum och anger inte avhjälpandedatum."
+  -
+    id: "F-2025-GARAGETAK-2125100441"
+    fakturanummer: "2125100441"
+    leverantör: "Nimab Support AB"
+    organisationsnummer: "556757-9130"
+    fakturadatum: "2025-07-09"
+    förfallodatum: "2025-08-08"
+    valuta: "SEK"
+    exklusive_moms: 600000
+    moms: 150000
+    öresavrundning: 0
+    att_betala: 750000
+    betalningsstatus: "Slutbetalt enligt beställarens uppgift om hela projektet"
+    betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+    betalningsdatum: null
+    projekt: "P-GARAGETAK-2025"
+    åtgärder:
+      - "A-GARAGETAK-RENOVERING-2025"
+    rader:
+      -
+        id: "F-2025-GARAGETAK-2125100441-R1"
+        benämning: "Delfaktura 1"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 600000
+        belopp_exklusive_moms: 600000
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."
+  -
+    id: "F-2025-GARAGETAK-2125100536"
+    fakturanummer: "2125100536"
+    leverantör: "Nimab Support AB"
+    organisationsnummer: "556757-9130"
+    fakturadatum: "2025-09-08"
+    förfallodatum: "2025-10-08"
+    valuta: "SEK"
+    exklusive_moms: 1100000
+    moms: 275000
+    öresavrundning: 0
+    att_betala: 1375000
+    betalningsstatus: "Slutbetalt enligt beställarens uppgift om hela projektet"
+    betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+    betalningsdatum: null
+    projekt: "P-GARAGETAK-2025"
+    åtgärder:
+      - "A-GARAGETAK-RENOVERING-2025"
+    rader:
+      -
+        id: "F-2025-GARAGETAK-2125100536-R1"
+        benämning: "Delfaktura 2"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1100000
+        belopp_exklusive_moms: 1100000
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."
+  -
+    id: "F-2025-GARAGETAK-2125100662"
+    fakturanummer: "2125100662"
+    leverantör: "Nimab Support AB"
+    organisationsnummer: "556757-9130"
+    fakturadatum: "2025-10-24"
+    förfallodatum: "2025-11-23"
+    valuta: "SEK"
+    exklusive_moms: 357595.52
+    moms: 89398.88
+    öresavrundning: -0.4
+    att_betala: 446994
+    betalningsstatus: "Slutbetalt enligt beställarens uppgift om hela projektet"
+    betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+    betalningsdatum: null
+    projekt: "P-GARAGETAK-2025"
+    åtgärder:
+      - "A-GARAGETAK-RENOVERING-2025"
+    rader:
+      -
+        id: "F-2025-GARAGETAK-2125100662-R1"
+        benämning: "ÄTA 1, 8 och 14 Taksäkerhet"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 226520
+        belopp_exklusive_moms: 226520
+      -
+        id: "F-2025-GARAGETAK-2125100662-R2"
+        benämning: "ÄTA 2 och 4 Invändigt teknikrum"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 15599
+        belopp_exklusive_moms: 15599
+      -
+        id: "F-2025-GARAGETAK-2125100662-R3"
+        benämning: "ÄTA 5 Ventilation"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 62874.52
+        belopp_exklusive_moms: 62874.52
+      -
+        id: "F-2025-GARAGETAK-2125100662-R4"
+        benämning: "ÄTA 7 och 9 Korrigering av takfot och rivning befintliga väggar i garage"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 29279
+        belopp_exklusive_moms: 29279
+      -
+        id: "F-2025-GARAGETAK-2125100662-R5"
+        benämning: "ÄTA 13 Montage markskruv"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 23323
+        belopp_exklusive_moms: 23323
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."
+  -
+    id: "F-2025-GARAGETAK-2125100769"
+    fakturanummer: "2125100769"
+    leverantör: "Nimab Support AB"
+    organisationsnummer: "556757-9130"
+    fakturadatum: "2025-12-02"
+    förfallodatum: "2026-01-01"
+    valuta: "SEK"
+    exklusive_moms: 245623.36
+    moms: 61405.84
+    öresavrundning: -0.2
+    att_betala: 307029
+    betalningsstatus: "Slutbetalt enligt beställarens uppgift om hela projektet"
+    betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+    betalningsdatum: null
+    projekt: "P-GARAGETAK-2025"
+    åtgärder:
+      - "A-GARAGETAK-RENOVERING-2025"
+    rader:
+      -
+        id: "F-2025-GARAGETAK-2125100769-R1"
+        benämning: "Byggmaterial, ÄTA12 byggnad 4 och 5"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 96162.16
+        belopp_exklusive_moms: 96162.16
+      -
+        id: "F-2025-GARAGETAK-2125100769-R2"
+        benämning: "Maskinhyra, avfallshantering"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 12611.2
+        belopp_exklusive_moms: 12611.2
+      -
+        id: "F-2025-GARAGETAK-2125100769-R3"
+        benämning: "Hantverkare inklusive servicebil"
+        antal: 238
+        enhet: "tim"
+        à_pris_exklusive_moms: 575
+        belopp_exklusive_moms: 136850
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."
+  -
+    id: "F-2025-GARAGETAK-306"
+    fakturanummer: "306"
+    leverantör: "MP-plåtkonsultering AB"
+    organisationsnummer: "559418-9838"
+    fakturadatum: "2025-10-24"
+    förfallodatum: "2025-11-23"
+    valuta: "SEK"
+    exklusive_moms: 60576
+    moms: 15144
+    öresavrundning: 0
+    att_betala: 75720
+    betalningsstatus: "Slutbetalt enligt beställarens uppgift om hela projektet"
+    betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+    betalningsdatum: null
+    projekt: "P-GARAGETAK-2025"
+    åtgärder:
+      - "A-GARAGETAK-RENOVERING-2025"
+    rader:
+      -
+        id: "F-2025-GARAGETAK-306-R1"
+        benämning: "Enligt uppdragsbekräftelse 2025-0104 / 2025-0501 SB / 2025-0601 KA"
+        antal: 0
+        enhet: "EA"
+        à_pris_exklusive_moms: 0
+        belopp_exklusive_moms: 0
+      -
+        id: "F-2025-GARAGETAK-306-R2"
+        benämning: "7 juli: BM2 med protokoll och syn med bilaga"
+        antal: 8
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 8800
+      -
+        id: "F-2025-GARAGETAK-306-R3"
+        benämning: "Bilersättning"
+        antal: 162
+        enhet: "EA"
+        à_pris_exklusive_moms: 8
+        belopp_exklusive_moms: 1296
+      -
+        id: "F-2025-GARAGETAK-306-R4"
+        benämning: "6 augusti: BM3 med rapport och FB3 med bilaga"
+        antal: 7
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 7700
+      -
+        id: "F-2025-GARAGETAK-306-R5"
+        benämning: "Bilersättning"
+        antal: 162
+        enhet: "EA"
+        à_pris_exklusive_moms: 8
+        belopp_exklusive_moms: 1296
+      -
+        id: "F-2025-GARAGETAK-306-R6"
+        benämning: "20 augusti: BM4 med rapport och FB4 med bilaga"
+        antal: 8
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 8800
+      -
+        id: "F-2025-GARAGETAK-306-R7"
+        benämning: "Bilersättning"
+        antal: 162
+        enhet: "EA"
+        à_pris_exklusive_moms: 8
+        belopp_exklusive_moms: 1296
+      -
+        id: "F-2025-GARAGETAK-306-R8"
+        benämning: "3 september: KA-platsbesök och dokumentation samt BM5 med rapport"
+        antal: 7
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 7700
+      -
+        id: "F-2025-GARAGETAK-306-R9"
+        benämning: "Bilersättning"
+        antal: 162
+        enhet: "EA"
+        à_pris_exklusive_moms: 8
+        belopp_exklusive_moms: 1296
+      -
+        id: "F-2025-GARAGETAK-306-R10"
+        benämning: "22 september: BM6 med rapport"
+        antal: 5
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 5500
+      -
+        id: "F-2025-GARAGETAK-306-R11"
+        benämning: "Bilersättning"
+        antal: 162
+        enhet: "EA"
+        à_pris_exklusive_moms: 8
+        belopp_exklusive_moms: 1296
+      -
+        id: "F-2025-GARAGETAK-306-R12"
+        benämning: "14 oktober: slutbesiktning med inläsning/utlåtande och KA-utlåtande"
+        antal: 11
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 12100
+      -
+        id: "F-2025-GARAGETAK-306-R13"
+        benämning: "Bilersättning"
+        antal: 162
+        enhet: "EA"
+        à_pris_exklusive_moms: 8
+        belopp_exklusive_moms: 1296
+      -
+        id: "F-2025-GARAGETAK-306-R14"
+        benämning: "Diverse projektledning, telefon/mejl"
+        antal: 2
+        enhet: "tim"
+        à_pris_exklusive_moms: 1100
+        belopp_exklusive_moms: 2200
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."

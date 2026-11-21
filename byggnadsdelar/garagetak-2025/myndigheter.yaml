@@ -1,0 +1,18 @@
+projekt: "P-GARAGETAK-2025"
+ärende: "MB-2025-512"
+fastighet_enligt_ka: "Bågen 2"
+projektadress_enligt_ka: "Högalidsvägen 69"
+kontrollplan: "Signerad kontrollplan finns i arkivet"
+ka_utlåtande:
+  datum: "2025-10-18"
+  bedömning: "Åtgärden bedöms färdigställd och kontroller hanterade; glipor i takisolering kvarstår enligt SB1."
+  rekommendation: "Förutsättningar för interimistiskt slutbesked med villkor"
+  källans_deadline: "2020-12-12"
+  kommentar: "Uppenbar årtalsavvikelse, bevaras utan tyst rättelse. SB1 anger 2025-12-12."
+kommunalt_slutbesked:
+  status: "Okänt"
+  källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+  utfärdat_beslut_finns_i_granskat_underlag: false
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"
+  - "K-GARAGETAK-BEKRAFTELSE-20261121"

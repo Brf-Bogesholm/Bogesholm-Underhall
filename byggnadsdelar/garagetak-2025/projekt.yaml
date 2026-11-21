@@ -1,0 +1,68 @@
+id: "P-GARAGETAK-2025"
+år: 2025
+syfte: "Renovering och förstärkning av garagetak inför solcellsinstallation"
+objekt:
+  - "GL-1"
+  - "GL-2"
+  - "GL-3"
+  - "GL-4"
+  - "GL-5"
+numrering:
+  tak_byggnad_1_5: "Garagelänga 1–5 enligt beställaren"
+  brand_pm_G1:
+    - "GL-1"
+    - "GL-2"
+    - "GL-3"
+  brand_pm_G2:
+    - "GL-4"
+  garage5_i_äldre_brand_pm: false
+  enskilda_garage: "1–71 motsvarar 701–771, annan numrering än takytorna"
+entreprenörer:
+  totalentreprenör: "Nimab Support AB"
+  tätskikt: "Ekdahls Bygg- & Takentreprenad AB"
+  plåt: "Nimab Support AB"
+  ventilation: "Luftfördelarna"
+  styr: "JL Drift och Elteknik AB"
+  solceller_sidoentreprenör: "Enermont AB"
+  byggmaterialleverantör: "XL Hans Anders"
+avtal:
+  daterat: "2025-04-07"
+  entreprenörssignering: "2025-04-08"
+  planerat_slut: "2025-09-30"
+  godkänd_slutbesiktning: "2025-10-14"
+  entreprenadform: "Totalentreprenad ABT06, delad entreprenad med solceller som sidoentreprenad"
+tätskikt:
+  produkt: "Mataki UnoTech FR"
+  area_m2: 1500
+  tak_1_2_med_solpaneler_m2: 500
+  tak_3_4_5_utan_överbyggnad_m2: 1000
+  ansvarsutfästelse: "AB TG 2025-2870 version 1"
+  godkänd_slutbesiktning: "2025-10-14"
+  utfärdat: "2025-10-25"
+konstruktion:
+  relationsritning: "K-20-2-101, 2025-09-24"
+  nya_stolpar: "Trä 70x70, på markskruv 1200 mm enligt relationsritning"
+  infästningar: "2 st M10 vagnsbult 100 mm; detalj 10 mm plattjärn, 15 mm upplag, 3 st M16; läses mot ritningen"
+  balkupplag: "Ny regel som stöd under befintligt balkupplag"
+  undertak: "CONLIT 150 vit väv, 20 mm stenullsskiva enligt relationsritning"
+  takuppbyggnad: "Råspont, underlagspapp, ytpapp; tre garage har enligt relationsritning även Paroc stenull och ytpapp igen p.g.a. brandkrav"
+  avgränsning: "Exakt fördelning av kompletterande isolering måste bevara olika versions-/platsuppgifter; inte allmän 20 eller 30 mm på alla tak"
+brandskydd:
+  ursprunglig_pm: "2024-06-28 reviderad 2024-07-08, ursprunglig G1"
+  plan: "Brandcellsindelning i grupper om normalt tre, ibland fyra garage, enligt projekteringen. Individuell exakt gränskarta ska läsas mot ritning."
+  teknikrum: "PM föreskriver minst EI30, senare ÄTA beställer extra gipsskikt för EI60 i teknikrummets väggar; faktura stödjer tillägg."
+  garageväggar: "Senare byggmöte anger dubbel gips på båda sidor."
+  isolering_avgränsning: "Slutlig exakt tjocklek och fördelning per tak för övre brandskyddsboard inte entydig i alla källor; inte generell 20/30 mm för alla tak."
+slutbesiktning: "B-GARAGETAK-SB1-20251014"
+avhjälpande: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till; skild från oberoende efterbesiktning."
+slutbesked: "Okänt enligt beställaren; KA-utlåtande är inte kommunalt slutbesked"
+faktura_referenser:
+  - "F-2024-GARAGETAK-12173962"
+  - "F-2025-GARAGETAK-2125100441"
+  - "F-2025-GARAGETAK-2125100536"
+  - "F-2025-GARAGETAK-2125100662"
+  - "F-2025-GARAGETAK-2125100769"
+  - "F-2025-GARAGETAK-306"
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"
+  - "K-GARAGETAK-BEKRAFTELSE-20261121"

@@ -1,0 +1,56 @@
+projekt: "P-GARAGETAK-2025"
+entreprenadgaranti:
+  år: 5
+  källvillkor: "AFD.471 minst fem år även för föreskrivet material; från godkänd entreprenad"
+  start: "2025-10-14"
+  exakt_slutdatum: null
+tätskikt:
+  nummer: "AB TG 2025-2870 version 1"
+  utfärdat: "2025-10-25"
+  produkt: "Mataki UnoTech FR"
+  area_m2: 1500
+  start: "2025-10-14"
+  ansvarsutfästelse_år: 10
+  subsidiär_första_år: 2
+  materialgaranti_år_10_till_15: true
+  villkor:
+    - "Full betalning enligt utfästelsen; beställaren uppger projektet slutbetalt."
+    - "Materialgaranti efter år 10 avser nytt material, inte automatiskt arbete/följdskada."
+    - "Eftermontering av solpaneler eller annan överbyggnad kräver föregående godkännande. Tak 1–2 med paneler finns redan noterade i utfästelsen."
+    - "Underhåll och reklamationsvillkor gäller enligt originalhandlingen."
+moderbolag:
+  garantigivare: "STRABAG SE"
+  nummer: "AT082-2504-0347"
+  datum: "2025-04-15"
+  byggtid_max_sek: 256000
+  garantiperiod_max_sek: 128000
+  giltighet: "Två år efter godkännande, med villkor om konstaterade fel enligt originalet. Säkerhet, inte tätskiktsgaranti."
+plåt:
+  leverantör: "Plannja via Bevego Malmö"
+  dokumentdatum: "2025-10-16"
+  projekt: "725-2825003"
+  beläggning: null
+  korrosivitetsklass: null
+  exakt_garantitid: null
+  kommentar: "Tabell med olika tider för beläggning och miljö, ingen obetingad 30/40/50-årsgaranti härleds."
+föreskrivna_varugarantier:
+  tätskikt_år: 12
+  plåt_år: 30
+  solcell_år: 25
+  elkomponenter_år: 25
+  taksäkerhet_år: 40
+  status: "Begärda tider i förfrågningsunderlag, inte automatiskt utfärdade eller verifierade garantier."
+skötsel:
+  tätskikt:
+    - "Kontrollera och rengör minst vår och höst."
+    - "Håll takytor, ränndalar och avvattning rena; spola inte skräp ned i avlopp."
+    - "Kontrollera skarvar, genomföringar, infästningar och anslutande plåtdetaljer."
+    - "Dokumentera skötseln. Kontakta takentreprenör inför ändringar på taket."
+    - "Lämna snöskikt vid skottning enligt tillämplig anvisning, undvik skador på tätskikt."
+  plåt:
+    - "Årlig kontroll och rengöring enligt Plannjas underhållsanvisning."
+    - "Avlägsna löv/smuts och metallspån; kontrollera repor, kanter, infästningar och fri avrinning."
+    - "Bättring och reparation enligt kompatibelt system, inte en antagen kulör."
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"
+  - "K-GARAGETAK-BEKRAFTELSE-20261121"

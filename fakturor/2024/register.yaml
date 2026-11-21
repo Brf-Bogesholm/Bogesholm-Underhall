@@ -2,6 +2,7 @@ version: "1.0"
 registreringsomgångar:
   - "2026-11-18-VPSERVICE"
   - "2026-11-21-HANDIKAPPARKERING"
+  - "2026-11-21-GARAGETAK"
 fakturor:
   -
     id: "F-2024-TK-10266"
@@ -205,3 +206,33 @@ fakturor:
     källor:
       - "K-HANDIKAPPARKERING-2024"
       - "K-HANDIKAPPARKERING-BEKRAFTELSE-20261121"
+  -
+    id: "F-2024-GARAGETAK-12173962"
+    fakturanummer: "12173962"
+    leverantör: "PE Teknik & Arkitektur AB"
+    organisationsnummer: "556896-8308"
+    fakturadatum: "2024-08-06"
+    förfallodatum: "2024-09-05"
+    valuta: "SEK"
+    exklusive_moms: 1280
+    moms: 320
+    öresavrundning: 0
+    att_betala: 1600
+    betalningsstatus: "Slutbetalt enligt beställarens uppgift om hela projektet"
+    betalningskälla: "K-GARAGETAK-BEKRAFTELSE-20261121"
+    betalningsdatum: null
+    projekt: "P-GARAGETAK-2025"
+    åtgärder:
+      - "A-GARAGETAK-RENOVERING-2025"
+    rader:
+      -
+        id: "F-2024-GARAGETAK-12173962-R1"
+        benämning: "Konstruktörsarvode"
+        antal: 1
+        enhet: "tim"
+        à_pris_exklusive_moms: 1280
+        belopp_exklusive_moms: 1280
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "En unik fakturakostnad. Avtal/ÄTA-listor summeras inte ovanpå. Fakturadatum ersätter inte särskilda arbets-/besiktningsdatum. Delbetalning är inte installation av alla tak på fakturadagen."

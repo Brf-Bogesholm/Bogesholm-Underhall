@@ -3861,3 +3861,192 @@ objekt:
       - "K-FTX-KOMPLETTERING-20261119"
     serviceavtal:
       - "AVT-OMAN-FTX-6543581"
+  -
+    id: "TI-VENT-SOLTEKNIK-FF1"
+    typ: "takfläkt"
+    namn: "FF1 TFC 225 S Sileo Svart"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Systemair"
+      modell: "TFC 225 S Sileo Svart"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Lokal projektbeteckning; inte samma FF1 som föreningslokalens OVK-fläkt."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-TG1"
+    typ: "takgenomföring"
+    namn: "TG1 TG 400-800"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Systemair"
+      modell: "TG 400-800"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-LR1"
+    typ: "filterkassett"
+    namn: "LR1 FFR 315"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Systemair"
+      modell: "FFR 315"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-SP1"
+    typ: "backspjäll"
+    namn: "SP1 BTG 400"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Systemair"
+      modell: "BTG 400"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-SP2"
+    typ: "spjäll/kanalkomponent"
+    namn: "SP2 HISC 315"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Bevego"
+      modell: "HISC 315"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-YG1"
+    typ: "ytterväggsgaller"
+    namn: "YG1 ABC-YG 400x400"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Swegon"
+      modell: "ABC-YG 400x400"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-RG1"
+    typ: "temperaturregulator"
+    namn: "RG1 EC-Basic-T"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Systemair"
+      modell: "EC-Basic-T"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-RT1"
+    typ: "rumstermostat"
+    namn: "RT1 RT 0-30"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Systemair"
+      modell: "RT 0-30"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+  -
+    id: "TI-VENT-SOLTEKNIK-ST1"
+    typ: "ställdon"
+    namn: "ST1 NM230A"
+    placering: "Teknikrum för solcellsanläggning, garageområdet"
+    datastatus: "Enligt relationshandlingarnas komponentlista 2025-10-15"
+    egenskaper:
+      fabrikat: "Belimo"
+      modell: "NM230A"
+      serienummer: null
+      installationsår: 2025
+      installationsdatum: null
+      kommentar: "Antal anges inte separat i komponentlistan; ingen extra tillvalsutrustning antas."
+    relationer:
+      -
+        typ: "located_in"
+        objekt: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    underhållshistorik:
+      - "A-GARAGETAK-RENOVERING-2025"
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"

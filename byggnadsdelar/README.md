@@ -67,3 +67,7 @@ Uppgifter som ännu inte är verifierade ska inte presenteras som fakta.
 ## Dilatationsfogar
 
 [Byte 2025](dilatationsfogar/README.md) – samtliga bostadshus och kvartershuset, materialuppgifter, egenkontroll och femårig garanti med okänd startdag.
+
+## Garagetak
+
+[Renovering 2025 inför solceller](garagetak-2025/README.md) – fem garagelängor, stomförstärkning, tätskikt, teknikrum, kontroller, garantier och fakturor.

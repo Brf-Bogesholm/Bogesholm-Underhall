@@ -355,3 +355,30 @@ version: "1.0"
       - "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
     slutbesiktning: "B-DILATATIONSFOGAR-SLUT-20250526"
     avhjälpandebekräftelse: "K-DILATATIONSFOGAR-AVHJALPANDE-20261121"
+  -
+    id: "A-GARAGETAK-RENOVERING-2025"
+    år: 2025
+    datum: null
+    åtgärd: "Renovering och förstärkning av fem garagetak inför solcellsinstallation"
+    objekt:
+      - "GL-1"
+      - "GL-2"
+      - "GL-3"
+      - "GL-4"
+      - "GL-5"
+      - "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    projekt: "P-GARAGETAK-2025"
+    utförare: "Nimab Support AB med underentreprenörer"
+    slutbesiktning: "B-GARAGETAK-SB1-20251014"
+    godkännandedatum: "2025-10-14"
+    fakturor:
+      - "F-2025-GARAGETAK-2125100441"
+      - "F-2025-GARAGETAK-2125100536"
+      - "F-2025-GARAGETAK-2125100662"
+      - "F-2025-GARAGETAK-2125100769"
+      - "F-2025-GARAGETAK-306"
+    kostnad: null
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"
+    kommentar: "Kumulativa byggmöten och fakturadatum blir inte separata takbyten. Avhjälpande såvitt beställaren vet genomfört; kommunalt slutbesked okänt."

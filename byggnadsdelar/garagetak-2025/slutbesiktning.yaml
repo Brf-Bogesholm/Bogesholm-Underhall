@@ -1,0 +1,1247 @@
+id: "B-GARAGETAK-SB1-20251014"
+projekt: "P-GARAGETAK-2025"
+datum: "2025-10-14"
+godkänd: "2025-10-14"
+utförare: "MP-plåtkonsultering AB"
+entreprenörer:
+  - "Nimab Support AB"
+  - "Enermont AB"
+frist_avhjälpande: "2025-12-12"
+numrerade_punkter:
+  -
+    nummer: 1
+    klassning: "E"
+    text: "Garantisedel Garantisedel saknas på tätskikt, taksäkerhet."
+    källsida: 3
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R001"
+    objekt: null
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 2
+    klassning: "E"
+    text: "Garantisedel Garantisedlar saknas. Enermont"
+    källsida: 3
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R002"
+    objekt: null
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 3
+    klassning: "E"
+    text: "Generellt Elkabel till vägguttag på brandväggar är inte klamrad."
+    källsida: 3
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R003"
+    objekt: null
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 4
+    klassning: "E"
+    text: "Generellt Finns för stora glipor i takisolering"
+    källsida: 3
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R004"
+    objekt: null
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 5
+    klassning: null
+    text: "Garage 1 U.A"
+    källsida: 4
+    garage_registernummer: 701
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R005"
+    objekt: "G-701"
+  -
+    nummer: 6
+    klassning: null
+    text: "Garage 2 U.A"
+    källsida: 4
+    garage_registernummer: 702
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R006"
+    objekt: "G-702"
+  -
+    nummer: 7
+    klassning: null
+    text: "Garage 3 U.A"
+    källsida: 4
+    garage_registernummer: 703
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R007"
+    objekt: "G-703"
+  -
+    nummer: 8
+    klassning: "E"
+    text: "Garage 4 Finns ett större hål i asfalt som inte är återställt vid borrplint."
+    källsida: 4
+    garage_registernummer: 704
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R008"
+    objekt: "G-704"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 9
+    klassning: null
+    text: "Garage 5 U.A"
+    källsida: 4
+    garage_registernummer: 705
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R009"
+    objekt: "G-705"
+  -
+    nummer: 10
+    klassning: null
+    text: "Garage 6 U.A"
+    källsida: 4
+    garage_registernummer: 706
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R010"
+    objekt: "G-706"
+  -
+    nummer: 11
+    klassning: "E"
+    text: "Garage 7 Finns ett större hål i asfalt som inte är återställt vid borrplint."
+    källsida: 4
+    garage_registernummer: 707
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R011"
+    objekt: "G-707"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 12
+    klassning: "E"
+    text: "Garage 8 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 708
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R012"
+    objekt: "G-708"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 13
+    klassning: null
+    text: "Garage 9 U.A"
+    källsida: 4
+    garage_registernummer: 709
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R013"
+    objekt: "G-709"
+  -
+    nummer: 14
+    klassning: null
+    text: "Garage 10 U.A"
+    källsida: 4
+    garage_registernummer: 710
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R014"
+    objekt: "G-710"
+  -
+    nummer: 15
+    klassning: null
+    text: "Garage 11 U.A"
+    källsida: 4
+    garage_registernummer: 711
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R015"
+    objekt: "G-711"
+  -
+    nummer: 16
+    klassning: "E"
+    text: "Garage 12 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 4
+    garage_registernummer: 712
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R016"
+    objekt: "G-712"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 17
+    klassning: "B"
+    text: "Garage 13 Inte besiktningsbart. Garaget är belamrad med saker."
+    källsida: 4
+    garage_registernummer: 713
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R017"
+    objekt: "G-713"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 18
+    klassning: "E"
+    text: "Garage 14 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 714
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R018"
+    objekt: "G-714"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 19
+    klassning: null
+    text: "Garage 15 U.A"
+    källsida: 4
+    garage_registernummer: 715
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R019"
+    objekt: "G-715"
+  -
+    nummer: 20
+    klassning: "E"
+    text: "Garage 16 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 716
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R020"
+    objekt: "G-716"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 21
+    klassning: "E"
+    text: "Garage 17 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 717
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R021"
+    objekt: "G-717"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 22
+    klassning: "E"
+    text: "Garage 18 Saknas brandfog vid elkabel ifrån brandvarnare (Enermont) i brandvägg."
+    källsida: 4
+    garage_registernummer: 718
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R022"
+    objekt: "G-718"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 23
+    klassning: "E"
+    text: "Garage 18 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 4
+    garage_registernummer: 718
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R023"
+    objekt: "G-718"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 24
+    klassning: null
+    text: "Garage 19 U.A"
+    källsida: 4
+    garage_registernummer: 719
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R024"
+    objekt: "G-719"
+  -
+    nummer: 25
+    klassning: "E"
+    text: "Garage 20 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 720
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R025"
+    objekt: "G-720"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 26
+    klassning: null
+    text: "Garage 21 U.A"
+    källsida: 4
+    garage_registernummer: 721
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R026"
+    objekt: "G-721"
+  -
+    nummer: 27
+    klassning: null
+    text: "Teknikrum U.A"
+    källsida: 4
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R027"
+    objekt: null
+  -
+    nummer: 28
+    klassning: null
+    text: "Garage 22 U.A"
+    källsida: 4
+    garage_registernummer: 722
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R028"
+    objekt: "G-722"
+  -
+    nummer: 29
+    klassning: "E"
+    text: "Garage 23 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 723
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R029"
+    objekt: "G-723"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 30
+    klassning: null
+    text: "Garage 24 U.A"
+    källsida: 4
+    garage_registernummer: 724
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R030"
+    objekt: "G-724"
+  -
+    nummer: 31
+    klassning: "E"
+    text: "Garage 25 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 4
+    garage_registernummer: 725
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R031"
+    objekt: "G-725"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 32
+    klassning: "E"
+    text: "Garage 26 Finns ett större hål i asfalt som inte är återställt vid vänster/ höger borrplint."
+    källsida: 5
+    garage_registernummer: 726
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R032"
+    objekt: "G-726"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 33
+    klassning: "E"
+    text: "Garage 27 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 5
+    garage_registernummer: 727
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R033"
+    objekt: "G-727"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 34
+    klassning: "E"
+    text: "Garage 28 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 728
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R034"
+    objekt: "G-728"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 35
+    klassning: "E"
+    text: "Garage 28 Väggnät är löst på vänster sida i mitten."
+    källsida: 5
+    garage_registernummer: 728
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R035"
+    objekt: "G-728"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 36
+    klassning: "E"
+    text: "Garage 29 Finns ett större hål i asfalt som inte är återställt vid vänster/ höger borrplint."
+    källsida: 5
+    garage_registernummer: 729
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R036"
+    objekt: "G-729"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 37
+    klassning: null
+    text: "Garage 30 U.A"
+    källsida: 5
+    garage_registernummer: 730
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R037"
+    objekt: "G-730"
+  -
+    nummer: 38
+    klassning: null
+    text: "Garage 31 Vänster vägg är mot skyddsrum som har en betongstomme bakom väggplåt."
+    källsida: 5
+    garage_registernummer: 731
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R038"
+    objekt: "G-731"
+  -
+    nummer: 39
+    klassning: "E"
+    text: "Garage 32 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 732
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R039"
+    objekt: "G-732"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 40
+    klassning: "E"
+    text: "Garage 33 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 5
+    garage_registernummer: 733
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R040"
+    objekt: "G-733"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 41
+    klassning: "E"
+    text: "Garage 34 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 734
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R041"
+    objekt: "G-734"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 42
+    klassning: "E"
+    text: "Garage 35 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 5
+    garage_registernummer: 735
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R042"
+    objekt: "G-735"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 43
+    klassning: "E"
+    text: "Garage 36 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 736
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R043"
+    objekt: "G-736"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 44
+    klassning: "E"
+    text: "Garage 37 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 737
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R044"
+    objekt: "G-737"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 45
+    klassning: null
+    text: "Garage 38 U.A"
+    källsida: 5
+    garage_registernummer: 738
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R045"
+    objekt: "G-738"
+  -
+    nummer: 46
+    klassning: "E"
+    text: "Garage 39 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 739
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R046"
+    objekt: "G-739"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 47
+    klassning: "E"
+    text: "Garage 40 Finns ett större hål i asfalt som inte är återställt vid vänster/ höger borrplint."
+    källsida: 5
+    garage_registernummer: 740
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R047"
+    objekt: "G-740"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 48
+    klassning: null
+    text: "Garage 41 U.A"
+    källsida: 5
+    garage_registernummer: 741
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R048"
+    objekt: "G-741"
+  -
+    nummer: 49
+    klassning: "E"
+    text: "Garage 42 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 742
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R049"
+    objekt: "G-742"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 50
+    klassning: "E"
+    text: "Garage 43 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 5
+    garage_registernummer: 743
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R050"
+    objekt: "G-743"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 51
+    klassning: "E"
+    text: "Garage 44 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 5
+    garage_registernummer: 744
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R051"
+    objekt: "G-744"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 52
+    klassning: "E"
+    text: "Garage 45 Bärande stolpe som prototyp är inte färdig."
+    källsida: 5
+    garage_registernummer: 745
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R052"
+    objekt: "G-745"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 53
+    klassning: null
+    text: "Garage 46 U.A"
+    källsida: 5
+    garage_registernummer: 746
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R053"
+    objekt: "G-746"
+  -
+    nummer: 54
+    klassning: "E"
+    text: "Garage 47 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 5
+    garage_registernummer: 747
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R054"
+    objekt: "G-747"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 55
+    klassning: "E"
+    text: "Garage 66 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 5
+    garage_registernummer: 766
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R055"
+    objekt: "G-766"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 56
+    klassning: null
+    text: "Garage 65 U.A"
+    källsida: 5
+    garage_registernummer: 765
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R056"
+    objekt: "G-765"
+  -
+    nummer: 57
+    klassning: "E"
+    text: "Garage 66 Väggnät på vänster vägg är löst."
+    källsida: 6
+    garage_registernummer: 766
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R057"
+    objekt: "G-766"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 58
+    klassning: "E"
+    text: "Garage 67 Väggnät vänster vägg är löst."
+    källsida: 6
+    garage_registernummer: 767
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R058"
+    objekt: "G-767"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 59
+    klassning: "E"
+    text: "Garage 68 Finns ett större hål i asfalt som inte är återställt vid höger borrplint."
+    källsida: 6
+    garage_registernummer: 768
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R059"
+    objekt: "G-768"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 60
+    klassning: "E"
+    text: "Garage 69 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 769
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R060"
+    objekt: "G-769"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 61
+    klassning: "E"
+    text: "Garage 69 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 769
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R061"
+    objekt: "G-769"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 62
+    klassning: "E"
+    text: "Garage 69 Väggnät är löst på vänster vägg."
+    källsida: 6
+    garage_registernummer: 769
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R062"
+    objekt: "G-769"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 63
+    klassning: null
+    text: "Garage 70 U.A"
+    källsida: 6
+    garage_registernummer: 770
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R063"
+    objekt: "G-770"
+  -
+    nummer: 64
+    klassning: "E"
+    text: "Garage 48 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 748
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R064"
+    objekt: "G-748"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 65
+    klassning: null
+    text: "Garage 49 U.A"
+    källsida: 6
+    garage_registernummer: 749
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R065"
+    objekt: "G-749"
+  -
+    nummer: 66
+    klassning: "E"
+    text: "Garage 50 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 750
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R066"
+    objekt: "G-750"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 67
+    klassning: "B"
+    text: "Garage 50 Elkablage på vägg är inte klamrad."
+    källsida: 6
+    garage_registernummer: 750
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R067"
+    objekt: "G-750"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 68
+    klassning: "E"
+    text: "Garage 51 Finns ett större hål i asfalt som inte är återställt vid höger/ vänster borrplint."
+    källsida: 6
+    garage_registernummer: 751
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R068"
+    objekt: "G-751"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 69
+    klassning: "B"
+    text: "Garage 51 Hänger en lös kopplingsdosa ifrån taket."
+    källsida: 6
+    garage_registernummer: 751
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R069"
+    objekt: "G-751"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 70
+    klassning: null
+    text: "Garage 52 U.A"
+    källsida: 6
+    garage_registernummer: 752
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R070"
+    objekt: "G-752"
+  -
+    nummer: 71
+    klassning: "E"
+    text: "Garage 53 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 753
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R071"
+    objekt: "G-753"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 72
+    klassning: "E"
+    text: "Garage 53 Väggnät är löst på vänster vägg."
+    källsida: 6
+    garage_registernummer: 753
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R072"
+    objekt: "G-753"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 73
+    klassning: "E"
+    text: "Garage 53 Väggnät är löst på vänster vägg."
+    källsida: 6
+    garage_registernummer: 753
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R073"
+    objekt: "G-753"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 74
+    klassning: "E"
+    text: "Garage 54 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 754
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R074"
+    objekt: "G-754"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 75
+    klassning: "E"
+    text: "Garage 55 Väggnät är lös på höger vägg."
+    källsida: 6
+    garage_registernummer: 755
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R075"
+    objekt: "G-755"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 76
+    klassning: "E"
+    text: "Garage 56 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 756
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R076"
+    objekt: "G-756"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 77
+    klassning: "E"
+    text: "Garage 56 Väggnät är lös på vänster vägg."
+    källsida: 6
+    garage_registernummer: 756
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R077"
+    objekt: "G-756"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 78
+    klassning: "E"
+    text: "Garage 57 Finns ett större hål i asfalt som inte är återställt vid vänster/ höger borrplint."
+    källsida: 6
+    garage_registernummer: 757
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R078"
+    objekt: "G-757"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 79
+    klassning: "E"
+    text: "Garage 57 Väggnät är löst på vänster vägg."
+    källsida: 6
+    garage_registernummer: 757
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R079"
+    objekt: "G-757"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 80
+    klassning: "E"
+    text: "Garage 57 Väggnät är löst på vänster vägg."
+    källsida: 6
+    garage_registernummer: 757
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R080"
+    objekt: "G-757"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 81
+    klassning: null
+    text: "Garage 58 U.A"
+    källsida: 6
+    garage_registernummer: 758
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R081"
+    objekt: "G-758"
+  -
+    nummer: 82
+    klassning: "E"
+    text: "Garage 59 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 759
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R082"
+    objekt: "G-759"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 83
+    klassning: "E"
+    text: "Garage 59 Väggnät är löst på vänster vägg."
+    källsida: 6
+    garage_registernummer: 759
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R083"
+    objekt: "G-759"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 84
+    klassning: "E"
+    text: "Garage 60 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 6
+    garage_registernummer: 760
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R084"
+    objekt: "G-760"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 85
+    klassning: null
+    text: "Garage 61 U.A"
+    källsida: 6
+    garage_registernummer: 761
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R085"
+    objekt: "G-761"
+  -
+    nummer: 86
+    klassning: "E"
+    text: "Garage 62 Finns ett större hål i asfalt som inte är återställt vid vänster borrplint."
+    källsida: 7
+    garage_registernummer: 762
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R086"
+    objekt: "G-762"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 87
+    klassning: "E"
+    text: "Garage 63 Finns ett större hål i asfalt som inte är återställt vid vänster/ höger borrplint."
+    källsida: 7
+    garage_registernummer: 763
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R087"
+    objekt: "G-763"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 88
+    klassning: null
+    text: "Garage 64 U.A"
+    källsida: 7
+    garage_registernummer: 764
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R088"
+    objekt: "G-764"
+  -
+    nummer: 89
+    klassning: "E"
+    text: "Fasad Hus 1 Finns skadad/ repig fasad på baksidan efter ställningsdemontering."
+    källsida: 7
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R089"
+    objekt: "GL-1"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 90
+    klassning: "E"
+    text: "Hus 3 Saknas glidskydd till stege."
+    källsida: 7
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R090"
+    objekt: "GL-3"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 91
+    klassning: "E"
+    text: "Hus 4 Saknas glidskydd till stege."
+    källsida: 7
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R091"
+    objekt: "GL-4"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+  -
+    nummer: 92
+    klassning: "E"
+    text: "Hus 5 Saknas glidskydd till stege."
+    källsida: 7
+    senare_beställaruppgift: "Samtliga anmärkningar åtgärdade såvitt beställaren känner till, uppgift 2026-11-21; inget individuellt datum härleds."
+    id: "B-GARAGETAK-SB1-20251014-R092"
+    objekt: "GL-5"
+    uppföljning:
+      status: "Såvitt beställaren känner till åtgärdat"
+      källa: "K-GARAGETAK-BEKRAFTELSE-20261121"
+      bekräftelsedatum: "2026-11-21"
+      exakt_avhjälpandedatum: null
+      oberoende_efterkontroll: null
+äldre_återgivna_punkter:
+  syn: "2025-07-03, teknikrum samt tak 1–2"
+  fb3: "2025-08-06, takyta 1–2 före solcellsmontage"
+  fb4: "2025-08-20, takyta 5"
+  kommentar: "Återgivna punkter i SB1 är uppföljning, inte nya separata fel."
+signerad_version:
+  fil: "Mötesprotokoll/22-12-2025.pdf"
+  intygsdatum: "2025-11-28"
+  omfattning: "Intygar signerade punkter; inte en generell oberoende efterbesiktning"
+  visuellt_kontrollerade_exempel:
+    - "SB1 E1 garantisedel har signatur"
+    - "SB1 E3 och E4 har signaturer"
+    - "SB1 E89 fasadskada har signatur"
+    - "SB1 E90–92 glidskydd har signaturer"
+  ej_signerat_exempel: "SB1 E2 Enermont-garantisedlar saknar signatur i den granskade sidan; allmän beställaruppgift sparas separat."
+källavvikelser:
+  - "Förbesiktningsförteckningens datum/nummer avviker från bilagorna; datum i respektive bilaga bevaras."
+  - "Liknande/dubbla punkter finns för garage 53, 57 och 69; ingen automatisk extra fysisk brist antas."
+  - "Garage 13 ej besiktningsbart; ingen U.A. antas."
+källor:
+  - "K-GARAGETAK-ARKIV-20261121"
+  - "K-GARAGETAK-BEKRAFTELSE-20261121"

@@ -1,0 +1,26 @@
+id: "K-GARAGETAK-ARKIV-20261121"
+registrerad: "2026-11-21"
+projekt: "P-GARAGETAK-2025"
+arkiv: "2025 Garagetaken.zip"
+dokumentindex: "byggnadsdelar/garagetak-2025/dokumentindex.yaml"
+beställarbekräftelse:
+  id: "K-GARAGETAK-BEKRAFTELSE-20261121"
+  datum: "2026-11-21"
+  uppgifter:
+    - "Tak/garagebyggnad 1–5 är garagelänga 1–5."
+    - "Äldre brand-PM G1=garagebyggnad 1–3, G2=garagebyggnad 4. Byggnad 5 ingick inte."
+    - "Samtliga anmärkningar åtgärdade såvitt beställaren känner till."
+    - "Slutfaktura finns men är inte tillgänglig. Allt slutbetalt."
+    - "Kommunens slutbesked okänt."
+kontroll:
+  arkivfiler: 308
+  unika_filer: 273
+  byggnader: 5
+  slutbesiktningspunkter: 92
+  garage_med_punktkopplingar: 70
+  ventilationskomponenter: 9
+  unika_fakturor: 6
+  summa_tillgängliga_fakturor: 2956343
+original_publicerade: false
+ekonomin_ofullständig: true
+begränsning: "Foton indexerade men inte samtliga detaljtolkade. Äldre DOC och vissa skannade referens-/produktblad har endast indexerats; inga osäkra mätvärden eller standardalternativ görs till faktiska installationer."

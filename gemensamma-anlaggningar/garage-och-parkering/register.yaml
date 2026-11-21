@@ -16,6 +16,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R005"
   - id: G-702
     typ: garage
     namn: Garage 702
@@ -27,6 +29,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R006"
   - id: G-741
     typ: garage
     namn: Garage 741
@@ -45,6 +49,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R048"
   - id: G-740
     typ: garage
     namn: Garage 740
@@ -56,6 +62,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R047"
   - id: G-705
     typ: garage
     namn: Garage 705
@@ -67,6 +75,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R009"
   - id: G-733
     typ: garage
     namn: Garage 733
@@ -80,6 +90,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R040"
   - id: G-707
     typ: garage
     namn: Garage 707
@@ -96,6 +108,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R011"
   - id: G-716
     typ: garage
     namn: Garage 716
@@ -107,6 +121,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R020"
   - id: G-717
     typ: garage
     namn: Garage 717
@@ -118,6 +134,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R021"
   - id: G-719
     typ: garage
     namn: Garage 719
@@ -129,6 +147,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R024"
   - id: G-720
     typ: garage
     namn: Garage 720
@@ -140,6 +160,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R025"
   - id: G-715
     typ: garage
     namn: Garage 715
@@ -156,6 +178,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R019"
   - id: G-708
     typ: garage
     namn: Garage 708
@@ -170,6 +194,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R012"
   - id: G-709
     typ: garage
     namn: Garage 709
@@ -181,6 +207,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R013"
   - id: G-710
     typ: garage
     namn: Garage 710
@@ -201,6 +229,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R014"
   - id: G-765
     typ: garage
     namn: Garage 765
@@ -212,6 +242,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R056"
   - id: G-712
     typ: garage
     namn: Garage 712
@@ -223,6 +255,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R016"
   - id: G-713
     typ: garage
     namn: Garage 713
@@ -236,6 +270,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R017"
   - id: G-714
     typ: garage
     namn: Garage 714
@@ -247,6 +283,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R018"
   - id: G-721
     typ: garage
     namn: Garage 721
@@ -260,6 +298,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R026"
   - id: G-722
     typ: garage
     namn: Garage 722
@@ -271,6 +311,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R028"
   - id: G-723
     typ: garage
     namn: Garage 723
@@ -284,6 +326,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R029"
   - id: G-724
     typ: garage
     namn: Garage 724
@@ -295,6 +339,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R030"
   - id: P-910
     typ: parkeringsplats
     namn: Parkeringsplats 910
@@ -318,6 +364,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R031"
   - id: G-749
     typ: garage
     namn: Garage 749
@@ -329,6 +377,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R065"
   - id: G-727
     typ: garage
     namn: Garage 727
@@ -345,6 +395,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R033"
   - id: G-728
     typ: garage
     namn: Garage 728
@@ -356,6 +408,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R034"
+      - "B-GARAGETAK-SB1-20251014-R035"
   - id: G-729
     typ: garage
     namn: Garage 729
@@ -367,6 +422,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R036"
   - id: G-734
     typ: garage
     namn: Garage 734
@@ -380,6 +437,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R041"
   - id: G-735
     typ: garage
     namn: Garage 735
@@ -396,6 +455,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R042"
   - id: G-770
     typ: garage
     namn: Garage 770
@@ -407,6 +468,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R063"
   - id: G-737
     typ: garage
     namn: Garage 737
@@ -418,6 +481,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R044"
   - id: G-738
     typ: garage
     namn: Garage 738
@@ -434,6 +499,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R045"
   - id: G-730
     typ: garage
     namn: Garage 730
@@ -445,6 +512,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R037"
   - id: G-718
     typ: garage
     namn: Garage 718
@@ -456,6 +525,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R022"
+      - "B-GARAGETAK-SB1-20251014-R023"
   - id: G-762
     typ: garage
     namn: Garage 762
@@ -472,6 +544,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R086"
   - id: G-731
     typ: garage
     namn: Garage 731
@@ -483,6 +557,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R038"
   - id: G-761
     typ: garage
     namn: Garage 761
@@ -496,6 +572,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R085"
   - id: G-763
     typ: garage
     namn: Garage 763
@@ -513,6 +591,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R087"
   - id: G-764
     typ: garage
     namn: Garage 764
@@ -524,6 +604,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R088"
   - id: G-706
     typ: garage
     namn: Garage 706
@@ -541,6 +623,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R010"
   - id: P-912
     typ: parkeringsplats
     namn: Parkeringsplats 912
@@ -564,6 +648,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R046"
   - id: G-704
     typ: garage
     namn: Garage 704
@@ -580,6 +666,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R008"
   - id: G-703
     typ: garage
     namn: Garage 703
@@ -596,6 +684,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R007"
   - id: G-742
     typ: garage
     namn: Garage 742
@@ -607,6 +697,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R049"
   - id: G-743
     typ: garage
     namn: Garage 743
@@ -620,6 +712,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R050"
   - id: G-744
     typ: garage
     namn: Garage 744
@@ -631,6 +725,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R051"
   - id: G-745
     typ: garage
     namn: Garage 745
@@ -642,6 +738,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R052"
   - id: G-746
     typ: garage
     namn: Garage 746
@@ -658,6 +756,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R053"
   - id: P-905
     typ: parkeringsplats
     namn: Parkeringsplats 905
@@ -687,6 +787,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R054"
   - id: G-736
     typ: garage
     namn: Garage 736
@@ -698,6 +800,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R043"
   - id: G-769
     typ: garage
     namn: Garage 769
@@ -709,6 +813,10 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R060"
+      - "B-GARAGETAK-SB1-20251014-R061"
+      - "B-GARAGETAK-SB1-20251014-R062"
   - id: G-768
     typ: garage
     namn: Garage 768
@@ -720,6 +828,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R059"
   - id: G-767
     typ: garage
     namn: Garage 767
@@ -733,6 +843,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R058"
   - id: G-766
     typ: garage
     namn: Garage 766
@@ -744,6 +856,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R055"
+      - "B-GARAGETAK-SB1-20251014-R057"
   - id: G-711
     typ: garage
     namn: Garage 711
@@ -760,6 +875,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R015"
   - id: G-748
     typ: garage
     namn: Garage 748
@@ -776,6 +893,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R064"
   - id: P-911
     typ: parkeringsplats
     namn: Parkeringsplats 911
@@ -799,6 +918,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R032"
   - id: G-750
     typ: garage
     namn: Garage 750
@@ -810,6 +931,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R066"
+      - "B-GARAGETAK-SB1-20251014-R067"
   - id: G-751
     typ: garage
     namn: Garage 751
@@ -826,6 +950,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R068"
+      - "B-GARAGETAK-SB1-20251014-R069"
   - id: G-752
     typ: garage
     namn: Garage 752
@@ -837,6 +964,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R070"
   - id: G-753
     typ: garage
     namn: Garage 753
@@ -848,6 +977,10 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R071"
+      - "B-GARAGETAK-SB1-20251014-R072"
+      - "B-GARAGETAK-SB1-20251014-R073"
   - id: G-754
     typ: garage
     namn: Garage 754
@@ -859,6 +992,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R074"
   - id: G-755
     typ: garage
     namn: Garage 755
@@ -872,6 +1007,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R075"
   - id: G-756
     typ: garage
     namn: Garage 756
@@ -883,6 +1020,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R076"
+      - "B-GARAGETAK-SB1-20251014-R077"
   - id: G-757
     typ: garage
     namn: Garage 757
@@ -894,6 +1034,10 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R078"
+      - "B-GARAGETAK-SB1-20251014-R079"
+      - "B-GARAGETAK-SB1-20251014-R080"
   - id: G-758
     typ: garage
     namn: Garage 758
@@ -910,6 +1054,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R081"
   - id: G-759
     typ: garage
     namn: Garage 759
@@ -921,6 +1067,9 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R082"
+      - "B-GARAGETAK-SB1-20251014-R083"
   - id: G-760
     typ: garage
     namn: Garage 760
@@ -932,6 +1081,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R084"
   - id: G-732
     typ: garage
     namn: Garage 732
@@ -946,6 +1097,8 @@ platser:
       ingick_i_byte_2016: true
       installationsår: 2016
       källa: "K-GARAGEPORTAR-BEKRAFTELSE-20261119"
+    garagetaksbesiktning_2025:
+      - "B-GARAGETAK-SB1-20251014-R039"
   - id: P-771
     typ: garage
     namn: Garage 771

@@ -203,3 +203,14 @@ utrymmen:
       - "A-GARAGEFORRAD-TAK-20201112"
     underhållshistorik:
       - "A-HANGRANNOR-2023"
+  -
+    id: "U-TEKNIKRUM-SOLCELLER-GARAGE"
+    typ: "teknikrum"
+    namn: "Teknikrum för solcellsanläggning och batterilager"
+    adress: null
+    placering: "I garageområdet enligt projektets handlingar; exakt koppling till GL-1/2/3 inte fastställd"
+    projekt: "P-GARAGETAK-2025"
+    kommentar: "Inte samma utrymme som undercentralen eller kontoret på 69. Projektets postadress 69 används inte automatiskt som rumsadress."
+    källor:
+      - "K-GARAGETAK-ARKIV-20261121"
+      - "K-GARAGETAK-BEKRAFTELSE-20261121"

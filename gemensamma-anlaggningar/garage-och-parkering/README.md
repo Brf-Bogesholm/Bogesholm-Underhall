@@ -29,3 +29,7 @@ Garage 1–70 (G-701–G-770) fick nya vita automatiska portar 2016. Garage 71 (
 ## Handikapparkeringar
 
 [Handikapparkeringar](handikapparkeringar.yaml) saknar platsnummer. Ytan breddades 2024 och befintlig laddare blev åtkomlig med rullstol från båda sidor av bilen enligt beställaren. Faktura 10205 från Selvers Trädgård och Bygg AB: 14 438 kr inklusive moms och avrundning. Datum 2024-02-08 enligt stående fakturadatumregel. Exakt laddbox/kluster är inte fastställt.
+
+## Takrenovering 2025
+
+[Garagetaksprojektet](../../byggnadsdelar/garagetak-2025/README.md) gäller fem byggnader GL-1–GL-5. Ursprungligt brand-PM G1=GL-1–3, G2=GL-4; GL-5 ingick inte. Individuella garage har länkar till relevanta slutbesiktningspunkter.
