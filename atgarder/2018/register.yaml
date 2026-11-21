@@ -18,3 +18,21 @@ version: "1.0"
       - "K-EXPANSIONSKARL-KOMPLETTERING-20261113"
     kommentar: "Se besiktningsposten för omfattning, mätvärden och historiska anmärkningar. Ingen kostnad härleds från protokollet."
     komponentkommentar: "Expansionskärlsuppgifter avser värmesystemets stora kärl enligt beställaren. Avgasarens lilla kärl ingår inte i denna koppling."
+  -
+    id: "A-AVLOPPSAKUTEN-SPOLNING-2018"
+    år: 2018
+    datum: null
+    åtgärd: "Spolning av liggande ledningar/huvudrör vid hus 71 och 73"
+    objekt:
+      - "H-71"
+      - "H-73"
+    utförare: "Avloppsakuten Syd AB"
+    avtal: "AVT-AVLOPPSAKUTEN-71-73"
+    utförandestatus: "Genomförd under 2018 enligt beställarens registreringsanvisning"
+    datumkälla: "K-AVLOPPSAKUTEN-BEKRAFTELSE-20261121"
+    kommentar: "Exakt datum okänt. Avtalets planerade oktobermånad är inte bevis för faktisk utförandemånad. Ingen separat utförd slamsugning antas; den beskrivs som vid behov i avtalet. Senare utföranden och senaste datum är okända."
+    kostnad: null
+    faktura: null
+    källor:
+      - "K-AVLOPPSAKUTEN-AVTAL"
+      - "K-AVLOPPSAKUTEN-BEKRAFTELSE-20261121"

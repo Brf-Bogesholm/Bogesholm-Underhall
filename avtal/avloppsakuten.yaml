@@ -1,0 +1,29 @@
+id: "AVT-AVLOPPSAKUTEN-71-73"
+leverantör: "Avloppsakuten Syd AB"
+namn: "Årsvis spolning av huvudledningar vid hus 71 och 73"
+objekt:
+  - "H-71"
+  - "H-73"
+status: "Nuvarande avtalsstatus okänd"
+avtalsdatum: null
+startdatum: null
+slutdatum: null
+senaste_utförandedatum: null
+senare_återkommande_utförande: "Okänt"
+omfattning_enligt_dokument: "Högtrycksspolning av liggande ledningar/huvudrör. Vid behov slamsugning av inspektionsbrunn under spolning."
+planering_enligt_dokument: "Stående spolning årsvis i oktober"
+förlängning_enligt_dokument: "Löpande avtal årsvis; exakta förlängnings- och uppsägningsvillkor framgår inte."
+uppsägningstid: null
+pris_enligt_dokument_exklusive_moms: 2910
+prisstatus: "Avtalsuppgift, inte faktura, betald kostnad eller verifierad aktuell avgift"
+historisk_åtgärd: "A-AVLOPPSAKUTEN-SPOLNING-2018"
+beställaruppgift: "Registreras som genomfört 2018. Senaste utförandedatum och om avtalet fortfarande gäller är okänt; frågan har ställts till styrelsen."
+uppföljning:
+  status: "Inväntar uppgift från styrelsen"
+  noterat: "2026-11-21"
+  frågor:
+    - "Gäller avtalet fortfarande?"
+    - "När gjordes spolningen senast?"
+källor:
+  - "K-AVLOPPSAKUTEN-AVTAL"
+  - "K-AVLOPPSAKUTEN-BEKRAFTELSE-20261121"

@@ -155,6 +155,7 @@ byggnader:
     planerad_takbehandling: "PLAN-GRONFRI-H71"
     hängrännerensning_2023: "A-HANGRANNOR-2023"
     dilatationsfogar_2025: "P-DILATATIONSFOGAR-2025"
+    avloppsspolning_2018: "A-AVLOPPSAKUTEN-SPOLNING-2018"
   - id: H-73
     typ: byggnad
     namn: Hus 73
@@ -170,6 +171,7 @@ byggnader:
     planerad_takbehandling: "PLAN-GRONFRI-H73"
     hängrännerensning_2023: "A-HANGRANNOR-2023"
     dilatationsfogar_2025: "P-DILATATIONSFOGAR-2025"
+    avloppsspolning_2018: "A-AVLOPPSAKUTEN-SPOLNING-2018"
   - id: H-75
     typ: byggnad
     namn: Hus 75

@@ -1,0 +1,12 @@
+id: "K-AVLOPPSAKUTEN-AVTAL"
+registrerad: "2026-11-21"
+avtal: "AVT-AVLOPPSAKUTEN-71-73"
+dokument:
+  fil: "201802160953.pdf"
+  sha256: "62aefa5f6a65ff3e418dee6d161c039e414ec7759d828f96f03e0412f8114400"
+  kommentar: "Skannat dokument utan tydligt avtalsdatum; filnamnet används inte som exakt avtals- eller utförandedatum."
+beställarbekräftelse:
+  id: "K-AVLOPPSAKUTEN-BEKRAFTELSE-20261121"
+  uppgift: "Registrera som genomfört 2018 med okänt senaste datum. Avtalets nuvarande status okänd; fråga ställd till styrelsen."
+original_publicerade: false
+nya_fakturor: 0

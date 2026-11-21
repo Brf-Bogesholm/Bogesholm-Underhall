@@ -17,3 +17,9 @@ Avtalet omfattar historiskt 31 parkeringsplatser. Föreningens arrende är 50 pr
 Ursprunglig årsavgift 26 654 kr exklusive moms. Faktura 676811115226451, daterad 2025-04-14, avser 2025-05-15–2026-05-14 och är 38 276 kr inklusive moms. Prishöjningen bestreds, men föreningen konstaterade enligt beställaren att en möjlighet till höjning fanns i avtalet och accepterade höjningen. Betalning och eventuell kredit är inte bekräftade. Aktuell avgift för 2026 är inte verifierad. Exakt prishöjningsklausul har inte granskats självständigt; separat länkade allmänna villkor finns inte som extraherad fil i detta underlag.
 
 [Besöksrapporter](../besiktningar/skadedjur/avloppsfalla.yaml): 2023-05-15, 0 larm och grön godkänd markering. Årsavläsning 2024-05-27, 122 larm och röd ej godkänd markering. Detta är historiska rapportvärden, inte verifierat antal fångade råttor, fastställt funktionsfel eller dagens status. Uppföljning är okänd. [Utrustningen](../tekniska-installationer/register.yaml) och den unika [årsavgiftsfakturan](../fakturor/2025/register.yaml) hålls isär från besöken.
+
+## Avloppsakuten – hus 71 och 73
+
+[Avtalsuppgifter och uppföljning](avloppsakuten.yaml). Spolning av liggande ledningar/huvudrör registreras som genomförd under **2018 enligt beställaren**, utan exakt datum. Kopplad till H-71 och H-73. **Senaste utförandedatum och nuvarande avtalsstatus är okända.** Beställaren har frågat styrelsen, noterat 2026-11-21.
+
+Dokumentet beskriver årsvis spolning i oktober och vid behov slamsugning av inspektionsbrunn, till fast pris 2 910 kr exklusive moms. Dessa är avtalsuppgifter, inte bevis för senare besök, faktiskt utförd slamsugning eller betald kostnad. Ingen aktiv förnyelseperiod eller uppsägningsdag beräknas från det ofullständiga underlaget.
