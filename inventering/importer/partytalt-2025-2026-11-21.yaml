@@ -1,0 +1,24 @@
+id: "K-PARTYTALT-2025"
+registrerad: "2026-11-21"
+projekt: "P-PARTYTALT-2025"
+dokument:
+  -
+    fil: "Faktura 241088464.pdf"
+    sha256: "67a60926f5b151ef2ad89e3f2adccf1e3439c06f210cae0935729435717fb6ad"
+  -
+    fil: "faktura-200002147 - förvaringslådorna.pdf"
+    sha256: "785415e6e6a739b1400ba2088ed4b1e47079b5a14d2860e699e9685fe3f90a50"
+beställarbekräftelse:
+  id: "K-PARTYTALT-BEKRAFTELSE-20261121"
+  uppgifter:
+    - "Tälten saknar fast placering och förvaras i föreningens förråd i skyddsrummet."
+    - "Två förvaringslådor byggdes."
+    - "Plastbackar och skrindor är förvaringsmaterial som inte behöver dokumenteras särskilt; fokus på tält och delar."
+kontroll:
+  unika_fakturor: 2
+  dancover_rader: 4
+  bauhaus_rader: 12
+  tält: 2
+  regnrännor: 1
+  förvaringslådor: 2
+original_publicerade: false

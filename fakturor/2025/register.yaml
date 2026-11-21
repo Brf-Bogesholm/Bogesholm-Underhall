@@ -5,6 +5,7 @@ registreringsomgångar:
   - "2026-11-21-DILFOG-KOMPLETTERING"
   - "2026-11-21-GARAGETAK"
   - "2026-11-21-GUNGBRADA"
+  - "2026-11-21-PARTYTALT"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -671,3 +672,205 @@ fakturor:
       - "K-GUNGBRADA-INKOP-2025"
       - "K-GUNGBRADA-ERSATTNING-20261121"
       - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "F-2025-DANCOVER-241088464"
+    fakturanummer: "241088464"
+    leverantör: "Dancover"
+    momsregistreringsnummer: "DK10148014"
+    fakturadatum: null
+    orderdatum: "2025-06-04"
+    bokföringsdatum: "2025-06-04"
+    datum_original: "04-06-25"
+    datumkommentar: "Dokumentet anger order- och bokföringsdatum, inte ett separat märkt fakturadatum. Datum används inte som verifierad montering eller leverans."
+    ordernummer: "31107923"
+    valuta: "SEK"
+    exklusive_moms: 20187.65
+    moms_procent: 25
+    moms: 5046.91
+    öresavrundning: 0
+    att_betala: 25234.56
+    betalningsstatus: "Betald enligt fakturan"
+    betalningsstatus_original: "Beställningen är betald"
+    objekt:
+      - "UT-PARTYTALT-4X8-001"
+      - "UT-PARTYTALT-5X8-001"
+      - "UT-PARTYTALT-REGNRANNA-8M-001"
+    projekt: "P-PARTYTALT-2025"
+    åtgärder:
+      - "A-PARTYTALT-INKOP-2025"
+    rader:
+      -
+        id: "F-2025-DANCOVER-241088464-R1"
+        artikelnummer: "PT18521"
+        benämning: "Partytält SEMI PRO Plus 4x8m PVC, Vit"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 9113.08
+        belopp_exklusive_moms: 9113.08
+      -
+        id: "F-2025-DANCOVER-241088464-R2"
+        artikelnummer: "PT18526"
+        benämning: "Partytält SEMI PRO Plus 5x8m PVC, Vit"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 10938.85
+        belopp_exklusive_moms: 10938.85
+      -
+        id: "F-2025-DANCOVER-241088464-R3"
+        artikelnummer: "AC18302"
+        benämning: "Partytent 8m Raingutter 500g PVC SH"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1412.25
+        rabatt_procent: 100
+        belopp_exklusive_moms: 0
+        kommentar: "100 % rabatt enligt raden. Noll faktiskt belopp stämmer med fakturans subtotal."
+      -
+        id: "F-2025-DANCOVER-241088464-R4"
+        artikelnummer: "F"
+        benämning: "Frakt"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 135.72
+        belopp_exklusive_moms: 135.72
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+  -
+    id: "F-2025-BAUHAUS-402659713"
+    fakturanummer: "402659713"
+    leverantör: "BAUHAUS & Co KB"
+    organisationsnummer: "969630-6944"
+    fakturadatum: "2025-06-14"
+    förfallodatum: "2025-07-14"
+    ordernummer: "977-8531-7-42"
+    leveransdatum: "2025-06-14"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    leveransdatumkommentar: "Fakturadatum används för materialleverans enligt stående regel, inte färdigställandedag för de byggda lådorna."
+    valuta: "SEK"
+    exklusive_moms: 8185.8
+    moms_procent: 25
+    moms: 2046.45
+    öresavrundning: 0
+    att_betala: 10232.25
+    betalningsstatus: "Okänd"
+    projekt: "P-PARTYTALT-2025"
+    objekt:
+      - "UT-PARTYTALT-FORVARINGSLADA-001"
+      - "UT-PARTYTALT-FORVARINGSLADA-002"
+    åtgärder:
+      - "A-PARTYTALT-FORVARING-2025"
+    rader:
+      -
+        id: "F-2025-BAUHAUS-402659713-R1"
+        artikelnummer: "1284086"
+        benämning: "G 45X45 G4-2 REGEL 2,5M"
+        antal: 7
+        enhet: "st"
+        à_pris_exklusive_moms: 35.9
+        rabatt_procent: 1
+        belopp_exklusive_moms: 248.82
+      -
+        id: "F-2025-BAUHAUS-402659713-R2"
+        artikelnummer: "1282510"
+        benämning: "G 45X70 G4-2 REGEL 2,5M"
+        antal: 6
+        enhet: "st"
+        à_pris_exklusive_moms: 53.9
+        rabatt_procent: 1
+        belopp_exklusive_moms: 320.19
+      -
+        id: "F-2025-BAUHAUS-402659713-R3"
+        artikelnummer: "1246075"
+        benämning: "FORMPLYWOOD/BASFORM BASIC 15X1200X2500 M"
+        antal: 4
+        enhet: "st"
+        à_pris_exklusive_moms: 796
+        rabatt_procent: 10
+        belopp_exklusive_moms: 2865.6
+      -
+        id: "F-2025-BAUHAUS-402659713-R4"
+        artikelnummer: "1321903"
+        benämning: "SNABBSURRNING 25MM X 1.0M 2ST/BLISTERPAC"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 27.96
+        rabatt_procent: 3
+        belopp_exklusive_moms: 27.12
+      -
+        id: "F-2025-BAUHAUS-402659713-R5"
+        artikelnummer: "1428435"
+        benämning: "HANDTAG ORVAR SV CC132"
+        antal: 4
+        enhet: "st"
+        à_pris_exklusive_moms: 47.96
+        rabatt_procent: 3
+        belopp_exklusive_moms: 186.08
+      -
+        id: "F-2025-BAUHAUS-402659713-R6"
+        artikelnummer: "1316333"
+        benämning: "LÖSVIKTSKOD BAHAG PRISGRUPP 2"
+        antal: 1.648
+        enhet: "kg"
+        à_pris_exklusive_moms: 199.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 318.43
+      -
+        id: "F-2025-BAUHAUS-402659713-R7"
+        artikelnummer: "1066283"
+        benämning: "LÅSMUTTER A2 M10 50ST AC58"
+        antal: 1
+        enhet: "kartong"
+        à_pris_exklusive_moms: 199.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 193.22
+      -
+        id: "F-2025-BAUHAUS-402659713-R8"
+        artikelnummer: "1317114"
+        benämning: "LÖSVIKTSKOD BAHAG A2 PRISGRUPP 4"
+        antal: 0.428
+        enhet: "kg"
+        à_pris_exklusive_moms: 399.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 165.74
+      -
+        id: "F-2025-BAUHAUS-402659713-R9"
+        artikelnummer: "1000183"
+        benämning: "TRÄSKRUV ESS 4,5X50 FS CS-200 TRÄSKRUV E"
+        antal: 1
+        enhet: "paket"
+        à_pris_exklusive_moms: 183.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 177.7
+      -
+        id: "F-2025-BAUHAUS-402659713-R10"
+        artikelnummer: "1067185"
+        benämning: "TRANSPORTHJUL 200X50MM"
+        antal: 8
+        enhet: "st"
+        à_pris_exklusive_moms: 239.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 1856.19
+      -
+        id: "F-2025-BAUHAUS-402659713-R11"
+        artikelnummer: "1031208"
+        benämning: "PLASTBACK GRÅ 60L 60X40X32CM STÄNGD"
+        antal: 4
+        enhet: "st"
+        à_pris_exklusive_moms: 191.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 741.86
+      -
+        id: "F-2025-BAUHAUS-402659713-R12"
+        artikelnummer: "1445855"
+        benämning: "SKRINDA IHOPFÄLLBAR SVART, 70KG"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 559.2
+        rabatt_procent: 3
+        belopp_exklusive_moms: 1084.85
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+      - "K-DATUMREGEL-2026-11-13"
+    kommentar: "Samtliga fakturarader bevaras. Plastbackar och skrindor är förvaringsmaterial utan separata utrustningsposter enligt beställaren. Hela fakturan är inte en verifierad kostnad för enbart de två byggda lådorna. Radbelopp enligt original, inte omräknade från avrundade à-priser."

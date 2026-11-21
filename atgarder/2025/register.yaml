@@ -398,3 +398,35 @@ version: "1.0"
       - "K-GUNGBRADA-INKOP-2025"
       - "K-GUNGBRADA-ERSATTNING-20261121"
       - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "A-PARTYTALT-INKOP-2025"
+    år: 2025
+    datum: null
+    orderdatum: "2025-06-04"
+    åtgärd: "Inköp av två flyttbara Dancover-partytält med regnränna"
+    objekt:
+      - "UT-PARTYTALT-4X8-001"
+      - "UT-PARTYTALT-5X8-001"
+      - "UT-PARTYTALT-REGNRANNA-8M-001"
+    faktura: "F-2025-DANCOVER-241088464"
+    kostnad: null
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+    kommentar: "Order-/bokföringsdatum dokumenterat; faktisk leverans eller uppställningsdag inte angiven."
+  -
+    id: "A-PARTYTALT-FORVARING-2025"
+    år: 2025
+    datum: null
+    materialdatum: "2025-06-14"
+    materialdatumkälla: "K-DATUMREGEL-2026-11-13"
+    åtgärd: "Tillverkning av två förvaringslådor för tältutrustningen"
+    objekt:
+      - "UT-PARTYTALT-FORVARINGSLADA-001"
+      - "UT-PARTYTALT-FORVARINGSLADA-002"
+    faktura: "F-2025-BAUHAUS-402659713"
+    kostnad: null
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+    kommentar: "Två lådor enligt beställaren. Exakt byggdag okänd. Plastbackar och skrindor bevaras endast som fakturarader/förvaringsmaterial."

@@ -10,3 +10,9 @@ Två GH Form Kungsan Blomsterkumme, MG123023, köpta 2017 och placerade innanfö
 ## Vippgunga Vippy på 50-gården
 
 HAGS 8049488-1, befintligt objekt UT-GUNGBRADA-50-001, ersatte äldre HAGS 8042517 enligt beställaren. Inköpsfaktura 1606002 daterad 2025-09-05 är 16 071 kr inklusive moms, emballage och frakt; själva redskapet kostade 10 132 kr exklusive moms efter rabatt. Leveransdag enligt fakturadatumregeln. Monteringen ligger kvar separat på faktura 10382 med registrerat datum 2026-01-14. Äldre redskapets exakta avvecklingsdag är okänd.
+
+## Partytält 2025
+
+[Två Dancover SEMI PRO Plus-tält](partytalt-2025.yaml), vita PVC-tält 4×8 m (PT18521) och 5×8 m (PT18526), samt regnränna 8 m (AC18302). Två förvaringslådor byggdes. Flyttbar utrustning utan fast placering; förvaras i föreningens förråd i skyddsrummet på Högalidsvägen 81.
+
+Dancover 241088464 har order- och bokföringsdatum 2025-06-04, totalt 25 234,56 kr och är betald enligt fakturan. Regnrännan har 100 % rabatt. Bauhaus 402659713, 2025-06-14, är 10 232,25 kr och omfattar byggmaterial samt annan förvaringsmateriel. Plastbackar och skrindor har inga egna utrustningsposter enligt beställarens avgränsning. Samtliga fakturarader finns kvar; hela Bauhausbeloppet tilldelas inte enbart lådorna. Inga säkra individuella tält–låda-kopplingar, serienummer eller garantier finns.

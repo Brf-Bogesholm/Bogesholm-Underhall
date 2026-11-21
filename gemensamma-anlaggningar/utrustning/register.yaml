@@ -437,3 +437,136 @@ objekt:
     källor:
       - "K-FLAGGSTANG-FAKTURA-2021992"
       - "K-FLAGGSTANG-BEKRAFTELSE-20261121"
+  -
+    id: "UT-PARTYTALT-4X8-001"
+    typ: "partytält"
+    namn: "Dancover SEMI PRO Plus 4x8 m"
+    datastatus: "Faktura och beställarbekräftelse"
+    fast_placering: null
+    förvaringsplats: "Föreningens förråd i skyddsrummet, Högalidsvägen 81"
+    egenskaper:
+      fabrikat: "Dancover"
+      modellfamilj: "SEMI PRO Plus"
+      artikelnummer: "PT18521"
+      mått: "4x8 m"
+      duk: "PVC"
+      kulör: "Vit"
+      inköpsår: 2025
+      inköpsdatum: "2025-06-04"
+      datumkälla: "Order- och bokföringsdatum enligt faktura 241088464"
+      leveransdatum: null
+      installationsdatum: null
+      serienummer: null
+      garanti: null
+      kommentar: "Flyttbar utrustning utan fast uppställningsplats. Ingen säker koppling mellan ett visst tält och en viss förvaringslåda antas."
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    underhållshistorik:
+      - "A-PARTYTALT-INKOP-2025"
+    inköpsfaktura: "F-2025-DANCOVER-241088464"
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+  -
+    id: "UT-PARTYTALT-5X8-001"
+    typ: "partytält"
+    namn: "Dancover SEMI PRO Plus 5x8 m"
+    datastatus: "Faktura och beställarbekräftelse"
+    fast_placering: null
+    förvaringsplats: "Föreningens förråd i skyddsrummet, Högalidsvägen 81"
+    egenskaper:
+      fabrikat: "Dancover"
+      modellfamilj: "SEMI PRO Plus"
+      artikelnummer: "PT18526"
+      mått: "5x8 m"
+      duk: "PVC"
+      kulör: "Vit"
+      inköpsår: 2025
+      inköpsdatum: "2025-06-04"
+      datumkälla: "Order- och bokföringsdatum enligt faktura 241088464"
+      leveransdatum: null
+      installationsdatum: null
+      serienummer: null
+      garanti: null
+      kommentar: "Flyttbar utrustning utan fast uppställningsplats. Ingen säker koppling mellan ett visst tält och en viss förvaringslåda antas."
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    underhållshistorik:
+      - "A-PARTYTALT-INKOP-2025"
+    inköpsfaktura: "F-2025-DANCOVER-241088464"
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+  -
+    id: "UT-PARTYTALT-REGNRANNA-8M-001"
+    typ: "tälttillbehör"
+    namn: "Dancover regnränna till partytält, 8 m"
+    fast_placering: null
+    förvaringsplats: "Tillsammans med tälten i föreningens förråd i skyddsrummet"
+    egenskaper:
+      artikelnummer: "AC18302"
+      beskrivning_original: "Partytent 8m Raingutter 500g PVC SH"
+      längd_meter: 8
+      antal: 1
+      rabatt_procent: 100
+      kommentar: "Tillbehör till tältutrustningen. Ingen permanent montering eller individuell tältkoppling antas."
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    inköpsfaktura: "F-2025-DANCOVER-241088464"
+    underhållshistorik:
+      - "A-PARTYTALT-INKOP-2025"
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+  -
+    id: "UT-PARTYTALT-FORVARINGSLADA-001"
+    typ: "förvaringslåda"
+    namn: "Förvaringslåda för tältutrustning 001"
+    fast_placering: null
+    förvaringsplats: "Föreningens förråd i skyddsrummet, Högalidsvägen 81"
+    egenskaper:
+      tillverkningsår: 2025
+      antal: 1
+      material_enligt_faktura: "Reglar och formplywood samt hjul, handtag, skruv och beslag"
+      mått: null
+      färdigställandedatum: null
+      kommentar: "Två byggda lådor bekräftade av beställaren. Detaljerad fördelning av material/hjul och vilken låda som hör till vilket tält är inte angiven. ID är registeridentitet, inte fysisk märkning."
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    materialfaktura: "F-2025-BAUHAUS-402659713"
+    underhållshistorik:
+      - "A-PARTYTALT-FORVARING-2025"
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"
+  -
+    id: "UT-PARTYTALT-FORVARINGSLADA-002"
+    typ: "förvaringslåda"
+    namn: "Förvaringslåda för tältutrustning 002"
+    fast_placering: null
+    förvaringsplats: "Föreningens förråd i skyddsrummet, Högalidsvägen 81"
+    egenskaper:
+      tillverkningsår: 2025
+      antal: 1
+      material_enligt_faktura: "Reglar och formplywood samt hjul, handtag, skruv och beslag"
+      mått: null
+      färdigställandedatum: null
+      kommentar: "Två byggda lådor bekräftade av beställaren. Detaljerad fördelning av material/hjul och vilken låda som hör till vilket tält är inte angiven. ID är registeridentitet, inte fysisk märkning."
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    materialfaktura: "F-2025-BAUHAUS-402659713"
+    underhållshistorik:
+      - "A-PARTYTALT-FORVARING-2025"
+    källor:
+      - "K-PARTYTALT-2025"
+      - "K-PARTYTALT-BEKRAFTELSE-20261121"

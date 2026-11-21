@@ -1,0 +1,22 @@
+id: "P-PARTYTALT-2025"
+tält:
+  - "UT-PARTYTALT-4X8-001"
+  - "UT-PARTYTALT-5X8-001"
+tillbehör:
+  - "UT-PARTYTALT-REGNRANNA-8M-001"
+förvaringslådor:
+  - "UT-PARTYTALT-FORVARINGSLADA-001"
+  - "UT-PARTYTALT-FORVARINGSLADA-002"
+fast_placering: null
+förvaring:
+  utrymme: "U-SKYDDSRUM-69"
+  delutrymme: "Föreningens förråd"
+  adress: "Högalidsvägen 81"
+  källa: "K-PARTYTALT-BEKRAFTELSE-20261121"
+fakturor:
+  - "F-2025-DANCOVER-241088464"
+  - "F-2025-BAUHAUS-402659713"
+förvaringsmaterial_avgränsning: "Plastbackar och skrindor får inga egna objekt enligt beställaren. Fakturans rader bevaras, utan full kostnadstilldelning till själva lådorna."
+källor:
+  - "K-PARTYTALT-2025"
+  - "K-PARTYTALT-BEKRAFTELSE-20261121"
