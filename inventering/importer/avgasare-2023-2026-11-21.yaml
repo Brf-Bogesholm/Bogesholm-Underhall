@@ -1,0 +1,22 @@
+id: "K-AVGASARE-2023-20261121"
+registrerad: "2026-11-21"
+dokument:
+  -
+    fil: "Avgasare-manual-s400.pdf"
+    sha256: "68d2f4e1505a66a01d405aa6e159650a617bd1997b6ff229f074365472dc6a69"
+  -
+    fil: "Bestridande av faktura KF23-28210 .msg"
+    sha256: "e0b09fdd596c52afe2f70c40a8d4a02be63239a87081321fe2d8c38f72445ca2"
+  -
+    fil: "Bestridande av faktura KF23-28210.pdf"
+    sha256: "a8f1288759360e22f8e869766308d6866f7919c8ac720e4c8018afc15e20147a"
+beställarbekräftelse:
+  id: "K-AVGASARE-BEKRAFTELSE-20261121"
+  datum: "2026-11-21"
+  uppgifter:
+    - "Sammanställning godkänd inklusive att 25-literskärlet är befintligt litet kärl till avgasaren."
+    - "Per registreringsdatum ingen kreditfaktura, inget erkännande av fel, ingen återställd isolering."
+    - "Firman får inte anlitas igen."
+original_publicerade: false
+unik_faktura: "F-2023-VIS-KF23-28210"
+ursprunglig_faktura_endast_referens: "KF23-24053"

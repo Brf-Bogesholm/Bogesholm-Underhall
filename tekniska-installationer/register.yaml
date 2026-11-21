@@ -50,15 +50,25 @@ objekt:
       modell: "S400"
       serienummer: null
       kommentar: "Avgasaren kontrollerades inte vid arbetet 2026-06-12."
+      beställningstid: "2022-12"
+      installationstid: "Slutet av mars 2023"
+      installationsår: 2023
+      installationsdatum: null
+      installationskälla: "K-AVGASARE-2023-20261121"
+      manual: "tekniska-installationer/avgasare/manualreferens.yaml"
     relationer:
       -
         typ: "located_in"
         objekt: "H-69"
     underhållshistorik:
-      []
+      - "A-AVGASARE-FELSOKNING-2023"
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
+      - "K-AVGASARE-2023-20261121"
+      - "K-AVGASARE-BEKRAFTELSE-20261121"
+    ärenden:
+      - "AR-AVGASARE-KF23-28210"
   -
     id: "TI-EXPANSIONSKARL-69-S400-001"
     typ: "expansionskärl"
@@ -68,6 +78,12 @@ objekt:
     egenskaper:
       modell: null
       serienummer: null
+      fabrikat_eller_serie: "Contra-Flex"
+      volym_liter: 25
+      installationsår: 2023
+      installationsdatum: null
+      identitetskälla: "K-AVGASARE-BEKRAFTELSE-20261121"
+      kommentar: "Samma lilla extrakärl vid avgasaren enligt beställaren. Skilt från värmesystemets stora expansionskärl."
     relationer:
       -
         typ: "located_in"
@@ -78,11 +94,16 @@ objekt:
     underhållshistorik:
       - "A-2026-7313-3"
       - "A-2026-7634-2"
+      - "A-AVGASARE-FELSOKNING-2023"
     källor:
       - "K-FAKTUROR-2026-10-23"
       - "K-KOMPLETTERING-2026-10-23"
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
+      - "K-AVGASARE-2023-20261121"
+      - "K-AVGASARE-BEKRAFTELSE-20261121"
+    ärenden:
+      - "AR-AVGASARE-KF23-28210"
   -
     id: "TI-VP-06414119101020"
     typ: "värmepump"

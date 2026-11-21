@@ -109,3 +109,7 @@ Beställaren rättar 2026-11-21 tidigare adress 69. Skyddsrum 175354-3 har Höga
 ## Fönstermålning 2023
 
 Beställaren bekräftar 2026-11-21 att Excel-listan visar faktiskt ommålade fönster. 36 positioner i 29 lägenheter; 71B rättas till sovrum på nedervåning, baksida. Ursprungliga markeringar bevaras som källavvikelse. Övriga fönster senast målade 2016 enligt beställaren. Använd positionshistorik, inte 2023 för hela lägenhetens samtliga fönster. Anbudens 55 fönster är annan mängduppgift och får inte bli 19 extra utförda positioner. Kompletterande/bättringsmålning, inte verifierad fullständig utsidesmålning eller automatisk överföring av 2016 års färgprodukt/kulör. Kontraktet gäller Riksbyggens konsultuppdrag, inte målerientreprenaden. Se byggnadsdelar/fonster/README.md.
+
+## Avgasare och leverantörsanvisning
+
+Bekräftat 2026-11-21: S400 installerad slutet mars 2023, extra 25-liters Contra-Flex är samma lilla kärl som redan registrerats. KF23-28210 bestridd 2024-01-09; fakturerat belopp är inte verifierad betalning. Per 2026-11-21 ingen kreditfaktura, inget erkännande av fel och ingen återställd isolering enligt beställaren. Värme Industri Sanitet i Kävlinge AB (556560-4310) får inte anlitas igen enligt beställarens beslut; se leverantorer/anvisningar.yaml och tekniska-installationer/avgasare/README.md. Föreningens invändningar hålls skilda från medgivna eller oberoende fastställda fel.

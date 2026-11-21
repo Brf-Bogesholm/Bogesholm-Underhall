@@ -1,0 +1,26 @@
+id: "MAN-SPIROVENT-S400-SV-1.0"
+dokument: "Avgasare-manual-s400.pdf"
+version: "1.0 Svenska"
+omfattar:
+  - "S400"
+  - "S400-R"
+  - "S400-B"
+objekt: "TI-AVGASARE-69-S400-001"
+kommentar: "Generell manual, inte individuellt serienummer, verifierad R/B-variant eller aktuella driftinställningar."
+specifikationer:
+  systemtryck_bar: "1–4"
+  bearbetningskapacitet_liter_per_timme: 500
+  max_systemvolym_m3: 100
+  systemtemperatur_c: "0–90"
+  omgivningstemperatur_c: "0–40"
+  matning: "230 V ±10 %, 50 Hz"
+  strömförbrukning_w: 500
+  skyddsklass: "IP44"
+underhåll_enligt_manual:
+  - "Inspektera och rengör smutsfiltret regelbundet."
+  - "Byt automatisk avluftare vartannat år."
+  - "Byt magnetventilens innerdelar varje år."
+  - "Återställ ångtät isolering efter underhåll."
+variantavgränsning: "Flottörventil och bryttank gäller tillämpliga påfyllnadsvarianter, inte automatiskt installerad utrustning."
+källor:
+  - "K-AVGASARE-2023-20261121"

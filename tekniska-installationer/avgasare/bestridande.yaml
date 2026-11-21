@@ -1,0 +1,41 @@
+id: "AR-AVGASARE-KF23-28210"
+objekt:
+  - "TI-AVGASARE-69-S400-001"
+  - "TI-EXPANSIONSKARL-69-S400-001"
+leverantör: "Värme Industri Sanitet i Kävlinge AB"
+faktura: "F-2023-VIS-KF23-28210"
+bestridandedatum: "2024-01-09"
+datumkälla: "MSG-meddelandets skickat-tidsstämpel"
+ursprunglig_fakturareferens:
+  fakturanummer: "KF23-24053"
+  dokument_finns: false
+  belopp: null
+  kommentar: "Enligt mejlet avser tidigare faktura installation enligt offert. Ingen separat fakturakostnad importerad."
+historik:
+  -
+    tid: "2022-12"
+    händelse: "Avgasaren beställd enligt bestridandet"
+  -
+    tid: "Slutet av mars 2023"
+    händelse: "Installerad enligt bestridandet"
+  -
+    tid: "2023"
+    händelse: "Återkommande larm och flera felsökningsbesök enligt föreningen"
+  -
+    tid: "November 2023"
+    händelse: "Efter besöket hade avgasaren slutat larma enligt mejlet; inte intyg om dagens driftstatus"
+föreningens_ståndpunkt: "Extrakärlet och felsökningen avser att få ursprungsinstallationen att fungera. Föreningen anser att placeringen från början var felaktig eftersom stort expansionskärl redan fanns några meter bort."
+begäran:
+  - "Kreditfaktura"
+  - "Skriftligt besked om när återstående rörisolering skulle slutföras"
+status_per: "2026-11-21"
+statuskälla: "K-AVGASARE-BEKRAFTELSE-20261121"
+senaste_beställaruppgift:
+  kreditfaktura: "Inte mottagen"
+  leverantörens_erkännande_av_fel: "Inget erkännande"
+  återställning_av_isolering: "Inte utförd"
+betalningsstatus: "Okänd"
+leverantörsanvisning: "LEV-VIS-5565604310"
+källor:
+  - "K-AVGASARE-2023-20261121"
+  - "K-AVGASARE-BEKRAFTELSE-20261121"

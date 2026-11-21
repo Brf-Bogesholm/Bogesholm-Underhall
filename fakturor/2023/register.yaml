@@ -1,6 +1,7 @@
 version: "1.0"
 registreringsomgångar:
   - "2026-11-18-VPSERVICE"
+  - "2026-11-21-AVGASARE"
 fakturor:
   -
     id: "F-2023-TK-7379"
@@ -46,3 +47,122 @@ fakturor:
       - "K-VP-SERVICE-20261118"
       - "K-VP-SERVICE-KOPPLING-20261118"
     kommentar: "Enligt fakturan tidigare motorbyte cirka två veckor före besöket. Maskinen genomgången och kyl-läckage kontrollerat, inget fel konstaterat. Det tidigare motorbytet är endast en hänvisning, inte en ytterligare registrerad åtgärd."
+  -
+    id: "F-2023-VIS-KF23-28210"
+    fakturanummer: "KF23-28210"
+    leverantör: "Värme Industri Sanitet i Kävlinge AB"
+    organisationsnummer: "556560-4310"
+    fakturadatum: "2023-11-30"
+    förfallodatum: "2023-12-30"
+    startdatum_enligt_faktura: "2023-04-28"
+    färdigdatum: null
+    datumkommentar: "Startdatum avser uppdraget; inte verifierad installationsdag för extrakärlet. Mejlet anger besök i november utan exakt datum."
+    ordernummer: "79883"
+    projektbeskrivning: "Felsökning avgasare; installera expansionskärl vid avgasare"
+    valuta: "SEK"
+    moms_procent: 25
+    exklusive_moms: 8301.55
+    moms: 2075.39
+    öresavrundning: 0.06
+    att_betala: 10377
+    betalningsstatus: "Okänd"
+    tviststatus: "Bestridd av föreningen"
+    bestridande: "AR-AVGASARE-KF23-28210"
+    kostnadskommentar: "Fakturerat och bestridet belopp; inte verifierad betald eller slutligt accepterad kostnad. Summeras endast från denna faktura."
+    rader:
+      -
+        id: "F-2023-VIS-KF23-28210-R1"
+        benämning: "25L EXP. KÄRL CONTRA-FLEX UTAN ARMATUR"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 796.45
+        rabatt_procent: 15
+        belopp_exklusive_moms: 676.98
+      -
+        id: "F-2023-VIS-KF23-28210-R2"
+        benämning: "VÄGGFÄSTE 2-25L"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 164.9
+        rabatt_procent: 15
+        belopp_exklusive_moms: 140.17
+      -
+        id: "F-2023-VIS-KF23-28210-R3"
+        benämning: "RAK KPL LK303 22xR15"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 148.65
+        rabatt_procent: 15
+        belopp_exklusive_moms: 126.35
+      -
+        id: "F-2023-VIS-KF23-28210-R4"
+        benämning: "CU-PR 90-BOJ 22 1 MUFF V-PROFIL"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 102.85
+        rabatt_procent: 15
+        belopp_exklusive_moms: 174.85
+      -
+        id: "F-2023-VIS-KF23-28210-R5"
+        benämning: "RETURK.UA.RAK GAL 20"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 294.4
+        rabatt_procent: 15
+        belopp_exklusive_moms: 250.24
+      -
+        id: "F-2023-VIS-KF23-28210-R6"
+        benämning: "RAK KPL LK303 22xR20"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 131.85
+        rabatt_procent: 15
+        belopp_exklusive_moms: 112.07
+      -
+        id: "F-2023-VIS-KF23-28210-R7"
+        benämning: "ANSL.SL. 1200mm R1/2 SILIKONFR. FLÄTNING RA6500"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 248.1
+        rabatt_procent: 15
+        belopp_exklusive_moms: 210.89
+      -
+        id: "F-2023-VIS-KF23-28210-R8"
+        benämning: "ÖVRIGT FÖRBRUKNINGSMATERIAL"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 100
+        rabatt_procent: 0
+        belopp_exklusive_moms: 100
+      -
+        id: "F-2023-VIS-KF23-28210-R9"
+        benämning: "SERVICEBIL ZON 10"
+        antal: 5
+        enhet: "st"
+        à_pris_exklusive_moms: 240
+        rabatt_procent: 0
+        belopp_exklusive_moms: 1200
+      -
+        id: "F-2023-VIS-KF23-28210-R10"
+        benämning: "ARBETSKOSTNAD VS MONTÖR"
+        antal: 2
+        enhet: "tim"
+        à_pris_exklusive_moms: 620
+        rabatt_procent: 0
+        belopp_exklusive_moms: 1240
+      -
+        id: "F-2023-VIS-KF23-28210-R11"
+        benämning: "ARBETSKOSTNAD SERVICETEKNIKER"
+        antal: 5.5
+        enhet: "tim"
+        à_pris_exklusive_moms: 740
+        rabatt_procent: 0
+        belopp_exklusive_moms: 4070
+    objekt:
+      - "TI-AVGASARE-69-S400-001"
+      - "TI-EXPANSIONSKARL-69-S400-001"
+    åtgärder:
+      - "A-AVGASARE-FELSOKNING-2023"
+    källor:
+      - "K-AVGASARE-2023-20261121"
+      - "K-AVGASARE-BEKRAFTELSE-20261121"

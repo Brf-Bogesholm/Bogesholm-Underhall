@@ -805,3 +805,20 @@ version: "1.0"
       - "K-HANGRANNOR-OFFERT-2023"
       - "K-HANGRANNOR-BEKRAFTELSE-20261121"
     kommentar: "En gemensam områdesåtgärd, inte ett separat uppdrag per byggnad. Alla garagelängor omfattas även om registret ännu bara innehåller GL-2, GL-3 och GL-4. Inga nya byggnads-ID eller garageplatsfördelningar antas. Kopplingen till utrymmen avser deras tak/hängrännor, inte invändigt arbete."
+  -
+    id: "A-AVGASARE-FELSOKNING-2023"
+    år: 2023
+    datum: null
+    åtgärd: "Felsökning av avgasare och installation av extra expansionskärl"
+    objekt:
+      - "TI-AVGASARE-69-S400-001"
+      - "TI-EXPANSIONSKARL-69-S400-001"
+    utförare: "Värme Industri Sanitet i Kävlinge AB"
+    faktura: "F-2023-VIS-KF23-28210"
+    ärende: "AR-AVGASARE-KF23-28210"
+    kostnad: null
+    datumkommentar: "Uppdragsstart 2023-04-28 enligt faktura; novemberbesök enligt bestridandet. Exakt dag för kärlinstallation och felsökning kan inte fördelas."
+    källor:
+      - "K-AVGASARE-2023-20261121"
+      - "K-AVGASARE-BEKRAFTELSE-20261121"
+    kommentar: "Föreningen bestrider betalningsansvaret och anser att åtgärden beror på brister i ursprungsinstallationen. Detta är föreningens ståndpunkt, inte ett medgivande från leverantören."
