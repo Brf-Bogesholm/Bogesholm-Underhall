@@ -41,6 +41,11 @@ drift:
   supportuppgift: "Beställaren uppfattar att Compleo slutat stödja dessa laddare i Sverige. Generellt supportstopp och stöd för exakt NEO-variant är inte oberoende verifierat."
   extern_supportreferens: "https://www.compleocharging.se/support/kundsupport"
   extern_supportkontroll: "2026-11-14: webbplatsen beskriver hårdvarusupport i Sverige. Detta fastställer inte support för just föreningens modell eller avtalsförhållande."
+  tjänsteavtal: "AVT-CAIFLOW-T150"
+  tariffändringar_per_år: 4
+  debiteringsflöde: "Excel från Caiflow till Kensulting, laddkostnad på bostadsrättshavarens månadsavi."
+  avtal_signerat: "2025-08-21"
+  datumkommentar: "Avtalssignering är inte verifierad faktisk migrering; övergångsdatum lämnas okänt."
 öppna_tekniska_uppgifter:
   - "Individuella serienummer och laddar-ID:n"
   - "Koppling mellan uttag och parkeringsplatsnummer"
@@ -55,6 +60,8 @@ källor:
   - "K-COMPLEO-TEKNIK-20261114"
   - "K-LADDPARK-KOMPLETTERING-20261114"
   - "K-NEO-MONTA-20261114"
+  - "K-CAIFLOW-AVTAL-T150-20261123"
+  - "K-CAIFLOW-BEKRAFTELSE-20261123"
 tillgänglighetsanpassning_2024:
   parkeringsyta: "P-HANDIKAPPARKERINGAR"
   åtgärd: "A-HANDIKAPPARKERING-20240208"

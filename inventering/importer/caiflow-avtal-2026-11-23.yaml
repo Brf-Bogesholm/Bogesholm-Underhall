@@ -1,0 +1,17 @@
+id: "K-CAIFLOW-AVTAL-T150-20261123"
+registrerad: "2026-11-23"
+avtal: "AVT-CAIFLOW-T150"
+beställarbekräftelse:
+  id: "K-CAIFLOW-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Fyra tariffändringar per år gäller. Ambition att förhandla fram fler."
+    - "Caiflow skickar Excel-underlag till Kensulting som debiterar på månadsavierna, ingen Caiflow-direktfakturering."
+dokument:
+  -
+    fil: "Brf Bogesholm T-150.pdf"
+    sha256: "c4b7143468db43a7243922a0bad5bd087446e2a4288262abbaed3067beced641"
+  -
+    fil: "Offert för 2026.pdf"
+    sha256: "a8841af36683135c8b1f84047676eb957cacddc72f4a99a750e0350458b2554d"
+nya_fakturor: 0
+original_publicerade: false

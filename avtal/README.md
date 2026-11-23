@@ -43,3 +43,13 @@ Fast grundersättning **696 800 kr/år inklusive moms**, fördelad på 598 800 k
 Avhjälpande underhåll ingår enligt texten upp till 2 000 kr per avhjälpande, med uttryckliga undantag för bland annat skador, äldre fel utanför leverantörens ansvar och vissa höga externa/materialkostnader. Ingen generell avdragsrätt för 2 000 kr från större arbeten antas. Tjänstebeskrivningens ansvar och F/RÖ gäller per arbetsuppgift; alla rubriker innebär inte inkluderat arbete.
 
 Akuta åtgärder ska påbörjas inom två timmar under arbetstid och fyra timmar övrig tid. Dokumentation, viten, fakturering, fullmaktsbegränsningar och övriga krav finns i registerfilerna. Förvaltaren har ingen generell rätt att binda föreningen. De registrerade skyldigheterna är inte påståenden om fullgjorda prestationer eller konstaterade avtalsbrott. Originalets 108 sidor tjänstebeskrivningar finns kvar i dokumentarkivet och har inte överförts radvis.
+
+## Caiflow – administration av laddparken
+
+[Tjänsteavtal T150](caiflow.yaml), signerat 2025-08-21, Silver för 16 uttag. Kopplat till befintligt abonnemang AB-CAIFLOW-SILVER-001 och laddparken. **Fyra tariffändringar per år gäller**, enligt specifik offert och beställaren 2026-11-23. Ambitionen att förhandla fram fler registreras separat; den är inte ett utökat gällande åtagande.
+
+**Caiflow skickar debiteringsunderlag i Excel till Kensulting, som lägger laddkostnaden på respektive bostadsrättshavares månadsavi.** Caiflows tillval för direktfakturering används inte. Prisbilagans olika procentpåslag för detta tillval är därför inte en extra faktisk laddavgift här.
+
+Avtalet anger kostnadsfritt till och med 2026-05-01. Offert 139 från 2026-03-06 anger 79 kr/uttag/månad exklusive moms, motsvarande 1 580 kr inklusive moms per månad för 16 uttag; samma prisnivå som redan registrerad faktura 1180. Ingen ny kostnad eller migrationsavgift har lagts till. Kvartalsfakturering enligt markerat val, 30 dagars betalningsvillkor.
+
+Grundavtalet anger slutdag 2026-05-01 och automatisk förlängning med tolv månader, om det inte sägs upp skriftligt minst tre månader i förväg. Om avtalsperioden inte ändrats blir nästa slutdag **2027-05-01** och uppsägning senast **2027-02-01**. Eventuella senare periodändringar är inte bekräftade. Avtalets signering är inte verifierat faktisk migrering från Compleo. Standardbilagans en tariffändring per år för Silver ersätts av den specifika uppgiften om fyra.

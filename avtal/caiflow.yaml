@@ -1,0 +1,64 @@
+id: "AVT-CAIFLOW-T150"
+avtalsnummer: "T150"
+leverantör: "Caiflow AB"
+organisationsnummer: "559497-5772"
+status: "Gällande administration enligt beställaren och befintligt abonnemang"
+signerat: "2025-08-21"
+abonnemang: "AB-CAIFLOW-SILVER-001"
+anläggning: "TI-LADDPARK-BOGESHOLM-001"
+paket: "Silver"
+antal_ladduttag_enligt_avtal: 16
+giltighet:
+  startregel: "Från undertecknandet"
+  ursprungligt_slut: "2026-05-01"
+  automatisk_förlängning_månader: 12
+  skriftlig_uppsägning_månader_före_slut: 3
+  uppsägning_till: "support@caiflow.se"
+  beräknad_nästa_slutdag_om_oförändrat: "2027-05-01"
+  beräknad_uppsägning_senast_om_oförändrat: "2027-02-01"
+  senare_ändring_av_avtalsperiod: "Inte bekräftad"
+  kommentar: "Datum är beräknade från grundavtalets slutdag och förlängningsregel, inte en separat bekräftelse att inga senare periodändringar förekommit. Signering är inte verifierat faktiskt migreringsdatum."
+tjänster:
+  support: "Helgfria vardagar 08–17 för administratörer, slutanvändare och ekonomisk förvaltare. Ärenden kan registreras dygnet runt."
+  debiteringsunderlag: "Skräddarsydd fil i Excel-format till Kensulting"
+  användaradministration: "Nya användare och laddkort/taggar"
+  tariffändringar_per_år: 4
+  tariffkälla: "Offert 139 daterad 2026-03-06 och beställarbekräftelse"
+  standardbilaga_avvikelse: "Standardprisbilagan anger en ändring per år för Silver; specifik offert och beställaruppgift anger fyra."
+  åtgärdstid_formulering: "Leverantören avser felavhjälpning inom tre dagar, inte ett garanterat återställande av alla laddare."
+  ny_användare: "Registrering inom fem dagar från anmälan med korrekta användaruppgifter enligt villkoren."
+debiteringsflöde:
+  steg:
+    - "Caiflow tar fram Excel-underlag för laddningen."
+    - "Caiflow skickar underlaget till Kensulting."
+    - "Kensulting lägger laddkostnaden på respektive bostadsrättshavares månadsavi."
+  direktfakturering_via_Caiflow: false
+  kommentar: "Debiteringsfil till ekonomiförvaltare, inte tillvalet där Caiflow fakturerar och tar betalt direkt från användarna. Kensultings mottagning av fil är inte en ny separat Caiflow-fakturakostnad."
+pris:
+  kostnadsfritt_till_och_med: "2026-05-01"
+  offertnummer: "139"
+  offertdatum: "2026-03-06"
+  SEK_per_uttag_månad_exklusive_moms: 79
+  beräknad_månad_16_uttag_exklusive_moms: 1264
+  beräknad_månad_16_uttag_inklusive_moms: 1580
+  prisstatus: "Offertnivå som stämmer med redan registrerad faktura 1180; ingen separat ny kostnad."
+  fakturering: "Kvartal enligt markerat val i huvudavtalet"
+  betalningsvillkor_dagar: 30
+  prisändring: "Skriftligt besked senast en månad innan nästa avtalsperiod. Förnyelse till årets gällande prislista enligt villkor."
+  rörligt_antal: "Villkoren debiterar aktuell månads aktiva uttag; avtalet anger 16 uttag."
+  tillval: "SIM-kort, direktfakturaservice och adhoc är inte markerade som valda i huvudavtalet."
+  källavvikelser:
+    - "Direktfakturaservice anges med 15 procent i huvudvillkor men 10 procent i äldre prisbilaga. Tjänsten används inte enligt beställaren."
+    - "Dröjsmålsränta 10 procent i huvudavtalet och 8 procent i offerten; ingen entydig faktisk debitering registreras."
+    - "Prisbilagans migrationsavgift är inte bevis att en extra avgift fakturerats eller betalats."
+övriga_villkor:
+  backendbyte: "Leverantören får byta backend om funktionalitet bibehålls. Aktiv backend/OCPP-version inte fastställd."
+  ansvar: "Servicebesök kan debiteras om felet inte kan hänföras till leverantörens tjänst. Ingen garanterad oavbruten funktion enligt villkoren."
+förhandlingsönskemål:
+  ämne: "Fler än fyra tariffändringar per år"
+  status: "Ambition enligt beställaren, ingen utökad rätt överenskommen"
+  beställarens_motivering: "Beställaren bedömer att ändring av taxan bara tar några minuter för leverantören."
+befintlig_faktura: "F-2026-1180"
+källor:
+  - "K-CAIFLOW-AVTAL-T150-20261123"
+  - "K-CAIFLOW-BEKRAFTELSE-20261123"

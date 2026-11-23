@@ -11,6 +11,8 @@ abonnemang:
       - "K-FAKTUROR-2026-11-11-07"
       - "K-KOMPLETTERING-2026-11-13-07"
       - "K-LADDPARK-KOMPLETTERING-20261114"
+      - "K-CAIFLOW-AVTAL-T150-20261123"
+      - "K-CAIFLOW-BEKRAFTELSE-20261123"
     individuella_laddarobjekt:
       []
     objektkopplingstatus: "Kopplad till laddparken och kluster på rad 1 och rad 2 enligt beställaren. Individuella laddare och platsnummer ännu inte verifierade."
@@ -23,11 +25,16 @@ abonnemang:
           - "F-2026-1180-R1"
           - "F-2026-1180-R2"
           - "F-2026-1180-R3"
-    kommentar: "Fakturan har tre rader med vardera 16 st à 79 kr exklusive moms. Det är inte bekräftat vilken månad varje rad avser eller vilka individuella laddare som omfattas. Ingen automatisk förnyelse eller längre avtalstid har antagits."
+    kommentar: "Faktura 1180 har tre rader med vardera 16 st à 79 kr exklusive moms. Ingen säker individuell månads-/laddarfördelning av raderna. Avtalets förlängningsregel dokumenteras nu separat i avtal/caiflow.yaml; inga ytterligare fakturakostnader skapas."
     anläggning: "TI-LADDPARK-BOGESHOLM-001"
     kluster:
       - "TI-LADDKLUSTER-RAD-1"
       - "TI-LADDKLUSTER-RAD-2"
+    avtal: "AVT-CAIFLOW-T150"
+    avtalsdokumentation: "avtal/caiflow.yaml"
+    tariffändringar_per_år: 4
+    debiteringsflöde: "Caiflow skickar Excel-underlag till Kensulting, som debiterar via respektive bostadsrättshavares månadsavi."
+    direktfakturering_via_Caiflow: false
   -
     id: "AVT-PRESTO-SKYDDSRUM-2022"
     namn: "Presto skyddsrumsinventering och underhåll"
