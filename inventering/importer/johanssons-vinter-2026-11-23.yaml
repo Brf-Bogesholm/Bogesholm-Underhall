@@ -1,0 +1,14 @@
+id: "K-JOHANSSONS-FAKTURA-825"
+registrerad: "2026-11-23"
+beställarbekräftelse:
+  id: "K-JOHANSSONS-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Muntlig överenskommelse om snö- och halkbekämpning på bilparkeringen och infarten."
+    - "Saltmängd per år och sammanlagda fakturerade timmar under en vinter ska kunna följas upp."
+dokument:
+  fil: "faktura-200002313.pdf"
+  sha256: "95ceb387cdd08b4fe605da67d846fe76e70176f554c3cb06147aada0c592acf8"
+avtal: "AVT-JOHANSSONS-VINTER"
+faktura: "F-2025-JOHANSSONS-825"
+datumregel: "K-DATUMREGEL-2026-11-13"
+original_publicerade: false

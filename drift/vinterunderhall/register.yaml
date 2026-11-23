@@ -1,0 +1,45 @@
+version: "1.0"
+poster:
+  -
+    id: "DRIFT-VINTER-JOHANSSONS-825"
+    avtal: "AVT-JOHANSSONS-VINTER"
+    faktura: "F-2025-JOHANSSONS-825"
+    fakturadatum: "2025-12-16"
+    fakturaår: 2025
+    verklig_tjänsteperiod_från: null
+    verklig_tjänsteperiod_till: null
+    vintersäsong_härledd: "2025/2026"
+    säsongsstatus: "Preliminär, härledd från fakturadatum; faktisk arbets-/jourperiod okänd"
+    säsongsregel: "Analytisk vintergruppering juli–juni efter fakturadatum tills verklig tjänsteperiod finns. Vid senare exakt underlag används faktisk period och källan anges."
+    ytor:
+      - "Bilparkeringen"
+      - "Infarten till området"
+    mätposter:
+      -
+        fakturarad: "F-2025-JOHANSSONS-825-R1"
+        mått: "fakturerad_tid"
+        kategori: "Traktor och saltare"
+        antal: 2
+        enhet: "h"
+      -
+        fakturarad: "F-2025-JOHANSSONS-825-R2"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 400
+        enhet: "kg"
+      -
+        fakturarad: "F-2025-JOHANSSONS-825-R3"
+        mått: "fakturerad_tid"
+        kategori: "Snöröjning"
+        antal: 2
+        enhet: "h"
+      -
+        fakturarad: "F-2025-JOHANSSONS-825-R4"
+        mått: "fakturerad_jourpost"
+        kategori: "Jour"
+        antal: 1
+        enhet: "st"
+    källor:
+      - "K-JOHANSSONS-FAKTURA-825"
+      - "K-JOHANSSONS-BEKRAFTELSE-20261123"
+summeringsprincip: "Kostnader summeras endast från unika fakturor. Kvantiteter summeras från unika faktura/rad-par; år och vinter är alternativa grupperingar av samma mängder, inte extra mängder. Endast enheter h räknas som timmar och kg som kilogram. Jour i st räknas inte om till timmar. Fakturerat salt är inte uppmätt faktisk förbrukning. Olika typer av fakturerade timmar hålls också separata."

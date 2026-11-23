@@ -53,3 +53,7 @@ Akuta åtgärder ska påbörjas inom två timmar under arbetstid och fyra timmar
 Avtalet anger kostnadsfritt till och med 2026-05-01. Offert 139 från 2026-03-06 anger 79 kr/uttag/månad exklusive moms, motsvarande 1 580 kr inklusive moms per månad för 16 uttag; samma prisnivå som redan registrerad faktura 1180. Ingen ny kostnad eller migrationsavgift har lagts till. Kvartalsfakturering enligt markerat val, 30 dagars betalningsvillkor.
 
 Grundavtalet anger slutdag 2026-05-01 och automatisk förlängning med tolv månader, om det inte sägs upp skriftligt minst tre månader i förväg. Om avtalsperioden inte ändrats blir nästa slutdag **2027-05-01** och uppsägning senast **2027-02-01**. Eventuella senare periodändringar är inte bekräftade. Avtalets signering är inte verifierat faktisk migrering från Compleo. Standardbilagans en tariffändring per år för Silver ersätts av den specifika uppgiften om fyra.
+
+## Johanssons maskinstation – snö- och halkbekämpning
+
+[Muntlig överenskommelse](johanssons-maskinstation.yaml) för **bilparkeringen och infarten till området**, bekräftad av beställaren 2026-11-23. Avtalsperiod, uppsägning och stående prislista är okända. Faktura 825 från 2025-12-16, 13 750 kr inklusive moms, är registrerad med fyra rader. [Vinteruppföljningen](../drift/vinterunderhall/README.md) bevarar 400 kg fakturerat salt, 4 fakturerade timmar uppdelade efter typ och separat jourpost. Säsong 2025/2026 är preliminärt härledd från fakturadatum.

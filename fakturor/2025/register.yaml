@@ -9,6 +9,7 @@ registreringsomgångar:
   - "2026-11-21-SOLCELLER"
   - "2026-11-21-ANTICIMEX"
   - "2026-11-23-FASTIGHETSFORS"
+  - "2026-11-23-JOHANSSONS"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -1228,3 +1229,59 @@ fakturor:
     källor:
       - "K-FASTIGHETSFORS-2026-20261123"
       - "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"
+  -
+    id: "F-2025-JOHANSSONS-825"
+    fakturanummer: "825"
+    leverantör: "Johanssons Maskinstation AB"
+    organisationsnummer: "559104-6288"
+    fakturadatum: "2025-12-16"
+    förfallodatum: "2026-01-15"
+    valuta: "SEK"
+    exklusive_moms: 11000
+    moms_procent: 25
+    moms: 2750
+    att_betala: 13750
+    betalningsstatus: "Okänd"
+    avtal: "AVT-JOHANSSONS-VINTER"
+    åtgärder:
+      - "A-JOHANSSONS-VINTER-20251216"
+    ytor:
+      - "Bilparkeringen"
+      - "Infarten till området"
+    rader:
+      -
+        id: "F-2025-JOHANSSONS-825-R1"
+        artikelnummer: "41"
+        benämning: "Traktor + Saltare"
+        antal: 2
+        enhet: "h"
+        à_pris_exklusive_moms: 1250
+        belopp_exklusive_moms: 2500
+      -
+        id: "F-2025-JOHANSSONS-825-R2"
+        artikelnummer: "804"
+        benämning: "salt"
+        antal: 400
+        enhet: "kg"
+        à_pris_exklusive_moms: 2.5
+        belopp_exklusive_moms: 1000
+      -
+        id: "F-2025-JOHANSSONS-825-R3"
+        artikelnummer: "28"
+        benämning: "Snöröjning"
+        antal: 2
+        enhet: "h"
+        à_pris_exklusive_moms: 1250
+        belopp_exklusive_moms: 2500
+      -
+        id: "F-2025-JOHANSSONS-825-R4"
+        artikelnummer: "35"
+        benämning: "Jour"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 5000
+        belopp_exklusive_moms: 5000
+    källor:
+      - "K-JOHANSSONS-FAKTURA-825"
+      - "K-JOHANSSONS-BEKRAFTELSE-20261123"
+    kommentar: "Ingen angiven tjänsteperiod eller separata arbetsdatum. Fakturans datum används för historikhändelsen enligt stående regel; inte ett verifierat verkligt besöksdatum eller jourperiod. Saltmängd och timmar avser fakturerade mängder."

@@ -516,3 +516,20 @@ version: "1.0"
     källor:
       - "K-SOLCELLER-ARKIV-20261121"
       - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  -
+    id: "A-JOHANSSONS-VINTER-20251216"
+    datum: "2025-12-16"
+    datumkälla: "K-DATUMREGEL-2026-11-13"
+    datumkommentar: "Fakturadatum används enligt stående regel när arbetsdatum saknas. Ingen exakt besöksdag styrkt."
+    åtgärd: "Snöröjning och halkbekämpning på bilparkeringen och infarten"
+    ytor:
+      - "Bilparkeringen"
+      - "Infarten till området"
+    utförare: "Johanssons Maskinstation AB"
+    avtal: "AVT-JOHANSSONS-VINTER"
+    faktura: "F-2025-JOHANSSONS-825"
+    kostnad: null
+    källor:
+      - "K-JOHANSSONS-FAKTURA-825"
+      - "K-JOHANSSONS-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"

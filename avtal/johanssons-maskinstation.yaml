@@ -1,0 +1,22 @@
+id: "AVT-JOHANSSONS-VINTER"
+leverantör: "Johanssons Maskinstation AB"
+organisationsnummer: "559104-6288"
+avtalsform: "Muntlig överenskommelse enligt beställaren"
+status: "Löpande uppdrag enligt beställaren 2026-11-23"
+omfattning: "Snö- och halkbekämpning"
+ytor:
+  - "Bilparkeringen"
+  - "Infarten till området"
+avtalsdatum: null
+startdatum: null
+slutdatum: null
+uppsägningstid: null
+förnyelsevillkor: null
+stående_prislista: null
+kommentar: "Fakturerade priser i faktura 825 är inte automatiskt överenskommen prislista för kommande vintrar. Inga garageplatser, gårdar eller gångbanor kopplas in utöver bekräftad yta."
+fakturor:
+  - "F-2025-JOHANSSONS-825"
+uppföljning: "drift/vinterunderhall/register.yaml"
+källor:
+  - "K-JOHANSSONS-FAKTURA-825"
+  - "K-JOHANSSONS-BEKRAFTELSE-20261123"
