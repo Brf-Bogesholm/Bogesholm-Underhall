@@ -147,3 +147,19 @@ abonnemang:
     filtermaterialfakturor:
       - "F-2026-OMAN-5612288"
     kostnadskommentar: "Separat filtermaterialfaktura. Avtalspris och denna hänvisning summeras inte som extra fakturakostnader."
+  -
+    id: "AB-TELENOR-GRUPP-001"
+    namn: "Telenor gruppanslutning"
+    leverantör: "Telenor Sverige AB"
+    avtal: "AVT-TELENOR-C-00074968"
+    uppkopplingsavtal: "AVT-TELENOR-C-00074967"
+    status: "Gällande enligt beställaren 2026-11-23"
+    fakturaperioder:
+      -
+        från: "2021-07-01"
+        till: "2021-09-30"
+        faktura: "F-2021-TELENOR-4000094331"
+    kostnadsprincip: "Summera endast unik faktura; bestridandeutfall och betalningsstatus okända. Avtalspriset från 2020 är inte en ny kostnad eller verifierat aktuellt pris."
+    källor:
+      - "K-TELENOR-AVTAL-20261123"
+      - "K-TELENOR-BEKRAFTELSE-20261123"

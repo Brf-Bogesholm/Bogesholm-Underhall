@@ -83,3 +83,13 @@ Bilaga 3 över uppdragsställen är tom. Inga specifika miljöhus eller andra ut
 Ökad maxeffekt kräver ny föranmälan via installatör enligt avtalet. Separata nätpriser och avtalsvillkor hänvisas till men finns inte angivna som avgifter i anslutningsbrevet. Dokumentets 30 dagar för invändning är inte en uppsägningstid. Enermonts tidigare driftsättningsdatum 2025-06-17 bevaras separat från nätanslutningen.
 
 ALP-blanketten från februari 2025 visar de ursprungligen planerade två 25 kW-växelriktarna och är historik. Ingen ytterligare bytekostnad eller faktisk exportinställning härleds från den nya registreringen.
+
+## Telenor – gruppanslutning och nätuppkoppling
+
+[Avtalsuppgifter och historik](telenor.yaml). **Gruppanslutningsavtal C-00074968 och uppkopplingsavtal C-00074967 från 2020-04-01 gäller fortfarande enligt beställaren 2026-11-23.** Ursprunglig treårsperiod/exklusivitet, därefter tolvmånadersförlängningar och sex månaders uppsägning enligt respektive avtal.
+
+Gruppavtalet anger ursprungligen bredband 250/250, telefoni, TV Bas, TV-box och WiFi-brygga. Ursprungligt pris 229 kr inklusive moms per hushåll/månad, med möjlighet till justering; aktuellt pris och dagens individuella tjänsteaktivering är inte verifierade.
+
+Uppsägningen 2019 avser **äldre C-00057995 och anslutningsavtal 61258**. Telenors uppdaterade besked 2019-05-08 anger nyttjanderättens slut 2019-10-17 och gruppavtalets slut 2020-07-01. Den avslutar inte de nyare 2020-avtalen. Autosvaret visar mottaget ärende, inte ett separat sakbesked.
+
+[Faktura 4000094331](../fakturor/2021/register.yaml), 2021-06-01, är 53 584 kr inklusive moms och avrundning, avser juli–september 2021 och har sex tjänsterader. **Bestridandet gjordes för att hjälpa en boende vidare med sitt ärende hos Telenor**, enligt beställaren. Utfall, betalning och eventuell kredit är okända. Ingen faktisk feldebitering eller uppsägning av gällande avtal härleds.

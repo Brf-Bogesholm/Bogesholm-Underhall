@@ -1,0 +1,71 @@
+leverantör: "Telenor Sverige AB"
+organisationsnummer: "556421-0309"
+avtal:
+  -
+    id: "AVT-TELENOR-C-00074968"
+    avtalsnummer: "C-00074968"
+    typ: "Gruppanslutningsavtal"
+    status: "Gäller fortfarande enligt beställaren 2026-11-23"
+    tillämpas_från: "2020-04-01"
+    ursprunglig_period_år: 3
+    automatisk_förlängning_månader: 12
+    uppsägningstid_månader: 6
+    tjänster_enligt_ursprungsavtal:
+      - "Bredband 250/250"
+      - "Telefoni"
+      - "TV-box"
+      - "TV Bas"
+      - "WiFi-brygga"
+    tjänsteavgränsning: "Ursprunglig avtalsprodukt, inte en verifiering av dagens individuella tjänsteaktivering eller hastighet."
+    ursprunglig_månadsavgift_per_hushåll_inklusive_moms: 229
+    pris_original:
+      exklusive_moms: 183
+      moms: 46
+      inklusive_moms: 229
+      kommentar: "Avtalets avrundade belopp återges, inte omräknad moms från avrundat nettopris."
+    prisreglering: "Årlig justering enligt KPI och allmänna villkor; särskilda villkor anger även justering vid vissa ökade programkostnader."
+    aktuellt_pris: null
+    fakturering: "Kvartalsvis i förskott, 30 dagar netto"
+    beroende_av: "AVT-TELENOR-C-00074967"
+    kommentar: "Uppkopplingsavtalet är en förutsättning för gruppavtalet. Upphör uppkopplingsavtalet upphör gruppavtalet enligt villkoren, men gruppavtalets upphörande avslutar inte automatiskt uppkopplingsavtalet."
+    källor:
+      - "K-TELENOR-AVTAL-20261123"
+      - "K-TELENOR-BEKRAFTELSE-20261123"
+  -
+    id: "AVT-TELENOR-C-00074967"
+    avtalsnummer: "C-00074967"
+    typ: "Uppkopplingsavtal mot befintligt nät"
+    status: "Gäller fortfarande enligt beställaren 2026-11-23"
+    tillämpas_från: "2020-04-01"
+    ursprunglig_exklusivitetsperiod_år: 3
+    automatisk_förlängning_exklusivitet_månader: 12
+    skriftlig_uppsägning_månader_före_periodslut: 6
+    närvarorätt_period_år: null
+    närvarorätt_kommentar: "Antal år är inte ifyllt i den lästa huvudavtalstexten; ingen extra period antas."
+    omfattning: "Uppkoppling, drift, underhåll och övervakning av aktiv utrustning och i förekommande fall områdesnät; fastighetsnätservice endast om särskilt överenskommet."
+    ägande_enligt_villkor: "Telenor äger aktiva komponenter och av Telenor anlagda områdesnät. Föreningen äger fastighetsnät och områdesnät som inte ägs av Telenor."
+    avgränsning: "Teknisk avtalsdefinition är inte en fysisk inventering eller verifierad äganderätt för varje senare installerad nätkomponent. Själva tjänsteleveransen regleras separat."
+    källor:
+      - "K-TELENOR-AVTAL-20261123"
+      - "K-TELENOR-BEKRAFTELSE-20261123"
+historik:
+  gammalt_gruppavtal: "C-00057995"
+  gammalt_anslutningsavtal: "61258"
+  uppsägning_daterad: "2019-04-16"
+  begärt_slutdatum: "2020-06-30"
+  Telenor_uppdaterad_bekräftelse: "2019-05-08"
+  bekräftad_nyttjanderätt_slut: "2019-10-17"
+  bekräftat_gruppavtal_slut_original: "2020-07-01"
+  datumkommentar: "Begärt slut per 30 juni och Telenors formulering löper ut 1 juli bevaras utan att originaldatumen skrivs om. Uppdaterad bekräftelse anger rättad nyttjanderättsperiod."
+  autosvar: "Bekräftar mottaget ärende, inte självständigt sakligt godkännande av uppsägning."
+  status: "Äldre avtalsgeneration, inte uppsägning av de nu gällande 2020-avtalen."
+bestridande:
+  faktura: "F-2021-TELENOR-4000094331"
+  datum_för_bestridande: null
+  orsak_enligt_beställare: "Föreningen bestred fakturan för att hjälpa en boende som inte kom vidare med sitt ärende hos Telenor."
+  status: "Historiskt bestridande, utfall okänt"
+  betalningsstatus: "Okänd"
+  kommentar: "Ingen feldebitering, avtalsstridighet, kredit eller avslutad leverans antas. Boendes identitet och ärendedetaljer inte angivna eller publicerade."
+  källor:
+    - "K-TELENOR-BEKRAFTELSE-20261123"
+avgränsning: "Inga framtida uppsägningsdatum eller nya förlängningar beräknas utan kontroll av eventuella senare avtalsändringar. Inga nya nätverksinköp eller servicehändelser skapas av avtalen."

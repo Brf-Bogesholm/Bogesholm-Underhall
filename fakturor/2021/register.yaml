@@ -1,0 +1,91 @@
+version: "1.0"
+registreringsomgångar:
+  - "2026-11-23-TELENOR"
+fakturor:
+  -
+    id: "F-2021-TELENOR-4000094331"
+    fakturanummer: "4000094331"
+    leverantör: "Telenor Sverige AB"
+    organisationsnummer: "556421-0309"
+    fakturadatum: "2021-06-01"
+    förfallodatum: "2021-06-30"
+    tjänsteperiod_start: "2021-07-01"
+    tjänsteperiod_slut: "2021-09-30"
+    avtal: "AVT-TELENOR-C-00074968"
+    abonnemang: "AB-TELENOR-GRUPP-001"
+    valuta: "SEK"
+    exklusive_moms: 42867
+    moms_procent: 25
+    moms: 10716.75
+    öresavrundning: 0.25
+    att_betala: 53584
+    betalningsstatus: "Okänd"
+    bestridande: "Historiskt bestridd för att hjälpa en boende vidare i ärende hos leverantören enligt beställaren; utfall okänt."
+    rader:
+      -
+        id: "F-2021-TELENOR-4000094331-R1"
+        benämning: "GAN BB + Tele"
+        antal: 78
+        enhet: "st"
+        à_pris_enligt_rad: 104
+        period_från: "2021-07-01"
+        period_till: "2021-07-31"
+        belopp_exklusive_moms: 8112
+        belopp_inklusive_moms: 10140
+      -
+        id: "F-2021-TELENOR-4000094331-R2"
+        benämning: "GAN BB + Tele"
+        antal: 78
+        enhet: "st"
+        à_pris_enligt_rad: 104
+        period_från: "2021-08-01"
+        period_till: "2021-08-31"
+        belopp_exklusive_moms: 8112
+        belopp_inklusive_moms: 10140
+      -
+        id: "F-2021-TELENOR-4000094331-R3"
+        benämning: "GAN BB + Tele"
+        antal: 78
+        enhet: "st"
+        à_pris_enligt_rad: 104
+        period_från: "2021-09-01"
+        period_till: "2021-09-30"
+        belopp_exklusive_moms: 8112
+        belopp_inklusive_moms: 10140
+      -
+        id: "F-2021-TELENOR-4000094331-R4"
+        benämning: "Avgift TV"
+        antal: 78
+        enhet: "st"
+        à_pris_enligt_rad: 79.2
+        period_från: "2021-07-01"
+        period_till: "2021-07-31"
+        belopp_exklusive_moms: 6177
+        belopp_inklusive_moms: 7721.25
+        kommentar: "Radbelopp enligt skannat original. Tryckt à-pris 79,20 och antal 78 ger 6 177,60, men fakturan anger 6 177,00. Originalets radbelopp och totalsumma bevaras."
+      -
+        id: "F-2021-TELENOR-4000094331-R5"
+        benämning: "Avgift TV"
+        antal: 78
+        enhet: "st"
+        à_pris_enligt_rad: 79.2
+        period_från: "2021-08-01"
+        period_till: "2021-08-31"
+        belopp_exklusive_moms: 6177
+        belopp_inklusive_moms: 7721.25
+        kommentar: "Radbelopp enligt skannat original. Tryckt à-pris 79,20 och antal 78 ger 6 177,60, men fakturan anger 6 177,00. Originalets radbelopp och totalsumma bevaras."
+      -
+        id: "F-2021-TELENOR-4000094331-R6"
+        benämning: "Avgift TV"
+        antal: 78
+        enhet: "st"
+        à_pris_enligt_rad: 79.2
+        period_från: "2021-09-01"
+        period_till: "2021-09-30"
+        belopp_exklusive_moms: 6177
+        belopp_inklusive_moms: 7721.25
+        kommentar: "Radbelopp enligt skannat original. Tryckt à-pris 79,20 och antal 78 ger 6 177,60, men fakturan anger 6 177,00. Originalets radbelopp och totalsumma bevaras."
+    källor:
+      - "K-TELENOR-AVTAL-20261123"
+      - "K-TELENOR-BEKRAFTELSE-20261123"
+    kommentar: "Fakturerat belopp, inte bekräftad betalning eller slutligt godkänd kostnad. Ingen boendes skuld registreras. Originalrader bevaras utan omräkning från avrundade à-priser."

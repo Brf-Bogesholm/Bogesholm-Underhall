@@ -1,0 +1,34 @@
+id: "K-TELENOR-AVTAL-20261123"
+registrerad: "2026-11-23"
+avtal:
+  - "AVT-TELENOR-C-00074968"
+  - "AVT-TELENOR-C-00074967"
+beställarbekräftelse:
+  id: "K-TELENOR-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Båda avtalen från 2020 gäller fortfarande."
+    - "Bestridandet gjordes för att hjälpa en boende som inte kom vidare med sitt ärende hos Telenor."
+dokument:
+  -
+    fil: "2116005RBSTD02N57012.pdf"
+    sha256: "13aeaf5eb0493bbdfe00019a50cd5ddd50f68596d5396f42222a5c843a693911"
+  -
+    fil: "Autosvar  Uppsägning av avtalet Bogesholm-Telenor.msg"
+    sha256: "7b6a27ca9e5d9580ea12850562790f760a282865e3dd6f6d16274a584c047335"
+  -
+    fil: "RIKSBYGGENS BOSTADSRÄTTSFÖRENING BOGESHOLM - Gruppanslutningsavtal C-00074968.pdf"
+    sha256: "718d07ae3fca940dcb2d2f463a18db225ab0d51e893fbac744c1edaf59bd2c3c"
+  -
+    fil: "RIKSBYGGENS BOSTADSRÄTTSFÖRENING BOGESHOLM - Uppkopplingsavtal mot Bef. nät-C-00074967.pdf"
+    sha256: "8869cf8710a3e4df4ff375e8833741263b5134b3f7551bc997a81ad9fd090f8c"
+  -
+    fil: "Uppsägning av avtal.docx"
+    sha256: "57a85090a2de2214ab2502ff6de8f74a48e0f0606252bc153ebf05a6408cc4fa"
+  -
+    fil: "Uppsägning av avtalet ver 2.pdf"
+    sha256: "1768f95d6fd30133d712d6eec65b5b87e40e8d8dc02c128a6ecf7c03454a38a7"
+  -
+    fil: "Uppsägning av avtalet.pdf"
+    sha256: "adb55c3645d2e2ab9afab55f89417240796e337d5dad31679de54360d9bd7b6e"
+original_publicerade: false
+privata_kontaktuppgifter_och_signaturer_publicerade: false
