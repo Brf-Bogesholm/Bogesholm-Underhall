@@ -43,6 +43,16 @@ avvikelser:
       - "Kontroller augusti"
       - "Besiktning oktober"
     hantering: "Separata daterade händelser, inget datum ersätter automatiskt övriga"
+  -
+    ämne: "ALP och nätanslutning kontra slutinstallation"
+    uppgifter:
+      - "ALP 2025-02-26: två 25 kW-växelriktare"
+      - "Installerat: två 30 kW-växelriktare enligt beställare, faktura och relationsunderlag"
+      - "Nätavtal 2025-08-07: anslutning 2025-08-06, Sol 43,5 kW + batteri"
+      - "Enermont: driftsättning 2025-06-17"
+    hantering: "ALP är historiskt planeringsunderlag. Nätanslutningen är 43,5 kW enligt beställaren; tre olika effektstorheter och separata projektdatum bevaras. Ingen ny kostnad eller liveinställning antas."
 källor:
   - "K-SOLCELLER-ARKIV-20261121"
   - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  - "K-SKANSKA-ENERGI-ANSLUTNING-20250807"
+  - "K-SKANSKA-ENERGI-BEKRAFTELSE-20261123"

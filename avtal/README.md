@@ -75,3 +75,11 @@ PostNord-fullmakten är en tom blankett, inte en utfärdad fullmakt. Bolagsverks
 Kundens signering är daterad 2025-06-02. Leverantörens underskrift saknas i kopian, så exakt ikraftträdandedatum är inte verifierat. Avtalet anger tillsvidaregiltighet och **30 dagars uppsägningstid**. Rapportering debiteras per rapport/arbetsorder enligt gällande prislista; belopp saknas. Inga faktiska kostnader eller avfallsmängder är registrerade genom detta avtal.
 
 Bilaga 3 över uppdragsställen är tom. Inga specifika miljöhus eller andra utrymmen har därför kopplats in. Länkade allmänna och särskilda villkor är inte fullständigt återgivna i kopian. Kundportalen är dokumenterad, men inloggningsuppgifter stannar utanför repot.
+
+## Skånska Energi – produktionsanläggningens nätanslutning
+
+[Anslutningsavtal](skanska-energi-produktion.yaml), daterat 2025-08-07, med Skånska Energi Nät AB. Nätägaren anger anslutning 2025-08-06 och **”Sol 43,5 kW + batteri”**. Beställaren bekräftar 2026-11-23 att **nätanslutningen är 43,5 kW och installerade växelriktare är två på 30 kW**, totalt 60 kW. Panelerna är 78,2 kWp. Dessa effektstorheter hålls isär.
+
+Ökad maxeffekt kräver ny föranmälan via installatör enligt avtalet. Separata nätpriser och avtalsvillkor hänvisas till men finns inte angivna som avgifter i anslutningsbrevet. Dokumentets 30 dagar för invändning är inte en uppsägningstid. Enermonts tidigare driftsättningsdatum 2025-06-17 bevaras separat från nätanslutningen.
+
+ALP-blanketten från februari 2025 visar de ursprungligen planerade två 25 kW-växelriktarna och är historik. Ingen ytterligare bytekostnad eller faktisk exportinställning härleds från den nya registreringen.

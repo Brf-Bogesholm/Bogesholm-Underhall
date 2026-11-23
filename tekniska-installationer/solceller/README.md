@@ -24,3 +24,7 @@ Bilagor från Xforto, Rexel, Ahlsell, Renta samt Ljus-El och Ljusteknik är entr
 Reviderat Brand-PM 2025-05-19 behandlar den äldre beteckningen G1 (dagens GL-1–3), föreskriver minst EI30 för teknikrum och beskriver förutsättningar för batterier, skyltning, kablage och generator. Projekteringskrav är inte automatiskt bevis om utförande. Senare garagetaksunderlag om extra gipsskikt bevaras separat. Planerad dieselgenerator registreras inte som faktiskt installerad genom PM:et.
 
 Insatsplan 2025-12-29 anger åtta strängar, inga optimerare, ö-drift och att vissa DC-kablar förblir spänningssatta efter avstängning. Originalplanen ska användas för insatsinformation; dess 70 kWp avviker från relationsrapportens 78,2 kWp. Weland rekommenderar årlig tillsyn av montage, skador och infästningar enligt bifogade garantivillkor.
+
+## Nätanslutning – komplettering 2026-11-23
+
+[Skånska Energis anslutningsavtal](../../avtal/skanska-energi-produktion.yaml) är daterat 2025-08-07 och anger anslutningsdatum 2025-08-06. Nätanslutning **43,5 kW**, två installerade växelriktare à **30 kW** och panelmärkeffekt **78,2 kWp** är separata uppgifter, bekräftade av beställaren. Enermonts driftsättning 2025-06-17 kvarstår. Äldre ALP med två 25 kW är planeringshistorik. Faktisk exportbegränsningsinställning har inte avlästs.

@@ -1,0 +1,17 @@
+id: "K-SKANSKA-ENERGI-ANSLUTNING-20250807"
+registrerad: "2026-11-23"
+avtal: "AVT-SKANSKA-ENERGI-PRODUKTION-2025"
+beställarbekräftelse:
+  id: "K-SKANSKA-ENERGI-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Två 30 kW-växelriktare installerades i stället för tidigare planerade två 25 kW."
+    - "Nätanslutningen är 43,5 kW."
+dokument:
+  -
+    fil: "Anslutnignsavtal - kraftproduktionsanläggning.pdf"
+    sha256: "329c6ee1cee45694a5e0c091fbe62ff3130f5679d077acb884acce1196123710"
+  -
+    fil: "Alp-blankett_ifylld.pades.pdf"
+    sha256: "247fe677abeb6de9e66f65d040b91dcfd3edaa5d1859f31c2ec1fa0d1e4830d8"
+original_publicerade: false
+nya_fakturor: 0

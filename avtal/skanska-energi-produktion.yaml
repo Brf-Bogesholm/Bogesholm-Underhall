@@ -1,0 +1,38 @@
+id: "AVT-SKANSKA-ENERGI-PRODUKTION-2025"
+namn: "Anslutningsavtal kraftproduktionsanläggning typ A"
+nätägare: "Skånska Energi Nät AB"
+organisationsnummer: "556497-5232"
+dokumentdatum: "2025-08-07"
+anslutningsdatum_enligt_nätägare: "2025-08-06"
+anläggning: "TI-SOLCELLER-2025"
+projekt: "P-SOLCELLER-2025"
+anläggningsadress_enligt_avtal: "Högalidsvägen 69, Kävlinge"
+nätområde: "SKN"
+status: "Nätanslutning 43,5 kW bekräftad av beställaren 2026-11-23"
+effekt:
+  nätanslutning_kW: 43.5
+  kraftkälla_och_Pmax_original: "Sol 43,5 kW + batteri"
+  installerade_växelriktare_antal: 2
+  installerad_märkeffekt_kW_per_växelriktare: 30
+  sammanlagd_märkeffekt_kW: 60
+  panelmärkeffekt_kWp: 78.2
+  kommentar: "Nätanslutningens effektgräns, växelriktarnas märkeffekt och panelernas DC-toppeffekt är olika storheter. Ingen faktisk inställning av exportbegränsning eller batteriets inmatningsstyrning har avlästs."
+villkor:
+  ny_föranmälan_vid_ökad_maxeffekt: "Krävs via installatör enligt anslutningsavtalet"
+  produktionsavtal: "Elnätsavtal för elproduktion registreras på samma kund som förbrukningsavtalet och gäller från drifttagandet enligt avtalstexten."
+  pris: "Hänvisning till nätägarens separata prislista; ingen avgift eller ersättning anges i detta dokument."
+  förnyelse: null
+  uppsägningstid: null
+  invändningsfrist_original: "Hör av dig inom 30 dagar från avtalets datum om du har något att erinra."
+  invändningsfrist_kommentar: "Historisk frist för invändning mot anslutningsavtalet, inte en löpande uppsägningstid."
+datumavgränsning: "Enermonts driftsättning 2025-06-17 bevaras separat. Nätägarens anslutningsdatum 2025-08-06 ersätter inte detta datum."
+äldre_ALP:
+  dokument: "Alp-blankett_ifylld.pades.pdf"
+  signering_slutförd: "2025-02-26"
+  planerade_växelriktare: "2 × SigenStor EC 25.0 TP"
+  status: "Historiskt projekteringsunderlag. Utbytt till 2 × 30 kW enligt beställaren och tidigare faktura/relationshandlingar."
+  kommentar: "Ingen ny bytehändelse eller dubbel kostnad skapas av bekräftelsen. Tidigare faktura 1426 innehåller uppgraderingen."
+källor:
+  - "K-SKANSKA-ENERGI-ANSLUTNING-20250807"
+  - "K-SKANSKA-ENERGI-BEKRAFTELSE-20261123"
+  - "K-SOLCELLER-ARKIV-20261121"

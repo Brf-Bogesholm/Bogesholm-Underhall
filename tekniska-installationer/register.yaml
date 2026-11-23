@@ -4065,6 +4065,7 @@ objekt:
       batterimoduler: 12
       batterikapacitet_projekt_kWh: 96
       kommentar: "96 kWh är projektets kapacitetsbenämning; garantivillkorets användbara energi är en separat storhet."
+      nätanslutning_kW: 43.5
     relationer:
       -
         typ: "teknikrum"
@@ -4081,6 +4082,9 @@ objekt:
     källor:
       - "K-SOLCELLER-ARKIV-20261121"
       - "K-SOLCELLER-BEKRAFTELSE-20261121"
+      - "K-SKANSKA-ENERGI-ANSLUTNING-20250807"
+      - "K-SKANSKA-ENERGI-BEKRAFTELSE-20261123"
+    nätanslutningsavtal: "AVT-SKANSKA-ENERGI-PRODUKTION-2025"
   -
     id: "TI-SOLCELLER-PANELER-2025"
     typ: "solpaneler"

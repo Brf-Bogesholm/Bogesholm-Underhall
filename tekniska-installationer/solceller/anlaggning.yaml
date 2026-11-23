@@ -65,3 +65,14 @@ summa_tillgängliga_fakturor_inklusive_moms: 1607883
 källor:
   - "K-SOLCELLER-ARKIV-20261121"
   - "K-SOLCELLER-BEKRAFTELSE-20261121"
+  - "K-SKANSKA-ENERGI-ANSLUTNING-20250807"
+  - "K-SKANSKA-ENERGI-BEKRAFTELSE-20261123"
+nätanslutning:
+  avtal: "AVT-SKANSKA-ENERGI-PRODUKTION-2025"
+  datum_enligt_nätägare: "2025-08-06"
+  avtalsdatum: "2025-08-07"
+  effekt_kW: 43.5
+  effektkälla: "K-SKANSKA-ENERGI-BEKRAFTELSE-20261123"
+  original: "Sol 43,5 kW + batteri"
+  dokumentation: "avtal/skanska-energi-produktion.yaml"
+  kommentar: "Separat från installerad växelriktareffekt 60 kW och panelernas 78,2 kWp. Teknisk konfigurering/exportinställning inte granskad."
