@@ -16,3 +16,9 @@ HAGS 8049488-1, befintligt objekt UT-GUNGBRADA-50-001, ersatte äldre HAGS 80425
 [Två Dancover SEMI PRO Plus-tält](partytalt-2025.yaml), vita PVC-tält 4×8 m (PT18521) och 5×8 m (PT18526), samt regnränna 8 m (AC18302). Två förvaringslådor byggdes. Flyttbar utrustning utan fast placering; förvaras i föreningens förråd i skyddsrummet på Högalidsvägen 81.
 
 Dancover 241088464 har order- och bokföringsdatum 2025-06-04, totalt 25 234,56 kr och är betald enligt fakturan. Regnrännan har 100 % rabatt. Bauhaus 402659713, 2025-06-14, är 10 232,25 kr och omfattar byggmaterial samt annan förvaringsmateriel. Plastbackar och skrindor har inga egna utrustningsposter enligt beställarens avgränsning. Samtliga fakturarader finns kvar; hela Bauhausbeloppet tilldelas inte enbart lådorna. Inga säkra individuella tält–låda-kopplingar, serienummer eller garantier finns.
+
+## Maskiner från Bauhaus 2022
+
+Ryobi RLM15E36H gräsklippare köpt 2022-06-10, faktura 3109028, 2 129 kr inklusive moms och avrundning. Ryobi RHT676 häcksax och tryckluftskompressor köpta 2022-08-30, gemensamt kvitto på 2 748 kr: 1 599 kr för häcksax och 1 149 kr för kompressor. Kvittot anger rekvisition mot faktura; huvudfakturan och betalningsstatus är okända. Kvittot ska matchas om en huvudfaktura senare läses in, inte dubbelräknas.
+
+Gräsklippare och häcksax finns i föreningens förråd i skyddsrummet på Högalidsvägen 81. Kompressorn är placerad i Mellangången och används för att pumpa cykeldäck och liknande enligt beställaren 2026-11-23. Inga serienummer finns. Kompressorns modell är okänd; kvittots ”200/” tolkas inte som en säker teknisk specifikation. Häcksaxens garanti till september 2027 är endast en obekräftad uppgift från filnamnet. Se [inköpsfaktura](../../fakturor/2022/register.yaml), [kvitto](../../fakturor/2022/kvitton.yaml) och [källmanifest](../../inventering/importer/bauhaus-maskiner-2022-2026-11-23.yaml).

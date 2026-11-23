@@ -1,0 +1,16 @@
+id: "K-BAUHAUS-MASKINER-2022"
+registrerad: "2026-11-23"
+beställarbekräftelse:
+  id: "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Gräsklippare och häcksax förvaras i föreningens förråd i skyddsrummet."
+    - "Kompressorn är en tryckluftskompressor i Mellangången och används för cykeldäck och liknande."
+dokument:
+  -
+    fil: "Faktura Gräsklippare.pdf"
+    sha256: "4ab1b2d1c31dcb2249b383cf037a5b7d8f34feaab9ef3ec77a2a91c1328c2c2e"
+  -
+    fil: "Kvitto Häcksax  garanti tom september 2027.pdf"
+    sha256: "e4a3cc8614e7b19e39b5a8b91130f68e20d00da59400acdbadac729585cdafda"
+garantiavgränsning: "Häcksaxens uppgift september 2027 kommer endast från filnamnet, inte kvittots villkor."
+original_publicerade: false

@@ -1,0 +1,38 @@
+version: "1.0"
+registreringsomgångar:
+  - "2026-11-23-BAUHAUS-MASKINER"
+fakturor:
+  -
+    id: "F-2022-BAUHAUS-3109028"
+    fakturanummer: "3109028"
+    leverantör: "BAUHAUS & Co. KB"
+    organisationsnummer: "969630-6944"
+    fakturadatum: "2022-06-10"
+    förfallodatum: "2022-07-10"
+    leveransdatum: "2022-06-10"
+    leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+    valuta: "SEK"
+    exklusive_moms: 1703.32
+    moms: 425.83
+    moms_procent: 25
+    öresavrundning: -0.15
+    att_betala: 2129
+    betalningsstatus: "Okänd"
+    objekt:
+      - "UT-GRASKLIPPARE-RYOBI-001"
+    åtgärder:
+      - "A-BAUHAUS-GRASKLIPPARE-20220610"
+    rader:
+      -
+        id: "F-2022-BAUHAUS-3109028-R1"
+        artikelnummer: "4892210822567"
+        benämning: "RLM15E36H GRÄSKLIPPARE RYOBI"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1756
+        rabatt_procent: 3
+        belopp_exklusive_moms: 1703.32
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"

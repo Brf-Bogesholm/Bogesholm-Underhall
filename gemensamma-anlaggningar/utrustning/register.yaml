@@ -570,3 +570,87 @@ objekt:
     källor:
       - "K-PARTYTALT-2025"
       - "K-PARTYTALT-BEKRAFTELSE-20261121"
+  -
+    id: "UT-GRASKLIPPARE-RYOBI-001"
+    typ: "gräsklippare"
+    namn: "Ryobi gräsklippare RLM15E36H"
+    placering: "Föreningens förråd i skyddsrummet, Högalidsvägen 81"
+    egenskaper:
+      fabrikat: "Ryobi"
+      modell: "RLM15E36H"
+      serienummer: null
+      inköpsdatum: "2022-06-10"
+      leveransdatum: "2022-06-10"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      installationsdatum: null
+      användning: "gräsklippare"
+      kommentar: "Flyttbar utrustning. Förvaringsplats bekräftad 2026-11-23; ingen fast montering antas."
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    inköpsunderlag: "F-2022-BAUHAUS-3109028"
+    underhållshistorik:
+      - "A-BAUHAUS-GRASKLIPPARE-20220610"
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "UT-HACKSAX-RYOBI-001"
+    typ: "häcksax"
+    namn: "Ryobi häcksax RHT676"
+    placering: "Föreningens förråd i skyddsrummet, Högalidsvägen 81"
+    egenskaper:
+      fabrikat: "Ryobi"
+      modell: "RHT676"
+      serienummer: null
+      inköpsdatum: "2022-08-30"
+      leveransdatum: "2022-08-30"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      installationsdatum: null
+      användning: "häcksax"
+      kommentar: "Flyttbar utrustning. Förvaringsplats bekräftad 2026-11-23; ingen fast montering antas."
+      garanti:
+        uppgift: "Till och med september 2027"
+        precision: "månad"
+        källa: "Filnamnet Kvitto Häcksax garanti tom september 2027.pdf"
+        status: "Obekräftad, framgår inte av kvittot"
+        exakt_slutdatum: null
+    relationer:
+      -
+        typ: "stored_in"
+        objekt: "U-SKYDDSRUM-69"
+    inköpsunderlag: "KV-2022-BAUHAUS-252-2-543-20220830"
+    underhållshistorik:
+      - "A-BAUHAUS-MASKINER-20220830"
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "UT-TRYCKLUFTSKOMPRESSOR-001"
+    typ: "tryckluftskompressor"
+    namn: "Tryckluftskompressor i Mellangången"
+    placering: "Mellangången"
+    egenskaper:
+      fabrikat: null
+      modell: null
+      serienummer: null
+      inköpsdatum: "2022-08-30"
+      leveransdatum: "2022-08-30"
+      leveransdatumkälla: "K-DATUMREGEL-2026-11-13"
+      installationsdatum: null
+      användning: "Pumpning av luft i cykeldäck och liknande"
+      kommentar: "Flyttbar utrustning. Förvaringsplats bekräftad 2026-11-23; ingen fast montering antas."
+      varubenämning_original: "KOMPRESSOR 200/"
+      modellkommentar: "200/ har inte tolkats som säker modell, tankvolym eller effekt."
+    relationer:
+      []
+    inköpsunderlag: "KV-2022-BAUHAUS-252-2-543-20220830"
+    underhållshistorik:
+      - "A-BAUHAUS-MASKINER-20220830"
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"

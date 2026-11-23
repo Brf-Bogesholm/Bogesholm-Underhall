@@ -134,3 +134,30 @@ version: "1.0"
       - "K-SKYDDSRUM-2022-20261121"
       - "K-SKYDDSRUM-ADRESS-BEKRAFTELSE-20261121"
     kommentar: "Nio protokollnoteringar, där vissa komponenter inte kunnat inspekteras. Åtgärdsoffert är inte utfört avhjälpande; senare status okänd. Inga årliga besök skapas enbart från avtalet."
+  -
+    id: "A-BAUHAUS-GRASKLIPPARE-20220610"
+    datum: "2022-06-10"
+    åtgärd: "Inköp av föreningens maskinutrustning"
+    objekt:
+      - "UT-GRASKLIPPARE-RYOBI-001"
+    inköpsunderlag: "F-2022-BAUHAUS-3109028"
+    kostnad: null
+    kommentar: "Datum från faktura/kvitto. Leveransdatum samma datum enligt stående regel; ingen fast installation antas."
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "A-BAUHAUS-MASKINER-20220830"
+    datum: "2022-08-30"
+    åtgärd: "Inköp av föreningens maskinutrustning"
+    objekt:
+      - "UT-HACKSAX-RYOBI-001"
+      - "UT-TRYCKLUFTSKOMPRESSOR-001"
+    inköpsunderlag: "KV-2022-BAUHAUS-252-2-543-20220830"
+    kostnad: null
+    kommentar: "Datum från faktura/kvitto. Leveransdatum samma datum enligt stående regel; ingen fast installation antas."
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
+      - "K-DATUMREGEL-2026-11-13"

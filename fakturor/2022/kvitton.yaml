@@ -1,0 +1,38 @@
+version: "1.0"
+kvitton:
+  -
+    id: "KV-2022-BAUHAUS-252-2-543-20220830"
+    leverantör: "BAUHAUS & Co. KB"
+    organisationsnummer: "969630-6944"
+    datum: "2022-08-30"
+    tid: "18:58"
+    kvittoreferens_original: "252 2 543"
+    dokumenttyp: "Kvitto med Rekv. faktura, inte separat identifierad huvudfaktura"
+    fakturanummer: null
+    valuta: "SEK"
+    inklusive_moms: 2748
+    moms_procent: 25
+    moms: 549.6
+    exklusive_moms: 2198.4
+    betalningssätt_original: "Rekv. faktura"
+    betalningsstatus: "Fakturabetalning okänd"
+    objekt:
+      - "UT-HACKSAX-RYOBI-001"
+      - "UT-TRYCKLUFTSKOMPRESSOR-001"
+    åtgärder:
+      - "A-BAUHAUS-MASKINER-20220830"
+    rader:
+      -
+        id: "KV-2022-BAUHAUS-252-2-543-20220830-R1"
+        benämning: "KOMPRESSOR 200/"
+        antal: 1
+        belopp_inklusive_moms: 1149
+      -
+        id: "KV-2022-BAUHAUS-252-2-543-20220830-R2"
+        benämning: "HÄCKSAX RYOBI RHT676"
+        antal: 1
+        belopp_inklusive_moms: 1599
+    kostnadsprincip: "Kvitto är enda tillgängliga kostnadsunderlag. Om huvudfakturan tillkommer ska den matchas till kvittot, inte räknas som ytterligare inköp."
+    källor:
+      - "K-BAUHAUS-MASKINER-2022"
+      - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
