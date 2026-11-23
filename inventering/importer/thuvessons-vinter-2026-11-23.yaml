@@ -1,0 +1,35 @@
+id: "K-THUVESSONS-VINTER-20261123"
+registrerad: "2026-11-23"
+avtal: "AVT-THUVESSONS-VINTER"
+beställarbekräftelse:
+  id: "K-THUVESSONS-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Thuvessons sköter samtliga gång- och cykelbanor på området samt området innanför grindarna."
+dokument:
+  -
+    fil: "faktura-200002306.pdf"
+    sha256: "22798661a81a197d10a9930281b665a834455fd2fe9b2d25a1d50e9adeadf798"
+  -
+    fil: "Snöröjning 2023--2025.pdf"
+    sha256: "58685835155ed766c9bf4c78623464e67743ad97f54316491de40a622a408542"
+  -
+    fil: "Snöröjning 2025--2026.pdf"
+    sha256: "0bfbed8e65efcaa65541fdc8879e48bcfec00775f6ef4cc73d4fc2f5aad34886"
+  -
+    fil: "Snöröjning 2026--2027.pdf"
+    sha256: "b313d3b10fe285a748899befc0b3a581bfbcc7839350a61680542d1e823a4e88"
+  -
+    fil: "Snöröjning Thuvessons undertecknat2017-2019.pdf"
+    sha256: "739a31bb074e727bee58a6acb760367c4a03949a392b3fd687d3de35659d5364"
+  -
+    fil: "Thuvesson 2017.pdf"
+    sha256: "075dad8e6c9e006263b77c7b778e5ce2e39bdf74af356a8857c09ee5bbb92be7"
+original_publicerade: false
+personbaserat_organisationsnummer_publicerat: false
+kontroll:
+  fakturor: 1
+  rader: 13
+  arbetsrader: 6
+  fakturerade_minuter: 680
+  fakturerat_salt_kg: 2150
+  jourposter: 1

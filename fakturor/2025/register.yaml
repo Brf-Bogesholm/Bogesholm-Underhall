@@ -10,6 +10,7 @@ registreringsomgångar:
   - "2026-11-21-ANTICIMEX"
   - "2026-11-23-FASTIGHETSFORS"
   - "2026-11-23-JOHANSSONS"
+  - "2026-11-23-THUVESSONS"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -1285,3 +1286,154 @@ fakturor:
       - "K-JOHANSSONS-FAKTURA-825"
       - "K-JOHANSSONS-BEKRAFTELSE-20261123"
     kommentar: "Ingen angiven tjänsteperiod eller separata arbetsdatum. Fakturans datum används för historikhändelsen enligt stående regel; inte ett verifierat verkligt besöksdatum eller jourperiod. Saltmängd och timmar avser fakturerade mängder."
+  -
+    id: "F-2025-THUVESSONS-2017"
+    fakturanummer: "2017"
+    leverantör: "Thuvessons Måleri eftr."
+    organisationsnummer: null
+    organisationsnummerkommentar: "Enskild näringsidkares personbaserade organisationsnummer publiceras inte."
+    fakturadatum: "2025-12-05"
+    förfallodatum: "2026-01-04"
+    tjänsteperiod_start: "2025-11-01"
+    tjänsteperiod_slut: "2025-11-30"
+    avtal: "AVT-THUVESSONS-VINTER"
+    ytor:
+      - "Samtliga gång- och cykelbanor på området"
+      - "Området innanför grindarna"
+    valuta: "SEK"
+    exklusive_moms: 20400
+    moms_procent: 25
+    moms: 5100
+    att_betala: 25500
+    betalningsstatus: "Okänd"
+    rader:
+      -
+        id: "F-2025-THUVESSONS-2017-R1"
+        artikelnummer: "Snö1"
+        benämning: "Jouravgift halkbekämpning November"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 1600
+        belopp_exklusive_moms: 1600
+        period_från: "2025-11-01"
+        period_till: "2025-11-30"
+      -
+        id: "F-2025-THUVESSONS-2017-R2"
+        artikelnummer: "snöröjriks1"
+        benämning: "snö /halkbekämpning 17/11"
+        antal: 60
+        enhet: "min"
+        à_pris_exklusive_moms: 15
+        belopp_exklusive_moms: 900
+        arbetsdatum: "2025-11-17"
+        datumkommentar: "Dag/månad från raden, år 2025 från fakturans novemberperiod."
+      -
+        id: "F-2025-THUVESSONS-2017-R3"
+        artikelnummer: "salt1"
+        benämning: "salt"
+        antal: 350
+        enhet: "kg"
+        à_pris_exklusive_moms: 4
+        belopp_exklusive_moms: 1400
+        kommentar: "Salt på efterföljande rad till daterad arbetsrad; exakt separat leverans-/förbrukningsdatum är inte angivet."
+      -
+        id: "F-2025-THUVESSONS-2017-R4"
+        artikelnummer: "snöröjriks1"
+        benämning: "snö /halkbekämpning 20/11"
+        antal: 240
+        enhet: "min"
+        à_pris_exklusive_moms: 15
+        belopp_exklusive_moms: 3600
+        arbetsdatum: "2025-11-20"
+        datumkommentar: "Dag/månad från raden, år 2025 från fakturans novemberperiod."
+      -
+        id: "F-2025-THUVESSONS-2017-R5"
+        artikelnummer: "salt1"
+        benämning: "salt"
+        antal: 400
+        enhet: "kg"
+        à_pris_exklusive_moms: 4
+        belopp_exklusive_moms: 1600
+        kommentar: "Salt på efterföljande rad till daterad arbetsrad; exakt separat leverans-/förbrukningsdatum är inte angivet."
+      -
+        id: "F-2025-THUVESSONS-2017-R6"
+        artikelnummer: "snöröjriks1"
+        benämning: "snö /halkbekämpning 21/11"
+        antal: 200
+        enhet: "min"
+        à_pris_exklusive_moms: 15
+        belopp_exklusive_moms: 3000
+        arbetsdatum: "2025-11-21"
+        datumkommentar: "Dag/månad från raden, år 2025 från fakturans novemberperiod."
+      -
+        id: "F-2025-THUVESSONS-2017-R7"
+        artikelnummer: "salt1"
+        benämning: "salt"
+        antal: 400
+        enhet: "kg"
+        à_pris_exklusive_moms: 4
+        belopp_exklusive_moms: 1600
+        kommentar: "Salt på efterföljande rad till daterad arbetsrad; exakt separat leverans-/förbrukningsdatum är inte angivet."
+      -
+        id: "F-2025-THUVESSONS-2017-R8"
+        artikelnummer: "snöröjriks1"
+        benämning: "snö /halkbekämpning 23/11"
+        antal: 55
+        enhet: "min"
+        à_pris_exklusive_moms: 15
+        belopp_exklusive_moms: 825
+        arbetsdatum: "2025-11-23"
+        datumkommentar: "Dag/månad från raden, år 2025 från fakturans novemberperiod."
+      -
+        id: "F-2025-THUVESSONS-2017-R9"
+        artikelnummer: "salt1"
+        benämning: "salt"
+        antal: 300
+        enhet: "kg"
+        à_pris_exklusive_moms: 4
+        belopp_exklusive_moms: 1200
+        kommentar: "Salt på efterföljande rad till daterad arbetsrad; exakt separat leverans-/förbrukningsdatum är inte angivet."
+      -
+        id: "F-2025-THUVESSONS-2017-R10"
+        artikelnummer: "snöröjriks1"
+        benämning: "snö /halkbekämpning 24/11"
+        antal: 60
+        enhet: "min"
+        à_pris_exklusive_moms: 15
+        belopp_exklusive_moms: 900
+        arbetsdatum: "2025-11-24"
+        datumkommentar: "Dag/månad från raden, år 2025 från fakturans novemberperiod."
+      -
+        id: "F-2025-THUVESSONS-2017-R11"
+        artikelnummer: "salt1"
+        benämning: "salt"
+        antal: 325
+        enhet: "kg"
+        à_pris_exklusive_moms: 4
+        belopp_exklusive_moms: 1300
+        kommentar: "Salt på efterföljande rad till daterad arbetsrad; exakt separat leverans-/förbrukningsdatum är inte angivet."
+      -
+        id: "F-2025-THUVESSONS-2017-R12"
+        artikelnummer: "snöröjriks1"
+        benämning: "snö /halkbekämpning 25/11"
+        antal: 65
+        enhet: "min"
+        à_pris_exklusive_moms: 15
+        belopp_exklusive_moms: 975
+        arbetsdatum: "2025-11-25"
+        datumkommentar: "Dag/månad från raden, år 2025 från fakturans novemberperiod."
+      -
+        id: "F-2025-THUVESSONS-2017-R13"
+        artikelnummer: "salt1"
+        benämning: "salt"
+        antal: 375
+        enhet: "kg"
+        à_pris_exklusive_moms: 4
+        belopp_exklusive_moms: 1500
+        kommentar: "Salt på efterföljande rad till daterad arbetsrad; exakt separat leverans-/förbrukningsdatum är inte angivet."
+    åtgärder:
+      - "A-THUVESSONS-VINTER-202511"
+    kommentar: "Fakturadatum är inte arbetsdatum. Salt är fakturerad mängd, inte uppmätt faktisk förbrukning; jourpost är inte arbetstid."
+    källor:
+      - "K-THUVESSONS-VINTER-20261123"
+      - "K-THUVESSONS-BEKRAFTELSE-20261123"

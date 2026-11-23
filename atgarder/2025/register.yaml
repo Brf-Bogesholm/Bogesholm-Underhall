@@ -533,3 +533,27 @@ version: "1.0"
       - "K-JOHANSSONS-FAKTURA-825"
       - "K-JOHANSSONS-BEKRAFTELSE-20261123"
       - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "A-THUVESSONS-VINTER-202511"
+    datum: null
+    period_från: "2025-11-01"
+    period_till: "2025-11-30"
+    arbetsdatum:
+      - "2025-11-17"
+      - "2025-11-20"
+      - "2025-11-21"
+      - "2025-11-23"
+      - "2025-11-24"
+      - "2025-11-25"
+    åtgärd: "Snö- och halkbekämpning enligt sex daterade arbetsrader samt fakturerat salt och novemberjour"
+    ytor:
+      - "Samtliga gång- och cykelbanor på området"
+      - "Området innanför grindarna"
+    utförare: "Thuvessons Måleri eftr."
+    avtal: "AVT-THUVESSONS-VINTER"
+    faktura: "F-2025-THUVESSONS-2017"
+    kostnad: null
+    kommentar: "Arbetsdagar enligt fakturan, inte fakturadatum. Ingen fördelning av timmar eller salt mellan enskilda gång-/cykelbanor antas."
+    källor:
+      - "K-THUVESSONS-VINTER-20261123"
+      - "K-THUVESSONS-BEKRAFTELSE-20261123"

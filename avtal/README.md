@@ -93,3 +93,11 @@ Gruppavtalet anger ursprungligen bredband 250/250, telefoni, TV Bas, TV-box och 
 Uppsägningen 2019 avser **äldre C-00057995 och anslutningsavtal 61258**. Telenors uppdaterade besked 2019-05-08 anger nyttjanderättens slut 2019-10-17 och gruppavtalets slut 2020-07-01. Den avslutar inte de nyare 2020-avtalen. Autosvaret visar mottaget ärende, inte ett separat sakbesked.
 
 [Faktura 4000094331](../fakturor/2021/register.yaml), 2021-06-01, är 53 584 kr inklusive moms och avrundning, avser juli–september 2021 och har sex tjänsterader. **Bestridandet gjordes för att hjälpa en boende vidare med sitt ärende hos Telenor**, enligt beställaren. Utfall, betalning och eventuell kredit är okända. Ingen faktisk feldebitering eller uppsägning av gällande avtal härleds.
+
+## Thuvessons – snöröjning och halkbekämpning
+
+[Avtal och prishistorik](thuvessons-vinter.yaml). Thuvessons sköter **samtliga gång- och cykelbanor samt området innanför grindarna**, enligt beställaren 2026-11-23. Johanssons sköter separat bilparkeringen och infarten.
+
+Senaste signerade avtalet gäller **2026-11-01–2027-03-31**, 930 kr/timme och 1 700 kr/månad i jour, exklusive moms. Salt till marknadspris, månadsfakturering i efterskott. Ingen automatisk förlängning anges. Äldre avtal sparas som prishistorik, inte flera aktuella uppdrag.
+
+Faktura **2017**, 2025-12-05, avser november 2025: **680 minuter (11 timmar 20 minuter)**, **2 150 kg fakturerat salt** och en jourpost; **25 500 kr inklusive moms**. Betalningsstatus okänd. [Vinteruppföljningen](../drift/vinterunderhall/README.md) kan summera minuter och timmar med rätt enhetsomräkning, medan jour hålls separat.

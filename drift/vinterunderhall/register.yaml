@@ -42,4 +42,106 @@ poster:
     källor:
       - "K-JOHANSSONS-FAKTURA-825"
       - "K-JOHANSSONS-BEKRAFTELSE-20261123"
-summeringsprincip: "Kostnader summeras endast från unika fakturor. Kvantiteter summeras från unika faktura/rad-par; år och vinter är alternativa grupperingar av samma mängder, inte extra mängder. Endast enheter h räknas som timmar och kg som kilogram. Jour i st räknas inte om till timmar. Fakturerat salt är inte uppmätt faktisk förbrukning. Olika typer av fakturerade timmar hålls också separata."
+  -
+    id: "DRIFT-VINTER-THUVESSONS-2017"
+    avtal: "AVT-THUVESSONS-VINTER"
+    faktura: "F-2025-THUVESSONS-2017"
+    fakturadatum: "2025-12-05"
+    fakturaår: 2025
+    verklig_tjänsteperiod_från: "2025-11-01"
+    verklig_tjänsteperiod_till: "2025-11-30"
+    periodkälla: "Novemberjour och daterade novemberrader enligt fakturan"
+    vintersäsong: "2025/2026"
+    säsongsstatus: "Från fakturans angivna novemberarbete, inte enbart fakturadatum"
+    ytor:
+      - "Samtliga gång- och cykelbanor på området"
+      - "Området innanför grindarna"
+    mätposter:
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R1"
+        mått: "fakturerad_jourpost"
+        kategori: "Jouravgift november"
+        antal: 1
+        enhet: "st"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R2"
+        mått: "fakturerad_tid"
+        kategori: "Snö-/halkbekämpning"
+        antal: 60
+        enhet: "min"
+        arbetsdatum: "2025-11-17"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R3"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 350
+        enhet: "kg"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R4"
+        mått: "fakturerad_tid"
+        kategori: "Snö-/halkbekämpning"
+        antal: 240
+        enhet: "min"
+        arbetsdatum: "2025-11-20"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R5"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 400
+        enhet: "kg"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R6"
+        mått: "fakturerad_tid"
+        kategori: "Snö-/halkbekämpning"
+        antal: 200
+        enhet: "min"
+        arbetsdatum: "2025-11-21"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R7"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 400
+        enhet: "kg"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R8"
+        mått: "fakturerad_tid"
+        kategori: "Snö-/halkbekämpning"
+        antal: 55
+        enhet: "min"
+        arbetsdatum: "2025-11-23"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R9"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 300
+        enhet: "kg"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R10"
+        mått: "fakturerad_tid"
+        kategori: "Snö-/halkbekämpning"
+        antal: 60
+        enhet: "min"
+        arbetsdatum: "2025-11-24"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R11"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 325
+        enhet: "kg"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R12"
+        mått: "fakturerad_tid"
+        kategori: "Snö-/halkbekämpning"
+        antal: 65
+        enhet: "min"
+        arbetsdatum: "2025-11-25"
+      -
+        fakturarad: "F-2025-THUVESSONS-2017-R13"
+        mått: "fakturerad_saltmängd"
+        kategori: "Salt"
+        antal: 375
+        enhet: "kg"
+    källor:
+      - "K-THUVESSONS-VINTER-20261123"
+      - "K-THUVESSONS-BEKRAFTELSE-20261123"
+summeringsprincip: "Kostnad räknas en gång från unik faktura. Mängder räknas från unika faktura/rad-par. Fakturerad tid i h och min normaliseras med exakt 60 minuter per timme; originalenhet behålls. Fakturerad jour i st räknas inte som timmar. År och vintersäsong är alternativa grupperingar av samma rader. Fakturerat salt är inte uppmätt faktisk förbrukning. Håll leverantör, yta och arbetstyp separat."

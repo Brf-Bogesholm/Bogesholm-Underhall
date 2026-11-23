@@ -1,0 +1,61 @@
+id: "AVT-THUVESSONS-VINTER"
+leverantör: "Thuvessons Måleri eftr."
+uppdrag: "Snöröjning och halkbekämpning"
+ytor:
+  - "Samtliga gång- och cykelbanor på området"
+  - "Området innanför grindarna"
+ytkälla: "K-THUVESSONS-BEKRAFTELSE-20261123"
+separat_uppdrag: "Johanssons Maskinstation sköter bilparkeringen och infarten enligt AVT-JOHANSSONS-VINTER; ytorna blandas inte."
+aktuellt_signerat_avtal:
+  period_från: "2026-11-01"
+  period_till: "2027-03-31"
+  leverantörens_signeringsdatum: "2026-09-27"
+  kundens_signatur: "Finns i kopian, separat datum inte angivet"
+  timpris_exklusive_moms: 930
+  jouravgift_månad_exklusive_moms: 1700
+  salt: "Till marknadspris"
+  fakturering: "Månadsvis i efterskott"
+  automatisk_förlängning: "Ingen klausul angiven"
+  uppsägningstid: null
+  kommentar: "Rubriken Avtalstid 1 år används i dokumentet, men de uttryckliga datumen avser vintern november–mars och bevaras som giltighetsperiod."
+tidigare_avtal:
+  -
+    perioder:
+      -
+        från: "2017-11-01"
+        till: "2018-03-31"
+      -
+        från: "2018-11-01"
+        till: "2019-03-31"
+    ursprunglig_periodtext: "2017-11-01–2019-03-31, ingen snöröjning eller jouravgift april–oktober"
+    timpris_exklusive_moms: 650
+    jouravgift_månad_exklusive_moms: 750
+    status: "Historik; två kopior från 2017 räknas inte som parallella uppdrag"
+  -
+    perioder:
+      -
+        från: "2023-11-01"
+        till: "2024-03-31"
+      -
+        från: "2024-11-01"
+        till: "2025-03-31"
+    leverantörens_signeringsdatum: "2023-09-25"
+    timpris_exklusive_moms: 840
+    jouravgift_månad_exklusive_moms: 1400
+    status: "Historik"
+  -
+    perioder:
+      -
+        från: "2025-11-01"
+        till: "2026-03-31"
+    leverantörens_signeringsdatum: "2025-09-02"
+    timpris_exklusive_moms: 900
+    jouravgift_månad_exklusive_moms: 1600
+    status: "Historik, gäller faktura 2017"
+ansvar_enligt_avtal: "Snö och is ska snarast avlägsnas och halka skyndsamt saltas. Entreprenören ska kunna kontaktas per telefon utan dröjsmål och inneha ansvarsförsäkring under perioden. Ingen faktisk ansvarsförsäkring har granskats."
+fakturor:
+  - "F-2025-THUVESSONS-2017"
+vinteruppföljning: "drift/vinterunderhall/register.yaml"
+källor:
+  - "K-THUVESSONS-VINTER-20261123"
+  - "K-THUVESSONS-BEKRAFTELSE-20261123"
