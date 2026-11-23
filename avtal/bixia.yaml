@@ -1,0 +1,69 @@
+avtal:
+  -
+    id: "AVT-BIXIA-KVARTSPRIS-166534"
+    avtalsreferens: "166534"
+    leverantör: "Bixia AB"
+    organisationsnummer: "556544-2638"
+    produkt: "Bixia Kvartspris"
+    status: "Gällande enligt beställaren 2026-11-23"
+    avtalsdatum: "2026-01-14"
+    signering_slutförd: "2026-01-14"
+    leveransstart: "2026-02-01"
+    leveransslut: null
+    giltighet: "Tills vidare"
+    förnyelsedag: null
+    uppsägning:
+      ömsesidig_månader: 1
+      källa: "Produktspecifika villkor punkt 12 i signerade avtalet"
+      efter_uppsägning: "Leverans fortsätter till Kvartspris med ordinarie påslag tills nytt avtal eller annan elleverantör tar över."
+      källskillnad: "Allmänna EL2012N anger 14 dagar om inget annat avtalats; produktvillkorets en månad dokumenteras för Kvartspris."
+    anläggning:
+      adress: "Högalidsvägen 69"
+      objekt: "H-69"
+      årsvolym_original: "145.196"
+      årsvolym_kommentar: "Årsförbrukningsuppgift i avtalet, inte uppmätt förbrukning för ett fastställt kalenderår."
+    pris:
+      påslag_öre_per_kWh: 3
+      bas: "Nord Pools spotpris per kvart för aktuellt elområde och förbrukning"
+      övrigt: "Rörliga kostnader för ursprungsgarantier, elcertifikat och handelskostnader tillkommer enligt produktvillkor."
+      fast_avgift: null
+      fast_avgift_kommentar: "Ingen separat fast avgift angiven i huvudavtalet; null är inte verifierad nollavgift."
+      ändring: "Påslag och eventuell fast avgift får enligt produktvillkor höjas efter information minst två månader innan höjningen träder i kraft. Sänkning kan ske omedelbart."
+      betalningsvillkor_dagar: 30
+    förnybar_el_procent: 100
+    mätförutsättning: "Kvartsmätning. Om nätbolaget inte anpassat mätningen vid leveransstart tillämpas Rörligt Pris tills ändrad mätning är aktiverad; faktisk aktivering inte granskad."
+    ersätter: "AVT-BIXIA-ELPOOL-FLEX-2014"
+    bilagor:
+      - "EL 2012 N (rev), ändrad 2018-04-24, bifogad i signerade avtalet"
+      - "Bixias särskilda avtalsvillkor el för näringsidkare och övriga juridiska personer"
+    källor:
+      - "K-BIXIA-AVTAL-20261123"
+      - "K-BIXIA-BEKRAFTELSE-20261123"
+  -
+    id: "AVT-BIXIA-ELPOOL-FLEX-2014"
+    leverantör: "Bixia AB"
+    produkt: "Riksbyggen Elpool Flex"
+    status: "Historiskt, ersatt av Kvartspris enligt beställaren 2026-11-23"
+    leveransstart: "2014-11-01"
+    exakt_slutdatum: null
+    ersatt_av: "AVT-BIXIA-KVARTSPRIS-166534"
+    anläggning:
+      adress: "Högalidsvägen 69"
+      objekt: "H-69"
+      avtalad_årsvolym_MWh: 75
+    historiska_villkor:
+      giltighet: "Tills vidare"
+      ömsesidig_uppsägning_kalendermånader: 18
+      förvaltning: "Bixia Energy Management AB, köp och sälj av el- och valutaderivat för elpoolen"
+      förvaltningsarvode_inklusive_kraftinköp_öre_per_kWh: 1.255
+      pris: "Månadspris utifrån spotpris, elpoolens kraftinköpskostnader och förvaltningsarvode med avräkning mot terminskontrakt. Ytterligare avgifter enligt dåvarande villkor."
+      förnybar_el: "100 procent vindkraft enligt avtalet"
+      betalningsvillkor_dagar: 30
+    kommentar: "Gamla uppsägningstiden och prisvillkoren tillämpas inte på det nu gällande Kvartspris-avtalet. Filnamnet Gällande avtal Bixia, ej signerat är historiskt och avgör inte aktuell status."
+    källor:
+      - "K-BIXIA-AVTAL-20261123"
+      - "K-BIXIA-BEKRAFTELSE-20261123"
+källavgränsningar:
+  - "Elhandel 2025 N.pdf finns separat i mappen. Den registreras som referens, inte automatiskt som ersättning för EL2012N-bilagan i det signerade avtalet; tillämpnings-/ändringsmeddelande saknas."
+  - "Inga fakturor, faktiska elkostnader eller uppmätta förbrukningsvärden skapas av avtalets pris och volym."
+  - "Avtalet gäller inköp av el. Försäljning av solel och elnätsavtal registreras inte automatiskt som del av detta avtal."

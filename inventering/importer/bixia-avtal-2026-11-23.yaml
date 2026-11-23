@@ -1,0 +1,37 @@
+id: "K-BIXIA-AVTAL-20261123"
+registrerad: "2026-11-23"
+beställarbekräftelse:
+  id: "K-BIXIA-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Kvartspris-avtalet gäller nu."
+    - "Elpool Flex sparas som historisk uppgift."
+avtal:
+  - "AVT-BIXIA-KVARTSPRIS-166534"
+  - "AVT-BIXIA-ELPOOL-FLEX-2014"
+dokument:
+  -
+    fil: "Avtal 166534-BRF Bogesholm 2026-01-14.pades.pdf"
+    sha256: "ec9360a7e2b9d13e95c8616f78cf89f3b185ec95a867e7c164b5de842adb4101"
+    identisk_med: null
+  -
+    fil: "Avtal Bixia.pdf"
+    sha256: "bfea45a6f31532f0332b667a7dfa87f4d05987d0ef3e0fd3b93799d4a8e3f841"
+    identisk_med: null
+  -
+    fil: "Avtal Riksbyggen BRF Bogesholm.pdf"
+    sha256: "ec9360a7e2b9d13e95c8616f78cf89f3b185ec95a867e7c164b5de842adb4101"
+    identisk_med: "Avtal 166534-BRF Bogesholm 2026-01-14.pades.pdf"
+  -
+    fil: "Avtal_Bixia.pdf"
+    sha256: "bfea45a6f31532f0332b667a7dfa87f4d05987d0ef3e0fd3b93799d4a8e3f841"
+    identisk_med: "Avtal Bixia.pdf"
+  -
+    fil: "Elhandel 2025 N.pdf"
+    sha256: "889ac58369a90e216b7d99a0c001ccf5b4d680ac2fb1c28113e8eafe1761379e"
+    identisk_med: null
+  -
+    fil: "Gällande avtal Bixia, ej signerat.pdf"
+    sha256: "76e4b985e658cb99d51d99a053f15e5f4daaf6ebd38b6b4f47deee8d20820aae"
+    identisk_med: null
+original_publicerade: false
+personuppgifter_och_signeringslogg_publicerade: false

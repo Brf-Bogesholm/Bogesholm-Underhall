@@ -23,3 +23,11 @@ Ursprunglig årsavgift 26 654 kr exklusive moms. Faktura 676811115226451, datera
 [Avtalsuppgifter och uppföljning](avloppsakuten.yaml). Spolning av liggande ledningar/huvudrör registreras som genomförd under **2018 enligt beställaren**, utan exakt datum. Kopplad till H-71 och H-73. **Senaste utförandedatum och nuvarande avtalsstatus är okända.** Beställaren har frågat styrelsen, noterat 2026-11-21.
 
 Dokumentet beskriver årsvis spolning i oktober och vid behov slamsugning av inspektionsbrunn, till fast pris 2 910 kr exklusive moms. Dessa är avtalsuppgifter, inte bevis för senare besök, faktiskt utförd slamsugning eller betald kostnad. Ingen aktiv förnyelseperiod eller uppsägningsdag beräknas från det ofullständiga underlaget.
+
+## Bixia – gällande Kvartspris och historisk Elpool Flex
+
+[Avtalsuppgifter](bixia.yaml). **Bixia Kvartspris, avtal 166534**, signerat 2026-01-14 och leveransstart 2026-02-01, är gällande enligt beställaren 2026-11-23. Anläggning Högalidsvägen 69, 100 procent förnybar el, avtalat påslag 3 öre/kWh samt övriga rörliga kostnader enligt avtalet. Betalning 30 dagar. Ingen separat fast avgift är angiven i huvudavtalet.
+
+Avtalet löper tills vidare med **en månads ömsesidig uppsägningstid** enligt produktvillkor punkt 12, utan årlig förnyelsedag. Påslag och eventuell fast avgift kan enligt villkoret höjas efter information minst två månader i förväg. Aktuell mätkonfiguration och senare ändringar har inte granskats. Det separat bifogade dokumentet ELHANDEL 2025 N ersätter inte automatiskt den äldre villkorsbilagan i det signerade avtalet utan verifierat införande.
+
+**Riksbyggen Elpool Flex**, leveransstart 2014-11-01, sparas som historik. Exakt slutdatum är okänt. Det gamla avtalets 18 kalendermånaders uppsägningstid och förvaltningsarvode 1,255 öre/kWh gäller inte det nya Kvartspris-avtalet. Filnamnet ”Gällande avtal Bixia, ej signerat” bevaras som källa men betecknar inte längre gällande produkt. Inga avtalsvolymer eller prisuppgifter behandlas som faktiska förbruknings- eller kostnadsutfall.
