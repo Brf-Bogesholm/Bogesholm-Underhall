@@ -8,6 +8,7 @@ underleverantör:
   namn: "Kensulting"
   uppdrag: "Ekonomiförvaltning"
   status: "Underleverantör till Bostaderiet enligt beställaren, inte separat avtalspart för detta uppdrag"
+  dokumentation: "avtal/kensulting-uppstart.yaml"
 beställare: "Brf Bogesholm"
 status: "Gällande förvaltningsavtal"
 handling_daterad: "2025-10-01"

@@ -1,0 +1,39 @@
+id: "K-KENSULTING-UPPSTART-20261123"
+registrerad: "2026-11-23"
+administration: "ADM-KENSULTING-EKONOMI-2026"
+beställarbekräftelse:
+  id: "K-KENSULTING-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Båda signerade fullmakterna gäller fortfarande."
+    - "Bankkopplingen via Fortnox används med godkännande i internetbanken."
+    - "Godkänner förslaget om sparad uppstartsinformation och avgränsning från personliga avier och register."
+dokument:
+  -
+    fil: "Fullmakt Brf Bogesholm 1.pdf"
+    sha256: "fe3f435ad4dcf5d7e15ec1dbf9b460d6aab86320ae5ef9c110c17e459ae3b21c"
+  -
+    fil: "Fullmakt Brf Bogesholm 2.pdf"
+    sha256: "fda18b9e381259e8f3a0213f45115538622340c4e38b2cfe95fe0e5f710d2e51"
+  -
+    fil: "Avtal Swedbank Kensulting filöverföring Fortknox.pdf"
+    sha256: "be601eec76a8975f429c5ca1987ee52347e8eeeb0e6358f9b689ba1aad48ecc0"
+  -
+    fil: "Avtal Swedbank Kensulting filöverföring Fortknox Villkor.pdf"
+    sha256: "2afb5733b369c536529eac2d53f9a7e94c006a7e50b18400200444abf4183ef2"
+  -
+    fil: "Välkomstbrev 251218.pdf"
+    sha256: "221c106fa97f44298526cd47832dca1eb4f4b165c07f663c3ceaa905db8e0352"
+  -
+    fil: "fullmakt-PostNord.pdf"
+    sha256: "183b5c456b4307b7d2787a27b78d29af09ab319fab0c6ffc8cc9dff2c5a9b6a8"
+  -
+    fil: "Adressändring.pdf"
+    sha256: "fd83190423c3b39ad67dde3b63909fa8b8687be4fd048de3e565910394693166"
+uteslutet:
+  - "Personliga avier och registreringskoder"
+  - "Boendes person- och kontaktuppgifter"
+  - "Kontonummer, bankbehörigheter och betalningsuppgifter"
+  - "Historiska personregister i överlämningsmaterialet"
+  - "Tomma mallar som aktiva beslut eller fullmakter"
+original_publicerade: false
+nya_fakturor: 0

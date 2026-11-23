@@ -57,3 +57,13 @@ Grundavtalet anger slutdag 2026-05-01 och automatisk förlängning med tolv mån
 ## Johanssons maskinstation – snö- och halkbekämpning
 
 [Muntlig överenskommelse](johanssons-maskinstation.yaml) för **bilparkeringen och infarten till området**, bekräftad av beställaren 2026-11-23. Avtalsperiod, uppsägning och stående prislista är okända. Faktura 825 från 2025-12-16, 13 750 kr inklusive moms, är registrerad med fyra rader. [Vinteruppföljningen](../drift/vinterunderhall/README.md) bevarar 400 kg fakturerat salt, 4 fakturerade timmar uppdelade efter typ och separat jourpost. Säsong 2025/2026 är preliminärt härledd från fakturadatum.
+
+## Kensulting – ekonomiförvaltningens uppstart och fullmakter
+
+[Uppstartsuppgifter](kensulting-uppstart.yaml) kompletterar Bostaderiets huvudavtal. Kensulting Förvaltning AB är underleverantör, inte en ny separat avtalspart för förvaltningsuppdraget. Ekonomiförvaltning och avisering via Din Hyresvärd/Hogia från 2026-01-01 enligt välkomstbrevet.
+
+Två signerade fullmakter gäller fortfarande enligt beställaren 2026-11-23: **2025-12-18** för uppgiftsinhämtning inför övertagande, och **2025-12-19** för ekonomisk och administrativ hantering enligt dokumenterad omfattning. Båda gäller tills de skriftligen återkallas. Sammanfattningen ersätter inte fullmakternas exakta ordalydelse.
+
+Filöverföringsunderlaget daterat **2026-01-13** anger Fortnox som serviceföretag och att betalningsuppdrag **ska godkännas i internetbanken**. Beställaren bekräftar att denna koppling används. Kontonummer och betalningsuppgifter publiceras inte; ingen automatisk STP-betalning antas. Dokumentdatum används inte som ett verifierat aktiveringsdatum.
+
+PostNord-fullmakten är en tom blankett, inte en utfärdad fullmakt. Bolagsverkskvittensen visar mottagen anmälan, inte ensam en genomförd adressändring. Personliga avier, registreringskoder och medlemsregister har inte förts in i avtalsregistret. Inga nya föreningskostnader har skapats från boendes avier eller bankavtalets prisuppgifter.
