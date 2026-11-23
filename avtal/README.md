@@ -67,3 +67,11 @@ Två signerade fullmakter gäller fortfarande enligt beställaren 2026-11-23: **
 Filöverföringsunderlaget daterat **2026-01-13** anger Fortnox som serviceföretag och att betalningsuppdrag **ska godkännas i internetbanken**. Beställaren bekräftar att denna koppling används. Kontonummer och betalningsuppgifter publiceras inte; ingen automatisk STP-betalning antas. Dokumentdatum används inte som ett verifierat aktiveringsdatum.
 
 PostNord-fullmakten är en tom blankett, inte en utfärdad fullmakt. Bolagsverkskvittensen visar mottagen anmälan, inte ensam en genomförd adressändring. Personliga avier, registreringskoder och medlemsregister har inte förts in i avtalsregistret. Inga nya föreningskostnader har skapats från boendes avier eller bankavtalets prisuppgifter.
+
+## Ragn-Sells – rapportering av farligt avfall
+
+[Överenskommelsen](ragnsells.yaml) används enligt beställaren 2026-11-23. Ragn-Sells Recycling AB rapporterar som föreningens ombud till Naturvårdsverkets avfallsregister, **endast för farligt avfall som Ragn-Sells hanterar**. Föreningen ska lämna korrekta uppgifter i rätt tid och fortfarande bevara sina anteckningar enligt avtalets text.
+
+Kundens signering är daterad 2025-06-02. Leverantörens underskrift saknas i kopian, så exakt ikraftträdandedatum är inte verifierat. Avtalet anger tillsvidaregiltighet och **30 dagars uppsägningstid**. Rapportering debiteras per rapport/arbetsorder enligt gällande prislista; belopp saknas. Inga faktiska kostnader eller avfallsmängder är registrerade genom detta avtal.
+
+Bilaga 3 över uppdragsställen är tom. Inga specifika miljöhus eller andra utrymmen har därför kopplats in. Länkade allmänna och särskilda villkor är inte fullständigt återgivna i kopian. Kundportalen är dokumenterad, men inloggningsuppgifter stannar utanför repot.

@@ -1,0 +1,41 @@
+id: "AVT-RAGNSELLS-FARLIGT-AVFALL"
+namn: "Rapportering och spårbarhet för farligt avfall"
+leverantör: "Ragn-Sells Recycling AB"
+organisationsnummer: "556057-3452"
+status: "I bruk enligt beställaren 2026-11-23"
+kundens_signeringsdatum: "2025-06-02"
+leverantörens_signeringsdatum: null
+ikraftträdande_enligt_text: "Den dag avtalet signerats av båda parter"
+verifierat_ikraftträdandedatum: null
+giltighet: "Tills vidare"
+uppsägningstid_dagar: 30
+förnyelsedag: null
+omfattning:
+  uppdrag: "Som föreningens ombud rapportera uppgifter om farligt avfall till Naturvårdsverkets avfallsregister"
+  begränsning: "Endast farligt avfall som hanteras av Ragn-Sells"
+  uppdragsställen: "Bilaga 3 är inte ifylld i underlaget; inga enskilda miljöhus eller andra utrymmen antas omfattade"
+ansvar:
+  leverantör: "Rapportering enligt avtalets omfattning"
+  förening:
+    - "Lämna nödvändiga uppgifter i rätt tid"
+    - "Lämna korrekta och riktiga uppgifter om avfallets beskaffenhet"
+    - "Bevara föreskrivna anteckningar"
+  avgränsning: "Avtalstexten anger att det offentligrättsliga ansvaret inte övertas av Ragn-Sells. Detta är en sammanfattning av avtalet, inte en ny rättslig bedömning."
+pris:
+  debitering: "Per rapport till avfallsregistret per arbetsorder enligt vid var tid gällande prislista"
+  belopp: null
+  justering: "Årligen enligt allmänna villkor som avtalet hänvisar till"
+  rapportbegrepp: "Omfattar även korrigering/uppdatering av tidigare rapporterade uppgifter enligt avtalet"
+dokumentbrister:
+  - "Ragn-Sells underskriftsfält är tomt i kopian"
+  - "Bilaga 3 med uppdragsställen är tom"
+  - "Bilaga 1 allmänna villkor och bilaga 2 särskilda villkor FA anges som länkar, inte fullständigt återgivna villkor i denna kopia"
+  - "Mallens sidhuvuden har olika versionsdatum; kundens underskriftsdatum hålls separat"
+kundportal:
+  finns_dokumenterad: true
+  portal: "Kundportalen på Ragn-Sells webbplats"
+  uppgifter_publicerade: false
+  kommentar: "Dokument med inloggningsuppgifter stannar i originalarkivet. Ingen inloggning har utförts."
+källor:
+  - "K-RAGNSELLS-RAPPORTERING-20261123"
+  - "K-RAGNSELLS-BEKRAFTELSE-20261123"

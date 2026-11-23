@@ -1,0 +1,16 @@
+id: "K-RAGNSELLS-RAPPORTERING-20261123"
+registrerad: "2026-11-23"
+avtal: "AVT-RAGNSELLS-FARLIGT-AVFALL"
+beställarbekräftelse:
+  id: "K-RAGNSELLS-BEKRAFTELSE-20261123"
+  uppgift: "Rapporteringsöverenskommelsen används idag trots att leverantörens underskrift saknas i kopian."
+dokument:
+  -
+    fil: "Rapportering Naturvårdsverket.pdf"
+    sha256: "3b0a350f60147578eddc25000b77fed3f0b5ec2c9f719626b2c8146751b6eac8"
+  -
+    fil: "Kundportalen.docx"
+    sha256: "3b03210fc020ffb878f724d965800b432adac52f4103c8262893bd279fe1efc6"
+avgränsning: "Inga inloggningsuppgifter, personliga kontaktuppgifter eller originaldokument publiceras. Ingen faktisk avfallshämtning eller rapportering, mängd eller kostnad skapas av överenskommelsen."
+original_publicerade: false
+nya_fakturor: 0
