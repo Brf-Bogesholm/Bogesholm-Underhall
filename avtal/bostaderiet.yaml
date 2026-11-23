@@ -1,0 +1,99 @@
+id: "AVT-BOSTADERIET-FORVALTNING-2026"
+namn: "Teknisk och ekonomisk förvaltning"
+avtalspart:
+  namn: "Bostaderiet AB"
+  organisationsnummer: "559300-2560"
+  ansvar: "Avtalspart för hela uppdraget enligt beställaren"
+underleverantör:
+  namn: "Kensulting"
+  uppdrag: "Ekonomiförvaltning"
+  status: "Underleverantör till Bostaderiet enligt beställaren, inte separat avtalspart för detta uppdrag"
+beställare: "Brf Bogesholm"
+status: "Gällande förvaltningsavtal"
+handling_daterad: "2025-10-01"
+signering:
+  föreningens_datum:
+    - "2025-12-08"
+    - "2025-12-09"
+  leverantörens_datum: "2025-12-09"
+  kommentar: "Dokumentets tryckta datum är inte signeringsdatum."
+omfattning:
+  huvudområden:
+    - "Teknisk förvaltning, planering, drift och underhåll"
+    - "Ekonomiförvaltning, redovisning, bokslut, budget och avgifts-/hyreshantering"
+    - "Uppföljning, rapportering, rådgivning och samordning med sidoleverantörer"
+  fastigheter:
+    - "Bågen 1"
+    - "Bågen 2"
+  tjänstebeskrivning: "Förvaltaravtal SA-SJ.pdf, 108 sidor; ansvar och ersättningsform ska läsas per tjänsterad"
+  avgränsning: "En innehållsförteckning eller områdesrubrik är inte bevis att samtliga tjänster ingår i fast ersättning. Avtalsmängder är inte en ny inventering av dagens utrustning."
+giltighet:
+  entreprenadstart: "2026-01-01"
+  kontraktets_giltighet_från: "Undertecknandet enligt K4.1"
+  initial_period_slut: "2027-12-31"
+  initial_entreprenadtid_år: 2
+  option:
+    innehavare: "Beställaren"
+    förlängning_år: 1
+    möjligt_slut: "2028-12-31"
+    utnyttjad: null
+    status: "Möjlighet dokumenterad; utnyttjande inte bekräftat"
+  efter_option:
+    förutsättning: "Ettårsoptionen har utnyttjats"
+    automatisk_förlängning_år: 2
+    skriftlig_uppsägning_månader_före_periodslut: 6
+  nästa_förnyelsedatum: null
+  kommentar: "Ingen framtida automatisk förlängning eller redan utnyttjad option antas. Eventuell tidsfrist för att avropa option är inte entydigt dokumenterad i sammanställningen."
+fullmakt:
+  generell_företrädarrätt: false
+  villkor: "Särskild skriftlig fullmakt för uppgifter som kräver formellt företrädarskap; omfattning, befogenheter och ekonomiska gränser ska regleras. Inga ekonomiskt/rättsligt bindande åtgärder utöver fullmakten utan styrelsens skriftliga godkännande."
+ersättning:
+  fast_grundersättning_år_inklusive_moms: 696800
+  fördelning:
+    teknik_och_övrig_förvaltning: 598800
+    ekonomi_SJ: 98000
+  fördelningskommentar: "Avtalets delbelopp summerar till det angivna totalbeloppet inklusive moms; ingen separat faktura eller verifierat utfall."
+  entreprenörsarvode_procent: 10
+  materialpåslag_procent: 10
+  påslag_källa: "K-BOSTADERIET-BEKRAFTELSE-20261123"
+  påslag_källavvikelse: "K6 anger 8 procent i en formulering men 10 procent i tabell. Materialtext 4 procent är handskrivet ändrad till 10. Beställaren bekräftar förhandlade 10 procent för båda."
+  avhjälpande_underhåll:
+    ingår_fast_upp_till_SEK_per_avhjälpande: 2000
+    text: "För kostnader som överstiger 2 000 SEK per åtgärd utgår rörlig ersättning och faktureras separat enligt avtalad taxa eller offererat pris."
+    undantag:
+      - "Skador av boende, tredje part eller vandalism"
+      - "Naturskador och extrem väderhändelse"
+      - "Fel till följd av tidigare underhåll/installationer utanför entreprenörens ansvar"
+      - "Höga kostnader för externa underleverantörer eller särskilt dyrt material"
+    avgränsning: "Ingen generell rätt till avdrag med 2 000 kr på alla större fakturor härleds. Undantagen anger alltid rörlig ersättning."
+  planerat_underhåll: "Enligt kontraktstexten ingår ersättning för planerat underhåll i fast ersättning; konkret omfattning och tjänsterader ska läsas mot bilagorna."
+  timpriser_enligt_prislista_SEK:
+    verksamhetsledning: 995
+    förvaltare: 995
+    juridisk_rådgivning: 3000
+    fastighetsskötare: 650
+  servicebil: "Inte inkluderad i à-priserna"
+  övriga_priser_enligt_tabell_SEK:
+    övergång_bostadsrätt: 2340
+    låneupphandling_per_lån: 1995
+  övriga_priser_kommentar: "Låneupphandlingstabellen har både procentformulering och fastprisnotering; 1 995 kr/lån återges som uttryckligen angivet fast pris. Momsgrund för enskilda tabellpriser är inte omtolkad."
+  utanför_normal_arbetstid:
+    vardagar_17_20_påslag_procent: 50
+    övriga_tider_påslag_procent: 100
+indexreglering:
+  frekvens: "Årligen"
+  källa: "SCB AKI, preliminära indextal, SNI 2007"
+  arbetare_serie_N_procent: 50
+  tjänstemän_serie_L_procent: 50
+  bastidpunkt: "2025-11"
+  första_avräkning: "2026-11-01"
+  kommentar: "Klausulen anger årlig reglering från novemberbas och uttryckligt första datum. Ingen indexfaktor eller aktuell fakturerad årsavgift beräknad."
+fakturering:
+  fast_ersättning: "Månadsvis i förskott"
+  ändrings_och_tilläggsarbeten: "Separat i efterskott"
+  betalning_dagar: 30
+  betalning_från: "Mottagen korrekt faktura"
+  krav: "Specificera omfattning, ersättningsmodell och tillägg/avdrag. Avtalsarbeten baseras på skriftligt godkänd beställning. Tvistig del avräknas separat."
+källor:
+  - "K-BOSTADERIET-AVTAL-20261123"
+  - "K-BOSTADERIET-BEKRAFTELSE-20261123"

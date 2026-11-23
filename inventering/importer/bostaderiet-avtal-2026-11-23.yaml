@@ -1,0 +1,31 @@
+id: "K-BOSTADERIET-AVTAL-20261123"
+registrerad: "2026-11-23"
+avtal: "AVT-BOSTADERIET-FORVALTNING-2026"
+beställarbekräftelse:
+  id: "K-BOSTADERIET-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Förhandlat entreprenörsarvode och materialpåslag är 10 procent."
+    - "Bostaderiet är avtalspart för hela uppdraget; Kensulting underleverantör."
+dokument:
+  -
+    fil: "Adressändring - Leverantör.pdf"
+    sha256: "df064b359b13ea16e5940083188d1b6da9e0a68f57baa92311e519879c573db1"
+    roll: "Innehåll/objektsbeskrivning eller administrativt stöd"
+  -
+    fil: "Avtal signerat - 2026-01-01--2027-12-31.pdf"
+    sha256: "98ee3496db0766beb9ac94082c838ef9d6240491861b361aa8bee89c37da6ae5"
+    roll: "Signerat huvudkontrakt och övergripande tjänstekrav"
+  -
+    fil: "Förvaltaravtal Innehåll.pdf"
+    sha256: "d33784690e9be9cc21656718b8f8dd5090a629c1ee4e0588f280ba0a59a94af1"
+    roll: "Innehåll/objektsbeskrivning eller administrativt stöd"
+  -
+    fil: "Förvaltaravtal Objekt.pdf"
+    sha256: "229d72aa0a04529f83d04484961b6253e56b1b3b3a8151e7cf4f37a0f1df484f"
+    roll: "Innehåll/objektsbeskrivning eller administrativt stöd"
+  -
+    fil: "Förvaltaravtal SA-SJ.pdf"
+    sha256: "07e46b1f162ee874ca276d414dfacfc0411f1b30a1ad993ab3be99693bb59965"
+    roll: "Tjänstebeskrivning för detaljkontroll"
+avgränsning: "Kärnvillkor och uppföljningskrav dokumenterade. Samtliga 108 sidor tjänsterader är inte överförda radvis; använd originalet för exakt ansvar/F/RÖ per arbetsuppgift. FFU är underlag, inte ytterligare separat tecknat avtal. Ingen leverantörsdatabas, personuppgiftsmall eller originalsignatur publiceras."
+original_publicerade: false

@@ -1,0 +1,41 @@
+avtal: "AVT-BOSTADERIET-FORVALTNING-2026"
+möten:
+  startmöte: "Senast inom två veckor efter kontraktsstart enligt kontraktet"
+  kontraktsmöte: "En gång per år enligt K3.3"
+  övriga: "Drift-/avtalsmöten och möten som ingår i tjänsteleveransen regleras separat i S5 och SA6."
+återrapportering: "Bekräftelse till anmälare när ärende avslutas; efter åtgärd ska besked lämnas att fel är avhjälpt eller när det ska ske."
+normal_arbetstid: "07–17 på arbetsdagar; lördagar, söndagar, angivna helgdagar och vissa aftnar är arbetsfria enligt S6.1"
+normal_arbetstid_förtydligande: "07–17 på arbetsdagar. Originalet definierar särskilt vilka dagar som är arbetsfria."
+påbörjandetider:
+  akut_arbetstid_timmar: 2
+  akut_övrig_tid_timmar: 4
+  hög_prioritet_arbetstid_timmar: 8
+  normal_prioritet_arbetsdagar: 5
+  låg_prioritet_arbetsdagar: 10
+  definition: "Personal med rätt fackkunskap ska inställa sig på plats för utförande; inte ett generellt färdigställandelöfte."
+planerade_åtgärder: "Åtgärder som påverkar nyttjande ska aviseras senast fem arbetsdagar före utförande enligt S6."
+viten:
+  -
+    utlösare: "Månatlig ekonomisk rapport eller uppdaterad underhållsplan inte levererad i tid"
+    belopp_SEK: 1000
+    enhet: "per tillfälle"
+  -
+    utlösare: "Faktura inte behandlad och skickad för attest inom en vecka efter ankomst, eller attesterad faktura inte slutbehandlad/utbetald inom 30 dagar efter ankomst"
+    belopp_SEK: 1000
+    enhet: "per försenad faktura"
+  -
+    utlösare: "Akuta driftstörningar eller säkerhetskritiska fel inte åtgärdade inom avtalad tid"
+    belopp_SEK: 6000
+    enhet: "per dag försening"
+  -
+    utlösare: "Dokumenterade rutiner följs inte eller uppföljningar uteblir"
+    belopp_SEK: 1000
+    enhet: "per tillfälle"
+ansvar:
+  nycklar: "Låst nyckelskåp utanför normal arbetstid. Förlust rapporteras omgående. Ansvarsförsäkring ska omfatta nyckelförlust."
+  arkiv: "Av beställaren tillhandahållna handlingar ska förvaras betryggande."
+  arbetsmiljö: "Leverantören ansvarar för verksamheten inom uppdraget; BAS-P/BAS-U för byggarbeten ska särskilt överenskommas och delegeras skriftligen."
+  brandskydd: "Leverantören utser kompetent brandskyddsansvarig; intyg på utbildning ska kunna visas."
+avgränsning: "Dokumenterade skyldigheter och avtalsviten, inte påståenden om inträffade avtalsbrott, utförda möten eller uppnådda svarstider."
+källor:
+  - "K-BOSTADERIET-AVTAL-20261123"

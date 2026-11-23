@@ -31,3 +31,15 @@ Dokumentet beskriver årsvis spolning i oktober och vid behov slamsugning av ins
 Avtalet löper tills vidare med **en månads ömsesidig uppsägningstid** enligt produktvillkor punkt 12, utan årlig förnyelsedag. Påslag och eventuell fast avgift kan enligt villkoret höjas efter information minst två månader i förväg. Aktuell mätkonfiguration och senare ändringar har inte granskats. Det separat bifogade dokumentet ELHANDEL 2025 N ersätter inte automatiskt den äldre villkorsbilagan i det signerade avtalet utan verifierat införande.
 
 **Riksbyggen Elpool Flex**, leveransstart 2014-11-01, sparas som historik. Exakt slutdatum är okänt. Det gamla avtalets 18 kalendermånaders uppsägningstid och förvaltningsarvode 1,255 öre/kWh gäller inte det nya Kvartspris-avtalet. Filnamnet ”Gällande avtal Bixia, ej signerat” bevaras som källa men betecknar inte längre gällande produkt. Inga avtalsvolymer eller prisuppgifter behandlas som faktiska förbruknings- eller kostnadsutfall.
+
+## Bostaderiet – teknisk och ekonomisk förvaltning
+
+[Avtalsuppgifter](bostaderiet.yaml) och [uppföljningskrav](bostaderiet-uppfoljning.yaml). **Bostaderiet AB är avtalspart för hela uppdraget; Kensulting är underleverantör för ekonomiförvaltningen**, bekräftat 2026-11-23. Undertecknat i december 2025, entreprenadstart 2026-01-01 och initialt slut 2027-12-31.
+
+Föreningen har en ettårsoption till 2028-12-31. Utnyttjande är inte bekräftat. Först efter utnyttjad option anges automatisk tvåårig förlängning med minst sex månaders skriftlig uppsägning före då gällande periods slut. Ingen redan beslutad framtida förlängning antas.
+
+Fast grundersättning **696 800 kr/år inklusive moms**, fördelad på 598 800 kr för övrig förvaltning och 98 000 kr för ekonomidelen. Det är grundpris, inte verifierad aktuell årsavgift efter index. AKI-reglering är 50 procent arbetare serie N och 50 procent tjänstemän serie L, november 2025 som bas och första avräkning angiven till 2026-11-01. **Entreprenörsarvode och materialpåslag är båda 10 procent enligt förhandlingen och beställarens bekräftelse**; tryckt 8 procent respektive ändrat 4 procent bevaras som källavvikelser.
+
+Avhjälpande underhåll ingår enligt texten upp till 2 000 kr per avhjälpande, med uttryckliga undantag för bland annat skador, äldre fel utanför leverantörens ansvar och vissa höga externa/materialkostnader. Ingen generell avdragsrätt för 2 000 kr från större arbeten antas. Tjänstebeskrivningens ansvar och F/RÖ gäller per arbetsuppgift; alla rubriker innebär inte inkluderat arbete.
+
+Akuta åtgärder ska påbörjas inom två timmar under arbetstid och fyra timmar övrig tid. Dokumentation, viten, fakturering, fullmaktsbegränsningar och övriga krav finns i registerfilerna. Förvaltaren har ingen generell rätt att binda föreningen. De registrerade skyldigheterna är inte påståenden om fullgjorda prestationer eller konstaterade avtalsbrott. Originalets 108 sidor tjänstebeskrivningar finns kvar i dokumentarkivet och har inte överförts radvis.
