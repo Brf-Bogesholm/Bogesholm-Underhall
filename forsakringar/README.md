@@ -15,3 +15,9 @@ Försäkringsbrevet anger fullvärde för byggnader där annat inte anges, 78 l�
 **Versionsavvikelse:** försäkringsbrevet hänvisar till särskilt villkor 2026:1; bifogad fil har titeln 2025:2 och ytterligare datumskillnader. Inga utökningar eller beloppsgränser från denna äldre bilaga registreras som säkert gällande 2026. [Detaljer och öppna uppgifter](fastighet-2026.yaml).
 
 Gallaghers mejl bekräftar att försäkringen behålls 2026 ut och att annan lösning ska tas fram inför 2027. **Trygg-Hansa har lämnat offert inför 2027 enligt beställaren; försäkringsbrev inväntas.** Premie, startdag och omfattning för 2027 är inte verifierade eller registrerade som gällande skydd.
+
+## Tiki-släpvagnen NMS32K
+
+[Försäkringen för 2026](2026/register.yaml), nummer 11838099: helförsäkring via Svedea, försäkringsgivare HDI Global Specialty SE, Sverige Filial. Period **2026-01-19–2027-01-18**, årspremie **599 kr**, betald enligt beställaren 2026-11-23. Betalningsdatum okänt. Självrisk 1 500 kr för brand, stöld och vagnskada; rättsskydd 20 procent, lägst 1 500 kr. Villkor företagsägd släpvagn 2025-12-01. Fullständigt villkor saknas i arkivmappen; för-/efterköpsinformationen är en sammanfattning.
+
+Transportstyrelsens [avgiftsavi](../fakturor/2026/register.yaml), daterad 2026-01-19, är **136 kr**, betald enligt beställaren: vägtrafikregisteravgift 74 kr för 2025-06-01–2026-05-31 samt skyltavgift 62 kr. Aviuppgiften skattevikt 750 kg har kompletterat utrustningen utan att tolkas som lastkapacitet. Den tidigare registrerade inköpsfakturan 144035 dubbelregistreras inte. Ingen senare försäkringsperiod eller förnyelsebetalning antas.

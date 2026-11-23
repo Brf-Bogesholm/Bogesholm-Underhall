@@ -26,3 +26,7 @@ Gräsklippare och häcksax finns i föreningens förråd i skyddsrummet på Hög
 ### Bauhaus maskingaranti, kontrollerad 2026-11-23
 
 [Bauhaus anger fem års maskingaranti](https://www.bauhaus.se/garantier/maskingaranti), även för företagskunder, mot fabrikations- och ursprungsfel enligt villkoren. Detta är Bauhaus garanti, inte Ryobis egen tillverkargaranti. Fem år från inköpen ger beräknad slutdag **2027-06-10 för gräsklipparen** och **2027-08-30 för häcksaxen**. Originalkvitto krävs och bland annat slitdelar, batterier och felaktig användning undantas. Webbuppgiften är verifierad idag; historiska köpvillkor från 2022 är inte separat verifierade.
+
+## Tiki – försäkring och fordonsavgift
+
+NMS32K, Tiki CS265-R, har [helförsäkring via Svedea](../../forsakringar/README.md) för 2026-01-19–2027-01-18. Premie 599 kr och Transportstyrelsens avgift 136 kr är betalda enligt beställaren 2026-11-23. Inköpsfakturan är befintlig F-2026-144035. Skattevikt 750 kg återges från avgiftsavin, inte som lastkapacitet. Förvaring fortsatt garage 771; chassinummer och garanti saknas.

@@ -12,6 +12,7 @@ registreringsomgångar:
   - "2026-11-18-10"
   - "2026-11-18-VPSERVICE"
   - "2026-11-21-OMAN-FILTER"
+  - "2026-11-23-TIKI-FORSAKRING"
 fakturor:
   -
     id: "F-2026-7150"
@@ -2473,3 +2474,35 @@ fakturor:
       - "K-OMAN-FILTER-BEKRAFTELSE-20261121"
       - "K-DATUMREGEL-2026-11-13"
     kommentar: "Filtermaterial till FTX-servicen enligt beställarens godkännande. Ingen fördelning per lägenhet eller antaget filterantal. Kostnaden räknas endast från denna faktura."
+  -
+    id: "AVG-2026-TRANSPORTSTYRELSEN-NMS32K-20260119"
+    dokumenttyp: "Avgiftsavi"
+    fakturanummer: null
+    leverantör: "Transportstyrelsen"
+    dokumentdatum: "2026-01-19"
+    förfallodatum: "2026-02-09"
+    objekt:
+      - "UT-SLAP-NMS32K"
+    registreringsnummer: "NMS32K"
+    valuta: "SEK"
+    att_betala: 136
+    moms: null
+    momskommentar: "Ingen moms specificeras i avgiftsavin."
+    betalningsstatus: "Betald enligt beställaren"
+    betalningsdatum: null
+    betalningsstatuskälla: "K-TIKI-BETALNING-20261123"
+    rader:
+      -
+        id: "AVG-2026-TRANSPORTSTYRELSEN-NMS32K-20260119-R1"
+        benämning: "Vägtrafikregisteravgift"
+        period_från: "2025-06-01"
+        period_till: "2026-05-31"
+        belopp: 74
+      -
+        id: "AVG-2026-TRANSPORTSTYRELSEN-NMS32K-20260119-R2"
+        benämning: "Skyltavgift"
+        belopp: 62
+    kommentar: "Avgiftsperioden bevaras enligt originalet även om den börjar före föreningens inköp. Ingen ny inköps- eller installationshändelse härleds. OCR och betalningskonto publiceras inte."
+    källor:
+      - "K-TIKI-FORSAKRING-20261123"
+      - "K-TIKI-BETALNING-20261123"

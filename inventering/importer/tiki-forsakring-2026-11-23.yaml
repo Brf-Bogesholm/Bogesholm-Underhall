@@ -1,0 +1,32 @@
+id: "K-TIKI-FORSAKRING-20261123"
+registrerad: "2026-11-23"
+objekt: "UT-SLAP-NMS32K"
+beställarbekräftelse:
+  id: "K-TIKI-BETALNING-20261123"
+  uppgift: "Både försäkringspremien 599 kr och Transportstyrelsens avgift 136 kr är betalda."
+dokument:
+  -
+    fil: "Din nya försäkring.pdf"
+    sha256: "3799bfe32dcb2c8c3d4d529db4ddface1d58a77bd7daef245e3eb2522ac6d106"
+    hantering: "Kompletterande försäkrings-/avgiftsunderlag"
+  -
+    fil: "Faktura_144035.pdf"
+    sha256: "0a87ddca9664015d2e05dfd0f0481f44a48c457b3626868eafe4719a20970370"
+    hantering: "Redan registrerad inköpsfaktura F-2026-144035, ingen ny kostnad"
+  -
+    fil: "För- och efterköpsinformation.pdf"
+    sha256: "c9983bfbf4487f141ceca0d1bcd33ec66d48e9cfa4fb2ffc3a7510534b4faa60"
+    hantering: "Kompletterande försäkrings-/avgiftsunderlag"
+  -
+    fil: "Försäkringsbrev.pdf"
+    sha256: "e9d2800affcd25e6a56abdfc59b68246f62c26c17e7e6257a7750db747ae84ad"
+    hantering: "Kompletterande försäkrings-/avgiftsunderlag"
+  -
+    fil: "Transportstyrelsen.pdf"
+    sha256: "9ff0c9378e267f75b7e5997726b5c9f2cb5aa585618ea2176f59431f4f7cbecc"
+    hantering: "Kompletterande försäkrings-/avgiftsunderlag"
+original_publicerade: false
+nya_kostnader:
+  försäkringspremie: 599
+  fordonsavgifter: 136
+  kommentar: "Premie summeras från försäkringsregistret, avgift från den unika avgiftsavin; inga extra kopior via utrustningsposten."

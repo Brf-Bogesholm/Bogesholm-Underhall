@@ -217,3 +217,39 @@ försäkringar:
     källor:
       - "K-FASTIGHETSFORS-2026-20261123"
       - "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"
+  -
+    id: "FORS-SLAP-NMS32K-2026"
+    typ: "Företagsägd släpvagnsförsäkring"
+    försäkringsnummer: "11838099"
+    objekt: "UT-SLAP-NMS32K"
+    registreringsnummer: "NMS32K"
+    omfattning: "Helförsäkring"
+    försäkringsgivare: "HDI Global Specialty SE, Sverige Filial"
+    försäkringsgivare_organisationsnummer: "516402-6345"
+    förmedlare_administratör: "Svedea AB"
+    förmedlare_organisationsnummer: "556786-1678"
+    dokumentdatum: "2026-01-19"
+    period_från: "2026-01-19"
+    period_till: "2027-01-18"
+    premie: 599
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Ingen moms specificerad i försäkringsbrevet."
+    status: "Tecknad för angiven period enligt försäkringsbrev; premie betald enligt beställaren"
+    betalningsstatus: "Betald enligt beställaren"
+    betalningsdatum: null
+    statuskälla: "K-TIKI-BETALNING-20261123"
+    bekräftelsedatum: "2026-11-23"
+    självrisker:
+      brand_SEK: 1500
+      stöld_SEK: 1500
+      vagnskada_SEK: 1500
+      rättsskydd_procent: 20
+      rättsskydd_lägst_SEK: 1500
+    villkor: "Företagsägd släpvagn 2025-12-01"
+    villkorsstatus: "Försäkringsbrev och för-/efterköpsinformation finns; fullständigt villkor hänvisas till webbplatsen men ingår inte i materialet."
+    förnyelse: "För-/efterköpsinformationen anger normalt ett år och förnyelse genom betalning av nästa periods premie. Ingen ny period eller premie för 2027/2028 antas."
+    kostnadsprincip: "599 kr är en enda registrerad försäkringspremie. Ingen separat premieavi med fakturanummer finns i underlaget och ingen extra fakturapost skapas."
+    källor:
+      - "K-TIKI-FORSAKRING-20261123"
+      - "K-TIKI-BETALNING-20261123"
