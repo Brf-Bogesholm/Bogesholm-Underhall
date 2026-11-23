@@ -2,6 +2,8 @@
 
 [Badrumsärenden](badrum.yaml) kopplar ansökningar, beslut och intyg till rätt lägenhet. [Dokumentregistret](dokument-2026-10-30.yaml) innehåller sammanfattningar och källreferenser. Originaldokumenten ligger kvar i föreningens dokumentarkiv.
 
+[Bostadsanpassningsärenden](bostadsanpassning.yaml) följer upp bidragsansökningar, fastighetsägarens medgivande och utförandestatus.
+
 ## Uppföljning
 
 Ansökt, godkänt, påbörjat, utfört och slutdokumenterat är separata uppgifter. En godkänd ansökan innebär inte att arbetet genomförts. Ett visst delarbete eller intyg innebär inte att hela renoveringen är slutdokumenterad. Följ tätskikt, VVS och el var för sig.

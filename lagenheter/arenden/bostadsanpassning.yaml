@@ -1,0 +1,15 @@
+version: "1.0"
+uppdaterad: "2026-11-23"
+ärenden:
+  -
+    id: "ARENDE-BOSTADSANPASSNING-67F-20261123"
+    typ: "bostadsanpassning"
+    adress: "67F"
+    lägenhet: "L-118-1-0041"
+    ansökan: "Ansökan om bostadsanpassningsbidrag"
+    kommun: "Kävlinge kommun"
+    åtgärd: "Tröskelanpassning"
+    medgivandedatum: "2026-11-23"
+    beslutsstatus: "Kommunens beslut är inte verifierat"
+    utförandestatus: "Inte verifierat"
+    underlag: "Beställarens uppgifter om ansökan och fastighetsägarens medgivande"
