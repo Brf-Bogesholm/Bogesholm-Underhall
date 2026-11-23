@@ -334,24 +334,31 @@ objekt:
     id: "UT-HJARTSTARTARE-69-001"
     typ: "hjärtstartare"
     namn: "Hjärtstartare på kvartershusets yttervägg"
-    datastatus: "Förekomst och placering enligt beställaren"
+    datastatus: "Modell och serienummer enligt inköpsfaktura, placering och senare tillbehörsbyte enligt beställaren"
     placering: "Ytterväggen på föreningslokalen/kvartershuset, Högalidsvägen 69"
     egenskaper:
-      fabrikat: null
-      modell: null
-      serienummer: null
+      fabrikat: "ZOLL"
+      modell: "AED 3"
+      serienummer: "AX20K065737"
       installationsdatum: null
-      inköpsfaktura: null
+      inköpsfaktura: "F-2020-MEDIGO-8689"
       garanti: null
-      kommentar: "Skyltfakturan gäller endast skylt, inte inköp eller installation av hjärtstartaren."
+      kommentar: "Fakturan styrker inköp och leverans. Nuvarande batteri och elektroder är senare utbytta enligt beställaren; okända datum och utgångsdatum. Skyltfaktura 57640 är separat. Ingen faktisk montering eller batteri-/elektrodgiltighet härleds från inköpsdagen."
+      inköpsdatum: "2020-11-24"
+      leveransdatum: "2020-11-25"
     relationer:
       -
         typ: "located_in"
         objekt: "H-69"
     underhållshistorik:
-      []
+      - "A-ZOLL-INKOP-20201125"
+      - "A-ZOLL-BATTERI-ELEKTRODBYTE-OKANT"
     källor:
       - "K-SKYLTAR-PLATSER-20261118"
+      - "K-ZOLL-INKOP-2020-20261123"
+      - "K-ZOLL-BEKRAFTELSE-20261123"
+    utomhusskåp: "UT-HJARTSTARTARSKAP-69-001"
+    dokumentation: "gemensamma-anlaggningar/utrustning/zoll-aed3.yaml"
   -
     id: "UT-URNA-KUNGSAN-001"
     typ: "blomsterurna"
@@ -681,3 +688,27 @@ objekt:
       - "K-BAUHAUS-MASKINER-2022"
       - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
       - "K-DATUMREGEL-2026-11-13"
+  -
+    id: "UT-HJARTSTARTARSKAP-69-001"
+    typ: "utomhusskåp för hjärtstartare"
+    namn: "Arky Polar utomhusskåp"
+    placering: "Vid hjärtstartaren på föreningslokalens yttervägg, Högalidsvägen 69"
+    egenskaper:
+      fabrikat: "Arky"
+      modell: "Polar"
+      temperaturangivelse_original: "-45°C"
+      serienummer: null
+      leveransdatum: "2020-11-25"
+      monteringsdatum: null
+      inköpsfaktura: "F-2020-MEDIGO-8689"
+      kommentar: "Produktbenämning från fakturan, inte uppmätt temperatur eller funktionskontroll av värme i skåpet."
+    relationer:
+      -
+        typ: "skåp_för"
+        objekt: "UT-HJARTSTARTARE-69-001"
+      -
+        typ: "located_in"
+        objekt: "H-69"
+    källor:
+      - "K-ZOLL-INKOP-2020-20261123"
+      - "K-ZOLL-BEKRAFTELSE-20261123"

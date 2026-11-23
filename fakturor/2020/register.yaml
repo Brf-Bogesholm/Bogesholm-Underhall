@@ -1,0 +1,53 @@
+version: "1.0"
+registreringsomgångar:
+  - "2026-11-23-ZOLL"
+fakturor:
+  -
+    id: "F-2020-MEDIGO-8689"
+    fakturanummer: "8689"
+    leverantör: "Medigo"
+    organisationsnummer: "556885-2841"
+    fakturadatum: "2020-11-24"
+    förfallodatum: "2020-12-24"
+    leveransdatum: "2020-11-25"
+    leveransdatumkälla: "Angivet i fakturan"
+    valuta: "SEK"
+    exklusive_moms: 26160
+    moms_procent: 25
+    moms: 6540
+    att_betala: 32700
+    betalningsstatus: "Okänd"
+    objekt:
+      - "UT-HJARTSTARTARE-69-001"
+      - "UT-HJARTSTARTARSKAP-69-001"
+    åtgärder:
+      - "A-ZOLL-INKOP-20201125"
+    rader:
+      -
+        id: "F-2020-MEDIGO-8689-R1"
+        artikelnummer: "800020"
+        benämning: "Hjärtstartare ZOLL AED 3"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 16990
+        belopp_exklusive_moms: 16990
+      -
+        id: "F-2020-MEDIGO-8689-R2"
+        artikelnummer: "60214"
+        benämning: "Utomhusskåp Arky Polar -45°C"
+        antal: 1
+        enhet: "st"
+        à_pris_exklusive_moms: 4990
+        belopp_exklusive_moms: 4990
+      -
+        id: "F-2020-MEDIGO-8689-R3"
+        artikelnummer: "8900.0002.70"
+        benämning: "Elektroder Zoll AED 3"
+        antal: 2
+        enhet: "st"
+        à_pris_exklusive_moms: 2090
+        belopp_exklusive_moms: 4180
+    kommentar: "Leveransadress 61D är inte nuvarande placering av utrustningen. Serienummer AX20K065737 återges från fakturans notering och kopplas till hjärtstartaren; inga separata serienummer för elektroder eller skåp antas."
+    källor:
+      - "K-ZOLL-INKOP-2020-20261123"
+      - "K-ZOLL-BEKRAFTELSE-20261123"

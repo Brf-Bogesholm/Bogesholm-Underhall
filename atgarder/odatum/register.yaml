@@ -1,0 +1,17 @@
+version: "1.0"
+åtgärder:
+  -
+    id: "A-ZOLL-BATTERI-ELEKTRODBYTE-OKANT"
+    datum: null
+    år: null
+    åtgärd: "Batteri och elektroder till hjärtstartaren har bytts enligt beställaren"
+    objekt:
+      - "UT-HJARTSTARTARE-69-001"
+    status: "Utfört enligt beställaren"
+    noterat: "2026-11-23"
+    faktura: null
+    kostnad: null
+    utgångsdatum: null
+    kommentar: "Datum, antal byten och utgångsdatum okända. Noteringsdagen är inte utförandedag. Uppgiften kan omfatta separata tillfällen; senare underlag ska matchas innan ytterligare bytehändelser skapas."
+    källor:
+      - "K-ZOLL-BEKRAFTELSE-20261123"

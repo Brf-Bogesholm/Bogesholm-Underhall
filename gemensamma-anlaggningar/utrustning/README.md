@@ -30,3 +30,11 @@ Gräsklippare och häcksax finns i föreningens förråd i skyddsrummet på Hög
 ## Tiki – försäkring och fordonsavgift
 
 NMS32K, Tiki CS265-R, har [helförsäkring via Svedea](../../forsakringar/README.md) för 2026-01-19–2027-01-18. Premie 599 kr och Transportstyrelsens avgift 136 kr är betalda enligt beställaren 2026-11-23. Inköpsfakturan är befintlig F-2026-144035. Skattevikt 750 kg återges från avgiftsavin, inte som lastkapacitet. Förvaring fortsatt garage 771; chassinummer och garanti saknas.
+
+## Hjärtstartare – ZOLL AED 3
+
+[Befintlig hjärtstartare](zoll-aed3.yaml), stabilt ID UT-HJARTSTARTARE-69-001, har kompletterats med modellen **ZOLL AED 3** och serienummer **AX20K065737** enligt Medigo faktura 8689, daterad 2020-11-24. Leverans 2020-11-25. Fakturan omfattar hjärtstartare 16 990 kr, Arky Polar utomhusskåp 4 990 kr och två elektrodenheter 4 180 kr, exklusive moms; totalt **32 700 kr inklusive moms**. Betalningsstatus okänd. Inköpsleverans till 61D är inte nuvarande placering: hjärtstartaren finns på kvartershusets yttervägg, Högalidsvägen 69. Exakt monteringsdatum är okänt.
+
+**Batteri och elektroder har bytts enligt beställaren 2026-11-23. Bytesdatum, antal byten och nuvarande utgångsdatum är okända.** Noteringsdatum är inte bytesdatum. Kommande fakturor ska matchas mot samma hjärtstartare och den odaterade bytesuppgiften innan nya händelser skapas. 2020 års elektrodköp får inte användas som bevis för dagens elektroders giltighet.
+
+Administratörsmanual 9650-000762-01 Rev. A finns som referens för självtester, status, batteri/elektroder, underhåll och kommunikationsfunktioner. Manualen bevisar inte aktiv Wi-Fi-/PlusTracövervakning eller aktuell batterilivslängd. Inloggningsuppgifter och certifikat med åtkomstuppgifter stannar utanför repot.

@@ -1,0 +1,43 @@
+objekt: "UT-HJARTSTARTARE-69-001"
+skåp: "UT-HJARTSTARTARSKAP-69-001"
+faktura: "F-2020-MEDIGO-8689"
+leveransdatum: "2020-11-25"
+nuvarande_förbrukningsdelar:
+  batteri:
+    byte_genomfört: true
+    bytesdatum: null
+    utgångsdatum: null
+    modell: null
+    serienummer: null
+    källa: "K-ZOLL-BEKRAFTELSE-20261123"
+  elektroder:
+    byte_genomfört: true
+    bytesdatum: null
+    utgångsdatum: null
+    modell_artikelnummer: null
+    antal_vid_byte: null
+    källa: "K-ZOLL-BEKRAFTELSE-20261123"
+  status: "Byteshistorik enligt beställaren. Nuvarande utgångsdatum/giltighet och exakt antal byten okända."
+  framtida_komplettering: "Matcha senare fakturor till samma utrustning och den redan dokumenterade odaterade bytesuppgiften. Skapa inte automatiskt ett extra byte för samma händelse."
+historiska_elektroder:
+  inköpta_2020_antal: 2
+  enhet: "st enligt fakturan"
+  artikelnummer: "8900.0002.70"
+  nuvarande_användning: "Inte verifierad; senare byte bekräftat. Inköpet visar inte att båda elektrodenheterna användes eller byttes samtidigt."
+manualreferens:
+  fil: "zoll EAD 3 Administrator manual.pdf"
+  titel: "ZOLL AED 3 Administrator’s Guide"
+  dokumentnummer: "9650-000762-01 Rev. A"
+  språk: "Engelska"
+  sidantal: 82
+  ämnen:
+    - "Självtester, statusindikering och felmeddelanden"
+    - "Batteri och elektrodstatus/utgångsdatum"
+    - "Wi-Fi och möjlig överföring av självtester till PlusTrac"
+    - "Underhåll, felsökning och tekniska specifikationer"
+  funktion_är_inte_konfiguration: "Manualens möjliga Wi-Fi-/PlusTracfunktioner innebär inte att övervakningen är konfigurerad eller aktiv här. Batterilivslängd varierar med inställningar och ger inget säkert utgångsdatum för installerat batteri."
+portalunderlag: "PlusTrac-certifikat och administratörsuppgifter finns i originalarkivet; inga lösenord, åtkomstuppgifter eller råcertifikat publiceras."
+garanti: "Ingen produktspecifik garantiperiod verifierad i denna genomgång"
+källor:
+  - "K-ZOLL-INKOP-2020-20261123"
+  - "K-ZOLL-BEKRAFTELSE-20261123"

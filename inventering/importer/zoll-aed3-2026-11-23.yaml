@@ -1,0 +1,23 @@
+id: "K-ZOLL-INKOP-2020-20261123"
+registrerad: "2026-11-23"
+objekt: "UT-HJARTSTARTARE-69-001"
+beställarbekräftelse:
+  id: "K-ZOLL-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "Batteri och elektroder har bytts."
+    - "Utgångsdatum saknas för närvarande och kan framgå av senare fakturainläsning."
+dokument:
+  -
+    fil: "Medigo Zoll AED 3 faktura.pdf"
+    sha256: "2909a371d269a202ebae093ea9572e1d66cc2971310c168cd746dc038729a18a"
+    hantering: "Referens till dokumentarkivet"
+  -
+    fil: "PLustrac-certifikat_password 202011.pdf"
+    sha256: "e2617fac5724c5980c5c562bc15352af1428c041819432d01bca02459097f423"
+    hantering: "Innehåll med möjliga åtkomstuppgifter publiceras inte"
+  -
+    fil: "zoll EAD 3 Administrator manual.pdf"
+    sha256: "4c7f382f42c3b779abf5ce24a93cc905be74705cdc3eb2200efed512b3aa24c6"
+    hantering: "Referens till dokumentarkivet"
+original_publicerade: false
+inloggningsuppgifter_publicerade: false
