@@ -1,0 +1,35 @@
+id: "K-FASTIGHETSFORS-2026-20261123"
+registrerad: "2026-11-23"
+försäkring: "FORS-FASTIGHET-FOLKSAM-2026"
+beställarbekräftelse:
+  id: "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"
+  uppgifter:
+    - "2026 års premie 157 966 kr är betald."
+    - "Offert från Trygg-Hansa har mottagits inför 2027; försäkringsbrev inväntas."
+dokument:
+  -
+    fil: "Brf Bogesholm_ 716407-0059 .msg"
+    sha256: "109e1193c490669943f2b2832cdd916526c8c038817c164bc7833994c3b82ad9"
+  -
+    fil: "faktura-200002290.pdf"
+    sha256: "3fa16ee543a0c3a2c7ca8464b47a816e6a21ceedc116a57c178511e281fb87de"
+  -
+    fil: "gallagher-se-bostadsrttsfrskring-b-388-9.pdf"
+    sha256: "19eb3f37f0fbe20bdb9b9ba0958f48e12ffbbd0a2594bf4eb1449cf850cb2974"
+  -
+    fil: "gallagher-se-fastighetsfrskring-c-330-g.pdf"
+    sha256: "48c1eacf6f4a55bf6bf51b9e811ade81b7b1200a9de25a03249fcfdf2269ab7a"
+  -
+    fil: "gallagher-se-skadedjursfrskring-anticimex-2025-utg-5.pdf"
+    sha256: "acb1c5036f8209191ab41c3a0630fd5866cc59340b5d17fdf32f4f78b1799fde"
+  -
+    fil: "gallagher-se-srskilt-villkor-fastighet-frvaltning-2025-1.pdf"
+    sha256: "f18af28436e5aef337c3f1c8f4bc359d0a684846dd48d484905eb7598f3d0838"
+  -
+    fil: "grundvillkor-kombinerad-foretagsforsakring-med-arbetsomrade-c327.pdf"
+    sha256: "b678efc07f93547c912501faf43cd127c5dc0f457bc55b5fa52ed9019c7bc273"
+  -
+    fil: "ProinovaPolicyLetter2023 - 2025-12-12T151520.554.pdf"
+    sha256: "54a916518ad4e29d1f3c953487db146f9b1a45113653f8f76368266ffed57a62"
+avgränsning: "Huvuduppgifter, premie och versionsavvikelser dokumenterade. Generella villkors fulla innehåll är referensmaterial, inte en generell ersättningsgaranti. Saknad grundomfattningsbilaga och särskilt villkor 2026:1 lämnas öppna."
+original_publicerade: false

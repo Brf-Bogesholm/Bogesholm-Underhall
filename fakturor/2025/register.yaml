@@ -8,6 +8,7 @@ registreringsomgångar:
   - "2026-11-21-PARTYTALT"
   - "2026-11-21-SOLCELLER"
   - "2026-11-21-ANTICIMEX"
+  - "2026-11-23-FASTIGHETSFORS"
 fakturor:
   -
     id: "F-2025-TK-13654"
@@ -1199,3 +1200,31 @@ fakturor:
     källor:
       - "K-ANTICIMEX-AVLOPPSFALLA-2023"
       - "K-ANTICIMEX-BEKRAFTELSE-20261121"
+  -
+    id: "F-2025-GALLAGHER-670382"
+    fakturanummer: "670382"
+    leverantör: "Arthur J Gallagher Proinova AB"
+    organisationsnummer: "556609-9569"
+    fakturadatum: "2025-11-22"
+    förfallodatum: "2026-01-01"
+    försäkring: "FORS-FASTIGHET-FOLKSAM-2026"
+    tjänsteperiod_start: "2026-01-01"
+    tjänsteperiod_slut: "2026-12-31"
+    valuta: "SEK"
+    moms: null
+    moms_procent: null
+    momskommentar: "Ingen moms specificeras i premieavin."
+    att_betala: 157966
+    betalningsstatus: "Betald enligt beställaren"
+    betalningsstatuskälla: "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"
+    betalningsdatum: null
+    rader:
+      -
+        id: "F-2025-GALLAGHER-670382-R1"
+        benämning: "Årspremie Fastighetsförsäkring 2026"
+        belopp: 157966
+        moms: null
+    kommentar: "Utfärdad 2025 men gäller 2026. Ingen uppdelning i delpremier och ingen installations-/serviceåtgärd skapas. Hänvisad försäkringspremie räknas inte ovanpå denna faktura."
+    källor:
+      - "K-FASTIGHETSFORS-2026-20261123"
+      - "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"

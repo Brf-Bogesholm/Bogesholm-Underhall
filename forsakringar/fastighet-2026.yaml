@@ -1,0 +1,35 @@
+försäkring: "FORS-FASTIGHET-FOLKSAM-2026"
+källkontroll:
+  saknad_bilaga: "Grundomfattning enligt försäkringsbevis"
+  saknade_fullständiga_villkor:
+    - "Särskilt villkor 2026:1"
+    - "J338"
+    - "J335"
+    - "K308"
+    - "K319"
+  versionkonflikt:
+    hänvisning_i_bevis: "Särskilt villkor 2026:1"
+    filnamn: "gallagher-se-srskilt-villkor-fastighet-frvaltning-2025-1.pdf"
+    titel_i_fil: "2025:2 gäller från 2025-01-01"
+    ytterligare_datum_i_fil: "Försäkringsvillkor gäller från och med 2024-01-01"
+    hantering: "Bevaras som referens med versionsavvikelse. Beloppsgränser och utökningar därifrån överförs inte som verifierad 2026-omfattning."
+förmedlarmejl:
+  källfil: "Brf Bogesholm_ 716407-0059 .msg"
+  uppgifter:
+    - "Försäkringen behålls året ut 2026."
+    - "Förmedlaren ska hjälpa föreningen hitta annan försäkringslösning inför 2027."
+  original_och_personliga_kontaktuppgifter_publicerade: false
+inför_2027:
+  föreslagen_försäkringsgivare: "Trygg-Hansa"
+  status: "Offert mottagen enligt beställaren; försäkringsbrev inväntas"
+  offert_granskad: false
+  försäkringsbrev_mottaget: false
+  period_från: null
+  period_till: null
+  premie: null
+  omfattning: "Inte registrerad som bekräftat skydd"
+  kommentar: "Ingen automatisk förnyelse av Folksam/Gallagher för 2027 antas. Ingen offertaccept, betalning eller startdag härleds enbart från att offert mottagits."
+historiska_försäkringsbrev: "Äldre år i Avtal.zip är historiska källor, inte parallellt aktiva skydd; inte detaljregistrerade i denna omgång."
+källor:
+  - "K-FASTIGHETSFORS-2026-20261123"
+  - "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"

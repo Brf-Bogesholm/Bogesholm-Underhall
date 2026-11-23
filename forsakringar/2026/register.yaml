@@ -152,3 +152,68 @@ försäkringar:
     betalningsdatum: null
     bekräftelsedatum: "2026-11-18"
     kommentar: "Betalning och gällande försäkring bekräftade av beställaren 2026-11-18. Betalningsdatum inte uppgivet. Befintlig period uppdateras, ingen dubbelregistrering eller extra fakturakostnad. Villkor tillhör originaldokumentet; inget självständigt ersättningsbesked härleds."
+  -
+    id: "FORS-FASTIGHET-FOLKSAM-2026"
+    typ: "Fastighetsförsäkring"
+    försäkringsnummer: "485387"
+    avtalsnummer: "401-203752-23"
+    försäkringsgivare: "Folksam Ömsesidig Sakförsäkring"
+    försäkringsgivare_organisationsnummer: "502006-1619"
+    förmedlare_administratör: "Arthur J Gallagher Proinova AB"
+    förmedlare_organisationsnummer: "556609-9569"
+    period_från: "2026-01-01"
+    period_till: "2026-12-31"
+    dokumentdatum: "2025-12-12"
+    status: "Behålls året ut 2026 enligt förmedlarens mejl; premien betald enligt beställaren"
+    betalningsstatus: "Betald enligt beställaren"
+    betalningsdatum: null
+    bekräftelsedatum: "2026-11-23"
+    statuskälla: "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"
+    premie: 157966
+    valuta: "SEK"
+    moms: null
+    momskommentar: "Ingen moms anges i premieavin; ingen moms har antagits."
+    premiefaktura: "F-2025-GALLAGHER-670382"
+    kostnadsprincip: "Premien återges som avtalsuppgift; vid summering av fakturakostnad används den unika premieavin, inte denna hänvisning ovanpå fakturan."
+    försäkrade_fastigheter:
+      - "Bågen 1"
+      - "Bågen 2"
+    objektuppgifter_enligt_bevis:
+      byggnadsnummer_original: "1–14"
+      byggår: 1984
+      byggnadsklass: "B"
+      bostadsyta_m2: 6952
+      lägenheter: 78
+      övrig_uthyrningsbar_yta_m2: 299
+      total_yta_m2: 7251
+      byggnadsförsäkring: "Fullvärde där annat inte anges"
+      kommentar: "Försäkringsbrevets uppgifter, inte ny verifierad inventering eller entydig koppling mellan försäkringens byggnadsnummer och varje befintligt objekt-ID."
+    grundsjälvrisk:
+      prisbasbelopp: 0.5
+      beräknat_SEK: 29600
+    läckagesjälvrisk:
+      prisbasbelopp: 1
+      beräknat_SEK: 59200
+    prisbasbelopp_2026_enligt_bevis_SEK: 59200
+    självriskavgränsning: "Grundbelopp enligt brevet. Särskilda självrisker, tillägg och undantag kan gälla beroende på skada; inget individuellt ersättningsbesked härleds."
+    valda_tillägg_enligt_bevis: "Inga tilläggsförsäkringar valda; grundomfattning anges i separat bilaga som saknas i detta underlag."
+    villkorsförteckning:
+      - "C330 Fastighetsförsäkring"
+      - "C327 Kombinerad företagsförsäkring med Arbetsområde"
+      - "Anticimex Skadedjursförsäkring Utg.5 2024-11-01"
+      - "J338 Förmögenhetsbrottsförsäkring"
+      - "J335 Styrelseansvarsförsäkring"
+      - "Särskilt villkor 2026:1"
+      - "K308 Tjänstereseförsäkring"
+      - "K319 Kristerapi"
+      - "B388 Bostadsrättsförsäkring"
+    bostadsrättsförsäkring: "Upptagen i villkorsförteckningen. Grundomfattningsbilaga saknas; inga äldre specialvillkors utökningar fastställs som gällande."
+    skadehantering:
+      fastighet: "Folksam enligt försäkringsbeviset"
+      sanering_skadedjur: "Anticimex enligt försäkringsbeviset"
+      administration: "Gallagher"
+      avgränsning: "Anticimex skadedjursförsäkring är separat från föreningens avtal om en SMART avloppsfälla."
+    dokumentation: "forsakringar/fastighet-2026.yaml"
+    källor:
+      - "K-FASTIGHETSFORS-2026-20261123"
+      - "K-FASTIGHETSFORS-BEKRAFTELSE-20261123"
