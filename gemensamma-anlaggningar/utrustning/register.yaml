@@ -585,6 +585,15 @@ objekt:
       installationsdatum: null
       användning: "gräsklippare"
       kommentar: "Flyttbar utrustning. Förvaringsplats bekräftad 2026-11-23; ingen fast montering antas."
+      garanti:
+        garantigivare: "BAUHAUS"
+        år: 5
+        beräknat_slutdatum: "2027-06-10"
+        beräkningsgrund: "Fem år från dokumenterat inköpsdatum"
+        status: "Bauhaus allmänna maskingaranti verifierad på webbplatsen 2026-11-23; historiska villkor för köpet 2022 inte separat verifierade"
+        källa: "K-BAUHAUS-MASKINGARANTI-20261123"
+        villkor: "Originalkvitto krävs. Gäller fabrikations- och ursprungsfel, även företagskunder. Undantag bland annat slitdelar, batterier/ackumulatorer och felaktig användning. Skiljs från Ryobis egen tillverkargaranti."
+        tidigare_uppgift: null
     relationer:
       -
         typ: "stored_in"
@@ -596,6 +605,7 @@ objekt:
       - "K-BAUHAUS-MASKINER-2022"
       - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
       - "K-DATUMREGEL-2026-11-13"
+      - "K-BAUHAUS-MASKINGARANTI-20261123"
   -
     id: "UT-HACKSAX-RYOBI-001"
     typ: "häcksax"
@@ -612,11 +622,19 @@ objekt:
       användning: "häcksax"
       kommentar: "Flyttbar utrustning. Förvaringsplats bekräftad 2026-11-23; ingen fast montering antas."
       garanti:
-        uppgift: "Till och med september 2027"
-        precision: "månad"
-        källa: "Filnamnet Kvitto Häcksax garanti tom september 2027.pdf"
-        status: "Obekräftad, framgår inte av kvittot"
-        exakt_slutdatum: null
+        garantigivare: "BAUHAUS"
+        år: 5
+        beräknat_slutdatum: "2027-08-30"
+        beräkningsgrund: "Fem år från dokumenterat inköpsdatum"
+        status: "Bauhaus allmänna maskingaranti verifierad på webbplatsen 2026-11-23; historiska villkor för köpet 2022 inte separat verifierade"
+        källa: "K-BAUHAUS-MASKINGARANTI-20261123"
+        villkor: "Originalkvitto krävs. Gäller fabrikations- och ursprungsfel, även företagskunder. Undantag bland annat slitdelar, batterier/ackumulatorer och felaktig användning. Skiljs från Ryobis egen tillverkargaranti."
+        tidigare_uppgift:
+          uppgift: "Till och med september 2027"
+          precision: "månad"
+          källa: "Filnamnet Kvitto Häcksax garanti tom september 2027.pdf"
+          status: "Obekräftad, framgår inte av kvittot"
+          exakt_slutdatum: null
     relationer:
       -
         typ: "stored_in"
@@ -628,6 +646,7 @@ objekt:
       - "K-BAUHAUS-MASKINER-2022"
       - "K-BAUHAUS-MASKINER-BEKRAFTELSE-20261123"
       - "K-DATUMREGEL-2026-11-13"
+      - "K-BAUHAUS-MASKINGARANTI-20261123"
   -
     id: "UT-TRYCKLUFTSKOMPRESSOR-001"
     typ: "tryckluftskompressor"
